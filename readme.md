@@ -1,6 +1,6 @@
-# TechiDaily
+# Extra Guidance Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://extra-guidance.techidaily.com](https://extra-guidance.techidaily.com)
 
 ## Publish
 

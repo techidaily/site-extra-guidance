@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Take Landscape Photos on iPhone [Killer Tips]"
-date: 2024-05-24 12:50:45
-updated: 2024-05-27 11:28:23
+date: 2024-05-31T06:53:40.186Z
+updated: 2024-06-01T06:53:40.186Z
 tags: 
   - screen-recording
   - ai video
@@ -426,4 +426,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

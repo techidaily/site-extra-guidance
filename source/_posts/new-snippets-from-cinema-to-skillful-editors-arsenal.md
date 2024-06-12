@@ -1,7 +1,7 @@
 ---
 title: "[New] Snippets From Cinema to Skillful Editors' Arsenal"
-date: 2024-05-29 15:16:17
-updated: 2024-05-31 12:26:23
+date: 2024-05-31T06:53:34.844Z
+updated: 2024-06-01T06:53:34.844Z
 tags: 
   - screen-recording
   - ai video
@@ -758,4 +758,5 @@ For macOS 10.14 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

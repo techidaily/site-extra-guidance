@@ -1,7 +1,7 @@
 ---
 title: "[New] Spark’s Last Stand? DJI Mavic Air Emerges as Gamer's Choice"
-date: 2024-05-28 18:40:22
-updated: 2024-05-31 11:24:44
+date: 2024-05-31T06:52:46.143Z
+updated: 2024-06-01T06:52:46.143Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

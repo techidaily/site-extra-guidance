@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting CGI  In-Depth Tutorial for Kinemaster Users for 2024\""
-date: 2024-05-28 20:27:54
-updated: 2024-05-29 10:50:54
+date: 2024-05-31T06:52:14.031Z
+updated: 2024-06-01T06:52:14.031Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ Hopefully, you've found this guide helpful, and now you have enough information 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

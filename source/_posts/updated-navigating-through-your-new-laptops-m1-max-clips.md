@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating Through Your New Laptop's M1 Max Clips"
-date: 2024-05-26 17:13:35
-updated: 2024-05-29 12:59:28
+date: 2024-05-31T06:53:43.249Z
+updated: 2024-06-01T06:53:43.249Z
 tags: 
   - screen-recording
   - ai video
@@ -610,4 +610,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

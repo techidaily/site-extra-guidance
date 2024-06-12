@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering the Art of Seamless Inshot Edits"
-date: 2024-05-25 13:47:17
-updated: 2024-05-28 12:20:19
+date: 2024-05-31T06:54:56.188Z
+updated: 2024-06-01T06:54:56.188Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

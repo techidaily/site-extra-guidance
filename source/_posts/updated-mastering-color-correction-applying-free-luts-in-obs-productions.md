@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Color Correction  Applying Free LUTs in OBS Productions\""
-date: 2024-05-25 18:18:57
-updated: 2024-05-28 12:36:56
+date: 2024-05-31T06:55:45.820Z
+updated: 2024-06-01T06:55:45.820Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ As a result, adding professionalism to your talents is now even easier and more 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

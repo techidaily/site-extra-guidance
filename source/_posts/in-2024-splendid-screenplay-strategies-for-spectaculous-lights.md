@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Splendid Screenplay  Strategies for Spectaculous Lights\""
-date: 2024-05-28 19:58:48
-updated: 2024-05-31 11:58:47
+date: 2024-05-31T06:52:53.998Z
+updated: 2024-06-01T06:52:53.998Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

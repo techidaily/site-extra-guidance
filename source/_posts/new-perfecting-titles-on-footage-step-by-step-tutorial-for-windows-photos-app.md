@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfecting Titles on Footage  Step-by-Step Tutorial for Windows Photos App\""
-date: 2024-05-26 23:20:21
-updated: 2024-05-29 11:33:17
+date: 2024-05-31T06:55:17.338Z
+updated: 2024-06-01T06:55:17.338Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Seamless Soundscape Design with Expert Crossfading Techniques (Audacity)"
-date: 2024-05-28 13:58:42
-updated: 2024-05-30 12:30:17
+date: 2024-05-31T06:56:26.375Z
+updated: 2024-06-01T06:56:26.375Z
 tags: 
   - screen-recording
   - ai video
@@ -188,4 +188,5 @@ In summary, Audacity is a free audio tool that's really simple to use. By utiliz
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

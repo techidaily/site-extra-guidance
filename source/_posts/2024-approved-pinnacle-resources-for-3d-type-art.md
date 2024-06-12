@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pinnacle Resources for 3D Type Art\""
-date: 2024-05-27 20:55:36
-updated: 2024-05-29 10:57:32
+date: 2024-05-31T06:57:54.294Z
+updated: 2024-06-01T06:57:54.294Z
 tags: 
   - screen-recording
   - ai video
@@ -487,4 +487,5 @@ Hopefully, you've found this article helpful and can now get the proper 3D fonts
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Master Soft Edges on Digital Images, Mobile/PC"
-date: 2024-05-25 21:17:28
-updated: 2024-05-28 11:37:11
+date: 2024-05-31T06:52:47.098Z
+updated: 2024-06-01T06:52:47.098Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

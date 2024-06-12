@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Setting Up Your Microphone on Windows 11"
-date: 2024-05-27 14:34:55
-updated: 2024-05-30 12:39:45
+date: 2024-05-31T06:54:29.288Z
+updated: 2024-06-01T06:54:29.288Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ We have how to record audio on Windows 10 using free as well as premium software
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

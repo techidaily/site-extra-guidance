@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Max 360 Vs. Hero 11 - GoPro Cameras Face Off\""
-date: 2024-05-26 20:50:31
-updated: 2024-05-28 11:39:46
+date: 2024-05-31T06:55:36.370Z
+updated: 2024-06-01T06:55:36.370Z
 tags: 
   - screen-recording
   - ai video
@@ -480,4 +480,5 @@ Your choice between the two depends on your preference for 360-degree versatilit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

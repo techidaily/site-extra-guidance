@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Investigating DJi Raptor VR Headset Effectiveness"
-date: 2024-05-24 16:20:52
-updated: 2024-05-27 11:33:42
+date: 2024-05-31T06:54:44.031Z
+updated: 2024-06-01T06:54:44.031Z
 tags: 
   - screen-recording
   - ai video
@@ -402,4 +402,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Tone Maps  A List of Top 10 LUTs\""
-date: 2024-05-27 16:30:30
-updated: 2024-05-28 11:12:42
+date: 2024-05-31T06:52:24.815Z
+updated: 2024-06-01T06:52:24.815Z
 tags: 
   - screen-recording
   - ai video
@@ -604,4 +604,5 @@ Therefore, you had an informative journey about the Lightroom LUTs in detail. A 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

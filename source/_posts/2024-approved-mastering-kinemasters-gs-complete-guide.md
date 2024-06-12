@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering KineMaster's GS  Complete Guide\""
-date: 2024-05-27 19:29:21
-updated: 2024-05-28 10:22:54
+date: 2024-05-31T06:56:01.686Z
+updated: 2024-06-01T06:56:01.686Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ Hopefully, you've found this guide helpful, and now you have enough information 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

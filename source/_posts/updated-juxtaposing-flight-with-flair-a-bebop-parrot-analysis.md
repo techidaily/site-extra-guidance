@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Juxtaposing Flight with Flair – A Bebop Parrot Analysis"
-date: 2024-05-27 15:25:33
-updated: 2024-05-28 12:19:59
+date: 2024-05-31T06:56:35.157Z
+updated: 2024-06-01T06:56:35.157Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

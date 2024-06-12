@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Love's Anthem  Top 10 Songs That Define Proposal Moments\""
-date: 2024-05-26 15:25:28
-updated: 2024-05-28 11:38:19
+date: 2024-05-31T06:52:16.774Z
+updated: 2024-06-01T06:52:16.774Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

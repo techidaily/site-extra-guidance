@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Master Videoleap to Capture Up-Close Footage\""
-date: 2024-05-27 23:41:42
-updated: 2024-05-28 11:16:26
+date: 2024-05-31T06:55:47.375Z
+updated: 2024-06-01T06:55:47.375Z
 tags: 
   - screen-recording
   - ai video
@@ -129,4 +129,5 @@ Videoleap is one of the leading video editing platforms available out there. The
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

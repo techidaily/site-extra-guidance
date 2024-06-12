@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step 3D LUT Application in Photoshop Mastery\""
-date: 2024-05-28 20:14:12
-updated: 2024-05-31 10:50:17
+date: 2024-05-31T06:54:13.569Z
+updated: 2024-06-01T06:54:13.569Z
 tags: 
   - screen-recording
   - ai video
@@ -842,4 +842,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

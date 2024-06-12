@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Focus and Depth with Videoleap's Zoom Feature\""
-date: 2024-05-27 13:23:39
-updated: 2024-05-28 12:49:38
+date: 2024-05-31T06:57:59.959Z
+updated: 2024-06-01T06:57:59.959Z
 tags: 
   - screen-recording
   - ai video
@@ -129,4 +129,5 @@ Videoleap is one of the leading video editing platforms available out there. The
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

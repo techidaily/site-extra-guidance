@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Starting with Cams - A Beginner’s Guide\""
-date: 2024-05-28 19:45:43
-updated: 2024-05-31 12:51:38
+date: 2024-05-31T06:53:19.210Z
+updated: 2024-06-01T06:53:19.210Z
 tags: 
   - screen-recording
   - ai video
@@ -730,4 +730,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

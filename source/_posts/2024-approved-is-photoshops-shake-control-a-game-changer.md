@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Is Photoshop's Shake Control a Game Changer?\""
-date: 2024-05-26 11:13:34
-updated: 2024-05-28 10:48:52
+date: 2024-05-31T06:56:56.502Z
+updated: 2024-06-01T06:56:56.502Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

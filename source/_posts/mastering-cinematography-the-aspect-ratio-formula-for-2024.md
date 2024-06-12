@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Cinematography  The Aspect Ratio Formula for 2024\""
-date: 2024-05-27 18:28:34
-updated: 2024-05-28 12:53:55
+date: 2024-05-31T06:53:07.889Z
+updated: 2024-06-01T06:53:07.889Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Having your video tested on multiple devices will allow you to see a preview of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

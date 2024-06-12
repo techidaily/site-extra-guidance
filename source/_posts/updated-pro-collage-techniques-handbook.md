@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Pro Collage Techniques Handbook"
-date: 2024-05-29 12:40:21
-updated: 2024-05-30 11:36:25
+date: 2024-05-31T06:54:57.421Z
+updated: 2024-06-01T06:54:57.421Z
 tags: 
   - screen-recording
   - ai video
@@ -1166,4 +1166,5 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

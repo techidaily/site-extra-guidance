@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Microsoft’s Glimpse Into Augmented Reality – The HoloLens Journey"
-date: 2024-05-27 21:55:33
-updated: 2024-05-28 12:49:41
+date: 2024-05-31T06:52:27.627Z
+updated: 2024-06-01T06:52:27.627Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

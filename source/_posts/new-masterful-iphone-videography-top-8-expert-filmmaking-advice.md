@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Masterful iPhone Videography  Top 8 Expert Filmmaking Advice\""
-date: 2024-05-25 10:30:37
-updated: 2024-05-28 11:19:42
+date: 2024-05-31T06:53:42.104Z
+updated: 2024-06-01T06:53:42.104Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

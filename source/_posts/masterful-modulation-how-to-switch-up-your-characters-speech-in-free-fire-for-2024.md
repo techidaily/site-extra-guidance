@@ -1,7 +1,7 @@
 ---
 title: "\"Masterful Modulation  How to Switch Up Your Character's Speech in Free Fire for 2024\""
-date: 2024-05-27 15:41:20
-updated: 2024-05-28 12:21:30
+date: 2024-05-31T06:56:55.979Z
+updated: 2024-06-01T06:56:55.979Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ Yes, Voiced is also available on mobile as well. You can also use Voicemod on yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

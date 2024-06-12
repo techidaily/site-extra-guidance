@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Learn Selective Picture Clarity Reduction"
-date: 2024-05-25 18:31:38
-updated: 2024-05-28 11:49:18
+date: 2024-05-31T06:54:26.813Z
+updated: 2024-06-01T06:54:26.813Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

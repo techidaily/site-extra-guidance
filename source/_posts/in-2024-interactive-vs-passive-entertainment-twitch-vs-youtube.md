@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Interactive vs Passive Entertainment  Twitch vs YouTube\""
-date: 2024-05-25 18:50:52
-updated: 2024-05-27 12:31:34
+date: 2024-05-31T06:54:52.816Z
+updated: 2024-06-01T06:54:52.816Z
 tags: 
   - screen-recording
   - ai video
@@ -194,4 +194,5 @@ However, both platforms have great benefits and can help you reach your goals fa
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

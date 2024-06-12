@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Prelude to Cinematic Dialogue"
-date: 2024-05-26 19:33:46
-updated: 2024-05-29 10:23:38
+date: 2024-05-31T06:57:02.181Z
+updated: 2024-06-01T06:57:02.181Z
 tags: 
   - screen-recording
   - ai video
@@ -183,4 +183,5 @@ The article has provided the most information about screenplays and how to write
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

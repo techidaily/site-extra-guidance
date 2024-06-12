@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Navigating Windows 11  A Practical Reference\""
-date: 2024-05-27 16:57:20
-updated: 2024-05-29 11:56:27
+date: 2024-05-31T06:53:05.829Z
+updated: 2024-06-01T06:53:05.829Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

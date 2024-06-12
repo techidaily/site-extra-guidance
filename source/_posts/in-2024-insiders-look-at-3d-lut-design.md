@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Insider's Look at 3D LUT Design"
-date: 2024-05-24 22:31:29
-updated: 2024-05-27 11:33:13
+date: 2024-05-31T06:53:36.085Z
+updated: 2024-06-01T06:53:36.085Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ To download the app, visit the official website of 3D LUT Creator at:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Scripts That Shaped Cinema for 2024"
-date: 2024-05-28 18:37:46
-updated: 2024-05-30 10:24:25
+date: 2024-05-31T06:52:51.932Z
+updated: 2024-06-01T06:52:51.932Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ So, in the end, this article concludes that all of these movies (screenplays) re
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

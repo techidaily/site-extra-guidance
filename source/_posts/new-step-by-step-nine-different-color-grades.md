@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Nine Different Color Grades\""
-date: 2024-05-29 15:51:41
-updated: 2024-05-31 12:46:37
+date: 2024-05-31T06:54:16.264Z
+updated: 2024-06-01T06:54:16.264Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ Examples of triadic color schemes include red-yellow-blue or purple-green-orange
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

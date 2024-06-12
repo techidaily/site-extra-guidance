@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastery of Podcast RSS Feeds  A Step-by-Step Tutorial\""
-date: 2024-05-25 15:44:57
-updated: 2024-05-28 12:38:13
+date: 2024-05-31T06:54:57.329Z
+updated: 2024-06-01T06:54:57.329Z
 tags: 
   - screen-recording
   - ai video
@@ -328,4 +328,5 @@ Nevertheless, if you're looking for a reliable program to record and edit high-q
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

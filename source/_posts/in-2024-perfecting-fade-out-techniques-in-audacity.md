@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Perfecting Fade-Out Techniques in Audacity\""
-date: 2024-05-28 18:48:11
-updated: 2024-05-29 11:32:31
+date: 2024-05-31T06:55:17.103Z
+updated: 2024-06-01T06:55:17.103Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ You may access a variety of tools and services on the platform known as Audacity
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

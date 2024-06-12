@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating the Maze of SRT to Multiple Media Standards"
-date: 2024-05-27 13:17:15
-updated: 2024-05-29 10:54:46
+date: 2024-05-31T06:52:35.403Z
+updated: 2024-06-01T06:52:35.403Z
 tags: 
   - screen-recording
   - ai video
@@ -261,4 +261,5 @@ There’s no doubt that the SRT file format is one of the most popular subtitle 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

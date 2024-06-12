@@ -1,7 +1,7 @@
 ---
 title: "\"On-The-Go Video Making Essentials for 2024\""
-date: 2024-05-26 17:38:33
-updated: 2024-05-29 12:18:28
+date: 2024-05-31T06:57:53.939Z
+updated: 2024-06-01T06:57:53.939Z
 tags: 
   - screen-recording
   - ai video
@@ -170,4 +170,5 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

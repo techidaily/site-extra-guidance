@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Realigning Captions  From SRT to SUBCAP\""
-date: 2024-05-27 10:18:36
-updated: 2024-05-30 11:29:42
+date: 2024-05-31T06:55:18.765Z
+updated: 2024-06-01T06:55:18.765Z
 tags: 
   - screen-recording
   - ai video
@@ -543,4 +543,5 @@ If you are facing issues opening and playing SRT subtitle files on your device, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

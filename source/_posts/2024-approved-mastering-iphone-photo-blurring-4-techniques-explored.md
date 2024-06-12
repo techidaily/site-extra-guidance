@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering iPhone Photo Blurring  4 Techniques Explored\""
-date: 2024-05-27 14:40:33
-updated: 2024-05-28 12:38:13
+date: 2024-05-31T06:52:17.446Z
+updated: 2024-06-01T06:52:17.446Z
 tags: 
   - screen-recording
   - ai video
@@ -448,4 +448,5 @@ Blurring the background in a photo ensures that the main subject remains in the 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

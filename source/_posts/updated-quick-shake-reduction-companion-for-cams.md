@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quick Shake Reduction Companion for Cams"
-date: 2024-05-27 22:12:13
-updated: 2024-05-30 10:52:33
+date: 2024-05-31T06:56:10.449Z
+updated: 2024-06-01T06:56:10.449Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

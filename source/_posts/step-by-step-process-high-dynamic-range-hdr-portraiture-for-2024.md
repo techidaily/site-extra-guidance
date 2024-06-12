@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Process  High Dynamic Range (HDR) Portraiture for 2024\""
-date: 2024-05-29 16:58:32
-updated: 2024-05-31 11:54:51
+date: 2024-05-31T06:54:51.675Z
+updated: 2024-06-01T06:54:51.675Z
 tags: 
   - screen-recording
   - ai video
@@ -287,4 +287,5 @@ It is not as difficult as it seems to shoot an HDR portrait. We have made it as 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

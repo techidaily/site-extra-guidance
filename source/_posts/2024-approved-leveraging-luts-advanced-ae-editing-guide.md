@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leveraging LUTs  Advanced AE Editing Guide\""
-date: 2024-05-25 13:37:43
-updated: 2024-05-28 12:42:27
+date: 2024-05-31T06:56:33.720Z
+updated: 2024-06-01T06:56:33.720Z
 tags: 
   - screen-recording
   - ai video
@@ -410,4 +410,5 @@ Adobe After Effects allows you to use LUTs on multiple clips. However, you need 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

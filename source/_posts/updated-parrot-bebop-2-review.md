@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Parrot Bebop 2 Review"
-date: 2024-05-27 15:37:15
-updated: 2024-05-29 12:30:17
+date: 2024-05-31T06:54:42.864Z
+updated: 2024-06-01T06:54:42.864Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

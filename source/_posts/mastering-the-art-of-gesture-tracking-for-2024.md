@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Gesture Tracking for 2024"
-date: 2024-05-27 15:33:44
-updated: 2024-05-28 12:55:44
+date: 2024-05-31T06:54:16.080Z
+updated: 2024-06-01T06:54:16.080Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

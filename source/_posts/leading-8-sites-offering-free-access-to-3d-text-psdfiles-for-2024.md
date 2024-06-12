@@ -1,7 +1,7 @@
 ---
 title: "Leading 8 Sites Offering Free Access to 3D Text PSDFiles for 2024"
-date: 2024-05-25 22:19:50
-updated: 2024-05-28 12:58:40
+date: 2024-05-31T06:55:50.277Z
+updated: 2024-06-01T06:55:50.277Z
 tags: 
   - screen-recording
   - ai video
@@ -463,4 +463,5 @@ Hopefully, this article was helpful, and you can now easily access the 3D text f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

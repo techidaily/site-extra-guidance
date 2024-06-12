@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] LUTs Uncovered  Elevating the Quality of Digital Imagery\""
-date: 2024-05-25 13:34:28
-updated: 2024-05-28 11:10:32
+date: 2024-05-31T06:52:51.162Z
+updated: 2024-06-01T06:52:51.162Z
 tags: 
   - screen-recording
   - ai video
@@ -133,4 +133,5 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Professional Perception  Pioneering HDR Art with PhotoShop\""
-date: 2024-05-29 10:25:18
-updated: 2024-05-30 11:48:11
+date: 2024-05-31T06:53:44.705Z
+updated: 2024-06-01T06:53:44.705Z
 tags: 
   - screen-recording
   - ai video
@@ -455,4 +455,5 @@ We've also explained the different key features of Photoshop, and if perhaps you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

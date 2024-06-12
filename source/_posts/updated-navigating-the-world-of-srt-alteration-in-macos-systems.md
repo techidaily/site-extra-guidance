@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating the World of SRT Alteration in macOS Systems"
-date: 2024-05-27 19:27:46
-updated: 2024-05-29 11:24:49
+date: 2024-05-31T06:56:07.157Z
+updated: 2024-06-01T06:56:07.157Z
 tags: 
   - screen-recording
   - ai video
@@ -471,4 +471,5 @@ URL for VLC on Mac steps/pics: <https://videoconverter.wondershare.com/subtitle/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

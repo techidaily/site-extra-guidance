@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Premier Text Manipulation Software for AE"
-date: 2024-05-27 20:36:45
-updated: 2024-05-30 10:41:25
+date: 2024-05-31T06:57:04.546Z
+updated: 2024-06-01T06:57:04.546Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ On its own After Effects comes with so many post-production effects and features
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

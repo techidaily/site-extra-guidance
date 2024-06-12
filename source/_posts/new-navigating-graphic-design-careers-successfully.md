@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Graphic Design Careers Successfully"
-date: 2024-05-27 21:36:28
-updated: 2024-05-29 11:36:47
+date: 2024-05-31T06:53:11.212Z
+updated: 2024-06-01T06:53:11.212Z
 tags: 
   - screen-recording
   - ai video
@@ -214,4 +214,5 @@ The world of graphic design depends on relationships with other people to advanc
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

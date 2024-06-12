@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Master Seminar Script Synthesizer"
-date: 2024-05-25 14:36:38
-updated: 2024-05-28 11:17:17
+date: 2024-05-31T06:55:23.085Z
+updated: 2024-06-01T06:55:23.085Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Are you having trouble coming up with a title for your most recent webinar? Ther
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Nikon D7500 Review"
-date: 2024-05-28 12:15:58
-updated: 2024-05-29 11:25:18
+date: 2024-05-31T06:53:13.544Z
+updated: 2024-06-01T06:53:13.544Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

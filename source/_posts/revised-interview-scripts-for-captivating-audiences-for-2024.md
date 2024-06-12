@@ -1,7 +1,7 @@
 ---
 title: "Revised Interview Scripts for Captivating Audiences for 2024"
-date: 2024-05-27 11:28:27
-updated: 2024-05-30 10:45:59
+date: 2024-05-31T06:56:44.035Z
+updated: 2024-06-01T06:56:44.035Z
 tags: 
   - screen-recording
   - ai video
@@ -204,4 +204,5 @@ Consider the following when picking which of the above questions to use on your 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

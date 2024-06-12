@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Simplifying the Process of Creating Time Lapses with GoPro"
-date: 2024-05-29 14:41:58
-updated: 2024-05-31 12:43:23
+date: 2024-05-31T06:55:44.249Z
+updated: 2024-06-01T06:55:44.249Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

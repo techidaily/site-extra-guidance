@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Podcast Descriptions  Insights with Examples for 2024\""
-date: 2024-05-27 21:38:13
-updated: 2024-05-28 12:33:58
+date: 2024-05-31T06:54:57.087Z
+updated: 2024-06-01T06:54:57.087Z
 tags: 
   - screen-recording
   - ai video
@@ -491,4 +491,5 @@ WITH [JENNA FISCHER](https://www.earwolf.com/person/jenna-fischer/) AND [ANGELA 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

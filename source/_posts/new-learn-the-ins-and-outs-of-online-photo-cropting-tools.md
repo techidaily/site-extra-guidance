@@ -1,7 +1,7 @@
 ---
 title: "[New] Learn the Ins and Outs of Online Photo Cropting Tools"
-date: 2024-05-26 13:57:16
-updated: 2024-05-28 10:59:21
+date: 2024-05-31T06:55:13.103Z
+updated: 2024-06-01T06:55:13.103Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ This article has been quite conclusive in offering proper online tools to crop i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

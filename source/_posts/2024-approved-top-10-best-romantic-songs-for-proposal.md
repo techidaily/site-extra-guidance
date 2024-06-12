@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 10 Best Romantic Songs for Proposal\""
-date: 2024-05-27 16:58:21
-updated: 2024-05-30 11:18:34
+date: 2024-05-31T06:55:09.675Z
+updated: 2024-06-01T06:55:09.675Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

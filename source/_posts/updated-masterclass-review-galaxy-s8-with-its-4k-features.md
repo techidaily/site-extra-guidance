@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Masterclass Review  Galaxy S8 with Its 4K Features\""
-date: 2024-05-27 19:27:54
-updated: 2024-05-28 11:35:41
+date: 2024-05-31T06:54:59.760Z
+updated: 2024-06-01T06:54:59.760Z
 tags: 
   - screen-recording
   - ai video
@@ -546,4 +546,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

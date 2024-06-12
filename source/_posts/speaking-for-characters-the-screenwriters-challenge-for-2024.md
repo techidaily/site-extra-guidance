@@ -1,7 +1,7 @@
 ---
 title: "\"Speaking for Characters  The Screenwriter's Challenge for 2024\""
-date: 2024-05-30 12:57:48
-updated: 2024-05-31 11:18:58
+date: 2024-05-31T06:52:23.649Z
+updated: 2024-06-01T06:52:23.649Z
 tags: 
   - screen-recording
   - ai video
@@ -229,4 +229,5 @@ In conclusion, Dialogue and Narrative Script are the most common types of script
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

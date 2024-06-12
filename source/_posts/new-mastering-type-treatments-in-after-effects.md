@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Type Treatments in After Effects"
-date: 2024-05-27 17:21:13
-updated: 2024-05-28 10:10:20
+date: 2024-05-31T06:53:07.974Z
+updated: 2024-06-01T06:53:07.974Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ Motion title is a dynamic text effect template available in After Effects throug
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Shortcuts to Excellent iPhone Time Lapse Videos\""
-date: 2024-05-28 21:33:53
-updated: 2024-05-31 12:38:25
+date: 2024-05-31T06:57:15.290Z
+updated: 2024-06-01T06:57:15.290Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

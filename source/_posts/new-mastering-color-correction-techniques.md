@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Color Correction Techniques"
-date: 2024-05-25 17:14:46
-updated: 2024-05-28 12:33:21
+date: 2024-05-31T06:55:16.512Z
+updated: 2024-06-01T06:55:16.512Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

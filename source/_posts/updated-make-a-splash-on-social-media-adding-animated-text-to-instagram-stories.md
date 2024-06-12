@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Make a Splash on Social Media  Adding Animated Text to Instagram Stories\""
-date: 2024-05-25 15:49:38
-updated: 2024-05-28 12:54:14
+date: 2024-05-31T06:53:20.124Z
+updated: 2024-06-01T06:53:20.124Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ The success or failure of your Instagram company depends in large part on engage
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

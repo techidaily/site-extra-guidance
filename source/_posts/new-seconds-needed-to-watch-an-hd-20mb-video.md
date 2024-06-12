@@ -1,7 +1,7 @@
 ---
 title: "[New] Seconds Needed to Watch an HD 20MB Video"
-date: 2024-05-27 21:26:39
-updated: 2024-05-30 12:46:38
+date: 2024-05-31T06:57:09.193Z
+updated: 2024-06-01T06:57:09.193Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

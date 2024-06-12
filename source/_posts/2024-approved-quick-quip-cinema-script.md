@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Quip Cinema Script\""
-date: 2024-05-28 22:28:32
-updated: 2024-05-30 10:34:49
+date: 2024-05-31T06:55:04.031Z
+updated: 2024-06-01T06:55:04.031Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

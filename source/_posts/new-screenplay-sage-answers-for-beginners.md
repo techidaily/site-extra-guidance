@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Screenplay Sage  Answers for Beginners\""
-date: 2024-05-29 23:27:29
-updated: 2024-05-30 10:24:11
+date: 2024-05-31T06:52:48.594Z
+updated: 2024-06-01T06:52:48.594Z
 tags: 
   - screen-recording
   - ai video
@@ -316,4 +316,5 @@ We hope you have found the answer to your question. If you still have any querie
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

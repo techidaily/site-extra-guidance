@@ -1,7 +1,7 @@
 ---
 title: "Microsoft’s HoloLens Adventure – A 3D Visionary Experience for 2024"
-date: 2024-05-26 15:57:12
-updated: 2024-05-28 10:24:52
+date: 2024-05-31T06:55:08.280Z
+updated: 2024-06-01T06:55:08.280Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

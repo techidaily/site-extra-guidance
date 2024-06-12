@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Speed Capture Faceoff  GoPro Hero 4 Challenges Ghost-S\""
-date: 2024-05-30 12:11:29
-updated: 2024-05-31 11:15:13
+date: 2024-05-31T06:57:12.914Z
+updated: 2024-06-01T06:57:12.914Z
 tags: 
   - screen-recording
   - ai video
@@ -494,4 +494,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

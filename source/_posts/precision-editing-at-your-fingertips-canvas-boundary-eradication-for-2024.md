@@ -1,7 +1,7 @@
 ---
 title: "\"Precision Editing at Your Fingertips  Canva's Boundary Eradication for 2024\""
-date: 2024-05-27 21:24:22
-updated: 2024-05-29 10:26:44
+date: 2024-05-31T06:53:48.805Z
+updated: 2024-06-01T06:53:48.805Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Hopefully, you've found this article helpful and can now optimize your images in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

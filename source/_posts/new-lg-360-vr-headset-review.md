@@ -1,7 +1,7 @@
 ---
 title: "[New] LG 360 VR Headset Review"
-date: 2024-05-27 13:36:38
-updated: 2024-05-28 10:21:16
+date: 2024-05-31T06:56:20.283Z
+updated: 2024-06-01T06:56:20.283Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

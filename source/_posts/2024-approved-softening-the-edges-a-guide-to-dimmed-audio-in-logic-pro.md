@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Softening the Edges  A Guide to Dimmed Audio in Logic Pro\""
-date: 2024-05-29 20:58:10
-updated: 2024-05-31 10:21:21
+date: 2024-05-31T06:57:51.850Z
+updated: 2024-06-01T06:57:51.850Z
 tags: 
   - screen-recording
   - ai video
@@ -234,4 +234,5 @@ Apple's Logic Pro X is not compatible with Windows-based computers. Therefore, i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

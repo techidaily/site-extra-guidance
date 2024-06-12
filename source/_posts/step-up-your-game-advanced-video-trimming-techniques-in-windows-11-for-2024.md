@@ -1,7 +1,7 @@
 ---
 title: "\"Step Up Your Game  Advanced Video Trimming Techniques in Windows 11 for 2024\""
-date: 2024-05-30 22:45:52
-updated: 2024-05-31 11:52:36
+date: 2024-05-31T06:55:10.189Z
+updated: 2024-06-01T06:55:10.189Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

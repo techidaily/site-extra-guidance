@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfecting Motion Capture in a Canon Lens"
-date: 2024-05-26 14:23:25
-updated: 2024-05-29 10:14:20
+date: 2024-05-31T06:57:12.601Z
+updated: 2024-06-01T06:57:12.601Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ Now, you are aware of how to shoot time-lapse with your Canon camera. After you 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

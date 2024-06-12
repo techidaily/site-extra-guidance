@@ -1,7 +1,7 @@
 ---
 title: "Mastering Film Color Correction with Luts for 2024"
-date: 2024-05-26 18:18:42
-updated: 2024-05-28 12:36:33
+date: 2024-05-31T06:56:40.701Z
+updated: 2024-06-01T06:56:40.701Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ In summary, we've seen some different color grading LUTs that simplify the color
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

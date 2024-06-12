@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Next Level Capturing  Hero 4 & Hero 5 Reviewed\""
-date: 2024-05-28 11:12:25
-updated: 2024-05-29 11:52:34
+date: 2024-05-31T06:55:30.313Z
+updated: 2024-06-01T06:55:30.313Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

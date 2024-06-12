@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Premier Playwriting for Podcasts & Radios"
-date: 2024-05-26 12:51:17
-updated: 2024-05-29 12:17:32
+date: 2024-05-31T06:53:16.391Z
+updated: 2024-06-01T06:53:16.391Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ This article will teach you everything you need to know about radio and audio dr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

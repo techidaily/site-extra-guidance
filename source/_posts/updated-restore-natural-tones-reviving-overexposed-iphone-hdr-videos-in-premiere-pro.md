@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Restore Natural Tones  Reviving Overexposed iPhone HDR Videos in Premiere Pro\""
-date: 2024-05-29 13:15:29
-updated: 2024-05-30 12:53:50
+date: 2024-05-31T06:53:25.153Z
+updated: 2024-06-01T06:53:25.153Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Overall, it is possible for the HDR quality videos captured with an iPhone 12 ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Step by Step Guide to Phantom's Slow Mo Magic"
-date: 2024-05-28 13:11:11
-updated: 2024-05-31 12:16:25
+date: 2024-05-31T06:52:54.262Z
+updated: 2024-06-01T06:52:54.262Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ As filmmakers and video lovers, we have come up with some solid examples of time
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

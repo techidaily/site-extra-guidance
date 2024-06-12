@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Manipulating Photography Captions"
-date: 2024-05-26 19:28:53
-updated: 2024-05-28 12:47:50
+date: 2024-05-31T06:53:32.791Z
+updated: 2024-06-01T06:53:32.791Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ This tool allows you to distort text by adding a wavy effect to it. To use this 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

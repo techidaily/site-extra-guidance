@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  LuminaLabs  Exploring Affordable Video Editors\""
-date: 2024-05-27 21:16:12
-updated: 2024-05-28 11:16:25
+date: 2024-05-31T06:53:45.901Z
+updated: 2024-06-01T06:53:45.901Z
 tags: 
   - screen-recording
   - ai video
@@ -1426,4 +1426,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

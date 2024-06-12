@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  LUT Mastery for Enhanced Visual Effects in Premiere Projects\""
-date: 2024-05-25 18:35:32
-updated: 2024-05-28 11:57:42
+date: 2024-05-31T06:55:36.229Z
+updated: 2024-06-01T06:55:36.229Z
 tags: 
   - screen-recording
   - ai video
@@ -117,4 +117,5 @@ Sometimes, some of them are out there to steal your money rather than provide th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

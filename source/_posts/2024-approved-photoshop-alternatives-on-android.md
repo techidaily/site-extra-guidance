@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Photoshop Alternatives on Android\""
-date: 2024-05-27 12:41:41
-updated: 2024-05-29 11:16:34
+date: 2024-05-31T06:53:51.671Z
+updated: 2024-06-01T06:53:51.671Z
 tags: 
   - screen-recording
   - ai video
@@ -726,4 +726,5 @@ After following these six steps your collage is ready. Now you can share the col
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Aurora HDR Reviews  Is Aurora HDR a Good Choice  for 2024\""
-date: 2024-05-27 14:24:20
-updated: 2024-05-28 10:15:12
+date: 2024-05-31T06:57:39.580Z
+updated: 2024-06-01T06:57:39.580Z
 tags: 
   - screen-recording
   - ai video
@@ -316,4 +316,5 @@ All these software bring forth different aspects of HDR editing, so depending on
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

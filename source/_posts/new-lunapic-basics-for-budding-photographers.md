@@ -1,7 +1,7 @@
 ---
 title: "[New] LunaPic Basics for Budding Photographers"
-date: 2024-05-25 17:19:15
-updated: 2024-05-28 10:18:10
+date: 2024-05-31T06:55:48.750Z
+updated: 2024-06-01T06:55:48.750Z
 tags: 
   - screen-recording
   - ai video
@@ -134,4 +134,5 @@ Lunapic photo editor is no different than any other professional and reliable to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

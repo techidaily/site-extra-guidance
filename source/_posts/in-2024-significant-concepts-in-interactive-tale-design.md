@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Significant Concepts in Interactive Tale Design"
-date: 2024-05-30 17:44:26
-updated: 2024-05-31 12:26:50
+date: 2024-05-31T06:55:27.496Z
+updated: 2024-06-01T06:55:27.496Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ Everybody has a narrative, but the craft of digital storytelling can transform a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Kinemaster Tools for Cohesive Narrative Flow"
-date: 2024-05-25 16:22:29
-updated: 2024-05-28 11:40:54
+date: 2024-05-31T06:54:27.581Z
+updated: 2024-06-01T06:54:27.581Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Thus, in this guide, you learned how to add transition effect in Kinemaster and 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

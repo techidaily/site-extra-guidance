@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Interface to Enlarge Videography Elements\""
-date: 2024-05-24 14:36:47
-updated: 2024-05-27 12:38:36
+date: 2024-05-31T06:54:01.967Z
+updated: 2024-06-01T06:54:01.967Z
 tags: 
   - screen-recording
   - ai video
@@ -503,4 +503,5 @@ In many situations, we are needed to zoom edit the videos and this is where such
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

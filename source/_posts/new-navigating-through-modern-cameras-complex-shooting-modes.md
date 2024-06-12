@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Through Modern Camera's Complex Shooting Modes"
-date: 2024-05-27 18:58:10
-updated: 2024-05-29 12:59:26
+date: 2024-05-31T06:56:22.762Z
+updated: 2024-06-01T06:56:22.762Z
 tags: 
   - screen-recording
   - ai video
@@ -241,4 +241,5 @@ Auto HDR will make sure both shadows and highlights are in focus, while Smart HD
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pros to Follow  VR Industry Trailblazers\""
-date: 2024-05-28 23:38:44
-updated: 2024-05-30 12:16:30
+date: 2024-05-31T06:54:33.475Z
+updated: 2024-06-01T06:54:33.475Z
 tags: 
   - screen-recording
   - ai video
@@ -250,4 +250,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

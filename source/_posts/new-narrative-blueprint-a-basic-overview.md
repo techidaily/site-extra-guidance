@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Narrative Blueprint  A Basic Overview\""
-date: 2024-05-27 22:43:10
-updated: 2024-05-29 10:50:22
+date: 2024-05-31T06:55:24.449Z
+updated: 2024-06-01T06:55:24.449Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ The value of storytelling can help you increase customer engagement and establis
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

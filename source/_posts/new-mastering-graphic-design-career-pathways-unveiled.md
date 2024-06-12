@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Graphic Design  Career Pathways Unveiled\""
-date: 2024-05-25 13:35:13
-updated: 2024-05-28 12:30:22
+date: 2024-05-31T06:53:07.956Z
+updated: 2024-06-01T06:53:07.956Z
 tags: 
   - screen-recording
   - ai video
@@ -214,4 +214,5 @@ The world of graphic design depends on relationships with other people to advanc
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

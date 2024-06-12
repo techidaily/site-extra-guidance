@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Revolutionizing Text Design  Top 10 After Effects Templates\""
-date: 2024-05-27 21:59:30
-updated: 2024-05-30 11:18:48
+date: 2024-05-31T06:54:56.985Z
+updated: 2024-06-01T06:54:56.985Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ If you decide to use Adobe After Effects to add text effects to your video, we h
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

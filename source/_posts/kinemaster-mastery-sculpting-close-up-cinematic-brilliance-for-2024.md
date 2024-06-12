@@ -1,7 +1,7 @@
 ---
 title: "\"Kinemaster Mastery  Sculpting Close-Up Cinematic Brilliance for 2024\""
-date: 2024-05-25 19:41:26
-updated: 2024-05-28 10:22:33
+date: 2024-05-31T06:55:19.468Z
+updated: 2024-06-01T06:55:19.468Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ Now you can see how to zoom in/out videos on Kinemaster. You can practice it on 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

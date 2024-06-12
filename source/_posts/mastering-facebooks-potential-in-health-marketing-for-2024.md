@@ -1,7 +1,7 @@
 ---
 title: "Mastering Facebook's Potential in Health Marketing for 2024"
-date: 2024-05-25 22:27:25
-updated: 2024-05-28 11:59:55
+date: 2024-05-31T06:55:55.327Z
+updated: 2024-06-01T06:55:55.327Z
 tags: 
   - screen-recording
   - ai video
@@ -180,4 +180,5 @@ We hope this blog post was informative and helpful. If you have any questions, f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

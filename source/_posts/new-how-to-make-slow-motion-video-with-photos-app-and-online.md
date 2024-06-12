@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Make Slow Motion Video with Photos App and Online"
-date: 2024-05-25 15:38:53
-updated: 2024-05-28 10:34:11
+date: 2024-05-31T06:57:25.321Z
+updated: 2024-06-01T06:57:25.321Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Leading Edge VR Game Development Technology, 2023 Edition"
-date: 2024-05-26 18:32:22
-updated: 2024-05-28 12:27:50
+date: 2024-05-31T06:57:16.668Z
+updated: 2024-06-01T06:57:16.668Z
 tags: 
   - screen-recording
   - ai video
@@ -190,4 +190,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

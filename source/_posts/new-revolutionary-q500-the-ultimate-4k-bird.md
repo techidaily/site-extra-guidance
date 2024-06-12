@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Revolutionary Q500  The Ultimate 4K Bird\""
-date: 2024-05-27 12:36:22
-updated: 2024-05-30 10:42:11
+date: 2024-05-31T06:57:09.176Z
+updated: 2024-06-01T06:57:09.176Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

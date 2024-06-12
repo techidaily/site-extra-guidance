@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastery in Motion  A Guide for Expert Color Balancing\""
-date: 2024-05-27 17:40:58
-updated: 2024-05-28 10:49:59
+date: 2024-05-31T06:57:05.683Z
+updated: 2024-06-01T06:57:05.683Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ In short, we've touched on many different color grading tutorials that simplify 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Learn to Soften Edges & Focus  A PC/Mobile Guide\""
-date: 2024-05-27 23:43:57
-updated: 2024-05-28 12:12:14
+date: 2024-05-31T06:54:01.719Z
+updated: 2024-06-01T06:54:01.719Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

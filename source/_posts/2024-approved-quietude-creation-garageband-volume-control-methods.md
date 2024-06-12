@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quietude Creation  Garageband Volume Control Methods\""
-date: 2024-05-27 22:16:49
-updated: 2024-05-30 12:36:23
+date: 2024-05-31T06:52:19.861Z
+updated: 2024-06-01T06:52:19.861Z
 tags: 
   - screen-recording
   - ai video
@@ -150,4 +150,5 @@ According to the survey, one of the most searched topics is **how to fade music 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

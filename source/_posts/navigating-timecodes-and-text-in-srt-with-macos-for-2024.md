@@ -1,7 +1,7 @@
 ---
 title: "Navigating Timecodes and Text in SRT with macOS for 2024"
-date: 2024-05-27 13:10:51
-updated: 2024-05-29 12:48:28
+date: 2024-05-31T06:56:14.208Z
+updated: 2024-06-01T06:56:14.208Z
 tags: 
   - screen-recording
   - ai video
@@ -471,4 +471,5 @@ URL for VLC on Mac steps/pics: <https://videoconverter.wondershare.com/subtitle/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

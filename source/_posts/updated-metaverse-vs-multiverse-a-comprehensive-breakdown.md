@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Metaverse vs Multiverse  A Comprehensive Breakdown\""
-date: 2024-05-25 10:22:51
-updated: 2024-05-28 11:29:39
+date: 2024-05-31T06:54:42.846Z
+updated: 2024-06-01T06:54:42.846Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Hope lies in the fact that the formation of the Metaverse vs. Multiverse discour
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

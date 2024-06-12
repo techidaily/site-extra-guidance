@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Reimagining Art  Top 6 Influencers Shaping NFT Culture\""
-date: 2024-05-29 19:32:58
-updated: 2024-05-30 11:32:38
+date: 2024-05-31T06:57:40.338Z
+updated: 2024-06-01T06:57:40.338Z
 tags: 
   - screen-recording
   - ai video
@@ -982,4 +982,5 @@ If you are a digital artist looking to secure your artwork, this article showcas
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

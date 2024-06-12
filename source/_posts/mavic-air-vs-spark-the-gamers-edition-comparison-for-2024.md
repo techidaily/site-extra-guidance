@@ -1,7 +1,7 @@
 ---
 title: "\"Mavic Air Vs. Spark  The Gamer's Edition Comparison for 2024\""
-date: 2024-05-27 19:37:24
-updated: 2024-05-28 11:37:59
+date: 2024-05-31T06:55:37.294Z
+updated: 2024-06-01T06:55:37.294Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

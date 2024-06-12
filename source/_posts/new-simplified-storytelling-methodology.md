@@ -1,7 +1,7 @@
 ---
 title: "[New] Simplified Storytelling Methodology"
-date: 2024-05-29 15:23:52
-updated: 2024-05-31 10:42:19
+date: 2024-05-31T06:53:05.607Z
+updated: 2024-06-01T06:53:05.607Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ The value of storytelling can help you increase customer engagement and establis
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

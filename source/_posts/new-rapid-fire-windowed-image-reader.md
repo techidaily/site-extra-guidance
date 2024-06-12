@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Rapid-Fire Windowed Image Reader\""
-date: 2024-05-27 21:19:59
-updated: 2024-05-30 12:36:23
+date: 2024-05-31T06:55:00.336Z
+updated: 2024-06-01T06:55:00.336Z
 tags: 
   - screen-recording
   - ai video
@@ -331,4 +331,5 @@ Access the **Default Apps** menu from the **Settings** option of your OS. Then, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

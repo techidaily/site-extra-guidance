@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Art of Quantitative vs Qualitative Analysis  A Guide for Professionals\""
-date: 2024-05-26 16:32:48
-updated: 2024-05-28 12:59:47
+date: 2024-05-31T06:53:54.792Z
+updated: 2024-06-01T06:53:54.792Z
 tags: 
   - screen-recording
   - ai video
@@ -471,4 +471,5 @@ URL for VLC on Mac steps/pics: <https://videoconverter.wondershare.com/subtitle/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

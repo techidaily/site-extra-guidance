@@ -1,7 +1,7 @@
 ---
 title: "\"Rapid Camera Movements  Home Filmmaker's Guide for 2024\""
-date: 2024-05-29 12:32:37
-updated: 2024-05-30 11:24:36
+date: 2024-05-31T06:56:37.591Z
+updated: 2024-06-01T06:56:37.591Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Experiment with other props at home and see which hack evolved from them. You ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

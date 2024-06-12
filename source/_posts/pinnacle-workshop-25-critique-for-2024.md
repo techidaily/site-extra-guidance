@@ -1,7 +1,7 @@
 ---
 title: "Pinnacle Workshop 25 Critique for 2024"
-date: 2024-05-26 13:57:41
-updated: 2024-05-29 12:34:40
+date: 2024-05-31T06:54:50.925Z
+updated: 2024-06-01T06:54:50.925Z
 tags: 
   - screen-recording
   - ai video
@@ -90,4 +90,5 @@ There were already some decent audio editing features in  Studio. The audio part
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

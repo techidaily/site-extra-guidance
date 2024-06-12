@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Revenue Rundown  The Profit of YouTube Star PewDoPeep\""
-date: 2024-05-27 14:52:14
-updated: 2024-05-30 10:50:23
+date: 2024-05-31T06:56:35.852Z
+updated: 2024-06-01T06:56:35.852Z
 tags: 
   - screen-recording
   - ai video
@@ -383,4 +383,5 @@ PewDiePie is an apt example of earning fortunes by uploading videos and being po
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

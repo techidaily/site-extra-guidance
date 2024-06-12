@@ -1,7 +1,7 @@
 ---
 title: "\"Spark to the Future  DJI's Next-Gen Challenge From Mavic Air for 2024\""
-date: 2024-05-30 22:29:27
-updated: 2024-05-31 11:45:30
+date: 2024-05-31T06:53:52.002Z
+updated: 2024-06-01T06:53:52.002Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

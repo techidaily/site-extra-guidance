@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Sculptors of Immersive Digital Universes"
-date: 2024-05-28 20:41:22
-updated: 2024-05-30 11:59:47
+date: 2024-05-31T06:53:02.174Z
+updated: 2024-06-01T06:53:02.174Z
 tags: 
   - screen-recording
   - ai video
@@ -446,4 +446,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

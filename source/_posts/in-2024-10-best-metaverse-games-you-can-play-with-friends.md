@@ -1,7 +1,7 @@
 ---
 title: "In 2024, 10 Best Metaverse Games You Can Play with Friends"
-date: 2024-05-27 13:27:23
-updated: 2024-05-28 12:41:37
+date: 2024-05-31T06:52:25.545Z
+updated: 2024-06-01T06:52:25.545Z
 tags: 
   - screen-recording
   - ai video
@@ -542,4 +542,5 @@ These Facebook virtual reality games are the doors to the following significant 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

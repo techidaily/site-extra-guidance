@@ -1,7 +1,7 @@
 ---
 title: "\"Securing Privacy  Encryption and Security Tips in Zoom for Windows 11 for 2024\""
-date: 2024-05-27 19:15:42
-updated: 2024-05-30 11:49:58
+date: 2024-05-31T06:53:57.798Z
+updated: 2024-06-01T06:53:57.798Z
 tags: 
   - screen-recording
   - ai video
@@ -178,4 +178,5 @@ Zoom may be used on Windows devices to start new meetings, join existing ones, s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

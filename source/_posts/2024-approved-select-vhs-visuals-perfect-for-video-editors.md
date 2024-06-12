@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Select VHS Visuals Perfect for Video Editors\""
-date: 2024-05-28 22:40:32
-updated: 2024-05-30 12:14:50
+date: 2024-05-31T06:52:40.873Z
+updated: 2024-06-01T06:52:40.873Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ To apply the **80s VHS effects**, you can take assistance from Wondershare Filmo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

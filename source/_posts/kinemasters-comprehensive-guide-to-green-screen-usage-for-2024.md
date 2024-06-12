@@ -1,7 +1,7 @@
 ---
 title: "Kinemaster's Comprehensive Guide to Green Screen Usage for 2024"
-date: 2024-05-27 10:38:51
-updated: 2024-05-28 12:21:13
+date: 2024-05-31T06:53:36.913Z
+updated: 2024-06-01T06:53:36.913Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ Hopefully, you've found this guide helpful, and now you have enough information 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

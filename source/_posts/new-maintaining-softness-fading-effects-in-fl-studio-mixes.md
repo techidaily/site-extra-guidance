@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Maintaining Softness  Fading Effects in FL Studio Mixes\""
-date: 2024-05-26 22:42:50
-updated: 2024-05-28 12:49:21
+date: 2024-05-31T06:52:53.514Z
+updated: 2024-06-01T06:52:53.514Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

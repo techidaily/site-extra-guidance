@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Spiritual Soundtracks  Where to Find Christian Tunes\""
-date: 2024-05-30 14:26:36
-updated: 2024-05-31 12:46:41
+date: 2024-05-31T06:57:03.958Z
+updated: 2024-06-01T06:57:03.958Z
 tags: 
   - screen-recording
   - ai video
@@ -364,4 +364,5 @@ Hopefully, you appreciated our article and can now find and create exceptional p
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

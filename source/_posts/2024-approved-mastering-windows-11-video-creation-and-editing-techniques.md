@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Windows 11 Video Creation & Editing Techniques\""
-date: 2024-05-27 21:45:27
-updated: 2024-05-28 11:56:17
+date: 2024-05-31T06:54:42.273Z
+updated: 2024-06-01T06:54:42.273Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

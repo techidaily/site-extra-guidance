@@ -1,7 +1,7 @@
 ---
 title: "\"Mastery of Color Grading  Premiere Pro's LUT Capabilities for 2024\""
-date: 2024-05-27 18:34:46
-updated: 2024-05-28 11:56:21
+date: 2024-05-31T06:54:57.118Z
+updated: 2024-06-01T06:54:57.118Z
 tags: 
   - screen-recording
   - ai video
@@ -117,4 +117,5 @@ Sometimes, some of them are out there to steal your money rather than provide th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

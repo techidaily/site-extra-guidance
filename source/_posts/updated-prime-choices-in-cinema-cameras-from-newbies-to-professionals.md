@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Prime Choices in Cinema Cameras  From Newbies to Professionals\""
-date: 2024-05-27 22:17:41
-updated: 2024-05-30 10:16:34
+date: 2024-05-31T06:54:53.414Z
+updated: 2024-06-01T06:54:53.414Z
 tags: 
   - screen-recording
   - ai video
@@ -722,4 +722,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

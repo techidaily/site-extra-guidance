@@ -1,7 +1,7 @@
 ---
 title: "\"Revolutionize Your Creation Process  Canva's Secret Edits for 2024\""
-date: 2024-05-27 12:33:24
-updated: 2024-05-30 12:19:54
+date: 2024-05-31T06:56:48.984Z
+updated: 2024-06-01T06:56:48.984Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ Anyone can learn photo editing skills if they are provided with accurate guideli
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

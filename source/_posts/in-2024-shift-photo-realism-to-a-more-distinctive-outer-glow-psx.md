@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Shift Photo Realism to a More Distinctive Outer Glow PSX"
-date: 2024-05-28 10:55:21
-updated: 2024-05-31 12:57:47
+date: 2024-05-31T06:53:44.466Z
+updated: 2024-06-01T06:53:44.466Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

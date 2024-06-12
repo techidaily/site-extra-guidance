@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating Photo & Video Files in Windows 10 Like a Pro\""
-date: 2024-05-28 13:14:55
-updated: 2024-05-29 12:13:25
+date: 2024-05-31T06:57:11.896Z
+updated: 2024-06-01T06:57:11.896Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

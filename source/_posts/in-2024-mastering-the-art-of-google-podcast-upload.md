@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering the Art of Google Podcast Upload"
-date: 2024-05-27 13:24:49
-updated: 2024-05-28 10:22:10
+date: 2024-05-31T06:57:18.648Z
+updated: 2024-06-01T06:57:18.648Z
 tags: 
   - screen-recording
   - ai video
@@ -303,4 +303,5 @@ So get started now and create your Google Podcast!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

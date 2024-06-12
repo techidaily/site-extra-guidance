@@ -1,7 +1,7 @@
 ---
 title: "[New] Starting Points for Motion Visual Creation"
-date: 2024-05-29 21:48:19
-updated: 2024-05-31 10:50:40
+date: 2024-05-31T06:54:25.821Z
+updated: 2024-06-01T06:54:25.821Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

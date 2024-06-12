@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Photo Editing  Inserting Dates in Images\""
-date: 2024-05-26 12:28:21
-updated: 2024-05-28 12:39:23
+date: 2024-05-31T06:52:49.996Z
+updated: 2024-06-01T06:52:49.996Z
 tags: 
   - screen-recording
   - ai video
@@ -575,4 +575,5 @@ Hopefully, these steps will be helpful if you ever want to **add a date** or **e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Orbiting Imagery  Advanced Methods for Drone Video Editing\""
-date: 2024-05-27 18:42:38
-updated: 2024-05-29 12:22:55
+date: 2024-05-31T06:53:30.046Z
+updated: 2024-06-01T06:53:30.046Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

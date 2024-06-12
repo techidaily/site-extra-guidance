@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Pioneering Video Tech 'S Camera Race"
-date: 2024-05-27 15:29:23
-updated: 2024-05-29 11:20:42
+date: 2024-05-31T06:52:38.438Z
+updated: 2024-06-01T06:52:38.438Z
 tags: 
   - screen-recording
   - ai video
@@ -238,4 +238,5 @@ To sum things up besides the specifications of this camera, we find this one of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

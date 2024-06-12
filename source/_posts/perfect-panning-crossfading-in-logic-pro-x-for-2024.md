@@ -1,7 +1,7 @@
 ---
 title: "\"Perfect Panning  Crossfading in Logic Pro X for 2024\""
-date: 2024-05-28 17:27:34
-updated: 2024-05-29 11:59:30
+date: 2024-05-31T06:56:27.817Z
+updated: 2024-06-01T06:56:27.817Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Unlike audio fades, MIDI fades are not implemented in the same manner. One metho
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

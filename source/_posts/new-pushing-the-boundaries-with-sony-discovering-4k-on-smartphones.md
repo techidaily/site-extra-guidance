@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pushing the Boundaries with Sony - Discovering 4K on Smartphones\""
-date: 2024-05-28 23:54:59
-updated: 2024-05-30 11:19:46
+date: 2024-05-31T06:54:42.670Z
+updated: 2024-06-01T06:54:42.670Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

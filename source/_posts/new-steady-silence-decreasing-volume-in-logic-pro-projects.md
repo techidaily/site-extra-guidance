@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Steady Silence  Decreasing Volume in Logic Pro Projects\""
-date: 2024-05-28 21:12:41
-updated: 2024-05-31 11:26:58
+date: 2024-05-31T06:58:01.290Z
+updated: 2024-06-01T06:58:01.290Z
 tags: 
   - screen-recording
   - ai video
@@ -234,4 +234,5 @@ Apple's Logic Pro X is not compatible with Windows-based computers. Therefore, i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

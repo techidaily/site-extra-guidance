@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Must-Have Windows 11 Video Editing Apps List\""
-date: 2024-05-27 22:58:18
-updated: 2024-05-29 11:41:58
+date: 2024-05-31T06:56:08.264Z
+updated: 2024-06-01T06:56:08.264Z
 tags: 
   - screen-recording
   - ai video
@@ -1686,4 +1686,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

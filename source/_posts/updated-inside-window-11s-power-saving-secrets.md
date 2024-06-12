@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Inside Window 11'S Power-Saving Secrets\""
-date: 2024-05-25 14:53:37
-updated: 2024-05-27 10:33:10
+date: 2024-05-31T06:56:07.120Z
+updated: 2024-06-01T06:56:07.120Z
 tags: 
   - screen-recording
   - ai video
@@ -140,4 +140,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

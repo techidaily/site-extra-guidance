@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastery in Making Gifs Into Stickers on Messaging Platforms with This Guide"
-date: 2024-05-25 13:24:58
-updated: 2024-05-28 10:57:37
+date: 2024-05-31T06:58:01.147Z
+updated: 2024-06-01T06:58:01.147Z
 tags: 
   - screen-recording
   - ai video
@@ -208,4 +208,5 @@ Also, while doing this conversion, make customizations based on the type of comm
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

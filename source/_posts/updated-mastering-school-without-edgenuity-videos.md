@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering School Without Edgenuity Videos"
-date: 2024-05-27 10:50:47
-updated: 2024-05-28 11:53:29
+date: 2024-05-31T06:56:57.965Z
+updated: 2024-06-01T06:56:57.965Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Edgenuity is a great learning program. Not having a skip button makes it, so stu
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

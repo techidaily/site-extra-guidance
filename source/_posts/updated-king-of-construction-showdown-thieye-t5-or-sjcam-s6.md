@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] King of Construction Showdown  Thieye T5 or SJCAM S6?\""
-date: 2024-05-25 23:39:27
-updated: 2024-05-28 12:36:54
+date: 2024-05-31T06:54:56.544Z
+updated: 2024-06-01T06:54:56.544Z
 tags: 
   - screen-recording
   - ai video
@@ -466,4 +466,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

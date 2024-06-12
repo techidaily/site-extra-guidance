@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Picsart Guide  Adding Motion Blur to Facial Shots for Dynamic Images\""
-date: 2024-05-28 19:52:40
-updated: 2024-05-29 10:31:19
+date: 2024-05-31T06:54:06.058Z
+updated: 2024-06-01T06:54:06.058Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ This article has provided a comprehensive guide on how to do motion blur on Pics
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

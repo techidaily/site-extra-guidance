@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Magnify Marvel  The Ultimate 10 Camera Lens Guide\""
-date: 2024-05-25 18:39:14
-updated: 2024-05-28 12:20:58
+date: 2024-05-31T06:57:02.168Z
+updated: 2024-06-01T06:57:02.168Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Another query arises after taking a look at these new camera lens prices. Is it 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

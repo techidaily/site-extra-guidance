@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Precision Photography  Leading Tripods for Smartphones\""
-date: 2024-05-26 23:22:25
-updated: 2024-05-29 11:21:55
+date: 2024-05-31T06:52:50.863Z
+updated: 2024-06-01T06:52:50.863Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

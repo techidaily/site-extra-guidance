@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sharpen Your Shots  Canon Offers Free/Paid LUT Edits\""
-date: 2024-05-29 23:10:44
-updated: 2024-05-31 11:26:27
+date: 2024-05-31T06:55:09.635Z
+updated: 2024-06-01T06:55:09.635Z
 tags: 
   - screen-recording
   - ai video
@@ -180,4 +180,5 @@ Surf the above discussed free and paid version of LUTS and bring out the best in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

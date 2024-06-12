@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Smartphone Security Showdown  IPhone X Vs. Galaxy Recognition Prowess\""
-date: 2024-05-30 17:29:52
-updated: 2024-05-31 12:30:54
+date: 2024-05-31T06:56:24.453Z
+updated: 2024-06-01T06:56:24.453Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

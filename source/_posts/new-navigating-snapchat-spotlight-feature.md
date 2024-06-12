@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Snapchat Spotlight Feature"
-date: 2024-05-26 12:30:58
-updated: 2024-05-29 10:15:25
+date: 2024-05-31T06:57:59.508Z
+updated: 2024-06-01T06:57:59.508Z
 tags: 
   - screen-recording
   - ai video
@@ -279,4 +279,5 @@ This guide helped you understand what Snapchat Spotlight is and how you can post
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

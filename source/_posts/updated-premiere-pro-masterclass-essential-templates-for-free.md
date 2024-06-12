@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Premiere Pro Masterclass - Essential Templates for Free\""
-date: 2024-05-28 18:27:28
-updated: 2024-05-30 10:40:36
+date: 2024-05-31T06:57:41.120Z
+updated: 2024-06-01T06:57:41.120Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ Adobe Premiere Pro may look complex, but ready-made pro templates reduce the com
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

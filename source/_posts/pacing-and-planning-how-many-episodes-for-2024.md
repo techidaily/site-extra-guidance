@@ -1,7 +1,7 @@
 ---
 title: "\"Pacing and Planning  How Many Episodes for 2024\""
-date: 2024-05-28 17:41:32
-updated: 2024-05-29 10:45:26
+date: 2024-05-31T06:55:47.287Z
+updated: 2024-06-01T06:55:47.287Z
 tags: 
   - screen-recording
   - ai video
@@ -911,4 +911,5 @@ Overall, it is important to carefully plan the episode length for your podcast c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Making Sense of Virtual Reality's Promise and Peril for 2024"
-date: 2024-05-25 15:11:10
-updated: 2024-05-28 11:16:51
+date: 2024-05-31T06:53:06.181Z
+updated: 2024-06-01T06:53:06.181Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sony Xperia XZ Superior  A 4K Mobile Experience Analysis\""
-date: 2024-05-30 14:27:12
-updated: 2024-05-31 12:31:46
+date: 2024-05-31T06:52:21.440Z
+updated: 2024-06-01T06:52:21.440Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

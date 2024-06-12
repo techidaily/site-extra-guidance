@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pixiz Masterclass  Merging Photography and Motion\""
-date: 2024-05-27 14:22:12
-updated: 2024-05-29 11:59:21
+date: 2024-05-31T06:53:58.825Z
+updated: 2024-06-01T06:53:58.825Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ So, Pixiz is an excellent service to make photo videos online by just uploading 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

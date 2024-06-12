@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pocket-Sized Picture Playwriting\""
-date: 2024-05-28 20:35:48
-updated: 2024-05-29 12:24:10
+date: 2024-05-31T06:55:05.460Z
+updated: 2024-06-01T06:55:05.460Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

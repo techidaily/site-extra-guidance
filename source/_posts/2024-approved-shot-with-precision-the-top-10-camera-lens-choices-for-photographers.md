@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Shot with Precision  The Top 10 Camera Lens Choices for Photographers\""
-date: 2024-05-29 13:35:43
-updated: 2024-05-31 10:52:55
+date: 2024-05-31T06:53:28.595Z
+updated: 2024-06-01T06:53:28.595Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Another query arises after taking a look at these new camera lens prices. Is it 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Quick Tips for Photo Correction with Adobe's Palette"
-date: 2024-05-27 10:29:53
-updated: 2024-05-30 10:54:42
+date: 2024-05-31T06:52:34.408Z
+updated: 2024-06-01T06:52:34.408Z
 tags: 
   - screen-recording
   - ai video
@@ -646,4 +646,5 @@ IV. The paint tool offers you different brushes depending on the function. For e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Isolating Image Moments From Videos Using Windows Photos Software for 2024"
-date: 2024-05-27 16:36:54
-updated: 2024-05-28 10:24:25
+date: 2024-05-31T06:52:41.078Z
+updated: 2024-06-01T06:52:41.078Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

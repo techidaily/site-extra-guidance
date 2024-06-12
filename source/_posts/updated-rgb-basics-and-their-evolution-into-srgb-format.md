@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Rgb Basics and Their Evolution Into Srgb Format"
-date: 2024-05-27 19:13:35
-updated: 2024-05-30 10:38:52
+date: 2024-05-31T06:56:30.467Z
+updated: 2024-06-01T06:56:30.467Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ As a digital photographer, your main focus can be an artistic expression rather 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

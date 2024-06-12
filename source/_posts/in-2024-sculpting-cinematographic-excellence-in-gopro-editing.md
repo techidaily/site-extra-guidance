@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Sculpting Cinematographic Excellence in GoPro Editing"
-date: 2024-05-29 15:35:41
-updated: 2024-05-30 12:10:40
+date: 2024-05-31T06:55:06.598Z
+updated: 2024-06-01T06:55:06.598Z
 tags: 
   - screen-recording
   - ai video
@@ -486,4 +486,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

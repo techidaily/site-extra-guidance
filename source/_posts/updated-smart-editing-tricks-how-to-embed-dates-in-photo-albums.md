@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Smart Editing Tricks  How to Embed Dates in Photo Albums\""
-date: 2024-05-28 20:15:57
-updated: 2024-05-31 11:21:16
+date: 2024-05-31T06:54:05.126Z
+updated: 2024-06-01T06:54:05.126Z
 tags: 
   - screen-recording
   - ai video
@@ -575,4 +575,5 @@ Hopefully, these steps will be helpful if you ever want to **add a date** or **e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

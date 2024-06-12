@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering the Measurement of Podcast Length"
-date: 2024-05-27 12:53:57
-updated: 2024-05-28 12:58:26
+date: 2024-05-31T06:53:39.842Z
+updated: 2024-06-01T06:53:39.842Z
 tags: 
   - screen-recording
   - ai video
@@ -911,4 +911,5 @@ Overall, it is important to carefully plan the episode length for your podcast c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

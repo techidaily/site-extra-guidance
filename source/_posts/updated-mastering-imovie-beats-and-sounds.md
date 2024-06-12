@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering iMovie Beats and Sounds"
-date: 2024-05-25 14:50:48
-updated: 2024-05-28 11:38:38
+date: 2024-05-31T06:52:47.951Z
+updated: 2024-06-01T06:52:47.951Z
 tags: 
   - screen-recording
   - ai video
@@ -638,4 +638,5 @@ Should you discover that iMovie might not be for you, Filmora is a great startin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

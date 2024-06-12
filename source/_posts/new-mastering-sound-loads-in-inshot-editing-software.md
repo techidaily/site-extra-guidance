@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Sound Loads in InShot Editing Software"
-date: 2024-05-27 12:46:22
-updated: 2024-05-28 11:44:41
+date: 2024-05-31T06:52:33.080Z
+updated: 2024-06-01T06:52:33.080Z
 tags: 
   - screen-recording
   - ai video
@@ -454,4 +454,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

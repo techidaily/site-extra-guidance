@@ -1,7 +1,7 @@
 ---
 title: "[New] Shining Up Your Videos on Android"
-date: 2024-05-29 20:55:18
-updated: 2024-05-31 12:49:21
+date: 2024-05-31T06:54:15.474Z
+updated: 2024-06-01T06:54:15.474Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ If you need to adjust the brightness of your video, a video editing app like Fil
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfecting Your Vocal Harmony in Canva Projects"
-date: 2024-05-26 15:29:15
-updated: 2024-05-29 12:30:22
+date: 2024-05-31T06:55:46.665Z
+updated: 2024-06-01T06:55:46.665Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ All these details will help you understand how to add music on Canva without any
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

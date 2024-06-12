@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Master Class  Selecting the Top 10 4K Shoulder Rigs\""
-date: 2024-05-25 19:15:39
-updated: 2024-05-28 11:46:26
+date: 2024-05-31T06:56:40.740Z
+updated: 2024-06-01T06:56:40.740Z
 tags: 
   - screen-recording
   - ai video
@@ -1082,4 +1082,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

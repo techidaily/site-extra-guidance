@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimizing Video Production in Windows 11 Workflows"
-date: 2024-05-27 19:43:31
-updated: 2024-05-29 12:50:13
+date: 2024-05-31T06:56:32.581Z
+updated: 2024-06-01T06:56:32.581Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

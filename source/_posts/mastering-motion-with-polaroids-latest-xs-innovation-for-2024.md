@@ -1,7 +1,7 @@
 ---
 title: "Mastering Motion with Polaroid's Latest XS Innovation for 2024"
-date: 2024-05-27 15:35:51
-updated: 2024-05-28 12:19:25
+date: 2024-05-31T06:54:31.295Z
+updated: 2024-06-01T06:54:31.295Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

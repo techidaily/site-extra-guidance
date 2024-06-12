@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterclass  From Yi's 4K to Thrilling Cinematography\""
-date: 2024-05-27 23:26:46
-updated: 2024-05-28 11:22:57
+date: 2024-05-31T06:52:23.858Z
+updated: 2024-06-01T06:52:23.858Z
 tags: 
   - screen-recording
   - ai video
@@ -458,4 +458,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

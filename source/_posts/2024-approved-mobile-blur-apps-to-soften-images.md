@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mobile Blur Apps to Soften Images\""
-date: 2024-05-25 16:18:15
-updated: 2024-05-28 12:55:27
+date: 2024-05-31T06:54:47.986Z
+updated: 2024-06-01T06:54:47.986Z
 tags: 
   - screen-recording
   - ai video
@@ -762,4 +762,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

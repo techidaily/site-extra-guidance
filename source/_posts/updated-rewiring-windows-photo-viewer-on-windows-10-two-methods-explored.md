@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Rewiring Windows Photo Viewer on Windows 10 - Two Methods Explored\""
-date: 2024-05-27 12:36:38
-updated: 2024-05-30 10:31:55
+date: 2024-05-31T06:54:42.209Z
+updated: 2024-06-01T06:54:42.209Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

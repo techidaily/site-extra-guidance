@@ -1,7 +1,7 @@
 ---
 title: "[New] Masterclass Review of Android's Adobe Lightroom"
-date: 2024-05-26 15:19:42
-updated: 2024-05-28 11:52:34
+date: 2024-05-31T06:54:24.181Z
+updated: 2024-06-01T06:54:24.181Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ We hope you find this review informative, and that you can edit your photos with
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

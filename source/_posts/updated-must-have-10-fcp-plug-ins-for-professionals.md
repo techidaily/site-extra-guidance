@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Must-Have 10 FCP Plug-Ins for Professionals\""
-date: 2024-05-26 23:40:49
-updated: 2024-05-29 11:54:25
+date: 2024-05-31T06:56:27.943Z
+updated: 2024-06-01T06:56:27.943Z
 tags: 
   - screen-recording
   - ai video
@@ -267,4 +267,5 @@ Using the various plug-ins into your final cut pro X will enhance your video qua
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

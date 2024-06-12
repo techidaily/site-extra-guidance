@@ -1,7 +1,7 @@
 ---
 title: "[New] Perfect Stitching of GoPro Videos Into Complete 360 Imagery"
-date: 2024-05-28 22:23:13
-updated: 2024-05-29 10:29:29
+date: 2024-05-31T06:56:06.006Z
+updated: 2024-06-01T06:56:06.006Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

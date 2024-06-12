@@ -1,7 +1,7 @@
 ---
 title: "Photo/Video Letter Artistry for 2024"
-date: 2024-05-27 19:17:47
-updated: 2024-05-29 11:40:29
+date: 2024-05-31T06:55:05.271Z
+updated: 2024-06-01T06:55:05.271Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ This tool allows you to distort text by adding a wavy effect to it. To use this 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

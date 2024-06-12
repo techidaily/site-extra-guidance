@@ -1,7 +1,7 @@
 ---
 title: "\"Light's Play  Our Picks for The Top 10 Photographic Lenses for 2024\""
-date: 2024-05-27 22:53:49
-updated: 2024-05-28 10:23:32
+date: 2024-05-31T06:52:14.594Z
+updated: 2024-06-01T06:52:14.595Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Another query arises after taking a look at these new camera lens prices. Is it 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Google's Podcast Publishing Process"
-date: 2024-05-26 23:49:40
-updated: 2024-05-28 11:44:34
+date: 2024-05-31T06:55:04.297Z
+updated: 2024-06-01T06:55:04.297Z
 tags: 
   - screen-recording
   - ai video
@@ -303,4 +303,5 @@ So get started now and create your Google Podcast!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

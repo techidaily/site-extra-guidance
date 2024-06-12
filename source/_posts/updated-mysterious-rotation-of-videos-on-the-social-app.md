@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mysterious Rotation of Videos on the Social App"
-date: 2024-05-28 13:45:17
-updated: 2024-05-29 11:10:13
+date: 2024-05-31T06:54:37.312Z
+updated: 2024-06-01T06:54:37.312Z
 tags: 
   - screen-recording
   - ai video
@@ -884,4 +884,5 @@ This occurs because most individuals use their phone cameras upside down, requir
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

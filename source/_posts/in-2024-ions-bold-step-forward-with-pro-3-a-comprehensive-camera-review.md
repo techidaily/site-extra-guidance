@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, ION's Bold Step Forward with Pro 3 - A Comprehensive Camera Review\""
-date: 2024-05-25 16:24:46
-updated: 2024-05-27 11:27:46
+date: 2024-05-31T06:52:34.318Z
+updated: 2024-06-01T06:52:34.318Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

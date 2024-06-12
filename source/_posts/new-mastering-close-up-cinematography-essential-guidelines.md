@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Close-Up Cinematography  Essential Guidelines\""
-date: 2024-05-26 20:30:20
-updated: 2024-05-28 10:41:12
+date: 2024-05-31T06:57:45.824Z
+updated: 2024-06-01T06:57:45.824Z
 tags: 
   - screen-recording
   - ai video
@@ -394,4 +394,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

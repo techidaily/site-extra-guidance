@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Drones in Media Production"
-date: 2024-05-27 12:31:59
-updated: 2024-05-28 12:32:27
+date: 2024-05-31T06:57:19.149Z
+updated: 2024-06-01T06:57:19.149Z
 tags: 
   - screen-recording
   - ai video
@@ -466,4 +466,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

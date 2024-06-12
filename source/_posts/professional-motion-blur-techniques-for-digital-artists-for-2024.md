@@ -1,7 +1,7 @@
 ---
 title: "Professional Motion Blur Techniques for Digital Artists for 2024"
-date: 2024-05-28 12:18:20
-updated: 2024-05-30 11:39:51
+date: 2024-05-31T06:54:00.129Z
+updated: 2024-06-01T06:54:00.129Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Do you want to add an artistic look to your photos? One of the great ways to enh
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quiet Cinematic Dialogue Draft"
-date: 2024-05-27 19:56:18
-updated: 2024-05-30 12:14:39
+date: 2024-05-31T06:57:12.621Z
+updated: 2024-06-01T06:57:12.621Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

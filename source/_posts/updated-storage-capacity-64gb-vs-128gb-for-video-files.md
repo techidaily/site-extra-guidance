@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Storage Capacity  64GB vs 128GB for Video Files\""
-date: 2024-05-29 14:48:24
-updated: 2024-05-31 10:25:36
+date: 2024-05-31T06:54:02.715Z
+updated: 2024-06-01T06:54:02.715Z
 tags: 
   - screen-recording
   - ai video
@@ -524,4 +524,5 @@ A wide range of softwares and applications help with video compressing features 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

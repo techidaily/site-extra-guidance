@@ -1,7 +1,7 @@
 ---
 title: "Speaking and Listening to Create Better Decks for 2024"
-date: 2024-05-28 18:12:34
-updated: 2024-05-31 10:19:49
+date: 2024-05-31T06:54:40.469Z
+updated: 2024-06-01T06:54:40.469Z
 tags: 
   - screen-recording
   - ai video
@@ -320,4 +320,5 @@ Speech-to-text is an additional feature for all users. Typing is, however, the d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

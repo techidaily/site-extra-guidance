@@ -1,7 +1,7 @@
 ---
 title: "[New] Masterclass in Minimal Photoshop Alterations"
-date: 2024-05-25 11:11:19
-updated: 2024-05-28 10:22:43
+date: 2024-05-31T06:57:08.213Z
+updated: 2024-06-01T06:57:08.213Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ Without any doubt, Adobe Photoshop is one of the notorious tools to conduct adva
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

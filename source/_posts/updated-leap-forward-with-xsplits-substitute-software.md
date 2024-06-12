@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Leap Forward with Xsplit's Substitute Software"
-date: 2024-05-25 17:35:36
-updated: 2024-05-28 10:53:16
+date: 2024-05-31T06:58:00.632Z
+updated: 2024-06-01T06:58:00.632Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

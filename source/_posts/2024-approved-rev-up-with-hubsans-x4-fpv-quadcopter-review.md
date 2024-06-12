@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Rev Up with Hubsan's X4 FPV Quadcopter Review\""
-date: 2024-05-27 18:31:23
-updated: 2024-05-30 11:58:21
+date: 2024-05-31T06:55:05.708Z
+updated: 2024-06-01T06:55:05.708Z
 tags: 
   - screen-recording
   - ai video
@@ -490,4 +490,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

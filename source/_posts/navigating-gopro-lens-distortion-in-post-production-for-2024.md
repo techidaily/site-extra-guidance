@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating GoPro Lens Distortion in Post-Production for 2024\""
-date: 2024-05-27 21:28:24
-updated: 2024-05-29 12:49:23
+date: 2024-05-31T06:54:25.571Z
+updated: 2024-06-01T06:54:25.571Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

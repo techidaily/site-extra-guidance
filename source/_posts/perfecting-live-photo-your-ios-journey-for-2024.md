@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting Live Photo  Your iOS Journey for 2024\""
-date: 2024-05-27 15:46:14
-updated: 2024-05-29 11:53:34
+date: 2024-05-31T06:57:23.163Z
+updated: 2024-06-01T06:57:23.163Z
 tags: 
   - screen-recording
   - ai video
@@ -410,4 +410,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

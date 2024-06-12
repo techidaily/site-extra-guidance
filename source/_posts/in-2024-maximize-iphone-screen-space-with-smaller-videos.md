@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Maximize iPhone Screen Space with Smaller Videos"
-date: 2024-05-26 16:52:37
-updated: 2024-05-28 10:57:18
+date: 2024-05-31T06:58:00.961Z
+updated: 2024-06-01T06:58:00.961Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

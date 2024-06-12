@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quieting Audio Fades in Ableton Live\""
-date: 2024-05-28 16:36:49
-updated: 2024-05-30 10:41:52
+date: 2024-05-31T06:52:55.423Z
+updated: 2024-06-01T06:52:55.423Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ In essence, Ableton just refuses to display fades on certain songs. Fades won't 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Slick Quick Fades in Premiere for 2024"
-date: 2024-05-29 13:45:57
-updated: 2024-05-31 10:50:15
+date: 2024-05-31T06:53:08.959Z
+updated: 2024-06-01T06:53:08.959Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ All these details will help you get some clarity to understand the best way to f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

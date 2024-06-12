@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step  Build Your Own Google Cardboard VR Setup for 2024\""
-date: 2024-05-30 15:31:22
-updated: 2024-05-31 11:52:22
+date: 2024-05-31T06:54:12.381Z
+updated: 2024-06-01T06:54:12.381Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

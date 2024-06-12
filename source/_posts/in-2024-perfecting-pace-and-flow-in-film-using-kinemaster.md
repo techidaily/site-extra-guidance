@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Perfecting Pace and Flow in Film Using Kinemaster"
-date: 2024-05-26 13:30:35
-updated: 2024-05-29 12:14:47
+date: 2024-05-31T06:54:22.346Z
+updated: 2024-06-01T06:54:22.346Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Thus, in this guide, you learned how to add transition effect in Kinemaster and 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

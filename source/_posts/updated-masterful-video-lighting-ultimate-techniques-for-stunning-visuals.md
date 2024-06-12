@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Masterful Video Lighting  Ultimate Techniques for Stunning Visuals\""
-date: 2024-05-25 12:42:27
-updated: 2024-05-28 11:33:18
+date: 2024-05-31T06:53:32.444Z
+updated: 2024-06-01T06:53:32.444Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

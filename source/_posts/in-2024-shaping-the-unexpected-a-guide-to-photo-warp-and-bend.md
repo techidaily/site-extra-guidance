@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Shaping the Unexpected  A Guide to Photo Warp and Bend\""
-date: 2024-05-28 18:23:19
-updated: 2024-05-30 10:17:59
+date: 2024-05-31T06:52:29.671Z
+updated: 2024-06-01T06:52:29.671Z
 tags: 
   - screen-recording
   - ai video
@@ -882,4 +882,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

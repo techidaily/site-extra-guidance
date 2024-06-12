@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pioneering Photography with Quantum HDR Tech\""
-date: 2024-05-26 14:27:47
-updated: 2024-05-29 11:10:55
+date: 2024-05-31T06:52:13.583Z
+updated: 2024-06-01T06:52:13.583Z
 tags: 
   - screen-recording
   - ai video
@@ -202,4 +202,5 @@ All essential information anyone could want to know about Quantum HDR has been d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

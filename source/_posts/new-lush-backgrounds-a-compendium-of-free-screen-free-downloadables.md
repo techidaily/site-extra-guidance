@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Lush Backgrounds  A Compendium of Free Screen-Free Downloadables\""
-date: 2024-05-26 14:14:44
-updated: 2024-05-28 11:48:59
+date: 2024-05-31T06:57:10.646Z
+updated: 2024-06-01T06:57:10.646Z
 tags: 
   - screen-recording
   - ai video
@@ -192,4 +192,5 @@ Using a green screen template for your project outweighs other processes. Howeve
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] IPhone Photography Lighting Tips"
-date: 2024-05-27 17:19:25
-updated: 2024-05-28 10:47:58
+date: 2024-05-31T06:57:52.296Z
+updated: 2024-06-01T06:57:52.296Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

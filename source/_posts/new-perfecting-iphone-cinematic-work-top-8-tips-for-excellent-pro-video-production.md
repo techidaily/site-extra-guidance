@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfecting iPhone Cinematic Work  Top 8 Tips for Excellent Pro Video Production\""
-date: 2024-05-28 16:45:21
-updated: 2024-05-29 12:56:35
+date: 2024-05-31T06:53:04.071Z
+updated: 2024-06-01T06:53:04.071Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

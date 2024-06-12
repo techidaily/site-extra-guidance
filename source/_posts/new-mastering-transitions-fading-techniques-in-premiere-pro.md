@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Transitions  Fading Techniques in Premiere Pro\""
-date: 2024-05-25 14:13:57
-updated: 2024-05-28 12:24:15
+date: 2024-05-31T06:56:09.303Z
+updated: 2024-06-01T06:56:09.303Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ Thus, in this guide, you learned how to add fade-in Premiere and proper edits to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

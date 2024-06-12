@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Skies with Xiaomi's 4K Drone\""
-date: 2024-05-27 15:28:48
-updated: 2024-05-28 12:42:52
+date: 2024-05-31T06:56:37.022Z
+updated: 2024-06-01T06:56:37.022Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Photo Visionaries Guide  Unveiling the Best 6 High-Res Cameras for 2024\""
-date: 2024-05-27 20:43:15
-updated: 2024-05-29 12:49:38
+date: 2024-05-31T06:54:17.866Z
+updated: 2024-06-01T06:54:17.866Z
 tags: 
   - screen-recording
   - ai video
@@ -642,4 +642,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Perfect Pages with Premiere's Fade Techniques"
-date: 2024-05-27 20:38:31
-updated: 2024-05-29 11:18:29
+date: 2024-05-31T06:54:20.023Z
+updated: 2024-06-01T06:54:20.023Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ Thus, in this guide, you learned how to add fade-in Premiere and proper edits to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

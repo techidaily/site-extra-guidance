@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Strategic Lighting for Best iPhone Photography\""
-date: 2024-05-29 20:11:29
-updated: 2024-05-31 12:56:31
+date: 2024-05-31T06:58:00.131Z
+updated: 2024-06-01T06:58:00.131Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

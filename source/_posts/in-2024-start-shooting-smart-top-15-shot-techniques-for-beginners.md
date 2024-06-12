@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Start Shooting Smart  Top 15 Shot Techniques for Beginners\""
-date: 2024-05-28 21:53:42
-updated: 2024-05-31 10:25:49
+date: 2024-05-31T06:55:23.444Z
+updated: 2024-06-01T06:55:23.444Z
 tags: 
   - screen-recording
   - ai video
@@ -670,4 +670,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

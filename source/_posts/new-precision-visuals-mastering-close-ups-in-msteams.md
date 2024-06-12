@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Precision Visuals  Mastering Close-Ups in MSTEAMS\""
-date: 2024-05-27 21:25:41
-updated: 2024-05-29 11:35:58
+date: 2024-05-31T06:52:59.104Z
+updated: 2024-06-01T06:52:59.104Z
 tags: 
   - screen-recording
   - ai video
@@ -123,4 +123,5 @@ With Zoom and Teams, you can do most business from different places thanks to it
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

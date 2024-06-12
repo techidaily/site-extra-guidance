@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Starting a Podcast  Financial Planning Essentials\""
-date: 2024-05-30 23:28:48
-updated: 2024-05-31 11:29:56
+date: 2024-05-31T06:52:32.681Z
+updated: 2024-06-01T06:52:32.681Z
 tags: 
   - screen-recording
   - ai video
@@ -480,4 +480,5 @@ You don't need to spend your wealth just to start a podcast channel. As you can 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

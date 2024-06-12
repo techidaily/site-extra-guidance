@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shades and Tones  Elevating Your Visuals\""
-date: 2024-05-29 21:42:36
-updated: 2024-05-30 11:35:43
+date: 2024-05-31T06:56:14.332Z
+updated: 2024-06-01T06:56:14.332Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

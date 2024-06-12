@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Real-Time Screen Aspects Management Guide\""
-date: 2024-05-27 23:47:20
-updated: 2024-05-30 11:52:45
+date: 2024-05-31T06:56:03.172Z
+updated: 2024-06-01T06:56:03.172Z
 tags: 
   - screen-recording
   - ai video
@@ -986,4 +986,5 @@ When you go to the "DVD" tab, you will notice various aspect ratio options. Swit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Soft Image Effects in iPhone Photography (4 Tips!)"
-date: 2024-05-26 12:11:36
-updated: 2024-05-28 12:42:13
+date: 2024-05-31T06:54:04.981Z
+updated: 2024-06-01T06:54:04.981Z
 tags: 
   - screen-recording
   - ai video
@@ -448,4 +448,5 @@ Blurring the background in a photo ensures that the main subject remains in the 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

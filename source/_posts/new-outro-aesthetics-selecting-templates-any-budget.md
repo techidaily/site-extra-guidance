@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Outro Aesthetics  Selecting Templates, Any Budget\""
-date: 2024-05-27 20:34:46
-updated: 2024-05-29 12:15:16
+date: 2024-05-31T06:57:53.853Z
+updated: 2024-06-01T06:57:53.853Z
 tags: 
   - screen-recording
   - ai video
@@ -164,4 +164,5 @@ We hope you found this guide helpful in finding the right **Thanks for Watching 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Learn Video Editing Made Simple  Mastering Movie Maker on W11\""
-date: 2024-05-25 23:53:51
-updated: 2024-05-28 10:47:42
+date: 2024-05-31T06:54:17.182Z
+updated: 2024-06-01T06:54:17.182Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ In this article, you have learned about various video editors available on Windo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

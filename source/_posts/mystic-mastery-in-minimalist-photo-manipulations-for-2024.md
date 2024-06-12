@@ -1,7 +1,7 @@
 ---
 title: "Mystic Mastery in Minimalist Photo Manipulations for 2024"
-date: 2024-05-27 15:27:17
-updated: 2024-05-29 10:10:36
+date: 2024-05-31T06:53:11.149Z
+updated: 2024-06-01T06:53:11.149Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ Without any doubt, Adobe Photoshop is one of the notorious tools to conduct adva
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Simple Steps to Curve an Image in Photoshop"
-date: 2024-05-28 14:55:43
-updated: 2024-05-31 10:32:55
+date: 2024-05-31T06:54:53.033Z
+updated: 2024-06-01T06:54:53.033Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

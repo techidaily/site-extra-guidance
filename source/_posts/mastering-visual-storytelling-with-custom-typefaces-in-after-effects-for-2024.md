@@ -1,7 +1,7 @@
 ---
 title: "Mastering Visual Storytelling with Custom Typefaces in After Effects for 2024"
-date: 2024-05-25 22:30:13
-updated: 2024-05-28 11:54:16
+date: 2024-05-31T06:54:46.630Z
+updated: 2024-06-01T06:54:46.630Z
 tags: 
   - screen-recording
   - ai video
@@ -129,4 +129,5 @@ The article discussed the detailed process of **how to add font to Adobe After E
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

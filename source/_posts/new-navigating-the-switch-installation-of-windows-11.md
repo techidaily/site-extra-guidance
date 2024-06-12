@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating the Switch  Installation of Windows 11\""
-date: 2024-05-28 11:12:35
-updated: 2024-05-29 11:57:48
+date: 2024-05-31T06:57:26.980Z
+updated: 2024-06-01T06:57:26.980Z
 tags: 
   - screen-recording
   - ai video
@@ -702,4 +702,5 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Premium PSD Free 3D Text Treasure Hunt\""
-date: 2024-05-29 22:12:23
-updated: 2024-05-30 12:10:33
+date: 2024-05-31T06:57:03.061Z
+updated: 2024-06-01T06:57:03.061Z
 tags: 
   - screen-recording
   - ai video
@@ -463,4 +463,5 @@ Hopefully, this article was helpful, and you can now easily access the 3D text f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

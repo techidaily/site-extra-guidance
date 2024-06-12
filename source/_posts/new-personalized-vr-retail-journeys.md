@@ -1,7 +1,7 @@
 ---
 title: "[New] Personalized VR Retail Journeys"
-date: 2024-05-26 13:44:54
-updated: 2024-05-29 11:56:27
+date: 2024-05-31T06:52:49.386Z
+updated: 2024-06-01T06:52:49.386Z
 tags: 
   - screen-recording
   - ai video
@@ -194,4 +194,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

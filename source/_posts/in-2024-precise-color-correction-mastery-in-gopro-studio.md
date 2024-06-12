@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Precise Color Correction Mastery in GoPro Studio"
-date: 2024-05-27 18:27:55
-updated: 2024-05-29 10:20:33
+date: 2024-05-31T06:53:33.621Z
+updated: 2024-06-01T06:53:33.621Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

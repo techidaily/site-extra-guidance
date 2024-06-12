@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Sierra Users, Meet the Future of Video Editing Tools"
-date: 2024-05-29 19:44:27
-updated: 2024-05-31 11:17:54
+date: 2024-05-31T06:57:02.198Z
+updated: 2024-06-01T06:57:02.198Z
 tags: 
   - screen-recording
   - ai video
@@ -290,4 +290,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

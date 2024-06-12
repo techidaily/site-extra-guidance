@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Spectrum Mastery  In-Depth Color Techniques\""
-date: 2024-05-29 19:23:50
-updated: 2024-05-31 10:21:20
+date: 2024-05-31T06:56:27.757Z
+updated: 2024-06-01T06:56:27.757Z
 tags: 
   - screen-recording
   - ai video
@@ -94,4 +94,5 @@ By including this into your thought process when creating videos with [Filmora](
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

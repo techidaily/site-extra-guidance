@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Palette Perfection  The Colorist's Manual\""
-date: 2024-05-26 17:47:27
-updated: 2024-05-29 12:39:36
+date: 2024-05-31T06:56:42.747Z
+updated: 2024-06-01T06:56:42.747Z
 tags: 
   - screen-recording
   - ai video
@@ -94,4 +94,5 @@ By including this into your thought process when creating videos with [Filmora](
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

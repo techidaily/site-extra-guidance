@@ -1,7 +1,7 @@
 ---
 title: "\"Podcaster's Playbook  Submitting to Apple for 2024\""
-date: 2024-05-27 14:56:43
-updated: 2024-05-29 12:31:26
+date: 2024-05-31T06:55:33.459Z
+updated: 2024-06-01T06:55:33.459Z
 tags: 
   - screen-recording
   - ai video
@@ -260,4 +260,5 @@ This article discusses what it takes to get featured on the Apple Podcasts podca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

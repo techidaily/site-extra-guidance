@@ -1,7 +1,7 @@
 ---
 title: "How to Use OBS Streamlabs on Mac？ for 2024"
-date: 2024-05-28 19:36:52
-updated: 2024-05-29 11:19:22
+date: 2024-05-31T06:56:06.599Z
+updated: 2024-06-01T06:56:06.599Z
 tags: 
   - screen-recording
   - ai video
@@ -474,4 +474,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

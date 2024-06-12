@@ -1,7 +1,7 @@
 ---
 title: "[New] Stages of Change"
-date: 2024-05-30 14:33:47
-updated: 2024-05-31 11:17:10
+date: 2024-05-31T06:56:40.862Z
+updated: 2024-06-01T06:56:40.862Z
 tags: 
   - screen-recording
   - ai video
@@ -134,4 +134,5 @@ While the horizon of online edit JPG tools is broad, you can still find one to s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

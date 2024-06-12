@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Perfecting the Art of Sound Blending  A Comprehensive Audacity Workshop Series\""
-date: 2024-05-26 21:56:24
-updated: 2024-05-29 10:58:44
+date: 2024-05-31T06:54:05.373Z
+updated: 2024-06-01T06:54:05.373Z
 tags: 
   - screen-recording
   - ai video
@@ -188,4 +188,5 @@ In summary, Audacity is a free audio tool that's really simple to use. By utiliz
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Preventing Shake in Photographic Imagery"
-date: 2024-05-28 13:17:59
-updated: 2024-05-30 10:23:30
+date: 2024-05-31T06:57:33.335Z
+updated: 2024-06-01T06:57:33.335Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ That's why awareness can go a long way towards helping you catch potential probl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

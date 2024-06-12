@@ -1,7 +1,7 @@
 ---
 title: "[New] Jungle Beat Parrots"
-date: 2024-05-27 22:41:58
-updated: 2024-05-28 12:13:17
+date: 2024-05-31T06:56:43.099Z
+updated: 2024-06-01T06:56:43.099Z
 tags: 
   - screen-recording
   - ai video
@@ -294,4 +294,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

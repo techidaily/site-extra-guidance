@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Leveraging Video Technology in Teaching Practices"
-date: 2024-05-27 22:45:57
-updated: 2024-05-28 12:29:34
+date: 2024-05-31T06:54:52.142Z
+updated: 2024-06-01T06:54:52.142Z
 tags: 
   - screen-recording
   - ai video
@@ -97,4 +97,5 @@ More and more research supporting the advantages of blended learning will suppor
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

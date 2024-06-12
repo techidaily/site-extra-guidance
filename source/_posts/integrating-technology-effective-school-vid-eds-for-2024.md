@@ -1,7 +1,7 @@
 ---
 title: "\"Integrating Technology  Effective School Vid Eds for 2024\""
-date: 2024-05-26 18:49:53
-updated: 2024-05-27 10:15:47
+date: 2024-05-31T06:53:24.690Z
+updated: 2024-06-01T06:53:24.690Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

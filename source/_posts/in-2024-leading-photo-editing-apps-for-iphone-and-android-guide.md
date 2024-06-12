@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Leading Photo Editing Apps for iPhone & Android Guide"
-date: 2024-05-27 16:14:19
-updated: 2024-05-28 11:18:55
+date: 2024-05-31T06:54:06.141Z
+updated: 2024-06-01T06:54:06.141Z
 tags: 
   - screen-recording
   - ai video
@@ -1134,4 +1134,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Practice Empathy  Put Yourself in the Speaker's Shoes and Try to Understand Their Perspective, Emotions, and Motivations\""
-date: 2024-05-28 13:15:54
-updated: 2024-05-29 10:15:51
+date: 2024-05-31T06:56:43.690Z
+updated: 2024-06-01T06:56:43.690Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ Yes, Voiced is also available on mobile as well. You can also use Voicemod on yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

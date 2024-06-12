@@ -1,7 +1,7 @@
 ---
 title: "[New] Link Audio Clips to PowerPoint Slides"
-date: 2024-05-25 15:32:35
-updated: 2024-05-28 12:14:25
+date: 2024-05-31T06:57:27.859Z
+updated: 2024-06-01T06:57:27.859Z
 tags: 
   - screen-recording
   - ai video
@@ -840,4 +840,5 @@ So, we'd like to conclude our tutorial here on how to add Audio to PowerPoint wi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

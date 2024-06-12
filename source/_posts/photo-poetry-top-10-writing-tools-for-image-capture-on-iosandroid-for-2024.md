@@ -1,7 +1,7 @@
 ---
 title: "\"Photo Poetry  Top 10 Writing Tools for Image Capture on iOS/Android for 2024\""
-date: 2024-05-27 22:19:51
-updated: 2024-05-29 10:23:41
+date: 2024-05-31T06:53:00.784Z
+updated: 2024-06-01T06:53:00.784Z
 tags: 
   - screen-recording
   - ai video
@@ -485,4 +485,5 @@ It's now a difficult task if you want to add text to your photos. Instead, it's 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

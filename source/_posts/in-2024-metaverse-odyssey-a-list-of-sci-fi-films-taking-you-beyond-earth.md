@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Metaverse Odyssey  A List of Sci-Fi Films Taking You Beyond Earth\""
-date: 2024-05-27 16:12:21
-updated: 2024-05-28 11:11:38
+date: 2024-05-31T06:56:09.929Z
+updated: 2024-06-01T06:56:09.929Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ The world is heading for a more advanced form of technology that would go beyond
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Metaverse's Most Social Spaces for Friends for 2024"
-date: 2024-05-26 22:50:25
-updated: 2024-05-28 10:58:13
+date: 2024-05-31T06:57:58.695Z
+updated: 2024-06-01T06:57:58.695Z
 tags: 
   - screen-recording
   - ai video
@@ -542,4 +542,5 @@ These Facebook virtual reality games are the doors to the following significant 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

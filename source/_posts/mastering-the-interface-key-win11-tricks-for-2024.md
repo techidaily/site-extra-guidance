@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering the Interface  Key Win11 Tricks for 2024\""
-date: 2024-05-25 13:36:32
-updated: 2024-05-28 12:59:43
+date: 2024-05-31T06:57:44.001Z
+updated: 2024-06-01T06:57:44.001Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step Tips for Green Screen Cinematography Success\""
-date: 2024-05-29 15:11:24
-updated: 2024-05-31 12:13:10
+date: 2024-05-31T06:57:10.389Z
+updated: 2024-06-01T06:57:10.389Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

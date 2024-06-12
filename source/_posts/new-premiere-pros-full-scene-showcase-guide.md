@@ -1,7 +1,7 @@
 ---
 title: "[New] Premiere Pro's Full Scene Showcase Guide"
-date: 2024-05-27 11:49:43
-updated: 2024-05-30 11:31:34
+date: 2024-05-31T06:55:59.604Z
+updated: 2024-06-01T06:55:59.604Z
 tags: 
   - screen-recording
   - ai video
@@ -227,4 +227,5 @@ In addition, it enables you to collaborate with partners if you are working on a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

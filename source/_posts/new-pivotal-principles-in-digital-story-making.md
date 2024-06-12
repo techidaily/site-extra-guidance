@@ -1,7 +1,7 @@
 ---
 title: "[New] Pivotal Principles in Digital Story Making"
-date: 2024-05-26 23:20:52
-updated: 2024-05-29 11:26:51
+date: 2024-05-31T06:52:54.979Z
+updated: 2024-06-01T06:52:54.979Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ Everybody has a narrative, but the craft of digital storytelling can transform a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

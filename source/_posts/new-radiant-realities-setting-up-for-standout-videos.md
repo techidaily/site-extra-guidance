@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Radiant Realities  Setting Up for Standout Videos\""
-date: 2024-05-29 13:26:13
-updated: 2024-05-30 12:14:33
+date: 2024-05-31T06:54:12.936Z
+updated: 2024-06-01T06:54:12.936Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

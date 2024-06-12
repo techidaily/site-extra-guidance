@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Journey Into the Realm of Time Lapses  Expert Tips for Hero 10\""
-date: 2024-05-27 18:43:45
-updated: 2024-05-28 12:31:10
+date: 2024-05-31T06:54:47.507Z
+updated: 2024-06-01T06:54:47.507Z
 tags: 
   - screen-recording
   - ai video
@@ -598,4 +598,5 @@ In addition, we've included some helpful pointers which will make filming slow-m
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

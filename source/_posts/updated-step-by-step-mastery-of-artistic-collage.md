@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Mastery of Artistic Collage\""
-date: 2024-05-30 12:29:22
-updated: 2024-05-31 11:28:30
+date: 2024-05-31T06:56:22.352Z
+updated: 2024-06-01T06:56:22.352Z
 tags: 
   - screen-recording
   - ai video
@@ -1166,4 +1166,5 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating Closer Views for Efficient Tech Meetings"
-date: 2024-05-28 11:11:24
-updated: 2024-05-29 10:55:21
+date: 2024-05-31T06:52:22.540Z
+updated: 2024-06-01T06:52:22.540Z
 tags: 
   - screen-recording
   - ai video
@@ -123,4 +123,5 @@ With Zoom and Teams, you can do most business from different places thanks to it
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

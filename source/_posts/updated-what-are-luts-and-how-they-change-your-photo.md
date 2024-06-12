@@ -1,7 +1,7 @@
 ---
 title: "[Updated] What Are LUTs and How They Change Your Photo"
-date: 2024-05-27 20:44:49
-updated: 2024-05-28 12:46:26
+date: 2024-05-31T06:54:57.468Z
+updated: 2024-06-01T06:54:57.468Z
 tags: 
   - screen-recording
   - ai video
@@ -133,4 +133,5 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

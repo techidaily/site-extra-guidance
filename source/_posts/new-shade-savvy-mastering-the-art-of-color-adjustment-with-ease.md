@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shade Savvy  Mastering the Art of Color Adjustment with Ease\""
-date: 2024-05-29 23:51:48
-updated: 2024-05-30 11:39:38
+date: 2024-05-31T06:55:55.504Z
+updated: 2024-06-01T06:55:55.504Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Apply the gradient by clicking within the shapes. Click “OK” to save your ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

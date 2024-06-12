@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Splendid Scenery  Crafting Visuals with Strategic Lighting\""
-date: 2024-05-28 23:54:29
-updated: 2024-05-31 12:30:24
+date: 2024-05-31T06:53:11.632Z
+updated: 2024-06-01T06:53:11.632Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

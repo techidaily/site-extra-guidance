@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Revolutionizing Action Video with Polaroid XS 100I"
-date: 2024-05-28 22:38:46
-updated: 2024-05-30 11:30:26
+date: 2024-05-31T06:55:56.520Z
+updated: 2024-06-01T06:55:56.520Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

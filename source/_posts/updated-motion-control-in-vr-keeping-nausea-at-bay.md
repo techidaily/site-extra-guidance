@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Motion Control in VR  Keeping Nausea at Bay\""
-date: 2024-05-26 22:42:17
-updated: 2024-05-29 10:59:11
+date: 2024-05-31T06:55:44.980Z
+updated: 2024-06-01T06:55:44.980Z
 tags: 
   - screen-recording
   - ai video
@@ -166,4 +166,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

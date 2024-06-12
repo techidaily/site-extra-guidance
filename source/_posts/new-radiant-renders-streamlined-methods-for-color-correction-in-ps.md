@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Radiant Renders  Streamlined Methods for Color Correction in PS\""
-date: 2024-05-29 22:48:19
-updated: 2024-05-30 12:23:15
+date: 2024-05-31T06:54:57.946Z
+updated: 2024-06-01T06:54:57.946Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Apply the gradient by clicking within the shapes. Click “OK” to save your ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

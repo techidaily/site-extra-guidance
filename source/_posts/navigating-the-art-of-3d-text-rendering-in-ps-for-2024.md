@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Art of 3D Text Rendering in PS for 2024"
-date: 2024-05-27 23:13:10
-updated: 2024-05-29 12:29:55
+date: 2024-05-31T06:57:12.329Z
+updated: 2024-06-01T06:57:12.329Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Launch & Lay the Foundations of XP's Video Craft\""
-date: 2024-05-25 14:32:53
-updated: 2024-05-28 11:58:25
+date: 2024-05-31T06:55:01.475Z
+updated: 2024-06-01T06:55:01.475Z
 tags: 
   - screen-recording
   - ai video
@@ -135,4 +135,5 @@ Microsoft Photos replaced the famous software, Windows Movie Maker, and the app 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

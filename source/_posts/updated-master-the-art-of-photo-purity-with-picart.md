@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Master the Art of Photo Purity with PicArt"
-date: 2024-05-26 20:33:28
-updated: 2024-05-28 12:40:53
+date: 2024-05-31T06:55:36.021Z
+updated: 2024-06-01T06:55:36.021Z
 tags: 
   - screen-recording
   - ai video
@@ -212,4 +212,5 @@ We hope this article helped resolve your queries, and you can now configure the 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

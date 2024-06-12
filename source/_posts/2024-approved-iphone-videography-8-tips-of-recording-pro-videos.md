@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  IPhone Videography  8 Tips of Recording Pro Videos\""
-date: 2024-05-27 14:12:32
-updated: 2024-05-28 11:50:34
+date: 2024-05-31T06:53:26.847Z
+updated: 2024-06-01T06:53:26.847Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

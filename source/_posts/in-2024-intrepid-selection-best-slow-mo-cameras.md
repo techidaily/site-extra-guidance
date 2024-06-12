@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Intrepid Selection  Best Slow-Mo Cameras\""
-date: 2024-05-25 13:43:30
-updated: 2024-05-27 11:27:58
+date: 2024-05-31T06:55:43.615Z
+updated: 2024-06-01T06:55:43.615Z
 tags: 
   - screen-recording
   - ai video
@@ -116,4 +116,5 @@ Both in controlled lab settings and in actual shooting scenarios, we evaluate ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

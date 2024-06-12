@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pictorial Prowess  5 Easy-to-Follow Collage Tutorials\""
-date: 2024-05-27 12:57:21
-updated: 2024-05-29 11:21:40
+date: 2024-05-31T06:56:47.489Z
+updated: 2024-06-01T06:56:47.489Z
 tags: 
   - screen-recording
   - ai video
@@ -730,4 +730,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

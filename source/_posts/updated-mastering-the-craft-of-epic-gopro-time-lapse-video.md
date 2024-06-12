@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering the Craft of Epic GoPro Time Lapse Video"
-date: 2024-05-25 22:19:58
-updated: 2024-05-28 12:50:13
+date: 2024-05-31T06:57:18.269Z
+updated: 2024-06-01T06:57:18.269Z
 tags: 
   - screen-recording
   - ai video
@@ -550,4 +550,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

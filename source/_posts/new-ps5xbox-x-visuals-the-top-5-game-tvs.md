@@ -1,7 +1,7 @@
 ---
 title: "\"[New] PS5/Xbox X Visuals  The Top 5 Game TVs\""
-date: 2024-05-28 18:54:17
-updated: 2024-05-30 10:32:44
+date: 2024-05-31T06:52:19.544Z
+updated: 2024-06-01T06:52:19.544Z
 tags: 
   - screen-recording
   - ai video
@@ -554,4 +554,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

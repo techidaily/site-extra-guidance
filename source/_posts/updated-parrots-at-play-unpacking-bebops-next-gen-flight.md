@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Parrots at Play  Unpacking Bebop’s Next-Gen Flight\""
-date: 2024-05-28 13:10:29
-updated: 2024-05-29 10:47:21
+date: 2024-05-31T06:57:28.998Z
+updated: 2024-06-01T06:57:28.998Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

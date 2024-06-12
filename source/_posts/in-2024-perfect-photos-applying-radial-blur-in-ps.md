@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Perfect Photos  Applying Radial Blur in PS\""
-date: 2024-05-28 12:33:27
-updated: 2024-05-29 10:51:50
+date: 2024-05-31T06:56:05.008Z
+updated: 2024-06-01T06:56:05.008Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Restore Windows Photo Viewer in Windows 10 (2 Methods)"
-date: 2024-05-28 22:38:47
-updated: 2024-05-30 12:28:47
+date: 2024-05-31T06:57:20.510Z
+updated: 2024-06-01T06:57:20.510Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Premium Motion Mastery Modules for 2024"
-date: 2024-05-29 23:57:47
-updated: 2024-05-30 12:44:51
+date: 2024-05-31T06:57:39.376Z
+updated: 2024-06-01T06:57:39.376Z
 tags: 
   - screen-recording
   - ai video
@@ -100,4 +100,5 @@ As the saying goes, the more the merrier and the more presets you have, the more
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Masterclass 5 in Best Mac Videography Software for 2024"
-date: 2024-05-26 22:10:58
-updated: 2024-05-28 10:18:39
+date: 2024-05-31T06:54:19.088Z
+updated: 2024-06-01T06:54:19.088Z
 tags: 
   - screen-recording
   - ai video
@@ -290,4 +290,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Master Stitching GoPro Content in Extended Panorama Videos"
-date: 2024-05-25 10:10:39
-updated: 2024-05-28 10:36:49
+date: 2024-05-31T06:55:54.048Z
+updated: 2024-06-01T06:55:54.048Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

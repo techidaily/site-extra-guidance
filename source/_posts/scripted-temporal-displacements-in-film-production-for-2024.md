@@ -1,7 +1,7 @@
 ---
 title: "Scripted Temporal Displacements in Film Production for 2024"
-date: 2024-05-28 12:13:36
-updated: 2024-05-30 10:44:11
+date: 2024-05-31T06:58:03.633Z
+updated: 2024-06-01T06:58:03.633Z
 tags: 
   - screen-recording
   - ai video
@@ -520,4 +520,5 @@ Create for you and add different effects and experiment with new features. You w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

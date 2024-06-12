@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pushing the Envelope  How Srgb Replaces Conventional Rgb\""
-date: 2024-05-29 11:55:35
-updated: 2024-05-30 12:33:37
+date: 2024-05-31T06:54:31.245Z
+updated: 2024-06-01T06:54:31.245Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ As a digital photographer, your main focus can be an artistic expression rather 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Flight  A Look at DJI Phantom 3 Professional\""
-date: 2024-05-27 18:52:27
-updated: 2024-05-28 12:42:11
+date: 2024-05-31T06:55:07.774Z
+updated: 2024-06-01T06:55:07.774Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Lightning-Fast Visualization for Win11 Users\""
-date: 2024-05-25 16:57:44
-updated: 2024-05-28 12:11:34
+date: 2024-05-31T06:57:12.565Z
+updated: 2024-06-01T06:57:12.565Z
 tags: 
   - screen-recording
   - ai video
@@ -331,4 +331,5 @@ Access the **Default Apps** menu from the **Settings** option of your OS. Then, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

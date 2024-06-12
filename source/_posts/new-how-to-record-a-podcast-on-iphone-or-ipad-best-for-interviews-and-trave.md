@@ -1,7 +1,7 @@
 ---
 title: "[New] How To Record a Podcast on iPhone or iPad (Best for Interviews & Trave"
-date: 2024-05-29 20:53:18
-updated: 2024-05-30 10:50:24
+date: 2024-05-31T06:56:43.814Z
+updated: 2024-06-01T06:56:43.814Z
 tags: 
   - screen-recording
   - ai video
@@ -404,4 +404,5 @@ All the equipment mentioned above is available at Amazon, and you should grab th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pedagogical Approaches to Video-Enhanced Education\""
-date: 2024-05-27 15:39:12
-updated: 2024-05-29 11:47:51
+date: 2024-05-31T06:52:42.877Z
+updated: 2024-06-01T06:52:42.877Z
 tags: 
   - screen-recording
   - ai video
@@ -97,4 +97,5 @@ More and more research supporting the advantages of blended learning will suppor
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

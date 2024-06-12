@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Instructor's Resource for Enhancing Learning via Video\""
-date: 2024-05-26 13:15:16
-updated: 2024-05-27 12:40:41
+date: 2024-05-31T06:53:22.735Z
+updated: 2024-06-01T06:53:22.735Z
 tags: 
   - screen-recording
   - ai video
@@ -97,4 +97,5 @@ More and more research supporting the advantages of blended learning will suppor
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

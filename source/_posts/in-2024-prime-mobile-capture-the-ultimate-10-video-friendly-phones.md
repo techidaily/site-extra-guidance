@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Prime Mobile Capture  The Ultimate 10 Video-Friendly Phones\""
-date: 2024-05-28 10:47:57
-updated: 2024-05-30 11:33:56
+date: 2024-05-31T06:55:21.839Z
+updated: 2024-06-01T06:55:21.839Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Joining a live cohort where you can learn the methods, tactics, and resources th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Instantaneous Inspector of Images on Windows"
-date: 2024-05-24 20:26:56
-updated: 2024-05-27 12:13:59
+date: 2024-05-31T06:56:41.505Z
+updated: 2024-06-01T06:56:41.505Z
 tags: 
   - screen-recording
   - ai video
@@ -331,4 +331,5 @@ Access the **Default Apps** menu from the **Settings** option of your OS. Then, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

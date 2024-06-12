@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Media Effects  A Comprehensive Guide to Device Filters\""
-date: 2024-05-26 23:15:25
-updated: 2024-05-28 11:18:31
+date: 2024-05-31T06:55:03.561Z
+updated: 2024-06-01T06:55:03.561Z
 tags: 
   - screen-recording
   - ai video
@@ -430,4 +430,5 @@ Kinemaster can also be a boon for iOS device users to add beautiful filters for 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

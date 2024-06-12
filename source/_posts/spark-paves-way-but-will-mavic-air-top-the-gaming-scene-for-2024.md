@@ -1,7 +1,7 @@
 ---
 title: "Spark Paves Way, But Will Mavic Air Top the Gaming Scene for 2024"
-date: 2024-05-29 17:55:44
-updated: 2024-05-31 11:28:46
+date: 2024-05-31T06:56:45.758Z
+updated: 2024-06-01T06:56:45.758Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

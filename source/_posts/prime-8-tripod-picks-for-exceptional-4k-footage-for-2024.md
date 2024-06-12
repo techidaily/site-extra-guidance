@@ -1,7 +1,7 @@
 ---
 title: "Prime 8 Tripod Picks for Exceptional 4K Footage for 2024"
-date: 2024-05-28 19:57:24
-updated: 2024-05-30 10:47:36
+date: 2024-05-31T06:53:13.009Z
+updated: 2024-06-01T06:53:13.009Z
 tags: 
   - screen-recording
   - ai video
@@ -894,4 +894,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

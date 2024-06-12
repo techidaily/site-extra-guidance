@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Premium Headsets for Next-Gen Drone Pilots\""
-date: 2024-05-27 18:26:30
-updated: 2024-05-30 11:11:13
+date: 2024-05-31T06:57:57.388Z
+updated: 2024-06-01T06:57:57.388Z
 tags: 
   - screen-recording
   - ai video
@@ -402,4 +402,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Shooting HDR  IPhone's Pathway to Enhanced Images\""
-date: 2024-05-28 19:43:22
-updated: 2024-05-31 11:58:13
+date: 2024-05-31T06:56:44.630Z
+updated: 2024-06-01T06:56:44.630Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ This article perfectly sums up all the information you need in order to capture 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

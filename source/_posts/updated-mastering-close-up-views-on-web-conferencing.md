@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Close-Up Views on Web Conferencing\""
-date: 2024-05-26 18:22:52
-updated: 2024-05-28 10:32:49
+date: 2024-05-31T06:55:27.060Z
+updated: 2024-06-01T06:55:27.060Z
 tags: 
   - screen-recording
   - ai video
@@ -125,4 +125,5 @@ A standard photo and **zoom video online** editor is convenient when you wish to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

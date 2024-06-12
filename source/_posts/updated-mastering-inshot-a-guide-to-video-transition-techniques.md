@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Inshot  A Guide to Video Transition Techniques\""
-date: 2024-05-26 12:33:20
-updated: 2024-05-28 11:49:54
+date: 2024-05-31T06:52:52.882Z
+updated: 2024-06-01T06:52:52.882Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

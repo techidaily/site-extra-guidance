@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  SRT Decoding for Windows & Mac Users\""
-date: 2024-05-28 23:53:12
-updated: 2024-05-31 11:57:19
+date: 2024-05-31T06:54:18.246Z
+updated: 2024-06-01T06:54:18.246Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ The above listed are several ways by which an SRT subtitle file can be opened on
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

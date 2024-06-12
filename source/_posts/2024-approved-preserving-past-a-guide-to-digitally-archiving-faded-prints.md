@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Preserving Past  A Guide to Digitally Archiving Faded Prints\""
-date: 2024-05-29 12:33:53
-updated: 2024-05-30 10:43:38
+date: 2024-05-31T06:55:52.562Z
+updated: 2024-06-01T06:55:52.562Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

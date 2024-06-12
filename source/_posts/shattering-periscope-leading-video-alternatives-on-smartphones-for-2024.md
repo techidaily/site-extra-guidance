@@ -1,7 +1,7 @@
 ---
 title: "\"Shattering Periscope  Leading Video Alternatives on Smartphones for 2024\""
-date: 2024-05-30 15:20:39
-updated: 2024-05-31 10:38:16
+date: 2024-05-31T06:56:11.133Z
+updated: 2024-06-01T06:56:11.133Z
 tags: 
   - screen-recording
   - ai video
@@ -446,4 +446,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

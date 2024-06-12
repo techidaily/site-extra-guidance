@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Srgb Standardized Vs Traditional Rgb Spectrum\""
-date: 2024-05-28 17:43:45
-updated: 2024-05-31 10:15:32
+date: 2024-05-31T06:55:00.758Z
+updated: 2024-06-01T06:55:00.758Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ As a digital photographer, your main focus can be an artistic expression rather 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

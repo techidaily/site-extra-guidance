@@ -1,7 +1,7 @@
 ---
 title: "[New] Joint Venture Campaigns for Brands on Video Platforms"
-date: 2024-05-26 22:50:50
-updated: 2024-05-28 11:26:22
+date: 2024-05-31T06:55:01.693Z
+updated: 2024-06-01T06:55:01.693Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ When doing a brand collaboration, you must remember don’t lose hope, your firs
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

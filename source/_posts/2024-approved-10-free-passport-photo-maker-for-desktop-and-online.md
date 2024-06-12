@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  10 Free Passport Photo Maker for Desktop and Online\""
-date: 2024-05-27 16:39:53
-updated: 2024-05-29 12:46:10
+date: 2024-05-31T06:53:14.896Z
+updated: 2024-06-01T06:53:14.896Z
 tags: 
   - screen-recording
   - ai video
@@ -134,4 +134,5 @@ The discussion has revolved around the best passport size photo maker tools in t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

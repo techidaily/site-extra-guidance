@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting the Podcast Intros  Captivating Your Audience From the Start for 2024\""
-date: 2024-05-27 12:47:41
-updated: 2024-05-29 12:58:42
+date: 2024-05-31T06:57:34.892Z
+updated: 2024-06-01T06:57:34.892Z
 tags: 
   - screen-recording
   - ai video
@@ -428,4 +428,5 @@ And hopefully, after going over the crux and tips mentioned above, you will be a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

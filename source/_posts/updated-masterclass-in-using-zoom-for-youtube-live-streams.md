@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Masterclass in Using Zoom for YouTube Live Streams"
-date: 2024-05-26 15:11:44
-updated: 2024-05-28 12:44:48
+date: 2024-05-31T06:55:12.692Z
+updated: 2024-06-01T06:55:12.692Z
 tags: 
   - screen-recording
   - ai video
@@ -112,4 +112,5 @@ If you want to live stream Zoom to YouTube, the process is slightly complicated 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

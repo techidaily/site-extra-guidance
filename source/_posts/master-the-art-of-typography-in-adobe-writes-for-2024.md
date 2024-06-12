@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Typography in Adobe' Writes for 2024"
-date: 2024-05-25 14:49:13
-updated: 2024-05-28 10:10:37
+date: 2024-05-31T06:54:06.267Z
+updated: 2024-06-01T06:54:06.267Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ On its own After Effects comes with so many post-production effects and features
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

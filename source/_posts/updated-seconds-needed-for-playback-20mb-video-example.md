@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Seconds Needed for Playback - 20Mb Video Example\""
-date: 2024-05-28 12:35:10
-updated: 2024-05-30 10:26:31
+date: 2024-05-31T06:56:32.877Z
+updated: 2024-06-01T06:56:32.877Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

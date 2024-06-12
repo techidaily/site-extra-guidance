@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastery in Mixing  Pro Tools Prowess Tips and Tricks\""
-date: 2024-05-25 16:15:37
-updated: 2024-05-28 12:20:36
+date: 2024-05-31T06:57:32.143Z
+updated: 2024-06-01T06:57:32.143Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Unlike audio fades, MIDI fades are not implemented in the same manner. One metho
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

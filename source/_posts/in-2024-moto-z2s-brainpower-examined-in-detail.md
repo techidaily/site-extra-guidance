@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Moto Z2's Brainpower Examined in Detail"
-date: 2024-05-26 18:58:30
-updated: 2024-05-29 12:53:15
+date: 2024-05-31T06:55:24.143Z
+updated: 2024-06-01T06:55:24.143Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

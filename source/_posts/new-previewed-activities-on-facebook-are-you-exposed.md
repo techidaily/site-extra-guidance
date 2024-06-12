@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Previewed Activities on Facebook  Are You Exposed?\""
-date: 2024-05-27 21:12:26
-updated: 2024-05-30 11:39:52
+date: 2024-05-31T06:56:18.184Z
+updated: 2024-06-01T06:56:18.184Z
 tags: 
   - screen-recording
   - ai video
@@ -125,4 +125,5 @@ No. Facebook is a cross-platform program, meaning the changes apply to all devic
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

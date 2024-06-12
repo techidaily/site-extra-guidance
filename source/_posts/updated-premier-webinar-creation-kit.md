@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Premier Webinar Creation Kit"
-date: 2024-05-28 21:32:34
-updated: 2024-05-30 10:16:42
+date: 2024-05-31T06:52:47.200Z
+updated: 2024-06-01T06:52:47.200Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Are you having trouble coming up with a title for your most recent webinar? Ther
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

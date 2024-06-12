@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Professional Take  The Syma X5C – Ideal First-Timer's Droning Companion\""
-date: 2024-05-29 13:57:43
-updated: 2024-05-30 11:37:30
+date: 2024-05-31T06:56:30.127Z
+updated: 2024-06-01T06:56:30.127Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

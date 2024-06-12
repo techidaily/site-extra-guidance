@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating 360-Degree Video Adjustments Using Premiere Pro for 2024\""
-date: 2024-05-28 19:28:48
-updated: 2024-05-29 11:23:38
+date: 2024-05-31T06:53:25.558Z
+updated: 2024-06-01T06:53:25.558Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

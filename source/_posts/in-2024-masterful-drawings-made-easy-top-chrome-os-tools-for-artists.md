@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Masterful Drawings Made Easy  Top Chrome OS Tools for Artists\""
-date: 2024-05-26 12:23:17
-updated: 2024-05-28 11:33:28
+date: 2024-05-31T06:55:07.312Z
+updated: 2024-06-01T06:55:07.312Z
 tags: 
   - screen-recording
   - ai video
@@ -570,4 +570,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

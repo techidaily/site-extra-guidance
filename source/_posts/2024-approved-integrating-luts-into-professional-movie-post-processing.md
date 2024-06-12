@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Integrating Luts Into Professional Movie Post-Processing\""
-date: 2024-05-26 10:34:10
-updated: 2024-05-27 12:39:17
+date: 2024-05-31T06:53:16.509Z
+updated: 2024-06-01T06:53:16.509Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ In summary, we've seen some different color grading LUTs that simplify the color
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

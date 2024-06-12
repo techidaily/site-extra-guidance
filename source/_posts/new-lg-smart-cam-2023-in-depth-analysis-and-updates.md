@@ -1,7 +1,7 @@
 ---
 title: "\"[New] LG Smart Cam 2023  In-Depth Analysis & Updates\""
-date: 2024-05-25 19:36:33
-updated: 2024-05-28 12:21:32
+date: 2024-05-31T06:54:26.475Z
+updated: 2024-06-01T06:54:26.475Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

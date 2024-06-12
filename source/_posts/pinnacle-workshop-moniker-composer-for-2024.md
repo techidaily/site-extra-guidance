@@ -1,7 +1,7 @@
 ---
 title: "Pinnacle Workshop Moniker Composer for 2024"
-date: 2024-05-27 15:37:27
-updated: 2024-05-29 10:55:23
+date: 2024-05-31T06:57:02.026Z
+updated: 2024-06-01T06:57:02.026Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Are you having trouble coming up with a title for your most recent webinar? Ther
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

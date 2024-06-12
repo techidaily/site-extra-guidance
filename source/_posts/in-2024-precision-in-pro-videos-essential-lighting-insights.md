@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Precision in Pro Videos  Essential Lighting Insights\""
-date: 2024-05-27 16:19:21
-updated: 2024-05-29 10:16:27
+date: 2024-05-31T06:56:01.065Z
+updated: 2024-06-01T06:56:01.065Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

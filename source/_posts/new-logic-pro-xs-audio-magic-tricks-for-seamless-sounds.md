@@ -1,7 +1,7 @@
 ---
 title: "[New] Logic Pro X's Audio Magic Tricks for Seamless Sounds"
-date: 2024-05-27 16:18:45
-updated: 2024-05-28 10:11:45
+date: 2024-05-31T06:53:38.710Z
+updated: 2024-06-01T06:53:38.710Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Unlike audio fades, MIDI fades are not implemented in the same manner. One metho
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

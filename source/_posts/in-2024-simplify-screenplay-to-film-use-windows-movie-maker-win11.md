@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Simplify Screenplay to Film  Use Windows Movie Maker (Win11)\""
-date: 2024-05-29 20:32:57
-updated: 2024-05-31 12:10:29
+date: 2024-05-31T06:53:02.190Z
+updated: 2024-06-01T06:53:02.190Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ In this article, you have learned about various video editors available on Windo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

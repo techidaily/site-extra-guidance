@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfect Palette Pro"
-date: 2024-05-28 15:58:21
-updated: 2024-05-29 10:10:33
+date: 2024-05-31T06:58:03.779Z
+updated: 2024-06-01T06:58:03.779Z
 tags: 
   - screen-recording
   - ai video
@@ -463,4 +463,5 @@ With apps like Filmora, color correcting is simple and quick to do on mobile dev
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

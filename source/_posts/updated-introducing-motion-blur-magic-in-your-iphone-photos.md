@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Introducing Motion-Blur Magic in Your iPhone Photos\""
-date: 2024-05-26 21:35:40
-updated: 2024-05-27 12:44:12
+date: 2024-05-31T06:56:55.522Z
+updated: 2024-06-01T06:56:55.522Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

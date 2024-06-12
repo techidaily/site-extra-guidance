@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Premium Animated Design Kits"
-date: 2024-05-29 23:36:21
-updated: 2024-05-30 11:34:47
+date: 2024-05-31T06:56:48.614Z
+updated: 2024-06-01T06:56:48.614Z
 tags: 
   - screen-recording
   - ai video
@@ -100,4 +100,5 @@ As the saying goes, the more the merrier and the more presets you have, the more
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

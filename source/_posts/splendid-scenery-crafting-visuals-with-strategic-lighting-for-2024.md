@@ -1,7 +1,7 @@
 ---
 title: "\"Splendid Scenery  Crafting Visuals with Strategic Lighting for 2024\""
-date: 2024-05-29 11:35:20
-updated: 2024-05-31 12:55:26
+date: 2024-05-31T06:54:17.950Z
+updated: 2024-06-01T06:54:17.950Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

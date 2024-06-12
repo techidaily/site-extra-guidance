@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Shock-Free Footage  Leading Smartphones with Superior OIS Features\""
-date: 2024-05-30 20:35:44
-updated: 2024-05-31 11:42:30
+date: 2024-05-31T06:57:46.993Z
+updated: 2024-06-01T06:57:46.993Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Since you don't always have a camera to capture smooth videos, having an OIS cam
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

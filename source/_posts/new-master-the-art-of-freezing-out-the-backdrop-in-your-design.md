@@ -1,7 +1,7 @@
 ---
 title: "[New] Master the Art of Freezing Out the Backdrop in Your Design"
-date: 2024-05-26 10:53:17
-updated: 2024-05-28 10:21:44
+date: 2024-05-31T06:53:33.766Z
+updated: 2024-06-01T06:53:33.766Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Complexities of Gesture Recognition for 2024"
-date: 2024-05-28 16:19:17
-updated: 2024-05-29 10:13:34
+date: 2024-05-31T06:57:16.399Z
+updated: 2024-06-01T06:57:16.399Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

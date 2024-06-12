@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, SJ6 Ultimate Face-Off with Xiaomi's Yi 4K Genius\""
-date: 2024-05-28 11:26:30
-updated: 2024-05-31 11:46:44
+date: 2024-05-31T06:57:45.581Z
+updated: 2024-06-01T06:57:45.581Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

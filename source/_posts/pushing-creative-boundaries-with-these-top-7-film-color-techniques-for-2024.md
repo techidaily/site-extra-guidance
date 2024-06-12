@@ -1,7 +1,7 @@
 ---
 title: "Pushing Creative Boundaries with These Top 7 Film Color Techniques for 2024"
-date: 2024-05-27 14:39:49
-updated: 2024-05-30 11:27:38
+date: 2024-05-31T06:53:13.909Z
+updated: 2024-06-01T06:53:13.909Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ Examples of triadic color schemes include red-yellow-blue or purple-green-orange
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

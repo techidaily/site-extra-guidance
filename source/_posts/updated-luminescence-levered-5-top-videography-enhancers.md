@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Luminescence Levered  5 Top Videography Enhancers\""
-date: 2024-05-26 13:21:38
-updated: 2024-05-28 12:15:19
+date: 2024-05-31T06:54:19.456Z
+updated: 2024-06-01T06:54:19.456Z
 tags: 
   - screen-recording
   - ai video
@@ -666,4 +666,5 @@ No matter which tool you are using, just follow these generic steps and you will
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

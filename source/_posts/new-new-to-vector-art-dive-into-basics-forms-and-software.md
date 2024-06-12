@@ -1,7 +1,7 @@
 ---
 title: "[New] New to Vector Art? Dive Into Basics, Forms, and Software"
-date: 2024-05-26 11:59:20
-updated: 2024-05-29 10:12:48
+date: 2024-05-31T06:57:08.295Z
+updated: 2024-06-01T06:57:08.295Z
 tags: 
   - screen-recording
   - ai video
@@ -544,4 +544,5 @@ Indeed, vector images are beneficial for creating graphic designs like logos and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

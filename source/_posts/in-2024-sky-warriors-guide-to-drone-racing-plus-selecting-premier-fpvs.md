@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Sky Warriors' Guide to Drone Racing + Selecting Premier FPVs"
-date: 2024-05-29 10:34:27
-updated: 2024-05-31 11:13:20
+date: 2024-05-31T06:57:26.891Z
+updated: 2024-06-01T06:57:26.891Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

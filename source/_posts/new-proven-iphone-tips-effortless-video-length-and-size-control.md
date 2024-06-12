@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Proven iPhone Tips  Effortless Video Length & Size Control\""
-date: 2024-05-27 21:18:46
-updated: 2024-05-30 10:32:42
+date: 2024-05-31T06:52:41.253Z
+updated: 2024-06-01T06:52:41.253Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

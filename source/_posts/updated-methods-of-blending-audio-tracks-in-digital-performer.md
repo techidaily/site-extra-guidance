@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Methods of Blending Audio Tracks in Digital Performer"
-date: 2024-05-26 13:11:37
-updated: 2024-05-28 11:54:10
+date: 2024-05-31T06:52:24.467Z
+updated: 2024-06-01T06:52:24.467Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Unlike audio fades, MIDI fades are not implemented in the same manner. One metho
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

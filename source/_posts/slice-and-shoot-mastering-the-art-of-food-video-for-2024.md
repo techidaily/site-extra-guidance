@@ -1,7 +1,7 @@
 ---
 title: "\"Slice and Shoot  Mastering the Art of Food Video for 2024\""
-date: 2024-05-29 12:17:36
-updated: 2024-05-31 11:16:46
+date: 2024-05-31T06:58:00.556Z
+updated: 2024-06-01T06:58:00.556Z
 tags: 
   - screen-recording
   - ai video
@@ -450,4 +450,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

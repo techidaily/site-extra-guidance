@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Premium Free AE Design Blueprints"
-date: 2024-05-27 21:56:44
-updated: 2024-05-30 12:23:26
+date: 2024-05-31T06:57:36.469Z
+updated: 2024-06-01T06:57:36.469Z
 tags: 
   - screen-recording
   - ai video
@@ -337,4 +337,5 @@ Step4 You can then use the “Effects Window” to change the color as desired.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Interactive Horizinas  Analyzing the Triumvirate of Tech (VR, AR, & MR) for 2024\""
-date: 2024-05-24 10:55:50
-updated: 2024-05-27 12:17:44
+date: 2024-05-31T06:55:14.653Z
+updated: 2024-06-01T06:55:14.653Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

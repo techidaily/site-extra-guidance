@@ -1,7 +1,7 @@
 ---
 title: "\"Motorola's Genius  In-Depth Review of Z2 Play for 2024\""
-date: 2024-05-27 20:39:36
-updated: 2024-05-29 10:47:12
+date: 2024-05-31T06:57:34.221Z
+updated: 2024-06-01T06:57:34.221Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

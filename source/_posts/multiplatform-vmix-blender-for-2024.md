@@ -1,7 +1,7 @@
 ---
 title: "Multiplatform VMix Blender for 2024"
-date: 2024-05-28 10:18:53
-updated: 2024-05-29 11:28:45
+date: 2024-05-31T06:57:59.390Z
+updated: 2024-06-01T06:57:59.390Z
 tags: 
   - screen-recording
   - ai video
@@ -486,4 +486,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

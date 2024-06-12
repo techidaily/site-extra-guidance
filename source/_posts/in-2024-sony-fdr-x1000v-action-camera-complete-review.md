@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sony FDR-X1000V Action Camera Complete Review\""
-date: 2024-05-29 15:33:56
-updated: 2024-05-31 12:32:54
+date: 2024-05-31T06:52:57.165Z
+updated: 2024-06-01T06:52:57.165Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

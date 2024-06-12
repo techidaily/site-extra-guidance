@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Minimal-Shake Cam for Dynamic Shooting\""
-date: 2024-05-26 22:52:52
-updated: 2024-05-28 12:39:57
+date: 2024-05-31T06:57:31.045Z
+updated: 2024-06-01T06:57:31.045Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

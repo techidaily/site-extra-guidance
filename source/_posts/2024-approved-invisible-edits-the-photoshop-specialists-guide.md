@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Invisible Edits  The Photoshop Specialist's Guide\""
-date: 2024-05-24 19:57:18
-updated: 2024-05-27 10:29:46
+date: 2024-05-31T06:53:38.372Z
+updated: 2024-06-01T06:53:38.372Z
 tags: 
   - screen-recording
   - ai video
@@ -606,4 +606,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

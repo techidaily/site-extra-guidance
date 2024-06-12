@@ -1,7 +1,7 @@
 ---
 title: "Strategic Planning for Effective Virtual Meetings on Win11 for 2024"
-date: 2024-05-28 21:30:57
-updated: 2024-05-31 10:30:34
+date: 2024-05-31T06:56:35.116Z
+updated: 2024-06-01T06:56:35.116Z
 tags: 
   - screen-recording
   - ai video
@@ -178,4 +178,5 @@ Zoom may be used on Windows devices to start new meetings, join existing ones, s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

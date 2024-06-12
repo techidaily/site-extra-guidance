@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating Illness with Immersive Systems"
-date: 2024-05-27 22:46:28
-updated: 2024-05-29 11:31:56
+date: 2024-05-31T06:57:50.264Z
+updated: 2024-06-01T06:57:50.264Z
 tags: 
   - screen-recording
   - ai video
@@ -210,4 +210,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

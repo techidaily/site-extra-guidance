@@ -1,7 +1,7 @@
 ---
 title: "Mastering Firefox's Popup Window Magic for 2024"
-date: 2024-05-26 22:52:20
-updated: 2024-05-28 10:22:45
+date: 2024-05-31T06:54:57.041Z
+updated: 2024-06-01T06:54:57.041Z
 tags: 
   - screen-recording
   - ai video
@@ -137,4 +137,5 @@ Picture-in-Picture is a nice feature that helps you increase productivity while 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

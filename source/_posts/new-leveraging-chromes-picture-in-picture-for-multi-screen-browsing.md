@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Leveraging Chrome's Picture-In-Picture for Multi-Screen Browsing\""
-date: 2024-05-25 23:46:59
-updated: 2024-05-28 12:21:12
+date: 2024-05-31T06:53:33.751Z
+updated: 2024-06-01T06:53:33.751Z
 tags: 
   - screen-recording
   - ai video
@@ -155,4 +155,5 @@ Picture-in-Picture is a feature on computers that is developing widely across th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

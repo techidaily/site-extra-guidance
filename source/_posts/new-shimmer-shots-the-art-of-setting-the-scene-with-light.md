@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shimmer Shots  The Art of Setting the Scene with Light\""
-date: 2024-05-30 17:48:10
-updated: 2024-05-31 12:41:58
+date: 2024-05-31T06:57:58.819Z
+updated: 2024-06-01T06:57:58.819Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

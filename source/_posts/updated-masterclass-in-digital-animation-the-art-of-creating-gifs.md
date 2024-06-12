@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Masterclass in Digital Animation  The Art of Creating GIFs\""
-date: 2024-05-26 23:19:12
-updated: 2024-05-28 10:24:23
+date: 2024-05-31T06:54:18.681Z
+updated: 2024-06-01T06:54:18.681Z
 tags: 
   - screen-recording
   - ai video
@@ -440,4 +440,5 @@ Hopefully, you liked our guide on **GIF format outros** and can now find the per
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

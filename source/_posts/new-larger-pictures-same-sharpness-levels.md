@@ -1,7 +1,7 @@
 ---
 title: "[New] Larger Pictures, Same Sharpness Levels"
-date: 2024-05-25 20:30:28
-updated: 2024-05-28 12:38:53
+date: 2024-05-31T06:52:16.223Z
+updated: 2024-06-01T06:52:16.223Z
 tags: 
   - screen-recording
   - ai video
@@ -674,4 +674,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

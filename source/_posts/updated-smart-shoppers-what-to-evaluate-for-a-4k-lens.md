@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Smart Shoppers  What to Evaluate for a 4K Lens\""
-date: 2024-05-30 16:24:31
-updated: 2024-05-31 12:50:52
+date: 2024-05-31T06:53:38.335Z
+updated: 2024-06-01T06:53:38.335Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

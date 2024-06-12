@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Peek at Windows Files, Here's How\""
-date: 2024-05-29 18:41:14
-updated: 2024-05-30 10:22:18
+date: 2024-05-31T06:53:32.654Z
+updated: 2024-06-01T06:53:32.654Z
 tags: 
   - screen-recording
   - ai video
@@ -114,4 +114,5 @@ This guidepost is another testament that your PC has massive hidden abilities. W
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

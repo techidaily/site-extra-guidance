@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating Tiny Worlds  5 Ways to Zoom In on Minecraft\""
-date: 2024-05-27 19:58:23
-updated: 2024-05-29 12:58:16
+date: 2024-05-31T06:52:13.544Z
+updated: 2024-06-01T06:52:13.544Z
 tags: 
   - screen-recording
   - ai video
@@ -222,4 +222,5 @@ With the above 5 ways, the finest video game, Minecraft, has now the accessibili
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

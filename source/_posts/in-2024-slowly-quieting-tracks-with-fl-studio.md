@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Slowly Quieting Tracks with FL Studio"
-date: 2024-05-28 22:37:12
-updated: 2024-05-31 11:36:22
+date: 2024-05-31T06:54:53.045Z
+updated: 2024-06-01T06:54:53.045Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

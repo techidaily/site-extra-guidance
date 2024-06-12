@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Pursuing Prolonged iPhone Night Sky Captures"
-date: 2024-05-27 20:36:53
-updated: 2024-05-30 11:56:10
+date: 2024-05-31T06:56:11.576Z
+updated: 2024-06-01T06:56:11.576Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

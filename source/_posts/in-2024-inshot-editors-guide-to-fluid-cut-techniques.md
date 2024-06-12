@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Inshot Editor's Guide to Fluid Cut Techniques"
-date: 2024-05-24 22:58:20
-updated: 2024-05-27 11:41:39
+date: 2024-05-31T06:56:33.085Z
+updated: 2024-06-01T06:56:33.085Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

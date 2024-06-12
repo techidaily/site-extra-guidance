@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Narratives in Motion  Transforming Thoughts Into Words\""
-date: 2024-05-28 17:14:47
-updated: 2024-05-29 10:54:28
+date: 2024-05-31T06:56:44.131Z
+updated: 2024-06-01T06:56:44.131Z
 tags: 
   - screen-recording
   - ai video
@@ -229,4 +229,5 @@ In conclusion, Dialogue and Narrative Script are the most common types of script
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Process for Gradual Audio Fading In Premiere\""
-date: 2024-05-30 19:51:37
-updated: 2024-05-31 12:46:38
+date: 2024-05-31T06:55:10.098Z
+updated: 2024-06-01T06:55:10.098Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ With this guide, you can easily understand the complete procedure for editing a 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

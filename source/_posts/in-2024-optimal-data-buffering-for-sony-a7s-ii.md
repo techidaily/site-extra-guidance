@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Optimal Data Buffering for Sony A7S II"
-date: 2024-05-27 12:23:23
-updated: 2024-05-29 10:32:34
+date: 2024-05-31T06:52:46.659Z
+updated: 2024-06-01T06:52:46.659Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

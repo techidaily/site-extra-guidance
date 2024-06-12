@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Making the Transition  From Older Windows to New Version 11\""
-date: 2024-05-25 14:51:23
-updated: 2024-05-28 12:52:22
+date: 2024-05-31T06:54:32.156Z
+updated: 2024-06-01T06:54:32.156Z
 tags: 
   - screen-recording
   - ai video
@@ -702,4 +702,5 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

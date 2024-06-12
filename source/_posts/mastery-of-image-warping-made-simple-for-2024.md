@@ -1,7 +1,7 @@
 ---
 title: "Mastery of Image Warping Made Simple for 2024"
-date: 2024-05-27 18:41:34
-updated: 2024-05-28 11:33:31
+date: 2024-05-31T06:54:00.748Z
+updated: 2024-06-01T06:54:00.748Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

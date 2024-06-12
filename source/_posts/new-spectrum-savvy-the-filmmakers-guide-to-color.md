@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Spectrum Savvy  The Filmmaker's Guide to Color\""
-date: 2024-05-30 10:59:53
-updated: 2024-05-31 10:15:47
+date: 2024-05-31T06:57:51.394Z
+updated: 2024-06-01T06:57:51.394Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

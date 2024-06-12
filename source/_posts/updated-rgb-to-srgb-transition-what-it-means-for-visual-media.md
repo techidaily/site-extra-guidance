@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Rgb to Srgb Transition  What It Means for Visual Media\""
-date: 2024-05-28 20:54:51
-updated: 2024-05-30 11:33:20
+date: 2024-05-31T06:54:44.570Z
+updated: 2024-06-01T06:54:44.570Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ As a digital photographer, your main focus can be an artistic expression rather 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

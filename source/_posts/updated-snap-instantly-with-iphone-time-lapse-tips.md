@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Snap Instantly with iPhone Time Lapse Tips"
-date: 2024-05-28 13:16:58
-updated: 2024-05-31 12:32:53
+date: 2024-05-31T06:55:00.645Z
+updated: 2024-06-01T06:55:00.645Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

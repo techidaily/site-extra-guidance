@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Color Grading  A Look at LUT's Significance\""
-date: 2024-05-28 21:21:13
-updated: 2024-05-29 12:14:17
+date: 2024-05-31T06:55:50.415Z
+updated: 2024-06-01T06:55:50.415Z
 tags: 
   - screen-recording
   - ai video
@@ -133,4 +133,5 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

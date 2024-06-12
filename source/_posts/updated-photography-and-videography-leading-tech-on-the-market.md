@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Photography & Videography  Leading Tech on the Market\""
-date: 2024-05-26 19:43:14
-updated: 2024-05-29 12:35:10
+date: 2024-05-31T06:53:38.281Z
+updated: 2024-06-01T06:53:38.281Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Joining a live cohort where you can learn the methods, tactics, and resources th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

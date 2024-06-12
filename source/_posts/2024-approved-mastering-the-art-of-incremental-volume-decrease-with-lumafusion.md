@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Art of Incremental Volume Decrease with Lumafusion\""
-date: 2024-05-26 12:21:30
-updated: 2024-05-28 10:53:25
+date: 2024-05-31T06:55:16.945Z
+updated: 2024-06-01T06:55:16.945Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

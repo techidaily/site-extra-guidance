@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Speed It Up or Slow Down  The Netflix Guide\""
-date: 2024-05-29 14:42:22
-updated: 2024-05-31 12:31:49
+date: 2024-05-31T06:54:26.622Z
+updated: 2024-06-01T06:54:26.622Z
 tags: 
   - screen-recording
   - ai video
@@ -518,4 +518,5 @@ Netflix allows you to adjust the playback speed of the video to 0.75x and 0.5x t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

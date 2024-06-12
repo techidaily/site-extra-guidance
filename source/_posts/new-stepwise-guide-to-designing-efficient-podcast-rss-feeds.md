@@ -1,7 +1,7 @@
 ---
 title: "[New] Stepwise Guide to Designing Efficient Podcast RSS Feeds"
-date: 2024-05-30 15:34:18
-updated: 2024-05-31 11:57:10
+date: 2024-05-31T06:54:09.706Z
+updated: 2024-06-01T06:54:09.706Z
 tags: 
   - screen-recording
   - ai video
@@ -328,4 +328,5 @@ Nevertheless, if you're looking for a reliable program to record and edit high-q
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

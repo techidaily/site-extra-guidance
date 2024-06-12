@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Master the Art of Subtitle Integration on WMP"
-date: 2024-05-25 17:35:56
-updated: 2024-05-28 11:26:49
+date: 2024-05-31T06:52:13.353Z
+updated: 2024-06-01T06:52:13.353Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

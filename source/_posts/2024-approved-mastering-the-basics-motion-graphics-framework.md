@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Basics  Motion Graphics Framework\""
-date: 2024-05-25 15:55:29
-updated: 2024-05-28 10:19:42
+date: 2024-05-31T06:57:32.283Z
+updated: 2024-06-01T06:57:32.283Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

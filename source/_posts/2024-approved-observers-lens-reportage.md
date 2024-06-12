@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Observer's Lens Reportage\""
-date: 2024-05-27 23:15:53
-updated: 2024-05-29 12:33:41
+date: 2024-05-31T06:55:51.666Z
+updated: 2024-06-01T06:55:51.666Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

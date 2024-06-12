@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Guide to Full Periscope Capabilities\""
-date: 2024-05-29 11:16:38
-updated: 2024-05-31 12:21:58
+date: 2024-05-31T06:52:49.711Z
+updated: 2024-06-01T06:52:49.711Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

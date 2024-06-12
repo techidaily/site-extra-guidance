@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Bio Link Addition on TikTok"
-date: 2024-05-25 12:50:55
-updated: 2024-05-28 10:10:48
+date: 2024-05-31T06:57:13.340Z
+updated: 2024-06-01T06:57:13.340Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ By exploring this article, you have learned **how to add a link to the TikTok bi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

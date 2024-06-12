@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Media on Mobile  Best Phones of the Year\""
-date: 2024-05-27 19:12:25
-updated: 2024-05-28 10:32:43
+date: 2024-05-31T06:55:09.720Z
+updated: 2024-06-01T06:55:09.720Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Joining a live cohort where you can learn the methods, tactics, and resources th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

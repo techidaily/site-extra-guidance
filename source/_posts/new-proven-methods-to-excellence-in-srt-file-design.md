@@ -1,7 +1,7 @@
 ---
 title: "[New] Proven Methods to Excellence in SRT File Design"
-date: 2024-05-28 10:32:18
-updated: 2024-05-30 10:58:31
+date: 2024-05-31T06:57:22.279Z
+updated: 2024-06-01T06:57:22.279Z
 tags: 
   - screen-recording
   - ai video
@@ -324,4 +324,5 @@ You can create SRT on Windows using Notepad or on Mac using TextEdit. However, t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

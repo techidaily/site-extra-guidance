@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Metaverse Musings  Top 30 Quotes for Immersive Living\""
-date: 2024-05-25 21:35:25
-updated: 2024-05-28 10:50:13
+date: 2024-05-31T06:54:56.211Z
+updated: 2024-06-01T06:54:56.211Z
 tags: 
   - screen-recording
   - ai video
@@ -846,4 +846,5 @@ Therefore, meta or some other organization hoping to get into the metaverse have
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

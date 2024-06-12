@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering After Effects with Top-Rated Text Tools\""
-date: 2024-05-27 20:12:16
-updated: 2024-05-28 11:55:52
+date: 2024-05-31T06:55:47.613Z
+updated: 2024-06-01T06:55:47.613Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ On its own After Effects comes with so many post-production effects and features
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

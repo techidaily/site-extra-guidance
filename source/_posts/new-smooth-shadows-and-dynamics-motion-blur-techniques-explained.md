@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Smooth Shadows and Dynamics  Motion Blur Techniques Explained\""
-date: 2024-05-30 10:15:29
-updated: 2024-05-31 12:58:23
+date: 2024-05-31T06:57:05.174Z
+updated: 2024-06-01T06:57:05.174Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Do you want to add an artistic look to your photos? One of the great ways to enh
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

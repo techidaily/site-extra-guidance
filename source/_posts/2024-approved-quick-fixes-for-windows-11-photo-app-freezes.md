@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Fixes for Windows 11 Photo App Freezes\""
-date: 2024-05-29 23:26:35
-updated: 2024-05-30 12:47:22
+date: 2024-05-31T06:55:20.137Z
+updated: 2024-06-01T06:55:20.137Z
 tags: 
   - screen-recording
   - ai video
@@ -414,4 +414,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

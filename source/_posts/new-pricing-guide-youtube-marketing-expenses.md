@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pricing Guide  YouTube Marketing Expenses\""
-date: 2024-05-28 14:16:53
-updated: 2024-05-30 11:37:12
+date: 2024-05-31T06:53:26.396Z
+updated: 2024-06-01T06:53:26.396Z
 tags: 
   - screen-recording
   - ai video
@@ -234,4 +234,5 @@ That’s been a quick guide on promotional videos. If you find it too hard to cr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

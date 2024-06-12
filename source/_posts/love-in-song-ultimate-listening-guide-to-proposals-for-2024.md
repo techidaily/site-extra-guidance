@@ -1,7 +1,7 @@
 ---
 title: "\"Love in Song  Ultimate Listening Guide to Proposals for 2024\""
-date: 2024-05-26 12:21:59
-updated: 2024-05-28 10:14:57
+date: 2024-05-31T06:54:17.670Z
+updated: 2024-06-01T06:54:17.670Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

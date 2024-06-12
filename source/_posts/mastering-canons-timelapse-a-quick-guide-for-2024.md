@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Canon's Timelapse  A Quick Guide for 2024\""
-date: 2024-05-25 13:58:57
-updated: 2024-05-28 10:33:37
+date: 2024-05-31T06:54:03.924Z
+updated: 2024-06-01T06:54:03.924Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ Now, you are aware of how to shoot time-lapse with your Canon camera. After you 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Perfecting Your Sound Palette with Audacity Crossfading"
-date: 2024-05-27 16:17:18
-updated: 2024-05-29 12:50:39
+date: 2024-05-31T06:54:20.039Z
+updated: 2024-06-01T06:54:20.039Z
 tags: 
   - screen-recording
   - ai video
@@ -188,4 +188,5 @@ In summary, Audacity is a free audio tool that's really simple to use. By utiliz
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

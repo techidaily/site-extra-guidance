@@ -1,7 +1,7 @@
 ---
 title: "\"M1 MacBook Pro  A Game Changer for Video Editors, In 2024\""
-date: 2024-05-25 14:58:33
-updated: 2024-05-28 11:34:20
+date: 2024-05-31T06:57:36.567Z
+updated: 2024-06-01T06:57:36.567Z
 tags: 
   - screen-recording
   - ai video
@@ -466,4 +466,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

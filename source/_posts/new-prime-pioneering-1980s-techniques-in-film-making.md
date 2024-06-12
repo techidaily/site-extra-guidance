@@ -1,7 +1,7 @@
 ---
 title: "[New] Prime Pioneering 1980S Techniques in Film Making"
-date: 2024-05-28 23:18:56
-updated: 2024-05-30 11:54:10
+date: 2024-05-31T06:54:53.882Z
+updated: 2024-06-01T06:54:53.882Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ To apply the **80s VHS effects**, you can take assistance from Wondershare Filmo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

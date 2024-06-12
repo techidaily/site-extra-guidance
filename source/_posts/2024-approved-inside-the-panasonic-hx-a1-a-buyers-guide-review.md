@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Inside the Panasonic HX-A1  A Buyer's Guide Review\""
-date: 2024-05-24 22:55:34
-updated: 2024-05-27 10:43:48
+date: 2024-05-31T06:53:55.562Z
+updated: 2024-06-01T06:53:55.562Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

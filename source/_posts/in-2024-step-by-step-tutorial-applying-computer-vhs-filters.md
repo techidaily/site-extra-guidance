@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step Tutorial  Applying Computer VHS Filters\""
-date: 2024-05-28 14:20:59
-updated: 2024-05-31 11:17:44
+date: 2024-05-31T06:55:09.020Z
+updated: 2024-06-01T06:55:09.020Z
 tags: 
   - screen-recording
   - ai video
@@ -294,4 +294,5 @@ Content creation has opened many doors of creativity and artistic expression for
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

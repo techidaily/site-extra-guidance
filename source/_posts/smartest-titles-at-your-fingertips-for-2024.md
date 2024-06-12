@@ -1,7 +1,7 @@
 ---
 title: "Smartest Titles at Your Fingertips for 2024"
-date: 2024-05-29 23:44:34
-updated: 2024-05-31 12:29:44
+date: 2024-05-31T06:55:37.556Z
+updated: 2024-06-01T06:55:37.556Z
 tags: 
   - screen-recording
   - ai video
@@ -329,4 +329,5 @@ It is crucial to invest work into producing attention-grabbing titles for your Y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

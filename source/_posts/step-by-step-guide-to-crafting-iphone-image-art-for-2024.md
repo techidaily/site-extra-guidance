@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide to Crafting iPhone Image Art for 2024\""
-date: 2024-05-29 16:13:58
-updated: 2024-05-31 12:43:59
+date: 2024-05-31T06:53:43.977Z
+updated: 2024-06-01T06:53:43.977Z
 tags: 
   - screen-recording
   - ai video
@@ -694,4 +694,5 @@ p>**●** Read our general tips for making a collage (on your iPhone or otherwis
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

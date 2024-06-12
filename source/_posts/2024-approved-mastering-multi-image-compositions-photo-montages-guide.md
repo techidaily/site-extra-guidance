@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Multi-Image Compositions  Photo Montages Guide\""
-date: 2024-05-25 16:10:53
-updated: 2024-05-28 11:46:34
+date: 2024-05-31T06:56:38.674Z
+updated: 2024-06-01T06:56:38.674Z
 tags: 
   - screen-recording
   - ai video
@@ -256,4 +256,5 @@ Move away from the general form of photography and throw in some artistic feelin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

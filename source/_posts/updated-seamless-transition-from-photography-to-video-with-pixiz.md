@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Seamless Transition From Photography to Video with Pixiz"
-date: 2024-05-28 14:39:55
-updated: 2024-05-30 10:12:41
+date: 2024-05-31T06:52:54.536Z
+updated: 2024-06-01T06:52:54.536Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ So, Pixiz is an excellent service to make photo videos online by just uploading 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

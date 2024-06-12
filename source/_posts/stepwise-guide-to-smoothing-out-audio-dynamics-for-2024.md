@@ -1,7 +1,7 @@
 ---
 title: "Stepwise Guide to Smoothing Out Audio Dynamics for 2024"
-date: 2024-05-29 19:33:35
-updated: 2024-05-31 12:50:13
+date: 2024-05-31T06:56:13.517Z
+updated: 2024-06-01T06:56:13.517Z
 tags: 
   - screen-recording
   - ai video
@@ -153,4 +153,5 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Guide  Mastering Creative Effects in Online Zoom Sessions\""
-date: 2024-05-30 15:37:34
-updated: 2024-05-31 10:57:57
+date: 2024-05-31T06:57:10.266Z
+updated: 2024-06-01T06:57:10.266Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ You must have heard that Zoom lets you use a virtual background to make your vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

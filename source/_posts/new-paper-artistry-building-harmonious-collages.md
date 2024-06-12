@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Paper Artistry  Building Harmonious Collages\""
-date: 2024-05-27 15:40:15
-updated: 2024-05-29 11:35:48
+date: 2024-05-31T06:55:28.475Z
+updated: 2024-06-01T06:55:28.475Z
 tags: 
   - screen-recording
   - ai video
@@ -1166,4 +1166,5 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

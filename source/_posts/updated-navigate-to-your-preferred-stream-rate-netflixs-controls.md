@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Navigate to Your Preferred Stream Rate - Netflix's Controls\""
-date: 2024-05-28 23:37:17
-updated: 2024-05-29 12:33:11
+date: 2024-05-31T06:52:35.629Z
+updated: 2024-06-01T06:52:35.629Z
 tags: 
   - screen-recording
   - ai video
@@ -518,4 +518,5 @@ Netflix allows you to adjust the playback speed of the video to 0.75x and 0.5x t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

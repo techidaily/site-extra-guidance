@@ -1,7 +1,7 @@
 ---
 title: "Photoshop's Role in Crafting Stunning HDR Visuals for 2024"
-date: 2024-05-27 21:48:18
-updated: 2024-05-29 11:55:11
+date: 2024-05-31T06:52:57.434Z
+updated: 2024-06-01T06:52:57.434Z
 tags: 
   - screen-recording
   - ai video
@@ -455,4 +455,5 @@ We've also explained the different key features of Photoshop, and if perhaps you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

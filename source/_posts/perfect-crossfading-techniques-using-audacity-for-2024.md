@@ -1,7 +1,7 @@
 ---
 title: "Perfect Crossfading Techniques Using Audacity for 2024"
-date: 2024-05-28 11:10:47
-updated: 2024-05-29 12:32:20
+date: 2024-05-31T06:55:42.487Z
+updated: 2024-06-01T06:55:42.487Z
 tags: 
   - screen-recording
   - ai video
@@ -188,4 +188,5 @@ In summary, Audacity is a free audio tool that's really simple to use. By utiliz
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

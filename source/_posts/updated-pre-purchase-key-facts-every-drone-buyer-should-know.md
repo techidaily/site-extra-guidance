@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pre-Purchase  Key Facts Every Drone Buyer Should Know\""
-date: 2024-05-27 22:57:48
-updated: 2024-05-29 10:14:38
+date: 2024-05-31T06:53:12.407Z
+updated: 2024-06-01T06:53:12.407Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

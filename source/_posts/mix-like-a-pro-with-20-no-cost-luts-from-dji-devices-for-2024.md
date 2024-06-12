@@ -1,7 +1,7 @@
 ---
 title: "\"Mix Like a Pro with 20 No-Cost LUTs From DJI Devices for 2024\""
-date: 2024-05-26 11:36:40
-updated: 2024-05-28 10:13:26
+date: 2024-05-31T06:54:41.846Z
+updated: 2024-06-01T06:54:41.846Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ Thus, you had an elaborate discussion on the DJI LUTS in detail, and you can use
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

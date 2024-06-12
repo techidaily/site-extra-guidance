@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Websites for Modern Letterforms for 2024"
-date: 2024-05-27 21:32:25
-updated: 2024-05-29 12:52:44
+date: 2024-05-31T06:52:43.799Z
+updated: 2024-06-01T06:52:43.799Z
 tags: 
   - screen-recording
   - ai video
@@ -487,4 +487,5 @@ Hopefully, you've found this article helpful and can now get the proper 3D fonts
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

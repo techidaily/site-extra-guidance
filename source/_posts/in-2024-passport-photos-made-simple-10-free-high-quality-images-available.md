@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Passport Photos Made Simple  10 Free, High-Quality Images Available\""
-date: 2024-05-26 14:13:53
-updated: 2024-05-29 10:12:48
+date: 2024-05-31T06:54:04.470Z
+updated: 2024-06-01T06:54:04.470Z
 tags: 
   - screen-recording
   - ai video
@@ -134,4 +134,5 @@ The discussion has revolved around the best passport size photo maker tools in t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

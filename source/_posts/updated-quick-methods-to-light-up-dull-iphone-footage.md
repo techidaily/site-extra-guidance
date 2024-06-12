@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quick Methods to Light Up Dull iPhone Footage"
-date: 2024-05-27 23:54:40
-updated: 2024-05-30 10:39:16
+date: 2024-05-31T06:56:54.011Z
+updated: 2024-06-01T06:56:54.011Z
 tags: 
   - screen-recording
   - ai video
@@ -630,4 +630,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

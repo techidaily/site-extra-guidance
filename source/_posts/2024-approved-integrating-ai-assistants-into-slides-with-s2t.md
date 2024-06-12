@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Integrating AI Assistants Into Slides with S2T\""
-date: 2024-05-25 16:31:48
-updated: 2024-05-27 10:59:25
+date: 2024-05-31T06:53:23.626Z
+updated: 2024-06-01T06:53:23.626Z
 tags: 
   - screen-recording
   - ai video
@@ -320,4 +320,5 @@ Speech-to-text is an additional feature for all users. Typing is, however, the d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

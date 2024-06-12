@@ -1,7 +1,7 @@
 ---
 title: "[New] Scrutinizing the Significance of High Dynamic Range HDR"
-date: 2024-05-28 19:35:32
-updated: 2024-05-30 10:45:27
+date: 2024-05-31T06:55:26.085Z
+updated: 2024-06-01T06:55:26.085Z
 tags: 
   - screen-recording
   - ai video
@@ -316,4 +316,5 @@ All these software bring forth different aspects of HDR editing, so depending on
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

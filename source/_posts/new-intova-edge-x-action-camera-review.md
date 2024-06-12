@@ -1,7 +1,7 @@
 ---
 title: "[New] Intova Edge X Action Camera Review"
-date: 2024-05-25 18:30:16
-updated: 2024-05-27 12:11:15
+date: 2024-05-31T06:55:32.482Z
+updated: 2024-06-01T06:55:32.482Z
 tags: 
   - screen-recording
   - ai video
@@ -402,4 +402,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

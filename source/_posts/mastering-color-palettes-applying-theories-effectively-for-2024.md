@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Color Palettes  Applying Theories Effectively for 2024\""
-date: 2024-05-25 23:58:30
-updated: 2024-05-28 11:40:24
+date: 2024-05-31T06:52:16.875Z
+updated: 2024-06-01T06:52:16.875Z
 tags: 
   - screen-recording
   - ai video
@@ -94,4 +94,5 @@ By including this into your thought process when creating videos with [Filmora](
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Resolving iMovie Cuts  Understanding Crop Rationale\""
-date: 2024-05-29 20:25:58
-updated: 2024-05-30 11:47:52
+date: 2024-05-31T06:53:25.956Z
+updated: 2024-06-01T06:53:25.956Z
 tags: 
   - screen-recording
   - ai video
@@ -228,4 +228,5 @@ Click the Text /Credit icon to add opening titles, end credits, or subtitles to 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

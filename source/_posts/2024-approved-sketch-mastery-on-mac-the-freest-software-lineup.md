@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sketch Mastery on Mac  The Freest Software Lineup\""
-date: 2024-05-29 11:50:24
-updated: 2024-05-31 10:49:37
+date: 2024-05-31T06:54:23.023Z
+updated: 2024-06-01T06:54:23.023Z
 tags: 
   - screen-recording
   - ai video
@@ -870,4 +870,5 @@ Get started quickly with Filmora's powerful performance, intuitive interface, an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

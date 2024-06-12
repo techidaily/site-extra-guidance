@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Masterful Date-Trackers for Android and iOS Wedding Planners\""
-date: 2024-05-26 16:21:26
-updated: 2024-05-28 10:33:18
+date: 2024-05-31T06:55:22.865Z
+updated: 2024-06-01T06:55:22.865Z
 tags: 
   - screen-recording
   - ai video
@@ -590,4 +590,5 @@ Keeping a **wedding countdown ticker** is a great idea to keep everything planne
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

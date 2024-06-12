@@ -1,7 +1,7 @@
 ---
 title: "[New] Sculpting Textual Space with AI's Powerful Features"
-date: 2024-05-28 12:32:57
-updated: 2024-05-30 10:33:12
+date: 2024-05-31T06:54:51.569Z
+updated: 2024-06-01T06:54:51.569Z
 tags: 
   - screen-recording
   - ai video
@@ -144,4 +144,5 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

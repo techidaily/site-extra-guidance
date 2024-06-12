@@ -1,7 +1,7 @@
 ---
 title: "\"LUTs Simplified  Your Guide to Better Photos for 2024\""
-date: 2024-05-25 19:39:58
-updated: 2024-05-28 10:28:43
+date: 2024-05-31T06:56:39.012Z
+updated: 2024-06-01T06:56:39.012Z
 tags: 
   - screen-recording
   - ai video
@@ -133,4 +133,5 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Investigating Changes Over Time in Windows Movie Maker"
-date: 2024-05-25 20:29:50
-updated: 2024-05-27 12:54:40
+date: 2024-05-31T06:55:25.451Z
+updated: 2024-06-01T06:55:25.451Z
 tags: 
   - screen-recording
   - ai video
@@ -112,4 +112,5 @@ A unique production may be made by modifying and combining audio, image, and vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

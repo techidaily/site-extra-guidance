@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Soaring Stories  Crafting Engaging Drone Video Narratives\""
-date: 2024-05-29 15:43:39
-updated: 2024-05-31 11:21:12
+date: 2024-05-31T06:55:19.628Z
+updated: 2024-06-01T06:55:19.628Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

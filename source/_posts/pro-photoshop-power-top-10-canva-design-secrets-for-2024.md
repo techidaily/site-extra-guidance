@@ -1,7 +1,7 @@
 ---
 title: "\"Pro Photoshop Power  Top 10 Canva Design Secrets for 2024\""
-date: 2024-05-29 18:21:22
-updated: 2024-05-30 11:15:49
+date: 2024-05-31T06:55:02.002Z
+updated: 2024-06-01T06:55:02.002Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ Anyone can learn photo editing skills if they are provided with accurate guideli
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, On-the-Go Cinematographer’s Essentials\""
-date: 2024-05-28 10:28:57
-updated: 2024-05-29 12:53:47
+date: 2024-05-31T06:52:34.353Z
+updated: 2024-06-01T06:52:34.353Z
 tags: 
   - screen-recording
   - ai video
@@ -170,4 +170,5 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

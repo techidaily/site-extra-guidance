@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Image Editing  Learn to Change Resolution\""
-date: 2024-05-24 17:10:25
-updated: 2024-05-27 10:19:11
+date: 2024-05-31T06:57:10.934Z
+updated: 2024-06-01T06:57:10.934Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

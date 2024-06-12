@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Photo Aesthetics  The Essence of LUTs\""
-date: 2024-05-25 12:52:47
-updated: 2024-05-28 10:13:17
+date: 2024-05-31T06:55:24.839Z
+updated: 2024-06-01T06:55:24.839Z
 tags: 
   - screen-recording
   - ai video
@@ -133,4 +133,5 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

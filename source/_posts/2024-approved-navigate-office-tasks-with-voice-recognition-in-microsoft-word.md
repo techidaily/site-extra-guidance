@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigate Office Tasks with Voice Recognition in Microsoft Word\""
-date: 2024-05-26 22:58:51
-updated: 2024-05-29 10:32:24
+date: 2024-05-31T06:56:04.869Z
+updated: 2024-06-01T06:56:04.869Z
 tags: 
   - screen-recording
   - ai video
@@ -312,4 +312,5 @@ Microsoft Word's speech-to-text feature is not perfect, but it can be a huge tim
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Simplified Guide to Creating Movies in Windows 8 Movie Maker"
-date: 2024-05-30 12:15:32
-updated: 2024-05-31 12:42:34
+date: 2024-05-31T06:52:32.275Z
+updated: 2024-06-01T06:52:32.275Z
 tags: 
   - screen-recording
   - ai video
@@ -123,4 +123,5 @@ If you are looking for an alternative that can replace windows movie maker with 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Logic X Layers  Building Audio Bridges with Crossfades\""
-date: 2024-05-25 18:19:42
-updated: 2024-05-28 10:19:52
+date: 2024-05-31T06:54:10.163Z
+updated: 2024-06-01T06:54:10.163Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Unlike audio fades, MIDI fades are not implemented in the same manner. One metho
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

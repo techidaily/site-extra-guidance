@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Leading Transformation Software  SpectraShift Series\""
-date: 2024-05-26 10:59:55
-updated: 2024-05-28 12:21:11
+date: 2024-05-31T06:56:28.802Z
+updated: 2024-06-01T06:56:28.802Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

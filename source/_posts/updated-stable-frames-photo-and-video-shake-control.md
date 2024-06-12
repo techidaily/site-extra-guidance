@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Stable Frames  Photo & Video Shake Control\""
-date: 2024-05-29 15:43:55
-updated: 2024-05-31 12:19:15
+date: 2024-05-31T06:52:35.003Z
+updated: 2024-06-01T06:52:35.003Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ That's why awareness can go a long way towards helping you catch potential probl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

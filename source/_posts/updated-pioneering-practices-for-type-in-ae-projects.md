@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Pioneering Practices for Type in AE Projects"
-date: 2024-05-26 10:29:23
-updated: 2024-05-29 10:55:38
+date: 2024-05-31T06:55:59.095Z
+updated: 2024-06-01T06:55:59.095Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ Motion title is a dynamic text effect template available in After Effects throug
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

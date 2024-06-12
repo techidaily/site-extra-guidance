@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  IPhone Tips for Perfecting Motion Shot Photography\""
-date: 2024-05-25 18:12:39
-updated: 2024-05-28 10:40:49
+date: 2024-05-31T06:53:41.633Z
+updated: 2024-06-01T06:53:41.633Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

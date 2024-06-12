@@ -1,7 +1,7 @@
 ---
 title: "\"Apple MacBook Air Vs. Pro  Which M1 Laptop Is Better, In 2024\""
-date: 2024-05-27 20:41:46
-updated: 2024-05-28 11:58:31
+date: 2024-05-31T06:57:51.896Z
+updated: 2024-06-01T06:57:51.896Z
 tags: 
   - screen-recording
   - ai video
@@ -910,4 +910,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

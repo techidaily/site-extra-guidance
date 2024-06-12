@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Metaverse Chronicles  Exploring Infinite Worlds Through Film\""
-date: 2024-05-27 11:32:34
-updated: 2024-05-28 12:35:52
+date: 2024-05-31T06:57:49.698Z
+updated: 2024-06-01T06:57:49.698Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ The world is heading for a more advanced form of technology that would go beyond
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

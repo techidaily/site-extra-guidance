@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Reason Behind Photo Booth Video Stalls"
-date: 2024-05-29 18:20:52
-updated: 2024-05-30 11:40:51
+date: 2024-05-31T06:57:43.169Z
+updated: 2024-06-01T06:57:43.169Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ Select the file type that best suits the project you're working on from the Form
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pro Capture, Not Just Point-and-Shoot  Mastering the Hero5 Black\""
-date: 2024-05-29 18:25:15
-updated: 2024-05-30 11:56:37
+date: 2024-05-31T06:57:02.947Z
+updated: 2024-06-01T06:57:02.947Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

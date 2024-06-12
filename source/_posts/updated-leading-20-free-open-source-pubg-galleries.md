@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Leading 20 Free, Open Source PUBG Galleries"
-date: 2024-05-25 16:36:30
-updated: 2024-05-28 11:12:10
+date: 2024-05-31T06:52:22.071Z
+updated: 2024-06-01T06:52:22.071Z
 tags: 
   - screen-recording
   - ai video
@@ -530,4 +530,5 @@ PUBG montage thumbnails are the viewers' first impression of your video. As such
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

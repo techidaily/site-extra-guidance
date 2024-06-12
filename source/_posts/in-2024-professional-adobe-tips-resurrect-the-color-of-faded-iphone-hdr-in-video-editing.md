@@ -1,7 +1,7 @@
 ---
 title: "In 2024, [Professional Adobe Tips] Resurrect the Color of Faded iPhone HDR in Video Editing"
-date: 2024-05-28 17:50:22
-updated: 2024-05-30 10:12:13
+date: 2024-05-31T06:56:53.494Z
+updated: 2024-06-01T06:56:53.494Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Overall, it is possible for the HDR quality videos captured with an iPhone 12 ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

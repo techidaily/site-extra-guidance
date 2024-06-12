@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Quality Cameras on a Shoestring Budget"
-date: 2024-05-27 21:40:30
-updated: 2024-05-30 11:45:50
+date: 2024-05-31T06:52:39.413Z
+updated: 2024-06-01T06:52:39.413Z
 tags: 
   - screen-recording
   - ai video
@@ -1322,4 +1322,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

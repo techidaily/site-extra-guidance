@@ -1,7 +1,7 @@
 ---
 title: "Photoshop Alternatives on Android for 2024"
-date: 2024-05-27 16:31:43
-updated: 2024-05-29 11:59:49
+date: 2024-05-31T06:57:10.036Z
+updated: 2024-06-01T06:57:10.036Z
 tags: 
   - screen-recording
   - ai video
@@ -432,4 +432,5 @@ Many photo editing apps have introduced themselves in the market and online plat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

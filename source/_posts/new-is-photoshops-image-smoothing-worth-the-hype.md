@@ -1,7 +1,7 @@
 ---
 title: "[New] Is Photoshop's Image Smoothing Worth the Hype?"
-date: 2024-05-25 19:47:12
-updated: 2024-05-28 12:29:44
+date: 2024-05-31T06:54:31.459Z
+updated: 2024-06-01T06:54:31.459Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

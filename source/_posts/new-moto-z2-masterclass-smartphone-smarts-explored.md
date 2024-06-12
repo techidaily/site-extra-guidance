@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Moto Z2 Masterclass  Smartphone Smarts Explored\""
-date: 2024-05-27 21:30:54
-updated: 2024-05-29 12:36:33
+date: 2024-05-31T06:52:17.748Z
+updated: 2024-06-01T06:52:17.748Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Seamless Subtitle Management  A Mac Edition\""
-date: 2024-05-28 23:20:45
-updated: 2024-05-30 10:13:20
+date: 2024-05-31T06:54:06.784Z
+updated: 2024-06-01T06:54:06.784Z
 tags: 
   - screen-recording
   - ai video
@@ -471,4 +471,5 @@ URL for VLC on Mac steps/pics: <https://videoconverter.wondershare.com/subtitle/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

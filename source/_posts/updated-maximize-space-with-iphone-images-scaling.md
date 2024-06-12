@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Maximize Space with iPhone Images Scaling"
-date: 2024-05-27 20:41:58
-updated: 2024-05-28 11:28:42
+date: 2024-05-31T06:53:52.088Z
+updated: 2024-06-01T06:53:52.088Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

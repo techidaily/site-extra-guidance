@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Speedy Stories  Top 10 Rapid Release Games on Tablets, PCs\""
-date: 2024-05-28 10:43:48
-updated: 2024-05-31 12:25:13
+date: 2024-05-31T06:52:54.716Z
+updated: 2024-06-01T06:52:54.716Z
 tags: 
   - screen-recording
   - ai video
@@ -414,4 +414,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

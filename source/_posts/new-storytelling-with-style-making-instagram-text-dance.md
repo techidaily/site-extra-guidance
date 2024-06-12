@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Storytelling with Style  Making Instagram Text Dance\""
-date: 2024-05-30 15:45:37
-updated: 2024-05-31 10:49:41
+date: 2024-05-31T06:55:29.396Z
+updated: 2024-06-01T06:55:29.396Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ The success or failure of your Instagram company depends in large part on engage
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

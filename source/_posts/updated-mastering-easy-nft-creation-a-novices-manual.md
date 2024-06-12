@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Easy NFT Creation  A Novice's Manual\""
-date: 2024-05-26 17:47:59
-updated: 2024-05-28 10:43:32
+date: 2024-05-31T06:57:38.571Z
+updated: 2024-06-01T06:57:38.571Z
 tags: 
   - screen-recording
   - ai video
@@ -610,4 +610,5 @@ Finally, we would like to conclude the queries about the NFT marketplace. Indeed
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

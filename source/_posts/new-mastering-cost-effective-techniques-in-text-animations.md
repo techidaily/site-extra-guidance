@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Cost-Effective Techniques in Text Animations\""
-date: 2024-05-25 13:44:23
-updated: 2024-05-28 12:40:47
+date: 2024-05-31T06:53:25.622Z
+updated: 2024-06-01T06:53:25.622Z
 tags: 
   - screen-recording
   - ai video
@@ -264,4 +264,5 @@ After all, during the last several years, videos have been one of the most popul
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

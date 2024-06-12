@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Art of Video Enhancement  From SDR Basics to HDR Excellence\""
-date: 2024-05-25 13:52:33
-updated: 2024-05-28 11:49:29
+date: 2024-05-31T06:56:12.186Z
+updated: 2024-06-01T06:56:12.186Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ You can choose a proper way, like a video editor or encoder to convert the SDR v
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

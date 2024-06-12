@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Online Image Cropping Techniques"
-date: 2024-05-26 17:11:18
-updated: 2024-05-28 11:55:50
+date: 2024-05-31T06:52:55.608Z
+updated: 2024-06-01T06:52:55.608Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ This article has been quite conclusive in offering proper online tools to crop i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

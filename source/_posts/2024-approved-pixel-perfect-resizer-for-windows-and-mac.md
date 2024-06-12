@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pixel Perfect Resizer for Windows & Mac\""
-date: 2024-05-28 12:20:20
-updated: 2024-05-29 10:48:12
+date: 2024-05-31T06:56:58.186Z
+updated: 2024-06-01T06:56:58.186Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ For all victims who could never find a good video resolution converter, we have 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

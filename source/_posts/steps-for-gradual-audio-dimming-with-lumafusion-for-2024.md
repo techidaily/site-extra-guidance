@@ -1,7 +1,7 @@
 ---
 title: "Steps for Gradual Audio Dimming with Lumafusion for 2024"
-date: 2024-05-29 18:41:44
-updated: 2024-05-31 12:59:58
+date: 2024-05-31T06:57:16.633Z
+updated: 2024-06-01T06:57:16.633Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

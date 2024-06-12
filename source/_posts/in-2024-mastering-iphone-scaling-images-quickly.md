@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering iPhone  Scaling Images Quickly\""
-date: 2024-05-27 22:48:52
-updated: 2024-05-28 11:34:15
+date: 2024-05-31T06:56:48.519Z
+updated: 2024-06-01T06:56:48.519Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

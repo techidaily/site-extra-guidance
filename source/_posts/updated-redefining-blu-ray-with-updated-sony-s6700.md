@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Redefining Blu-Ray with Updated Sony S6700\""
-date: 2024-05-29 16:32:57
-updated: 2024-05-30 10:22:36
+date: 2024-05-31T06:56:54.807Z
+updated: 2024-06-01T06:56:54.807Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

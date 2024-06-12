@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Preparing for a Mobile Cinematic Experience"
-date: 2024-05-28 11:26:35
-updated: 2024-05-30 11:37:29
+date: 2024-05-31T06:53:35.815Z
+updated: 2024-06-01T06:53:35.815Z
 tags: 
   - screen-recording
   - ai video
@@ -170,4 +170,5 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

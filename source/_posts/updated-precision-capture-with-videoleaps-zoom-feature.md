@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Precision Capture with Videoleap's Zoom Feature"
-date: 2024-05-28 22:44:44
-updated: 2024-05-29 10:37:11
+date: 2024-05-31T06:53:10.755Z
+updated: 2024-06-01T06:53:10.755Z
 tags: 
   - screen-recording
   - ai video
@@ -129,4 +129,5 @@ Videoleap is one of the leading video editing platforms available out there. The
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

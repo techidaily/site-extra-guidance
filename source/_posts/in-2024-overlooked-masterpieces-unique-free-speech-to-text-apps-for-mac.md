@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Overlooked Masterpieces  Unique Free Speech-to-Text Apps for Mac\""
-date: 2024-05-26 16:45:24
-updated: 2024-05-29 10:32:26
+date: 2024-05-31T06:53:55.028Z
+updated: 2024-06-01T06:53:55.028Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ A 2017 Stanford study states that speech to text is about[three times faster tha
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating Through New Camera Settings in iOS 11\""
-date: 2024-05-28 23:34:16
-updated: 2024-05-29 10:36:49
+date: 2024-05-31T06:56:36.212Z
+updated: 2024-06-01T06:56:36.212Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Key Steps for Applying Fades in Digital Audio Editing for 2024"
-date: 2024-05-26 22:22:19
-updated: 2024-05-28 11:24:49
+date: 2024-05-31T06:54:30.385Z
+updated: 2024-06-01T06:54:30.385Z
 tags: 
   - screen-recording
   - ai video
@@ -153,4 +153,5 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

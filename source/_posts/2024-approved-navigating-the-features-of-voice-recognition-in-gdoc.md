@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating the Features of Voice Recognition in GDoc\""
-date: 2024-05-26 18:54:50
-updated: 2024-05-29 11:26:29
+date: 2024-05-31T06:52:29.367Z
+updated: 2024-06-01T06:52:29.367Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ No. You can access Google Docs from any device, provided you have the chrome bro
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Video Editing with W11's Movie Maker for 2024"
-date: 2024-05-25 11:10:52
-updated: 2024-05-28 11:54:44
+date: 2024-05-31T06:56:33.262Z
+updated: 2024-06-01T06:56:33.262Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ In this article, you have learned about various video editors available on Windo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sky Eyes on the Action  DJi Phantom Pro VS GoPro Fusion\""
-date: 2024-05-28 14:23:36
-updated: 2024-05-31 11:19:22
+date: 2024-05-31T06:55:37.078Z
+updated: 2024-06-01T06:55:37.078Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

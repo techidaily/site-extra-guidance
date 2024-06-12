@@ -1,7 +1,7 @@
 ---
 title: "Nine Key Points Before Investing in a New 4K Lens for 2024"
-date: 2024-05-27 16:43:59
-updated: 2024-05-29 11:49:49
+date: 2024-05-31T06:54:21.932Z
+updated: 2024-06-01T06:54:21.932Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

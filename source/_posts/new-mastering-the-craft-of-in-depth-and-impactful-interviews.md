@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering the Craft of In-Depth and Impactful Interviews\""
-date: 2024-05-25 13:30:50
-updated: 2024-05-28 11:47:26
+date: 2024-05-31T06:56:48.762Z
+updated: 2024-06-01T06:56:48.762Z
 tags: 
   - screen-recording
   - ai video
@@ -100,4 +100,5 @@ Make a YouTube opening that's decent enough to get you started rather than aimin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

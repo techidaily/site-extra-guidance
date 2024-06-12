@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Numeric Adjustments in TikTok Videos"
-date: 2024-05-26 10:46:50
-updated: 2024-05-28 12:12:19
+date: 2024-05-31T06:56:12.045Z
+updated: 2024-06-01T06:56:12.045Z
 tags: 
   - screen-recording
   - ai video
@@ -109,4 +109,5 @@ There are various scenarios where you may need to **change your phone number on 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

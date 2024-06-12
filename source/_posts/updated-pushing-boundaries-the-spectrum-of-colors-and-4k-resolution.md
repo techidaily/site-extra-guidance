@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pushing Boundaries  The Spectrum of Colors and 4K Resolution\""
-date: 2024-05-29 19:56:14
-updated: 2024-05-30 12:59:11
+date: 2024-05-31T06:54:02.667Z
+updated: 2024-06-01T06:54:02.667Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

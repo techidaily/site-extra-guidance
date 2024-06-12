@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Smoothing Face Transitions  Motion Blur Techniques in Picsart\""
-date: 2024-05-29 13:12:25
-updated: 2024-05-31 11:45:53
+date: 2024-05-31T06:53:09.962Z
+updated: 2024-06-01T06:53:09.962Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ This article has provided a comprehensive guide on how to do motion blur on Pics
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Opening Lines  Breaking the Ice in Video Comments for 2024\""
-date: 2024-05-28 21:59:47
-updated: 2024-05-29 12:45:35
+date: 2024-05-31T06:55:36.756Z
+updated: 2024-06-01T06:55:36.756Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Creating videos on YouTube is key to your video marketing and content marketing 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

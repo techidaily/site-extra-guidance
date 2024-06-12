@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quick Tips  Essential Techniques for Adjusting Photo Colors\""
-date: 2024-05-27 15:25:44
-updated: 2024-05-30 12:13:39
+date: 2024-05-31T06:56:20.168Z
+updated: 2024-06-01T06:56:20.168Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Apply the gradient by clicking within the shapes. Click “OK” to save your ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

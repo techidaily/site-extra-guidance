@@ -1,7 +1,7 @@
 ---
 title: "[New] Principles of Evolving Media Artistry"
-date: 2024-05-27 21:41:23
-updated: 2024-05-30 12:26:25
+date: 2024-05-31T06:52:39.518Z
+updated: 2024-06-01T06:52:39.518Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

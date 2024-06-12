@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] M1-Fueled Laptops Face Off  Air Versus Pro\""
-date: 2024-05-25 18:23:38
-updated: 2024-05-28 11:21:42
+date: 2024-05-31T06:55:38.497Z
+updated: 2024-06-01T06:55:38.497Z
 tags: 
   - screen-recording
   - ai video
@@ -910,4 +910,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

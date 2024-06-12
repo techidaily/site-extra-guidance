@@ -1,7 +1,7 @@
 ---
 title: "In 2024, 8 Useful Tools That Allow You to Pixelate Face on Photos"
-date: 2024-05-27 23:59:55
-updated: 2024-05-29 10:24:50
+date: 2024-05-31T06:54:17.434Z
+updated: 2024-06-01T06:54:17.434Z
 tags: 
   - screen-recording
   - ai video
@@ -1030,4 +1030,5 @@ Step 13: Once you are satisfied with your edits, click File at the upper left si
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

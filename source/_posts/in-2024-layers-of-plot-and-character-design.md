@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Layers of Plot and Character Design"
-date: 2024-05-27 13:30:12
-updated: 2024-05-28 10:26:32
+date: 2024-05-31T06:58:00.161Z
+updated: 2024-06-01T06:58:00.161Z
 tags: 
   - screen-recording
   - ai video
@@ -183,4 +183,5 @@ The article has provided the most information about screenplays and how to write
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

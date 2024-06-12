@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterclass 15 Color Grading Look-Ups for Camcorder\""
-date: 2024-05-27 21:58:23
-updated: 2024-05-28 10:18:43
+date: 2024-05-31T06:54:26.106Z
+updated: 2024-06-01T06:54:26.106Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ Use the above discussed GoPro LUTs to enhance the overall look. Connect with the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

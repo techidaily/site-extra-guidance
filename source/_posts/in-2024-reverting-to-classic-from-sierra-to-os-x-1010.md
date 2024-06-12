@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Reverting to Classic  From Sierra To OS X 10.10\""
-date: 2024-05-27 14:52:35
-updated: 2024-05-30 10:37:46
+date: 2024-05-31T06:52:45.930Z
+updated: 2024-06-01T06:52:45.930Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

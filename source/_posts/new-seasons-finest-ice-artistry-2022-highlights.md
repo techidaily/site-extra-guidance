@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Season's Finest Ice Artistry - 2022 Highlights\""
-date: 2024-05-29 17:19:21
-updated: 2024-05-30 10:27:34
+date: 2024-05-31T06:52:32.245Z
+updated: 2024-06-01T06:52:32.245Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

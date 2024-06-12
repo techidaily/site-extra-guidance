@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Metaverse Metaphors  Discovering 6 Detailed Instances\""
-date: 2024-05-25 12:38:42
-updated: 2024-05-28 11:21:13
+date: 2024-05-31T06:54:31.537Z
+updated: 2024-06-01T06:54:31.537Z
 tags: 
   - screen-recording
   - ai video
@@ -430,4 +430,5 @@ Metaverse is still under development but several companies have already started 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

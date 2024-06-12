@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Professional Premiere Practices  Implementing In/Out Effects\""
-date: 2024-05-29 12:55:35
-updated: 2024-05-30 12:49:55
+date: 2024-05-31T06:56:28.033Z
+updated: 2024-06-01T06:56:28.033Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ Thus, in this guide, you learned how to add fade-in Premiere and proper edits to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

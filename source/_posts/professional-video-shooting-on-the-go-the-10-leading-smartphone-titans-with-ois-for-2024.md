@@ -1,7 +1,7 @@
 ---
 title: "\"Professional Video Shooting on the Go  The 10 Leading Smartphone Titans with OIS for 2024\""
-date: 2024-05-27 19:29:58
-updated: 2024-05-30 11:22:46
+date: 2024-05-31T06:53:44.784Z
+updated: 2024-06-01T06:53:44.784Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Since you don't always have a camera to capture smooth videos, having an OIS cam
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

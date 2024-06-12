@@ -1,7 +1,7 @@
 ---
 title: "Professional Zoom Settings Guide for Google Meet for 2024"
-date: 2024-05-29 10:34:36
-updated: 2024-05-30 11:59:56
+date: 2024-05-31T06:57:14.941Z
+updated: 2024-06-01T06:57:14.941Z
 tags: 
   - screen-recording
   - ai video
@@ -95,4 +95,5 @@ You may show additional information on your Google Meet by zooming in and out. O
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

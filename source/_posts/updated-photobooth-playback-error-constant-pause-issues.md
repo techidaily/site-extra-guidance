@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Photobooth Playback Error  Constant Pause Issues\""
-date: 2024-05-26 16:31:28
-updated: 2024-05-29 10:29:45
+date: 2024-05-31T06:52:55.189Z
+updated: 2024-06-01T06:52:55.189Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ Select the file type that best suits the project you're working on from the Form
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

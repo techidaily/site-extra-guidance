@@ -1,7 +1,7 @@
 ---
 title: "\"Master Your Art on iPhone  Discover the 8 Prime Drawing Tools for 2024\""
-date: 2024-05-25 15:36:53
-updated: 2024-05-28 11:12:59
+date: 2024-05-31T06:57:33.445Z
+updated: 2024-06-01T06:57:33.445Z
 tags: 
   - screen-recording
   - ai video
@@ -482,4 +482,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

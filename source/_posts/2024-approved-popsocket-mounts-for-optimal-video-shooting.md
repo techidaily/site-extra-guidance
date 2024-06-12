@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  PopSocket Mounts for Optimal Video Shooting\""
-date: 2024-05-26 19:15:42
-updated: 2024-05-29 11:52:32
+date: 2024-05-31T06:53:02.748Z
+updated: 2024-06-01T06:53:02.748Z
 tags: 
   - screen-recording
   - ai video
@@ -250,4 +250,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

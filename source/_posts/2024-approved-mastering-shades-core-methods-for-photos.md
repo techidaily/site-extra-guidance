@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Shades  Core Methods for PHOTOS\""
-date: 2024-05-27 14:30:44
-updated: 2024-05-28 10:15:52
+date: 2024-05-31T06:57:21.873Z
+updated: 2024-06-01T06:57:21.873Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Apply the gradient by clicking within the shapes. Click “OK” to save your ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

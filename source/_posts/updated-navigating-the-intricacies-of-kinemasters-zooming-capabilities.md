@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating the Intricacies of Kinemaster's Zooming Capabilities"
-date: 2024-05-28 22:56:17
-updated: 2024-05-29 10:28:33
+date: 2024-05-31T06:56:56.347Z
+updated: 2024-06-01T06:56:56.347Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ Now you can see how to zoom in/out videos on Kinemaster. You can practice it on 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

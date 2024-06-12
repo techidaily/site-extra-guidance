@@ -1,7 +1,7 @@
 ---
 title: "How to Make Career in Graphic Designing for 2024"
-date: 2024-05-28 10:28:39
-updated: 2024-05-31 10:59:23
+date: 2024-05-31T06:52:27.088Z
+updated: 2024-06-01T06:52:27.088Z
 tags: 
   - screen-recording
   - ai video
@@ -214,4 +214,5 @@ The world of graphic design depends on relationships with other people to advanc
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

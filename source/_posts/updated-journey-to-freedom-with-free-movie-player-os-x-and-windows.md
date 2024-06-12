@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Journey to Freedom with FREE MOVIE PLAYER (OS X & Windows)"
-date: 2024-05-25 20:27:53
-updated: 2024-05-28 12:30:15
+date: 2024-05-31T06:55:26.183Z
+updated: 2024-06-01T06:55:26.183Z
 tags: 
   - screen-recording
   - ai video
@@ -402,4 +402,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

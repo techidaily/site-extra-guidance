@@ -1,7 +1,7 @@
 ---
 title: "Rapid DIY Filming Ideas for Aspiring Directors for 2024"
-date: 2024-05-28 11:46:53
-updated: 2024-05-30 11:53:37
+date: 2024-05-31T06:56:10.245Z
+updated: 2024-06-01T06:56:10.245Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Experiment with other props at home and see which hack evolved from them. You ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

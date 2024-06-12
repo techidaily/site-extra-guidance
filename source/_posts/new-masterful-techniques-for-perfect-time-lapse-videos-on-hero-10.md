@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Masterful Techniques for Perfect Time-Lapse Videos on Hero 10\""
-date: 2024-05-26 16:29:15
-updated: 2024-05-28 10:43:32
+date: 2024-05-31T06:54:27.445Z
+updated: 2024-06-01T06:54:27.445Z
 tags: 
   - screen-recording
   - ai video
@@ -598,4 +598,5 @@ In addition, we've included some helpful pointers which will make filming slow-m
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

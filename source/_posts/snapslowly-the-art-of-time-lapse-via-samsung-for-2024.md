@@ -1,7 +1,7 @@
 ---
 title: "\"SnapSlowly  The Art of Time-Lapse via Samsung for 2024\""
-date: 2024-05-30 14:15:33
-updated: 2024-05-31 11:58:39
+date: 2024-05-31T06:57:27.268Z
+updated: 2024-06-01T06:57:27.268Z
 tags: 
   - screen-recording
   - ai video
@@ -94,4 +94,5 @@ Creating a timelapse video on a Samsung device is super easy. All the latest Sam
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

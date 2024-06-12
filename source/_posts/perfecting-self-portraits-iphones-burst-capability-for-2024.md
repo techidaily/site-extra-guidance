@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting Self-Portraits  IPhone's Burst Capability for 2024\""
-date: 2024-05-26 13:34:21
-updated: 2024-05-29 10:10:21
+date: 2024-05-31T06:52:28.273Z
+updated: 2024-06-01T06:52:28.273Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

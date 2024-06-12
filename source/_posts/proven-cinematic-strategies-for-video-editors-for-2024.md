@@ -1,7 +1,7 @@
 ---
 title: "Proven Cinematic Strategies for Video Editors for 2024"
-date: 2024-05-28 17:11:49
-updated: 2024-05-30 10:42:58
+date: 2024-05-31T06:55:50.557Z
+updated: 2024-06-01T06:55:50.557Z
 tags: 
   - screen-recording
   - ai video
@@ -758,4 +758,5 @@ For macOS 10.14 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

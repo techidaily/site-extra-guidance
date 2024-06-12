@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Prioritizing Elements  What to Consider with a New 4K Camera Lens\""
-date: 2024-05-27 21:55:56
-updated: 2024-05-30 12:37:13
+date: 2024-05-31T06:54:17.261Z
+updated: 2024-06-01T06:54:17.261Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

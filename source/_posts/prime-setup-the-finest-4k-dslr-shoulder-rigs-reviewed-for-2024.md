@@ -1,7 +1,7 @@
 ---
 title: "\"Prime Setup  The Finest 4K DSLR Shoulder Rigs Reviewed for 2024\""
-date: 2024-05-28 21:19:18
-updated: 2024-05-30 11:54:13
+date: 2024-05-31T06:56:40.083Z
+updated: 2024-06-01T06:56:40.083Z
 tags: 
   - screen-recording
   - ai video
@@ -1082,4 +1082,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

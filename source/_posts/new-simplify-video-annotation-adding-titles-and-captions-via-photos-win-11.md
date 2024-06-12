@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Simplify Video Annotation  Adding Titles & Captions via Photos Win 11\""
-date: 2024-05-28 12:32:43
-updated: 2024-05-31 10:42:15
+date: 2024-05-31T06:52:57.373Z
+updated: 2024-06-01T06:52:57.373Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

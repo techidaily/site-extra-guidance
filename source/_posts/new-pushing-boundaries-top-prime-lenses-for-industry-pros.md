@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pushing Boundaries  Top Prime Lenses for Industry Pros\""
-date: 2024-05-27 13:19:11
-updated: 2024-05-30 11:22:38
+date: 2024-05-31T06:57:56.342Z
+updated: 2024-06-01T06:57:56.342Z
 tags: 
   - screen-recording
   - ai video
@@ -898,4 +898,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

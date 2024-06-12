@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating the Complex World of LiPos for Drones"
-date: 2024-05-26 21:16:47
-updated: 2024-05-29 12:12:28
+date: 2024-05-31T06:57:58.278Z
+updated: 2024-06-01T06:57:58.278Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

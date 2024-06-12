@@ -1,7 +1,7 @@
 ---
 title: "Navigating Phones & Samsung Gear VR Interaction for 2024"
-date: 2024-05-28 15:29:23
-updated: 2024-05-29 10:28:49
+date: 2024-05-31T06:56:53.630Z
+updated: 2024-06-01T06:56:53.630Z
 tags: 
   - screen-recording
   - ai video
@@ -442,4 +442,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

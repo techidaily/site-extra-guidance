@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Nostalgic Notions  Integrating Timeless VHS Effects Into Modern Video Production\""
-date: 2024-05-26 18:27:18
-updated: 2024-05-29 10:12:27
+date: 2024-05-31T06:55:33.186Z
+updated: 2024-06-01T06:55:33.186Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ To apply the **80s VHS effects**, you can take assistance from Wondershare Filmo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

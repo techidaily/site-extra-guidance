@@ -1,7 +1,7 @@
 ---
 title: "Premiere Pro Solutions to Perfect iPhone HD Video Exposure Balance for 2024"
-date: 2024-05-27 13:44:31
-updated: 2024-05-30 10:12:29
+date: 2024-05-31T06:57:58.901Z
+updated: 2024-06-01T06:57:58.901Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Overall, it is possible for the HDR quality videos captured with an iPhone 12 ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

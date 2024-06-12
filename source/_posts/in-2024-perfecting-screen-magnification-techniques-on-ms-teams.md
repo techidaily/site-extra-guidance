@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Perfecting Screen Magnification Techniques on MS Teams"
-date: 2024-05-26 14:27:55
-updated: 2024-05-29 11:40:58
+date: 2024-05-31T06:57:53.578Z
+updated: 2024-06-01T06:57:53.578Z
 tags: 
   - screen-recording
   - ai video
@@ -123,4 +123,5 @@ With Zoom and Teams, you can do most business from different places thanks to it
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Prime Panel Participant Prompter"
-date: 2024-05-27 23:43:22
-updated: 2024-05-30 11:33:53
+date: 2024-05-31T06:54:07.474Z
+updated: 2024-06-01T06:54:07.474Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Are you having trouble coming up with a title for your most recent webinar? Ther
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

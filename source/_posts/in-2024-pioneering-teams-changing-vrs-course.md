@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Pioneering Teams Changing VR's Course"
-date: 2024-05-28 16:39:42
-updated: 2024-05-29 12:30:18
+date: 2024-05-31T06:55:19.268Z
+updated: 2024-06-01T06:55:19.268Z
 tags: 
   - screen-recording
   - ai video
@@ -446,4 +446,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

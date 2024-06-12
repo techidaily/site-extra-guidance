@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Simplifying Audio Transcription  Insights Into Azure's Speech Recognition\""
-date: 2024-05-30 20:27:46
-updated: 2024-05-31 12:18:52
+date: 2024-05-31T06:57:16.944Z
+updated: 2024-06-01T06:57:16.944Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ In that case, use a more straightforward option like Google Docs to dictate text
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

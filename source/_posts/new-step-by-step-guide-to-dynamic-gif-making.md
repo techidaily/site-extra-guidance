@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide to Dynamic GIF Making\""
-date: 2024-05-28 20:58:23
-updated: 2024-05-31 10:22:55
+date: 2024-05-31T06:52:30.792Z
+updated: 2024-06-01T06:52:30.792Z
 tags: 
   - screen-recording
   - ai video
@@ -440,4 +440,5 @@ Hopefully, you liked our guide on **GIF format outros** and can now find the per
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

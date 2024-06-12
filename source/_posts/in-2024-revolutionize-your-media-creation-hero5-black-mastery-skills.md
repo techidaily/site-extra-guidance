@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Revolutionize Your Media Creation  Hero5 Black Mastery Skills\""
-date: 2024-05-29 15:31:22
-updated: 2024-05-30 12:58:31
+date: 2024-05-31T06:57:09.704Z
+updated: 2024-06-01T06:57:09.704Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

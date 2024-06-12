@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Long-Term Stability of Syma X8C\""
-date: 2024-05-26 19:20:40
-updated: 2024-05-28 11:14:33
+date: 2024-05-31T06:56:07.273Z
+updated: 2024-06-01T06:56:07.273Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

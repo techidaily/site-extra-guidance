@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Memes  KineMaster Guide for 2024\""
-date: 2024-05-27 10:16:43
-updated: 2024-05-28 12:56:59
+date: 2024-05-31T06:54:30.455Z
+updated: 2024-06-01T06:54:30.455Z
 tags: 
   - screen-recording
   - ai video
@@ -116,4 +116,5 @@ A subscription is available for KineMaster, a free program with more features. T
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

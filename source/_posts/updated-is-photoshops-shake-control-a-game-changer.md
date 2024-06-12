@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Is Photoshop's Shake Control a Game Changer?"
-date: 2024-05-25 15:34:21
-updated: 2024-05-28 11:48:50
+date: 2024-05-31T06:53:26.547Z
+updated: 2024-06-01T06:53:26.547Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

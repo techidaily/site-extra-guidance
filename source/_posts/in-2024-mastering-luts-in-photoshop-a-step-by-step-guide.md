@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering LUTs in Photoshop  A Step-by-Step Guide\""
-date: 2024-05-27 21:44:35
-updated: 2024-05-28 10:44:50
+date: 2024-05-31T06:57:16.184Z
+updated: 2024-06-01T06:57:16.184Z
 tags: 
   - screen-recording
   - ai video
@@ -582,4 +582,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Spark to the Past? DJI's Mavic Air Reimagines Gameplay"
-date: 2024-05-29 16:33:14
-updated: 2024-05-31 10:13:23
+date: 2024-05-31T06:53:08.895Z
+updated: 2024-06-01T06:53:08.895Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

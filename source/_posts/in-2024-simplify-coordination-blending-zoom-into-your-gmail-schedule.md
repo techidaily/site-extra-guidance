@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Simplify Coordination  Blending Zoom Into Your Gmail Schedule\""
-date: 2024-05-29 15:49:59
-updated: 2024-05-31 10:41:58
+date: 2024-05-31T06:53:46.065Z
+updated: 2024-06-01T06:53:46.065Z
 tags: 
   - screen-recording
   - ai video
@@ -240,4 +240,5 @@ In a nutshell, so that everyone can arrive on time, you would be able to easily 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

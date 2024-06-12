@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Integrated Dynamic Movement Analysis\""
-date: 2024-05-24 12:14:38
-updated: 2024-05-27 12:17:37
+date: 2024-05-31T06:53:01.091Z
+updated: 2024-06-01T06:53:01.091Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Alight Motion editing app has lived up to the expectation of being the first mot
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

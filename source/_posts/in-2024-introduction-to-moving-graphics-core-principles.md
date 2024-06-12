@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Introduction to Moving Graphics  Core Principles\""
-date: 2024-05-25 13:57:25
-updated: 2024-05-27 12:25:10
+date: 2024-05-31T06:56:26.552Z
+updated: 2024-06-01T06:56:26.552Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

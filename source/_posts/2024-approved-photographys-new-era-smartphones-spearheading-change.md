@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Photography's New Era  Smartphones Spearheading Change\""
-date: 2024-05-27 16:37:27
-updated: 2024-05-29 10:38:27
+date: 2024-05-31T06:57:22.732Z
+updated: 2024-06-01T06:57:22.732Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Joining a live cohort where you can learn the methods, tactics, and resources th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

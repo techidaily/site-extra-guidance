@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Scrutinizing the Specifications of DJI's Flight Model 3\""
-date: 2024-05-28 19:57:46
-updated: 2024-05-30 10:47:31
+date: 2024-05-31T06:53:45.161Z
+updated: 2024-06-01T06:53:45.161Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

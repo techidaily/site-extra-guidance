@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Minds on Trial  Best General Knowledge Channels\""
-date: 2024-05-27 12:34:44
-updated: 2024-05-28 11:23:27
+date: 2024-05-31T06:55:54.179Z
+updated: 2024-06-01T06:55:54.179Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ We hope you've found this article helpful and that now you know where to watch i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

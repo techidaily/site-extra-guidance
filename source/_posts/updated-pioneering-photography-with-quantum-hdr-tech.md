@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Pioneering Photography with Quantum HDR Tech"
-date: 2024-05-28 13:20:51
-updated: 2024-05-29 12:48:17
+date: 2024-05-31T06:54:57.393Z
+updated: 2024-06-01T06:54:57.393Z
 tags: 
   - screen-recording
   - ai video
@@ -202,4 +202,5 @@ All essential information anyone could want to know about Quantum HDR has been d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

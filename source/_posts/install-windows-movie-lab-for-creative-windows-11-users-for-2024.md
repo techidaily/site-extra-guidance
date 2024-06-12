@@ -1,7 +1,7 @@
 ---
 title: "Install Windows Movie Lab for Creative Windows 11 Users for 2024"
-date: 2024-05-24 11:15:11
-updated: 2024-05-27 11:45:40
+date: 2024-05-31T06:55:05.933Z
+updated: 2024-06-01T06:55:05.933Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ In this article, you have learned about various video editors available on Windo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

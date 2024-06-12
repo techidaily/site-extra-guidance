@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Type Treatments in After Effects\""
-date: 2024-05-26 20:42:27
-updated: 2024-05-28 12:38:27
+date: 2024-05-31T06:55:28.822Z
+updated: 2024-06-01T06:55:28.822Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ Motion title is a dynamic text effect template available in After Effects throug
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

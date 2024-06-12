@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Pinpointing Key Versions of Microsoft's Movie Maker"
-date: 2024-05-27 18:33:32
-updated: 2024-05-29 10:18:32
+date: 2024-05-31T06:52:29.266Z
+updated: 2024-06-01T06:52:29.266Z
 tags: 
   - screen-recording
   - ai video
@@ -112,4 +112,5 @@ A unique production may be made by modifying and combining audio, image, and vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

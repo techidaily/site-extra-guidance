@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pro Photographers' Picks  Top 6 High-Resolution 4K DSLRs\""
-date: 2024-05-29 11:19:47
-updated: 2024-05-30 12:29:11
+date: 2024-05-31T06:54:39.674Z
+updated: 2024-06-01T06:54:39.674Z
 tags: 
   - screen-recording
   - ai video
@@ -642,4 +642,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

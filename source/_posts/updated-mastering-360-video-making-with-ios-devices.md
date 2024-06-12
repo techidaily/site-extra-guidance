@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering 360 Video Making with iOS Devices"
-date: 2024-05-27 19:27:34
-updated: 2024-05-28 11:19:59
+date: 2024-05-31T06:53:51.454Z
+updated: 2024-06-01T06:53:51.454Z
 tags: 
   - screen-recording
   - ai video
@@ -342,4 +342,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

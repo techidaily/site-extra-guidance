@@ -1,7 +1,7 @@
 ---
 title: "\"[New] IPhone Mastery  Complete Guide to Capturing Podcasts\""
-date: 2024-05-26 11:25:38
-updated: 2024-05-28 12:11:35
+date: 2024-05-31T06:54:07.927Z
+updated: 2024-06-01T06:54:07.927Z
 tags: 
   - screen-recording
   - ai video
@@ -192,4 +192,5 @@ We have covered all your queries related to iPhone podcast downloads with the ab
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

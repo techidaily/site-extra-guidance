@@ -1,7 +1,7 @@
 ---
 title: "[New] Snapedit Fundamentals for Budding Photographers"
-date: 2024-05-30 12:30:35
-updated: 2024-05-31 10:15:23
+date: 2024-05-31T06:56:45.622Z
+updated: 2024-06-01T06:56:45.622Z
 tags: 
   - screen-recording
   - ai video
@@ -136,4 +136,5 @@ Are you tired of using various photo editors and still cannot achieve the desire
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

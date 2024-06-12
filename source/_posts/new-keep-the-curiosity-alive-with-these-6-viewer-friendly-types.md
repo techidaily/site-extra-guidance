@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Keep the Curiosity Alive with These 6 Viewer-Friendly Types\""
-date: 2024-05-25 22:14:32
-updated: 2024-05-28 11:29:57
+date: 2024-05-31T06:55:59.521Z
+updated: 2024-06-01T06:55:59.521Z
 tags: 
   - screen-recording
   - ai video
@@ -165,4 +165,5 @@ Are you using video to promote your products or services? If not, you should be!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

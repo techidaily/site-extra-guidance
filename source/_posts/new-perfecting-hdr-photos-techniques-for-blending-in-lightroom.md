@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfecting HDR Photos  Techniques for Blending in Lightroom\""
-date: 2024-05-28 13:36:47
-updated: 2024-05-29 11:58:46
+date: 2024-05-31T06:56:40.770Z
+updated: 2024-06-01T06:56:40.770Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Before using the HDR effect through Lightroom for stacked photo editing and merg
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

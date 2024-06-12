@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Smart Shopping Strategy  Top 7 Affordable 4K Mirrorless\""
-date: 2024-05-28 14:31:35
-updated: 2024-05-31 10:34:52
+date: 2024-05-31T06:52:50.920Z
+updated: 2024-06-01T06:52:50.920Z
 tags: 
   - screen-recording
   - ai video
@@ -738,4 +738,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

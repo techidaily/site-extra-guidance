@@ -1,7 +1,7 @@
 ---
 title: "\"Sky Cameras Rivalry  DJI M310 VS GoPro HERO5 Session for 2024\""
-date: 2024-05-28 21:26:38
-updated: 2024-05-31 11:24:19
+date: 2024-05-31T06:53:38.937Z
+updated: 2024-06-01T06:53:38.937Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

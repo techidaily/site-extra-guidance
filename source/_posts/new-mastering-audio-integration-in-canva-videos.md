@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Audio Integration in Canva Videos"
-date: 2024-05-25 20:27:28
-updated: 2024-05-28 10:26:55
+date: 2024-05-31T06:54:24.203Z
+updated: 2024-06-01T06:54:24.203Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ All these details will help you understand how to add music on Canva without any
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

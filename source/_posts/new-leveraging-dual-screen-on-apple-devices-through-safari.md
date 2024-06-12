@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Leveraging Dual-Screen on Apple Devices Through Safari\""
-date: 2024-05-27 14:31:33
-updated: 2024-05-28 11:20:27
+date: 2024-05-31T06:55:39.848Z
+updated: 2024-06-01T06:55:39.848Z
 tags: 
   - screen-recording
   - ai video
@@ -153,4 +153,5 @@ Aside from Safari, the Picture-in-Picture mode is available in other standard pr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

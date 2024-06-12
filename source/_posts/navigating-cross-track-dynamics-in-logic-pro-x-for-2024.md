@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating Cross-Track Dynamics in Logic Pro X for 2024\""
-date: 2024-05-28 22:44:57
-updated: 2024-05-29 12:16:41
+date: 2024-05-31T06:56:26.685Z
+updated: 2024-06-01T06:56:26.685Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Unlike audio fades, MIDI fades are not implemented in the same manner. One metho
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

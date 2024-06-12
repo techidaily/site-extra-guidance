@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Smooth Privacy  Tear Away Facial Features\""
-date: 2024-05-28 12:36:38
-updated: 2024-05-31 10:29:30
+date: 2024-05-31T06:52:29.995Z
+updated: 2024-06-01T06:52:29.995Z
 tags: 
   - screen-recording
   - ai video
@@ -478,4 +478,5 @@ Focal blur is a radial effect that warps the dimensions of your picture a little
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

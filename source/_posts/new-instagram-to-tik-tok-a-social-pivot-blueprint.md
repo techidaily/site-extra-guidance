@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Instagram to Tik Tok - A Social Pivot Blueprint\""
-date: 2024-05-24 13:51:47
-updated: 2024-05-27 10:38:25
+date: 2024-05-31T06:55:07.538Z
+updated: 2024-06-01T06:55:07.538Z
 tags: 
   - screen-recording
   - ai video
@@ -245,4 +245,5 @@ Using both platforms will take your business or content to a new height. It may 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

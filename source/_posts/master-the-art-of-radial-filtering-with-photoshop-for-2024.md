@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Radial Filtering with Photoshop for 2024"
-date: 2024-05-26 21:23:54
-updated: 2024-05-28 11:39:29
+date: 2024-05-31T06:53:59.054Z
+updated: 2024-06-01T06:53:59.054Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

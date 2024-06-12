@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Master the Art of Video Crafting  Integrating StoryRemix with Windows 11 Photos\""
-date: 2024-05-25 18:39:33
-updated: 2024-05-28 11:17:27
+date: 2024-05-31T06:56:12.172Z
+updated: 2024-06-01T06:56:12.172Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Lighting Setup to Make Your Videos Stand Out"
-date: 2024-05-27 22:43:18
-updated: 2024-05-28 12:20:41
+date: 2024-05-31T06:57:49.942Z
+updated: 2024-06-01T06:57:49.942Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

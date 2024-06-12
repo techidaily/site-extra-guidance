@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Selective Edits  Blurring Images in PS\""
-date: 2024-05-25 22:30:55
-updated: 2024-05-28 12:32:13
+date: 2024-05-31T06:54:57.302Z
+updated: 2024-06-01T06:54:57.302Z
 tags: 
   - screen-recording
   - ai video
@@ -606,4 +606,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

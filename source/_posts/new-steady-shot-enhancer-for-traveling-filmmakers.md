@@ -1,7 +1,7 @@
 ---
 title: "[New] Steady Shot Enhancer for Traveling Filmmakers"
-date: 2024-05-30 19:16:14
-updated: 2024-05-31 11:30:21
+date: 2024-05-31T06:57:59.629Z
+updated: 2024-06-01T06:57:59.629Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Maximizing PC Color with Windows HDRI"
-date: 2024-05-27 18:35:49
-updated: 2024-05-28 11:42:22
+date: 2024-05-31T06:55:21.221Z
+updated: 2024-06-01T06:55:21.221Z
 tags: 
   - screen-recording
   - ai video
@@ -220,4 +220,5 @@ We are sure that with the help of the above content, you will be able to play th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

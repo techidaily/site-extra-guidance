@@ -1,7 +1,7 @@
 ---
 title: "[New] Leveraging Zoom for Superior Skype Interactions & Communication"
-date: 2024-05-27 13:46:59
-updated: 2024-05-28 12:39:18
+date: 2024-05-31T06:57:58.755Z
+updated: 2024-06-01T06:57:58.755Z
 tags: 
   - screen-recording
   - ai video
@@ -102,4 +102,5 @@ As Microsoft has concentrated on enhancing Microsoft Teams for business users an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

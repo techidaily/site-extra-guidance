@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Smoothly Alter Color Grades with LUTs, Abroad"
-date: 2024-05-29 16:15:54
-updated: 2024-05-31 10:58:44
+date: 2024-05-31T06:52:31.741Z
+updated: 2024-06-01T06:52:31.741Z
 tags: 
   - screen-recording
   - ai video
@@ -754,4 +754,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

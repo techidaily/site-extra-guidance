@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Professional Photoshop Guide to Crafting HDR Images\""
-date: 2024-05-29 11:34:56
-updated: 2024-05-30 11:57:44
+date: 2024-05-31T06:57:11.955Z
+updated: 2024-06-01T06:57:11.955Z
 tags: 
   - screen-recording
   - ai video
@@ -455,4 +455,5 @@ We've also explained the different key features of Photoshop, and if perhaps you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

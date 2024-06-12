@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pro Filmmaker's Camera Essentials - The Best 10 List\""
-date: 2024-05-28 18:20:33
-updated: 2024-05-30 12:57:38
+date: 2024-05-31T06:57:32.992Z
+updated: 2024-06-01T06:57:32.992Z
 tags: 
   - screen-recording
   - ai video
@@ -722,4 +722,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

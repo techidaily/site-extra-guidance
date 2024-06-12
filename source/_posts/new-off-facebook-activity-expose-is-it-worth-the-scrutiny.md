@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Off-Facebook Activity Exposé - Is It Worth The Scrutiny?\""
-date: 2024-05-27 16:48:35
-updated: 2024-05-29 11:18:14
+date: 2024-05-31T06:53:34.772Z
+updated: 2024-06-01T06:53:34.772Z
 tags: 
   - screen-recording
   - ai video
@@ -125,4 +125,5 @@ No. Facebook is a cross-platform program, meaning the changes apply to all devic
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

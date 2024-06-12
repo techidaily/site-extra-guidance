@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step by Step iPhone Guide  Creating & Editing Languid Video Sequences\""
-date: 2024-05-30 16:59:30
-updated: 2024-05-31 11:49:25
+date: 2024-05-31T06:53:01.551Z
+updated: 2024-06-01T06:53:01.551Z
 tags: 
   - screen-recording
   - ai video
@@ -526,4 +526,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

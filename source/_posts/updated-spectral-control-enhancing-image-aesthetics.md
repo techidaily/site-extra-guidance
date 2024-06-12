@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Spectral Control  Enhancing Image Aesthetics\""
-date: 2024-05-28 17:25:50
-updated: 2024-05-31 12:17:37
+date: 2024-05-31T06:55:54.077Z
+updated: 2024-06-01T06:55:54.077Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

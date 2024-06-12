@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Prodigious Palette  Top 10 Free Sketch Apps for Mac Users\""
-date: 2024-05-27 23:30:38
-updated: 2024-05-30 12:57:19
+date: 2024-05-31T06:56:53.985Z
+updated: 2024-06-01T06:56:53.985Z
 tags: 
   - screen-recording
   - ai video
@@ -870,4 +870,5 @@ Get started quickly with Filmora's powerful performance, intuitive interface, an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

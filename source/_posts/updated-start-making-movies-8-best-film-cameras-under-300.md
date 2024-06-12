@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Start Making Movies  8 Best Film Cameras Under $300\""
-date: 2024-05-30 16:24:41
-updated: 2024-05-31 12:59:45
+date: 2024-05-31T06:57:45.263Z
+updated: 2024-06-01T06:57:45.263Z
 tags: 
   - screen-recording
   - ai video
@@ -734,4 +734,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Spotify  How to Halt Default Podcast Additions\""
-date: 2024-05-28 21:12:31
-updated: 2024-05-31 10:46:19
+date: 2024-05-31T06:53:39.556Z
+updated: 2024-06-01T06:53:39.556Z
 tags: 
   - screen-recording
   - ai video
@@ -130,4 +130,5 @@ So, now you know **how to remove a podcast from your shows on Spotify**. Whether
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

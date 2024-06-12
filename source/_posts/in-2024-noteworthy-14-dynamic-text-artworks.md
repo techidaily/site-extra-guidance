@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Noteworthy 14 Dynamic Text Artworks"
-date: 2024-05-26 21:33:53
-updated: 2024-05-29 11:24:55
+date: 2024-05-31T06:57:33.956Z
+updated: 2024-06-01T06:57:33.956Z
 tags: 
   - screen-recording
   - ai video
@@ -288,4 +288,5 @@ We have discussed all the common type of text animations that are used to create
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

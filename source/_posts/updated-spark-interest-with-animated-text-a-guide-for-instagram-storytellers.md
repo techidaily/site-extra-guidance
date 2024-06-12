@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Spark Interest with Animated Text  A Guide for Instagram Storytellers\""
-date: 2024-05-30 10:39:49
-updated: 2024-05-31 12:15:44
+date: 2024-05-31T06:57:48.425Z
+updated: 2024-06-01T06:57:48.425Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ The success or failure of your Instagram company depends in large part on engage
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pinnacle Speech-to-Text Applications\""
-date: 2024-05-28 11:41:16
-updated: 2024-05-29 12:42:23
+date: 2024-05-31T06:56:53.681Z
+updated: 2024-06-01T06:56:53.681Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ Please refer to this list the next time you're looking for a speech to text serv
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

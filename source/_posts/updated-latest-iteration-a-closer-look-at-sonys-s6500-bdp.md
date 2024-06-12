@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Latest Iteration  A Closer Look at Sony's S6500 BDP\""
-date: 2024-05-25 10:56:29
-updated: 2024-05-28 11:21:55
+date: 2024-05-31T06:56:50.682Z
+updated: 2024-06-01T06:56:50.682Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Precision Zoom Mastery in Microsoft Teams Sessions"
-date: 2024-05-26 16:52:11
-updated: 2024-05-29 10:46:27
+date: 2024-05-31T06:55:19.131Z
+updated: 2024-06-01T06:55:19.131Z
 tags: 
   - screen-recording
   - ai video
@@ -123,4 +123,5 @@ With Zoom and Teams, you can do most business from different places thanks to it
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

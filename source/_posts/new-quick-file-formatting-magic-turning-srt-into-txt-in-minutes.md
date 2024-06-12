@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick File Formatting Magic  Turning SRT Into TXT in Minutes\""
-date: 2024-05-29 12:34:53
-updated: 2024-05-30 10:39:51
+date: 2024-05-31T06:57:14.058Z
+updated: 2024-06-01T06:57:14.058Z
 tags: 
   - screen-recording
   - ai video
@@ -484,4 +484,5 @@ Regardless of what SRT to TXT conversion method you intend to use, all you just 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

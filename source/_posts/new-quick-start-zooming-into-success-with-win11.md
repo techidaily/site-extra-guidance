@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quick Start  Zooming Into Success with Win11\""
-date: 2024-05-28 19:50:11
-updated: 2024-05-30 10:26:49
+date: 2024-05-31T06:54:23.476Z
+updated: 2024-06-01T06:54:23.476Z
 tags: 
   - screen-recording
   - ai video
@@ -178,4 +178,5 @@ Zoom may be used on Windows devices to start new meetings, join existing ones, s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

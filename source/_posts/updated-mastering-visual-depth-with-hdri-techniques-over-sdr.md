@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Visual Depth with HDRI Techniques Over SDR"
-date: 2024-05-26 22:13:36
-updated: 2024-05-28 10:24:56
+date: 2024-05-31T06:55:45.836Z
+updated: 2024-06-01T06:55:45.836Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ SDR quality is available in most televisions, monitors, and photography platform
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

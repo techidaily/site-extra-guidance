@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mini Laptops & Gimbals for Mobile Videos\""
-date: 2024-05-26 14:17:52
-updated: 2024-05-28 10:38:30
+date: 2024-05-31T06:57:48.497Z
+updated: 2024-06-01T06:57:48.497Z
 tags: 
   - screen-recording
   - ai video
@@ -250,4 +250,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Videography  6 Tips for Making Macro Video\""
-date: 2024-05-25 23:16:56
-updated: 2024-05-28 10:14:11
+date: 2024-05-31T06:55:55.521Z
+updated: 2024-06-01T06:55:55.521Z
 tags: 
   - screen-recording
   - ai video
@@ -394,4 +394,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Affinity Photo's Features to Excise Borders Effectively for 2024"
-date: 2024-05-27 11:41:43
-updated: 2024-05-29 10:21:39
+date: 2024-05-31T06:55:48.726Z
+updated: 2024-06-01T06:55:48.726Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ Hopefully, this article and video can help you create ideal images!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Journey Through LUT-Based Color Enhancement Methods\""
-date: 2024-05-27 20:22:55
-updated: 2024-05-28 10:56:49
+date: 2024-05-31T06:56:08.432Z
+updated: 2024-06-01T06:56:08.432Z
 tags: 
   - screen-recording
   - ai video
@@ -133,4 +133,5 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

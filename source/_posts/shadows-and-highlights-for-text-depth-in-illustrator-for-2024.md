@@ -1,7 +1,7 @@
 ---
 title: "Shadows & Highlights for Text Depth in Illustrator for 2024"
-date: 2024-05-29 11:13:53
-updated: 2024-05-30 12:15:33
+date: 2024-05-31T06:57:58.965Z
+updated: 2024-06-01T06:57:58.965Z
 tags: 
   - screen-recording
   - ai video
@@ -144,4 +144,5 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

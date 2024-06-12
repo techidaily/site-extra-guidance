@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mobile Mastery  High Shots with Your Smartphone\""
-date: 2024-05-25 17:27:14
-updated: 2024-05-28 12:16:23
+date: 2024-05-31T06:56:54.235Z
+updated: 2024-06-01T06:56:54.235Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfecting Transition Timings in Premiere Audio\""
-date: 2024-05-28 22:33:57
-updated: 2024-05-29 12:22:28
+date: 2024-05-31T06:54:18.891Z
+updated: 2024-06-01T06:54:18.891Z
 tags: 
   - screen-recording
   - ai video
@@ -235,4 +235,5 @@ In a nutshell, it's important to use the right program to customize the fade in/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

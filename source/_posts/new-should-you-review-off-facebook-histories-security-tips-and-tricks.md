@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Should You Review Off-Facebook Histories? Security Tips & Tricks\""
-date: 2024-05-30 18:46:26
-updated: 2024-05-31 12:33:20
+date: 2024-05-31T06:55:56.267Z
+updated: 2024-06-01T06:55:56.267Z
 tags: 
   - screen-recording
   - ai video
@@ -125,4 +125,5 @@ No. Facebook is a cross-platform program, meaning the changes apply to all devic
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

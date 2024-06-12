@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Lens Wisdom  Advanced Insights Into Capturing & Editing Art\""
-date: 2024-05-26 21:37:41
-updated: 2024-05-28 12:57:16
+date: 2024-05-31T06:56:38.876Z
+updated: 2024-06-01T06:56:38.876Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ You can try the photography editing tips mentioned above to enhance your images 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Prime 15 LUTs to Perfect GoPro Cinematic Shots for 2024"
-date: 2024-05-27 23:33:45
-updated: 2024-05-30 10:15:48
+date: 2024-05-31T06:54:55.541Z
+updated: 2024-06-01T06:54:55.541Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ Use the above discussed GoPro LUTs to enhance the overall look. Connect with the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

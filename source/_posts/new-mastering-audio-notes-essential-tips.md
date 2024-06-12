@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Audio Notes  Essential Tips\""
-date: 2024-05-25 21:14:12
-updated: 2024-05-28 12:24:36
+date: 2024-05-31T06:57:30.173Z
+updated: 2024-06-01T06:57:30.173Z
 tags: 
   - screen-recording
   - ai video
@@ -219,4 +219,5 @@ Voice Memos is a helpful tool for iOS and Mac users. You can easily record audio
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

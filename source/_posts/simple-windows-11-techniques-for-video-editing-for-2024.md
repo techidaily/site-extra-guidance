@@ -1,7 +1,7 @@
 ---
 title: "Simple Windows 11 Techniques for Video Editing for 2024"
-date: 2024-05-29 10:50:42
-updated: 2024-05-31 10:25:13
+date: 2024-05-31T06:55:23.895Z
+updated: 2024-06-01T06:55:23.895Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimized Text Designs for After Effects for 2024"
-date: 2024-05-27 20:29:49
-updated: 2024-05-29 10:29:56
+date: 2024-05-31T06:56:40.879Z
+updated: 2024-06-01T06:56:40.879Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ If you decide to use Adobe After Effects to add text effects to your video, we h
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Silent Sounds  Elegant Dimming in Garageband Projects\""
-date: 2024-05-29 17:19:10
-updated: 2024-05-31 12:54:57
+date: 2024-05-31T06:58:02.744Z
+updated: 2024-06-01T06:58:02.744Z
 tags: 
   - screen-recording
   - ai video
@@ -150,4 +150,5 @@ According to the survey, one of the most searched topics is **how to fade music 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

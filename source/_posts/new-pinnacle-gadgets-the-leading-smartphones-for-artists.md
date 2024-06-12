@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pinnacle Gadgets  The Leading Smartphones for Artists\""
-date: 2024-05-27 18:50:12
-updated: 2024-05-29 11:32:36
+date: 2024-05-31T06:54:38.631Z
+updated: 2024-06-01T06:54:38.631Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Joining a live cohort where you can learn the methods, tactics, and resources th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

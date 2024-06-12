@@ -1,7 +1,7 @@
 ---
 title: "Social Synergy Blueprint for IG & TikTok Pairing for 2024"
-date: 2024-05-30 13:21:40
-updated: 2024-05-31 11:50:10
+date: 2024-05-31T06:57:29.668Z
+updated: 2024-06-01T06:57:29.668Z
 tags: 
   - screen-recording
   - ai video
@@ -245,4 +245,5 @@ Using both platforms will take your business or content to a new height. It may 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

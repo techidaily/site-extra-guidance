@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Stepwise Guide to Windows 11 Sound Capture Setup"
-date: 2024-05-28 17:28:55
-updated: 2024-05-31 12:25:40
+date: 2024-05-31T06:53:16.915Z
+updated: 2024-06-01T06:53:16.915Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ We have how to record audio on Windows 10 using free as well as premium software
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

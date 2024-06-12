@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating Job Interviews with Confidence and Competence\""
-date: 2024-05-27 17:26:38
-updated: 2024-05-29 10:22:44
+date: 2024-05-31T06:57:40.408Z
+updated: 2024-06-01T06:57:40.408Z
 tags: 
   - screen-recording
   - ai video
@@ -100,4 +100,5 @@ Make a YouTube opening that's decent enough to get you started rather than aimin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

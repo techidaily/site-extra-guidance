@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Precision in Visuals  Navigating Srgb & Rgb\""
-date: 2024-05-28 12:46:47
-updated: 2024-05-29 12:25:49
+date: 2024-05-31T06:53:14.146Z
+updated: 2024-06-01T06:53:14.146Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ As a digital photographer, your main focus can be an artistic expression rather 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

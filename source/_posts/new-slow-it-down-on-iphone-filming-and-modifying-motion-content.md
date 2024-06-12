@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Slow It Down on iPhone  Filming & Modifying Motion Content\""
-date: 2024-05-30 11:37:29
-updated: 2024-05-31 12:18:16
+date: 2024-05-31T06:53:18.367Z
+updated: 2024-06-01T06:53:18.367Z
 tags: 
   - screen-recording
   - ai video
@@ -526,4 +526,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

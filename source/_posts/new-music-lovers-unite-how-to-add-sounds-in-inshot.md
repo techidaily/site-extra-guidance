@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Music Lovers Unite  How to Add Sounds in InShot\""
-date: 2024-05-28 20:38:16
-updated: 2024-05-29 10:48:18
+date: 2024-05-31T06:54:56.249Z
+updated: 2024-06-01T06:54:56.249Z
 tags: 
   - screen-recording
   - ai video
@@ -454,4 +454,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

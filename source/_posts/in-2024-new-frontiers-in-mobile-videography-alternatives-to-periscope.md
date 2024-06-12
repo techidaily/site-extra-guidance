@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, New Frontiers in Mobile Videography - Alternatives to Periscope\""
-date: 2024-05-27 18:22:24
-updated: 2024-05-29 12:17:14
+date: 2024-05-31T06:57:56.030Z
+updated: 2024-06-01T06:57:56.030Z
 tags: 
   - screen-recording
   - ai video
@@ -446,4 +446,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Plot Craft Guild - Bestowed Batch for 2024\""
-date: 2024-05-27 13:24:45
-updated: 2024-05-29 11:34:26
+date: 2024-05-31T06:54:58.843Z
+updated: 2024-06-01T06:54:58.843Z
 tags: 
   - screen-recording
   - ai video
@@ -561,4 +561,5 @@ In conclusion, these were some of our recommendations for storyteller academies.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

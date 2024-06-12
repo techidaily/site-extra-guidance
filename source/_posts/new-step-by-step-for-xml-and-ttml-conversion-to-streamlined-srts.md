@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step for XML & TTML Conversion to Streamlined SRTs\""
-date: 2024-05-30 16:57:11
-updated: 2024-05-31 10:58:21
+date: 2024-05-31T06:54:42.753Z
+updated: 2024-06-01T06:54:42.753Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ If you still have questions in your mind, leave them in the comment section belo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

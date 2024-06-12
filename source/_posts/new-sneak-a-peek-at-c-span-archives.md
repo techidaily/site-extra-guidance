@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sneak a Peek at C-Span Archives\""
-date: 2024-05-30 17:26:29
-updated: 2024-05-31 11:44:46
+date: 2024-05-31T06:55:44.809Z
+updated: 2024-06-01T06:55:44.809Z
 tags: 
   - screen-recording
   - ai video
@@ -486,4 +486,5 @@ C-Span videos are great if you would like to keep up with the political scene in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Integrating Streamlabs Smoothly with OBS on MacBooks"
-date: 2024-05-24 14:45:45
-updated: 2024-05-27 12:58:56
+date: 2024-05-31T06:53:22.925Z
+updated: 2024-06-01T06:53:22.925Z
 tags: 
   - screen-recording
   - ai video
@@ -474,4 +474,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

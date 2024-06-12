@@ -1,7 +1,7 @@
 ---
 title: "Open Source Gaming Soundtracks Library for 2024"
-date: 2024-05-26 20:11:21
-updated: 2024-05-29 12:21:34
+date: 2024-05-31T06:55:48.026Z
+updated: 2024-06-01T06:55:48.026Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ Hopefully, you've found this review helpful and can now see the perfect royalty-
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Jest in Imagery  Create with Kapwing for 2024\""
-date: 2024-05-27 20:28:20
-updated: 2024-05-28 11:56:55
+date: 2024-05-31T06:53:28.786Z
+updated: 2024-06-01T06:53:28.786Z
 tags: 
   - screen-recording
   - ai video
@@ -168,4 +168,5 @@ In the Meme world, there are numerous tools available for creating memes. Among 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

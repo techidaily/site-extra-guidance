@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Pixels  A Guide to Using Photoshop's Eraser\""
-date: 2024-05-28 22:17:47
-updated: 2024-05-29 12:38:37
+date: 2024-05-31T06:54:50.377Z
+updated: 2024-06-01T06:54:50.377Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ Hopefully, you can use the tools in Phoshop with ease and remove images' backgro
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Photoshop Guide  Realistic 3D Text Creation Steps for 2024\""
-date: 2024-05-28 14:54:29
-updated: 2024-05-29 10:14:23
+date: 2024-05-31T06:55:14.946Z
+updated: 2024-06-01T06:55:14.946Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

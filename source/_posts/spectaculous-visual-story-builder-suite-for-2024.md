@@ -1,7 +1,7 @@
 ---
 title: "Spectaculous Visual Story Builder Suite for 2024"
-date: 2024-05-28 11:25:51
-updated: 2024-05-31 11:42:12
+date: 2024-05-31T06:54:04.904Z
+updated: 2024-06-01T06:54:04.904Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

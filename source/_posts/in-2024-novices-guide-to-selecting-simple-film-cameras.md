@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Novice's Guide to Selecting Simple Film Cameras"
-date: 2024-05-27 19:26:29
-updated: 2024-05-29 12:40:22
+date: 2024-05-31T06:55:17.089Z
+updated: 2024-06-01T06:55:17.089Z
 tags: 
   - screen-recording
   - ai video
@@ -734,4 +734,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

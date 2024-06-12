@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfecting Your Podcast Entry in Apple's Catalog"
-date: 2024-05-26 13:35:42
-updated: 2024-05-29 10:14:16
+date: 2024-05-31T06:52:49.676Z
+updated: 2024-06-01T06:52:49.676Z
 tags: 
   - screen-recording
   - ai video
@@ -260,4 +260,5 @@ This article discusses what it takes to get featured on the Apple Podcasts podca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

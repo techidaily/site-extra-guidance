@@ -1,7 +1,7 @@
 ---
 title: "\"Night Sky Magic  Long-Exposure Photography on iPhone for 2024\""
-date: 2024-05-26 17:16:49
-updated: 2024-05-29 12:49:33
+date: 2024-05-31T06:52:43.784Z
+updated: 2024-06-01T06:52:43.784Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Sound to Scripture  Top Pick Offline Recognition Software for 2024\""
-date: 2024-05-30 14:18:40
-updated: 2024-05-31 11:59:24
+date: 2024-05-31T06:55:02.035Z
+updated: 2024-06-01T06:55:02.035Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ Please refer to this list the next time you're looking for a speech to text serv
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

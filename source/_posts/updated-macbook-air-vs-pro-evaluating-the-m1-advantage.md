@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] MacBook Air Vs. Pro  Evaluating the M1 Advantage\""
-date: 2024-05-25 15:24:11
-updated: 2024-05-28 10:35:34
+date: 2024-05-31T06:56:32.787Z
+updated: 2024-06-01T06:56:32.787Z
 tags: 
   - screen-recording
   - ai video
@@ -910,4 +910,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

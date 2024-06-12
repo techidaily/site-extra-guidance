@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimal Speech Recognition for Silent Input"
-date: 2024-05-27 20:31:29
-updated: 2024-05-29 11:21:49
+date: 2024-05-31T06:52:23.455Z
+updated: 2024-06-01T06:52:23.455Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ Please refer to this list the next time you're looking for a speech to text serv
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

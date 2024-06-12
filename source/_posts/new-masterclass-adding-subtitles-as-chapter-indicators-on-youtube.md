@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Masterclass  Adding Subtitles as Chapter Indicators on YouTube\""
-date: 2024-05-25 10:15:24
-updated: 2024-05-28 12:12:11
+date: 2024-05-31T06:52:36.996Z
+updated: 2024-06-01T06:52:36.996Z
 tags: 
   - screen-recording
   - ai video
@@ -514,4 +514,5 @@ One of the best ways to boost your visibility in search engine results and incre
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

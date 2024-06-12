@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Simplifying Hue Correction with Photoshop Tips"
-date: 2024-05-30 10:37:49
-updated: 2024-05-31 10:33:54
+date: 2024-05-31T06:56:55.924Z
+updated: 2024-06-01T06:56:55.924Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Apply the gradient by clicking within the shapes. Click “OK” to save your ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

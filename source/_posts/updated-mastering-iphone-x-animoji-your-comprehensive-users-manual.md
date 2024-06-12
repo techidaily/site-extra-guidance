@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering iPhone X Animoji  Your Comprehensive User's Manual\""
-date: 2024-05-27 16:30:55
-updated: 2024-05-28 11:27:35
+date: 2024-05-31T06:56:48.218Z
+updated: 2024-06-01T06:56:48.218Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

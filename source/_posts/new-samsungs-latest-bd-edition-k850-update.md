@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Samsung's Latest BD Edition - K850 Update\""
-date: 2024-05-28 23:29:53
-updated: 2024-05-30 12:34:35
+date: 2024-05-31T06:54:20.215Z
+updated: 2024-06-01T06:54:20.215Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

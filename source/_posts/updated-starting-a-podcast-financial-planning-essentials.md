@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Starting a Podcast  Financial Planning Essentials\""
-date: 2024-05-30 15:38:45
-updated: 2024-05-31 11:46:29
+date: 2024-05-31T06:54:09.213Z
+updated: 2024-06-01T06:54:09.213Z
 tags: 
   - screen-recording
   - ai video
@@ -480,4 +480,5 @@ You don't need to spend your wealth just to start a podcast channel. As you can 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

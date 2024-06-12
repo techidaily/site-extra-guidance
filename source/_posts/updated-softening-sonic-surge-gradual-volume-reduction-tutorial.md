@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Softening Sonic Surge  Gradual Volume Reduction Tutorial\""
-date: 2024-05-29 13:18:35
-updated: 2024-05-31 11:46:16
+date: 2024-05-31T06:54:55.029Z
+updated: 2024-06-01T06:54:55.029Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ With this guide, you can easily understand the complete procedure for editing a 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

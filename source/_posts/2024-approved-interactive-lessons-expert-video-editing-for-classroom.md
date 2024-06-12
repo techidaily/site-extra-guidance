@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Interactive Lessons  Expert Video Editing for Classroom\""
-date: 2024-05-26 11:47:24
-updated: 2024-05-27 11:48:59
+date: 2024-05-31T06:52:31.045Z
+updated: 2024-06-01T06:52:31.045Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

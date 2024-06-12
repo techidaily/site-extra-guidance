@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Masterclass in Creativity  Best Free 3D Text PSDS\""
-date: 2024-05-25 17:54:43
-updated: 2024-05-28 12:51:57
+date: 2024-05-31T06:57:46.720Z
+updated: 2024-06-01T06:57:46.720Z
 tags: 
   - screen-recording
   - ai video
@@ -463,4 +463,5 @@ Hopefully, this article was helpful, and you can now easily access the 3D text f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Small-Scale Screenplay Idea\""
-date: 2024-05-29 18:26:23
-updated: 2024-05-31 11:48:40
+date: 2024-05-31T06:55:52.650Z
+updated: 2024-06-01T06:55:52.650Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

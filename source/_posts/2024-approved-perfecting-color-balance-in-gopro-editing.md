@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfecting Color Balance in GoPro Editing\""
-date: 2024-05-27 16:51:43
-updated: 2024-05-29 11:56:59
+date: 2024-05-31T06:57:19.406Z
+updated: 2024-06-01T06:57:19.406Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

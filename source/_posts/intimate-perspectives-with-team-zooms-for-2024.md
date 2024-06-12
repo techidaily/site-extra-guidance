@@ -1,7 +1,7 @@
 ---
 title: "Intimate Perspectives with Team Zooms for 2024"
-date: 2024-05-24 12:41:19
-updated: 2024-05-27 12:13:29
+date: 2024-05-31T06:56:17.291Z
+updated: 2024-06-01T06:56:17.291Z
 tags: 
   - screen-recording
   - ai video
@@ -123,4 +123,5 @@ With Zoom and Teams, you can do most business from different places thanks to it
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

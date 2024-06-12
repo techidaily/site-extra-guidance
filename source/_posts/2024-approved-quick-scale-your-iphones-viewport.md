@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Scale Your iPhone's Viewport\""
-date: 2024-05-29 21:31:19
-updated: 2024-05-30 10:12:36
+date: 2024-05-31T06:55:06.455Z
+updated: 2024-06-01T06:55:06.455Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

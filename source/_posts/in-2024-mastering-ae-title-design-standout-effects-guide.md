@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering AE Title Design  Standout Effects Guide\""
-date: 2024-05-25 21:58:22
-updated: 2024-05-28 11:30:56
+date: 2024-05-31T06:53:59.705Z
+updated: 2024-06-01T06:53:59.705Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ Motion title is a dynamic text effect template available in After Effects throug
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

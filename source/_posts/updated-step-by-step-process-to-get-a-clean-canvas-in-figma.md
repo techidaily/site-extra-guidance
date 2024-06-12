@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Process to Get a Clean Canvas in Figma\""
-date: 2024-05-29 10:14:23
-updated: 2024-05-31 10:35:13
+date: 2024-05-31T06:55:43.471Z
+updated: 2024-06-01T06:55:43.471Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

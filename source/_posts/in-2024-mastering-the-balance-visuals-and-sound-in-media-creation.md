@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering the Balance  Visuals and Sound in Media Creation\""
-date: 2024-05-26 20:13:10
-updated: 2024-05-28 10:27:23
+date: 2024-05-31T06:54:44.817Z
+updated: 2024-06-01T06:54:44.817Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

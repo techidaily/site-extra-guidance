@@ -1,7 +1,7 @@
 ---
 title: "[New] Rectifying the Curved Illusion in Your GoPro Videos"
-date: 2024-05-28 13:20:45
-updated: 2024-05-30 11:16:16
+date: 2024-05-31T06:57:40.932Z
+updated: 2024-06-01T06:57:40.932Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

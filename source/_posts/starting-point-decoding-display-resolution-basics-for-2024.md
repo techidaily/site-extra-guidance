@@ -1,7 +1,7 @@
 ---
 title: "\"Starting Point  Decoding Display Resolution Basics for 2024\""
-date: 2024-05-28 10:59:32
-updated: 2024-05-31 11:52:45
+date: 2024-05-31T06:52:23.670Z
+updated: 2024-06-01T06:52:23.670Z
 tags: 
   - screen-recording
   - ai video
@@ -366,4 +366,5 @@ After sharing a lot of information about video resolutions, this article conclud
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

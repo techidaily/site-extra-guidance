@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating Photo Curvature Techniques in PS"
-date: 2024-05-26 18:47:12
-updated: 2024-05-29 10:23:51
+date: 2024-05-31T06:55:59.057Z
+updated: 2024-06-01T06:55:59.057Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

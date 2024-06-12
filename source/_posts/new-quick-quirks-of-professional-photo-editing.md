@@ -1,7 +1,7 @@
 ---
 title: "[New] Quick Quirks of Professional Photo Editing"
-date: 2024-05-28 10:26:22
-updated: 2024-05-30 10:13:54
+date: 2024-05-31T06:55:14.092Z
+updated: 2024-06-01T06:55:14.092Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ Without any doubt, Adobe Photoshop is one of the notorious tools to conduct adva
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

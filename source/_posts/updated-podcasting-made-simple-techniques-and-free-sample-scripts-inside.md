@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Podcasting Made Simple  Techniques and Free Sample Scripts Inside\""
-date: 2024-05-26 14:33:30
-updated: 2024-05-29 10:44:54
+date: 2024-05-31T06:55:25.482Z
+updated: 2024-06-01T06:55:25.482Z
 tags: 
   - screen-recording
   - ai video
@@ -389,4 +389,5 @@ The crux of our discussion is that a compelling podcast script makes it simple t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

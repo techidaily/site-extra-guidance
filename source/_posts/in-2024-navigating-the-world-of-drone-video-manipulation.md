@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating the World of Drone Video Manipulation"
-date: 2024-05-28 10:27:52
-updated: 2024-05-29 12:23:14
+date: 2024-05-31T06:55:08.927Z
+updated: 2024-06-01T06:55:08.927Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

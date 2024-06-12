@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Chromatics  A Practical Approach\""
-date: 2024-05-27 17:12:59
-updated: 2024-05-28 10:36:25
+date: 2024-05-31T06:54:55.662Z
+updated: 2024-06-01T06:54:55.662Z
 tags: 
   - screen-recording
   - ai video
@@ -94,4 +94,5 @@ By including this into your thought process when creating videos with [Filmora](
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

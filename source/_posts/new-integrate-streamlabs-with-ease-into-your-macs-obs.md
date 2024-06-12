@@ -1,7 +1,7 @@
 ---
 title: "[New] Integrate Streamlabs with Ease Into Your Mac’s OBS"
-date: 2024-05-26 11:52:59
-updated: 2024-05-27 11:14:31
+date: 2024-05-31T06:55:47.900Z
+updated: 2024-06-01T06:55:47.900Z
 tags: 
   - screen-recording
   - ai video
@@ -474,4 +474,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

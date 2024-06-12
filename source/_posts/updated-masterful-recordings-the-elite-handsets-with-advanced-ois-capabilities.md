@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Masterful Recordings  The Elite Handsets with Advanced OIS Capabilities\""
-date: 2024-05-25 21:12:41
-updated: 2024-05-28 10:16:29
+date: 2024-05-31T06:57:09.436Z
+updated: 2024-06-01T06:57:09.436Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Since you don't always have a camera to capture smooth videos, having an OIS cam
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

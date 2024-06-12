@@ -1,7 +1,7 @@
 ---
 title: "\"PC Videography  Leveraging Windows HDR for 2024\""
-date: 2024-05-28 22:26:42
-updated: 2024-05-29 11:29:14
+date: 2024-05-31T06:53:28.965Z
+updated: 2024-06-01T06:53:28.965Z
 tags: 
   - screen-recording
   - ai video
@@ -220,4 +220,5 @@ We are sure that with the help of the above content, you will be able to play th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Magix Video Pro X User Guide Summary"
-date: 2024-05-26 11:27:47
-updated: 2024-05-28 12:46:12
+date: 2024-05-31T06:56:12.034Z
+updated: 2024-06-01T06:56:12.034Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ Gratitude for reading.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

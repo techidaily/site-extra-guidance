@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Live Photography Essentials for iPhone Users"
-date: 2024-05-25 12:51:50
-updated: 2024-05-28 11:42:11
+date: 2024-05-31T06:57:27.651Z
+updated: 2024-06-01T06:57:27.651Z
 tags: 
   - screen-recording
   - ai video
@@ -410,4 +410,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sony Xperia XZ Superiority Showcased in 4K Video Quality\""
-date: 2024-05-28 21:55:25
-updated: 2024-05-31 11:42:55
+date: 2024-05-31T06:56:31.442Z
+updated: 2024-06-01T06:56:31.442Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

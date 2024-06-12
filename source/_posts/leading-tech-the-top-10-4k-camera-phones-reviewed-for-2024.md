@@ -1,7 +1,7 @@
 ---
 title: "\"Leading Tech  The Top 10 4K Camera Phones Reviewed for 2024\""
-date: 2024-05-25 13:48:44
-updated: 2024-05-28 12:24:20
+date: 2024-05-31T06:52:50.224Z
+updated: 2024-06-01T06:52:50.224Z
 tags: 
   - screen-recording
   - ai video
@@ -586,4 +586,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

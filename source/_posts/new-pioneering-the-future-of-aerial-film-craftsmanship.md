@@ -1,7 +1,7 @@
 ---
 title: "[New] Pioneering the Future of Aerial Film Craftsmanship"
-date: 2024-05-27 14:10:35
-updated: 2024-05-29 11:27:59
+date: 2024-05-31T06:52:44.472Z
+updated: 2024-06-01T06:52:44.472Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

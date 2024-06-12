@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Smooth Panoramas  State-of-the-Art Tracker Tech\""
-date: 2024-05-30 20:49:36
-updated: 2024-05-31 11:34:11
+date: 2024-05-31T06:54:29.704Z
+updated: 2024-06-01T06:54:29.704Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

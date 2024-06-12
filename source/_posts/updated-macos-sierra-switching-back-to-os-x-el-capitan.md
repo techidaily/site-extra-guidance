@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] MacOS Sierra  Switching Back To OS X El Capitan\""
-date: 2024-05-27 18:26:21
-updated: 2024-05-28 12:38:31
+date: 2024-05-31T06:57:16.698Z
+updated: 2024-06-01T06:57:16.698Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"SDR Vs. HDR  The Superiority of High Dynamic Range in Video Production for 2024\""
-date: 2024-05-27 10:33:42
-updated: 2024-05-30 12:55:56
+date: 2024-05-31T06:56:31.110Z
+updated: 2024-06-01T06:56:31.110Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ SDR quality is available in most televisions, monitors, and photography platform
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

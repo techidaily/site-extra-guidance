@@ -1,7 +1,7 @@
 ---
 title: "Steps for Initiating a Social Media Charity Drive for 2024"
-date: 2024-05-28 17:34:16
-updated: 2024-05-31 10:27:55
+date: 2024-05-31T06:55:23.057Z
+updated: 2024-06-01T06:55:23.057Z
 tags: 
   - screen-recording
   - ai video
@@ -143,4 +143,5 @@ By following these tips, you can run a successful Facebook giveaway that will he
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

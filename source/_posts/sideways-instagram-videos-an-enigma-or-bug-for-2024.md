@@ -1,7 +1,7 @@
 ---
 title: "\"Sideways Instagram Videos  An Enigma or Bug for 2024\""
-date: 2024-05-29 10:41:33
-updated: 2024-05-31 10:21:22
+date: 2024-05-31T06:54:08.187Z
+updated: 2024-06-01T06:54:08.187Z
 tags: 
   - screen-recording
   - ai video
@@ -498,4 +498,5 @@ You can easily rotate your videos according to the guidelines of the social medi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Quick & Simple  Creating Stunning Time-Lapses on Samsungs for 2024\""
-date: 2024-05-28 19:22:15
-updated: 2024-05-30 10:28:12
+date: 2024-05-31T06:52:16.426Z
+updated: 2024-06-01T06:52:16.426Z
 tags: 
   - screen-recording
   - ai video
@@ -94,4 +94,5 @@ Creating a timelapse video on a Samsung device is super easy. All the latest Sam
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

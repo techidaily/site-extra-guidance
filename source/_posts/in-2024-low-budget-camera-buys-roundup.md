@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Low-Budget Camera Buys Roundup\""
-date: 2024-05-27 15:44:45
-updated: 2024-05-28 11:18:35
+date: 2024-05-31T06:54:09.425Z
+updated: 2024-06-01T06:54:09.425Z
 tags: 
   - screen-recording
   - ai video
@@ -402,4 +402,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

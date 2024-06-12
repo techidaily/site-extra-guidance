@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Professionals' Choice  Top 10 AFX Templates for FREE\""
-date: 2024-05-29 21:24:41
-updated: 2024-05-30 11:45:32
+date: 2024-05-31T06:56:28.396Z
+updated: 2024-06-01T06:56:28.396Z
 tags: 
   - screen-recording
   - ai video
@@ -337,4 +337,5 @@ Step4 You can then use the “Effects Window” to change the color as desired.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

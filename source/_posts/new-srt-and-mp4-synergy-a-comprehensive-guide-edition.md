@@ -1,7 +1,7 @@
 ---
 title: "\"[New] SRT & MP4 Synergy  A Comprehensive Guide Edition\""
-date: 2024-05-28 11:13:56
-updated: 2024-05-31 10:51:27
+date: 2024-05-31T06:57:22.342Z
+updated: 2024-06-01T06:57:22.342Z
 tags: 
   - screen-recording
   - ai video
@@ -326,4 +326,5 @@ Gone are the days when adding SRT to MP4 was considered a very difficult task. N
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

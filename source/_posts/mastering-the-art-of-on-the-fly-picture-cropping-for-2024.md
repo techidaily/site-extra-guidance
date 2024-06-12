@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering the Art of On-The-Fly Picture Cropping for 2024\""
-date: 2024-05-26 19:43:27
-updated: 2024-05-28 11:30:31
+date: 2024-05-31T06:57:04.241Z
+updated: 2024-06-01T06:57:04.241Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ This article has been quite conclusive in offering proper online tools to crop i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

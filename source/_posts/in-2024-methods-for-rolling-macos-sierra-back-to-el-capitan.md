@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Methods for Rolling MacOS Sierra Back to El Capitan"
-date: 2024-05-26 11:39:35
-updated: 2024-05-28 12:45:49
+date: 2024-05-31T06:53:41.876Z
+updated: 2024-06-01T06:53:41.876Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

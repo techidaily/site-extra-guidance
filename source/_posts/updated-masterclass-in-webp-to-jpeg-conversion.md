@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Masterclass in WebP to JPEG Conversion"
-date: 2024-05-25 20:16:39
-updated: 2024-05-28 12:23:41
+date: 2024-05-31T06:54:54.757Z
+updated: 2024-06-01T06:54:54.757Z
 tags: 
   - screen-recording
   - ai video
@@ -682,4 +682,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

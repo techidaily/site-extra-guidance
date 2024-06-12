@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Restoring iPhone X Identity Check  Reviving Face Recognition\""
-date: 2024-05-27 13:31:25
-updated: 2024-05-30 10:21:40
+date: 2024-05-31T06:54:43.431Z
+updated: 2024-06-01T06:54:43.431Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

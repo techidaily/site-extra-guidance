@@ -1,7 +1,7 @@
 ---
 title: "Sony's Leap Into 4K with Xperia XZ Premium Insights for 2024"
-date: 2024-05-29 19:41:10
-updated: 2024-05-31 10:41:18
+date: 2024-05-31T06:54:38.817Z
+updated: 2024-06-01T06:54:38.817Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

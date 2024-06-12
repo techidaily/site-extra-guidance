@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Journey From Monochrome Masterpieces to Vivid HDRI Imagery"
-date: 2024-05-27 16:10:58
-updated: 2024-05-28 12:47:29
+date: 2024-05-31T06:56:17.159Z
+updated: 2024-06-01T06:56:17.159Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ You can choose a proper way, like a video editor or encoder to convert the SDR v
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

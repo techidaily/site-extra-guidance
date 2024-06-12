@@ -1,7 +1,7 @@
 ---
 title: "[New] Is Max 360 Superior to Hero 11 in Video Quality?"
-date: 2024-05-27 17:25:16
-updated: 2024-05-28 11:38:16
+date: 2024-05-31T06:57:07.444Z
+updated: 2024-06-01T06:57:07.444Z
 tags: 
   - screen-recording
   - ai video
@@ -480,4 +480,5 @@ Your choice between the two depends on your preference for 360-degree versatilit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

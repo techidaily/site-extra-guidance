@@ -1,7 +1,7 @@
 ---
 title: "\"Redefining Visual Standards  HDR Vs. Standard SDR for 2024\""
-date: 2024-05-28 10:31:21
-updated: 2024-05-30 12:26:38
+date: 2024-05-31T06:55:02.019Z
+updated: 2024-06-01T06:55:02.019Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ SDR quality is available in most televisions, monitors, and photography platform
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

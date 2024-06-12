@@ -1,7 +1,7 @@
 ---
 title: "[New] Scrutinizing the Specifications of DJI's Flight Model 3"
-date: 2024-05-29 15:31:26
-updated: 2024-05-30 11:21:29
+date: 2024-05-31T06:53:38.828Z
+updated: 2024-06-01T06:53:38.828Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

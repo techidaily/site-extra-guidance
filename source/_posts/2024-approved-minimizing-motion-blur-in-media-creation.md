@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Minimizing Motion Blur in Media Creation\""
-date: 2024-05-26 20:22:42
-updated: 2024-05-28 11:11:19
+date: 2024-05-31T06:54:01.228Z
+updated: 2024-06-01T06:54:01.228Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ That's why awareness can go a long way towards helping you catch potential probl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

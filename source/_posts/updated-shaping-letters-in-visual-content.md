@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Shaping Letters in Visual Content"
-date: 2024-05-28 10:26:12
-updated: 2024-05-30 12:15:52
+date: 2024-05-31T06:53:24.356Z
+updated: 2024-06-01T06:53:24.356Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ This tool allows you to distort text by adding a wavy effect to it. To use this 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

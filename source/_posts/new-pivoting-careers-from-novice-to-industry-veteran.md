@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pivoting Careers  From Novice to Industry Veteran\""
-date: 2024-05-26 18:43:16
-updated: 2024-05-29 11:21:19
+date: 2024-05-31T06:55:56.208Z
+updated: 2024-06-01T06:55:56.208Z
 tags: 
   - screen-recording
   - ai video
@@ -214,4 +214,5 @@ The world of graphic design depends on relationships with other people to advanc
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

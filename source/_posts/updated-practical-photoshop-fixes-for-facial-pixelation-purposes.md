@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Practical Photoshop Fixes for Facial Pixelation Purposes"
-date: 2024-05-28 16:33:49
-updated: 2024-05-29 10:18:54
+date: 2024-05-31T06:55:49.921Z
+updated: 2024-06-01T06:55:49.921Z
 tags: 
   - screen-recording
   - ai video
@@ -1030,4 +1030,5 @@ Step 13: Once you are satisfied with your edits, click File at the upper left si
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

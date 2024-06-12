@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step Guide to Transcribing with Google's Speech API\""
-date: 2024-05-28 20:31:19
-updated: 2024-05-31 10:35:59
+date: 2024-05-31T06:55:24.211Z
+updated: 2024-06-01T06:55:24.211Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ No. You can access Google Docs from any device, provided you have the chrome bro
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

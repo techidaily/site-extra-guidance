@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Speedy Shutterbugs  IPhone's Quick Time-Lapse Guide\""
-date: 2024-05-30 19:57:52
-updated: 2024-05-31 11:51:43
+date: 2024-05-31T06:54:21.910Z
+updated: 2024-06-01T06:54:21.910Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

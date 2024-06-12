@@ -1,7 +1,7 @@
 ---
 title: "[New] Phantom 3 Vs. Phantom 4 Complete Comparison"
-date: 2024-05-27 12:54:58
-updated: 2024-05-29 12:18:31
+date: 2024-05-31T06:54:25.732Z
+updated: 2024-06-01T06:54:25.732Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

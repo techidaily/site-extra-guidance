@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Rolling Back MacOS Sierra to El Capitan Version"
-date: 2024-05-27 18:31:51
-updated: 2024-05-30 11:10:49
+date: 2024-05-31T06:52:38.509Z
+updated: 2024-06-01T06:52:38.509Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

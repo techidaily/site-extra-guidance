@@ -1,7 +1,7 @@
 ---
 title: "[New] Optical Stabilization Advantage in Mobile Cinematography"
-date: 2024-05-26 14:41:21
-updated: 2024-05-29 12:55:57
+date: 2024-05-31T06:54:10.448Z
+updated: 2024-06-01T06:54:10.448Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Since you don't always have a camera to capture smooth videos, having an OIS cam
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

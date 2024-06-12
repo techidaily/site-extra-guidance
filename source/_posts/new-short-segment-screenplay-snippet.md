@@ -1,7 +1,7 @@
 ---
 title: "[New] Short Segment Screenplay Snippet"
-date: 2024-05-29 16:59:32
-updated: 2024-05-31 10:30:17
+date: 2024-05-31T06:53:09.659Z
+updated: 2024-06-01T06:53:09.659Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

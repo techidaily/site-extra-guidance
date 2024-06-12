@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Leveraging iOS 11 for Professional-Level iPhone Shots\""
-date: 2024-05-25 10:40:13
-updated: 2024-05-28 11:47:12
+date: 2024-05-31T06:53:16.112Z
+updated: 2024-06-01T06:53:16.112Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

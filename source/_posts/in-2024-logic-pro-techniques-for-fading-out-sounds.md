@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Logic Pro Techniques for Fading Out Sounds"
-date: 2024-05-25 23:52:10
-updated: 2024-05-28 11:48:28
+date: 2024-05-31T06:56:15.512Z
+updated: 2024-06-01T06:56:15.513Z
 tags: 
   - screen-recording
   - ai video
@@ -234,4 +234,5 @@ Apple's Logic Pro X is not compatible with Windows-based computers. Therefore, i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

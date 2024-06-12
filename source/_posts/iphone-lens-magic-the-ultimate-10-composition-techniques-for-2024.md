@@ -1,7 +1,7 @@
 ---
 title: "\"IPhone Lens Magic  The Ultimate 10 Composition Techniques for 2024\""
-date: 2024-05-25 15:50:29
-updated: 2024-05-28 12:42:30
+date: 2024-05-31T06:55:02.627Z
+updated: 2024-06-01T06:55:02.627Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

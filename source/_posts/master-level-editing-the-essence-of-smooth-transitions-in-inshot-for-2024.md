@@ -1,7 +1,7 @@
 ---
 title: "\"Master Level Editing  The Essence of Smooth Transitions in Inshot for 2024\""
-date: 2024-05-27 23:36:18
-updated: 2024-05-28 12:23:18
+date: 2024-05-31T06:56:11.656Z
+updated: 2024-06-01T06:56:11.656Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

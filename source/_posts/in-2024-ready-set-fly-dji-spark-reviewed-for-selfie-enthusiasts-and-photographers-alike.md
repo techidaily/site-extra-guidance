@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ready, Set, Fly  DJI Spark Reviewed for Selfie Enthusiasts and Photographers Alike\""
-date: 2024-05-27 13:29:40
-updated: 2024-05-30 11:24:46
+date: 2024-05-31T06:56:34.833Z
+updated: 2024-06-01T06:56:34.833Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

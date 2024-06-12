@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Master Quick Video Cuts on Windows 11 Photos"
-date: 2024-05-27 23:10:16
-updated: 2024-05-28 10:59:52
+date: 2024-05-31T06:53:56.251Z
+updated: 2024-06-01T06:53:56.251Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

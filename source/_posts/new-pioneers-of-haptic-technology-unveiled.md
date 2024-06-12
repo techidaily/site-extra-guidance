@@ -1,7 +1,7 @@
 ---
 title: "[New] Pioneers of Haptic Technology Unveiled"
-date: 2024-05-26 12:58:18
-updated: 2024-05-29 12:40:51
+date: 2024-05-31T06:55:23.648Z
+updated: 2024-06-01T06:55:23.648Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

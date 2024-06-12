@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Redefining Cinematic Boundaries with 360 Video\""
-date: 2024-05-28 22:29:52
-updated: 2024-05-30 11:58:13
+date: 2024-05-31T06:54:09.345Z
+updated: 2024-06-01T06:54:09.345Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

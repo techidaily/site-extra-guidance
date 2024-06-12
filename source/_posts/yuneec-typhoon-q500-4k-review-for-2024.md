@@ -1,7 +1,7 @@
 ---
 title: "Yuneec Typhoon Q500 4K Review for 2024"
-date: 2024-05-27 20:22:58
-updated: 2024-05-30 11:44:24
+date: 2024-05-31T06:53:59.556Z
+updated: 2024-06-01T06:53:59.556Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

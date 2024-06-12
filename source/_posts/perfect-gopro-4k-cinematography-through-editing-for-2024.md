@@ -1,7 +1,7 @@
 ---
 title: "Perfect GoPro 4K Cinematography Through Editing for 2024"
-date: 2024-05-26 14:27:54
-updated: 2024-05-29 12:58:37
+date: 2024-05-31T06:57:05.197Z
+updated: 2024-06-01T06:57:05.197Z
 tags: 
   - screen-recording
   - ai video
@@ -486,4 +486,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

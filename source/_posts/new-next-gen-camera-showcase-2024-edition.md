@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Next-Gen Camera Showcase - 2024 Edition\""
-date: 2024-05-27 12:12:35
-updated: 2024-05-29 12:15:13
+date: 2024-05-31T06:57:44.996Z
+updated: 2024-06-01T06:57:44.996Z
 tags: 
   - screen-recording
   - ai video
@@ -238,4 +238,5 @@ To sum things up besides the specifications of this camera, we find this one of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

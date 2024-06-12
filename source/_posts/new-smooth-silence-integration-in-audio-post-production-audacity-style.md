@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Smooth Silence Integration in Audio Post-Production - Audacity Style\""
-date: 2024-05-30 20:16:32
-updated: 2024-05-31 11:48:58
+date: 2024-05-31T06:56:39.959Z
+updated: 2024-06-01T06:56:39.959Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ You may access a variety of tools and services on the platform known as Audacity
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

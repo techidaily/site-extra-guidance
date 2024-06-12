@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Precision Close-Up Techniques with Kinemaster Software\""
-date: 2024-05-28 10:20:12
-updated: 2024-05-29 12:44:17
+date: 2024-05-31T06:55:32.822Z
+updated: 2024-06-01T06:55:32.822Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ Now you can see how to zoom in/out videos on Kinemaster. You can practice it on 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Lessons in Motion  Mastering Classroom Editing\""
-date: 2024-05-26 18:21:57
-updated: 2024-05-28 12:14:22
+date: 2024-05-31T06:55:51.979Z
+updated: 2024-06-01T06:55:51.979Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

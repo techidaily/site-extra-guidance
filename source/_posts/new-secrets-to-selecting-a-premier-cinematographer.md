@@ -1,7 +1,7 @@
 ---
 title: "[New] Secrets to Selecting a Premier Cinematographer"
-date: 2024-05-29 14:22:34
-updated: 2024-05-30 12:25:50
+date: 2024-05-31T06:55:26.954Z
+updated: 2024-06-01T06:55:26.954Z
 tags: 
   - screen-recording
   - ai video
@@ -206,4 +206,5 @@ For a good outcome of your video, you have to make it a point that you hire a sk
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

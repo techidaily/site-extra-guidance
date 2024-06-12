@@ -1,7 +1,7 @@
 ---
 title: "\"Learning to Utilize Burst Mode for High-Speed Photography for 2024\""
-date: 2024-05-27 10:13:24
-updated: 2024-05-28 12:40:31
+date: 2024-05-31T06:55:42.984Z
+updated: 2024-06-01T06:55:42.984Z
 tags: 
   - screen-recording
   - ai video
@@ -198,4 +198,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

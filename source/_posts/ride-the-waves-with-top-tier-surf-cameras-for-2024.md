@@ -1,7 +1,7 @@
 ---
 title: "\"Ride the Waves with Top-Tier Surf Cameras for 2024\""
-date: 2024-05-29 21:30:13
-updated: 2024-05-30 10:30:58
+date: 2024-05-31T06:57:23.956Z
+updated: 2024-06-01T06:57:23.956Z
 tags: 
   - screen-recording
   - ai video
@@ -518,4 +518,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

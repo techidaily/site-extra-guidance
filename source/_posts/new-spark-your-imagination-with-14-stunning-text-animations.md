@@ -1,7 +1,7 @@
 ---
 title: "[New] Spark Your Imagination with 14 Stunning Text Animations"
-date: 2024-05-29 21:15:42
-updated: 2024-05-31 10:39:33
+date: 2024-05-31T06:54:54.592Z
+updated: 2024-06-01T06:54:54.592Z
 tags: 
   - screen-recording
   - ai video
@@ -288,4 +288,5 @@ We have discussed all the common type of text animations that are used to create
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Real-Time Aspect Ratio Modification Tips\""
-date: 2024-05-29 13:33:11
-updated: 2024-05-30 10:28:43
+date: 2024-05-31T06:52:30.693Z
+updated: 2024-06-01T06:52:30.693Z
 tags: 
   - screen-recording
   - ai video
@@ -986,4 +986,5 @@ When you go to the "DVD" tab, you will notice various aspect ratio options. Swit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

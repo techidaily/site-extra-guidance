@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quick Camouflage  Blurring Faces on Demand\""
-date: 2024-05-27 12:19:52
-updated: 2024-05-30 10:21:14
+date: 2024-05-31T06:56:16.425Z
+updated: 2024-06-01T06:56:16.425Z
 tags: 
   - screen-recording
   - ai video
@@ -478,4 +478,5 @@ Focal blur is a radial effect that warps the dimensions of your picture a little
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

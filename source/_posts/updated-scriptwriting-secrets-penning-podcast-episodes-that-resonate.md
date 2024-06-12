@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Scriptwriting Secrets  Penning Podcast Episodes That Resonate\""
-date: 2024-05-27 20:45:46
-updated: 2024-05-30 11:55:58
+date: 2024-05-31T06:56:20.675Z
+updated: 2024-06-01T06:56:20.675Z
 tags: 
   - screen-recording
   - ai video
@@ -389,4 +389,5 @@ The crux of our discussion is that a compelling podcast script makes it simple t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

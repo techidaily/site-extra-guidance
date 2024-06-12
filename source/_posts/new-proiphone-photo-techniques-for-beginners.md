@@ -1,7 +1,7 @@
 ---
 title: "[New] Proiphone Photo Techniques for Beginners"
-date: 2024-05-29 18:19:46
-updated: 2024-05-30 10:17:41
+date: 2024-05-31T06:56:52.990Z
+updated: 2024-06-01T06:56:52.990Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

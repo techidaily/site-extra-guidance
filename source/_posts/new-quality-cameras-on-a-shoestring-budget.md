@@ -1,7 +1,7 @@
 ---
 title: "[New] Quality Cameras on a Shoestring Budget"
-date: 2024-05-27 19:53:49
-updated: 2024-05-30 12:40:42
+date: 2024-05-31T06:57:39.935Z
+updated: 2024-06-01T06:57:39.935Z
 tags: 
   - screen-recording
   - ai video
@@ -1322,4 +1322,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

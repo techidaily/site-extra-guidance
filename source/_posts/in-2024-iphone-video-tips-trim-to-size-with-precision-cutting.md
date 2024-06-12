@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, IPhone Video Tips  Trim to Size with Precision Cutting\""
-date: 2024-05-26 21:15:23
-updated: 2024-05-28 12:12:32
+date: 2024-05-31T06:57:27.629Z
+updated: 2024-06-01T06:57:27.629Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

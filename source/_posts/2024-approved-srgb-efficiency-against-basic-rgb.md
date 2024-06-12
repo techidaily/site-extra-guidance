@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Srgb Efficiency Against Basic Rgb\""
-date: 2024-05-29 10:36:29
-updated: 2024-05-31 11:33:49
+date: 2024-05-31T06:54:52.781Z
+updated: 2024-06-01T06:54:52.781Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ As a digital photographer, your main focus can be an artistic expression rather 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

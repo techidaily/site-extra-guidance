@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step Guide to Applying a Realistic Motion Blur in Photoshop\""
-date: 2024-05-30 21:16:17
-updated: 2024-05-31 12:57:59
+date: 2024-05-31T06:55:09.916Z
+updated: 2024-06-01T06:55:09.916Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Do you want to add an artistic look to your photos? One of the great ways to enh
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

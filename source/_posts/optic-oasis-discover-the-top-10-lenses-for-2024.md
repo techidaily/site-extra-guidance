@@ -1,7 +1,7 @@
 ---
 title: "\"Optic Oasis  Discover the Top 10 Lenses for 2024\""
-date: 2024-05-28 21:56:38
-updated: 2024-05-29 12:18:41
+date: 2024-05-31T06:55:48.913Z
+updated: 2024-06-01T06:55:48.913Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Another query arises after taking a look at these new camera lens prices. Is it 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

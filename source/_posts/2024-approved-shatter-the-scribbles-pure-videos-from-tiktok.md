@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Shatter the Scribbles  Pure Videos From TikTok\""
-date: 2024-05-28 13:53:22
-updated: 2024-05-31 11:14:27
+date: 2024-05-31T06:54:58.417Z
+updated: 2024-06-01T06:54:58.417Z
 tags: 
   - screen-recording
   - ai video
@@ -534,4 +534,5 @@ Stickers and emojis are pretty fun to add to your video. However, sometimes, it 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

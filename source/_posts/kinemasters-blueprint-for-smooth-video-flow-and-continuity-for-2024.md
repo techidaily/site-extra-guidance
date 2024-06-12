@@ -1,7 +1,7 @@
 ---
 title: "Kinemaster's Blueprint for Smooth Video Flow and Continuity for 2024"
-date: 2024-05-27 21:32:15
-updated: 2024-05-28 11:23:32
+date: 2024-05-31T06:55:23.466Z
+updated: 2024-06-01T06:55:23.466Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Thus, in this guide, you learned how to add transition effect in Kinemaster and 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

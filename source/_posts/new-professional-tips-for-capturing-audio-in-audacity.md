@@ -1,7 +1,7 @@
 ---
 title: "[New] Professional Tips for Capturing Audio in Audacity"
-date: 2024-05-28 12:42:12
-updated: 2024-05-30 11:11:59
+date: 2024-05-31T06:55:28.509Z
+updated: 2024-06-01T06:55:28.509Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ Simply select the necessary file format from the drop-down box that appears next
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

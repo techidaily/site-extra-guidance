@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Masterful 80S Filters & Transitions for Editors"
-date: 2024-05-25 22:23:27
-updated: 2024-05-28 10:30:14
+date: 2024-05-31T06:57:49.100Z
+updated: 2024-06-01T06:57:49.100Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ To apply the **80s VHS effects**, you can take assistance from Wondershare Filmo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

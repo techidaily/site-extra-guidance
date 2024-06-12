@@ -1,7 +1,7 @@
 ---
 title: "Quantifying a Day's Video Consumption in GB for 2024"
-date: 2024-05-29 19:49:24
-updated: 2024-05-30 11:58:21
+date: 2024-05-31T06:55:53.899Z
+updated: 2024-06-01T06:55:53.899Z
 tags: 
   - screen-recording
   - ai video
@@ -584,4 +584,5 @@ You can also compress your video online without finding and downloading any soft
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

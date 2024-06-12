@@ -1,7 +1,7 @@
 ---
 title: "\"Nikon J5  Setting New Standards in High-Resolution Video Production for 2024\""
-date: 2024-05-28 14:11:13
-updated: 2024-05-29 10:32:43
+date: 2024-05-31T06:52:16.377Z
+updated: 2024-06-01T06:52:16.377Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

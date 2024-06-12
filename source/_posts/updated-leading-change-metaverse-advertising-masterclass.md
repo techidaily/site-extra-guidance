@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Leading Change  Metaverse Advertising Masterclass\""
-date: 2024-05-26 19:16:15
-updated: 2024-05-28 10:33:17
+date: 2024-05-31T06:55:54.017Z
+updated: 2024-06-01T06:55:54.017Z
 tags: 
   - screen-recording
   - ai video
@@ -414,4 +414,5 @@ Marketing in the Metaverse is the next trending thing in the world of digital ma
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Significant Tenets of Interactive Storytelling for 2024"
-date: 2024-05-29 22:56:47
-updated: 2024-05-31 12:52:29
+date: 2024-05-31T06:56:20.452Z
+updated: 2024-06-01T06:56:20.452Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ Everybody has a narrative, but the craft of digital storytelling can transform a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

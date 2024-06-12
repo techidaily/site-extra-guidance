@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Rapid DIY Techniques That Every Indie Filmmaker Should Try"
-date: 2024-05-29 16:50:41
-updated: 2024-05-30 11:23:11
+date: 2024-05-31T06:55:46.199Z
+updated: 2024-06-01T06:55:46.199Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Experiment with other props at home and see which hack evolved from them. You ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

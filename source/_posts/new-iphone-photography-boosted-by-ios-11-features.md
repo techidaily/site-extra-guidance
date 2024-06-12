@@ -1,7 +1,7 @@
 ---
 title: "[New] IPhone Photography Boosted by iOS 11 Features"
-date: 2024-05-27 21:18:44
-updated: 2024-05-28 10:14:26
+date: 2024-05-31T06:53:47.181Z
+updated: 2024-06-01T06:53:47.181Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

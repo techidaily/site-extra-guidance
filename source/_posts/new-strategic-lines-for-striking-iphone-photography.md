@@ -1,7 +1,7 @@
 ---
 title: "[New] Strategic Lines for Striking iPhone Photography"
-date: 2024-05-29 19:21:33
-updated: 2024-05-31 10:48:17
+date: 2024-05-31T06:52:33.151Z
+updated: 2024-06-01T06:52:33.151Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

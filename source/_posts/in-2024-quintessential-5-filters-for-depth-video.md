@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Quintessential 5 Filters for Depth Video"
-date: 2024-05-29 17:58:55
-updated: 2024-05-30 10:53:58
+date: 2024-05-31T06:54:49.773Z
+updated: 2024-06-01T06:54:49.773Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

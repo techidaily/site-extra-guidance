@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Kinemaster's Complete Guide to Flawless Transitions\""
-date: 2024-05-25 19:54:55
-updated: 2024-05-28 12:22:27
+date: 2024-05-31T06:54:35.853Z
+updated: 2024-06-01T06:54:35.853Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Thus, in this guide, you learned how to add transition effect in Kinemaster and 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

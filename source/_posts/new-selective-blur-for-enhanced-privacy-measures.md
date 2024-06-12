@@ -1,7 +1,7 @@
 ---
 title: "[New] Selective Blur for Enhanced Privacy Measures"
-date: 2024-05-27 20:40:43
-updated: 2024-05-30 10:33:20
+date: 2024-05-31T06:52:51.778Z
+updated: 2024-06-01T06:52:51.778Z
 tags: 
   - screen-recording
   - ai video
@@ -606,4 +606,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

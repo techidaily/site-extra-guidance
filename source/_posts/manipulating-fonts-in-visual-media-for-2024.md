@@ -1,7 +1,7 @@
 ---
 title: "Manipulating Fonts in Visual Media for 2024"
-date: 2024-05-27 13:12:55
-updated: 2024-05-28 10:29:39
+date: 2024-05-31T06:56:40.688Z
+updated: 2024-06-01T06:56:40.688Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ This tool allows you to distort text by adding a wavy effect to it. To use this 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

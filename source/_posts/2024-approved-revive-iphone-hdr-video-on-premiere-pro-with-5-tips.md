@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Revive iPhone HDR Video on Premiere Pro with 5 Tips\""
-date: 2024-05-28 21:43:23
-updated: 2024-05-30 12:47:15
+date: 2024-05-31T06:52:57.009Z
+updated: 2024-06-01T06:52:57.009Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Overall, it is possible for the HDR quality videos captured with an iPhone 12 ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Precision Cinematography  Closing in on Details\""
-date: 2024-05-26 12:15:55
-updated: 2024-05-29 10:35:24
+date: 2024-05-31T06:56:45.091Z
+updated: 2024-06-01T06:56:45.091Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ Now you can see how to zoom in/out videos on Kinemaster. You can practice it on 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

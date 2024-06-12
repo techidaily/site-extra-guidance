@@ -1,7 +1,7 @@
 ---
 title: "\"Resource Hub  Free, High-Quality Slide Decks and Ideas for 2024\""
-date: 2024-05-28 19:52:44
-updated: 2024-05-30 11:54:43
+date: 2024-05-31T06:53:02.438Z
+updated: 2024-06-01T06:53:02.438Z
 tags: 
   - screen-recording
   - ai video
@@ -710,4 +710,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

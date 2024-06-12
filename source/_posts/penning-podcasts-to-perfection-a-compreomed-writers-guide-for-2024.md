@@ -1,7 +1,7 @@
 ---
 title: "\"Penning Podcasts to Perfection  A Compreomed Writer’s Guide for 2024\""
-date: 2024-05-28 12:27:17
-updated: 2024-05-29 11:40:57
+date: 2024-05-31T06:57:30.303Z
+updated: 2024-06-01T06:57:30.303Z
 tags: 
   - screen-recording
   - ai video
@@ -389,4 +389,5 @@ The crux of our discussion is that a compelling podcast script makes it simple t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

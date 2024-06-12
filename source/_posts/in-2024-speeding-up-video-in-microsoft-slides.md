@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Speeding Up Video in Microsoft Slides"
-date: 2024-05-29 13:55:41
-updated: 2024-05-31 12:27:47
+date: 2024-05-31T06:54:11.984Z
+updated: 2024-06-01T06:54:11.984Z
 tags: 
   - screen-recording
   - ai video
@@ -650,4 +650,5 @@ Some most common reasons for this issue include:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

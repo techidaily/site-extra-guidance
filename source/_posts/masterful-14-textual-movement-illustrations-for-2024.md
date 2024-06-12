@@ -1,7 +1,7 @@
 ---
 title: "Masterful 14 Textual Movement Illustrations for 2024"
-date: 2024-05-26 23:13:30
-updated: 2024-05-28 12:36:15
+date: 2024-05-31T06:52:15.350Z
+updated: 2024-06-01T06:52:15.350Z
 tags: 
   - screen-recording
   - ai video
@@ -288,4 +288,5 @@ We have discussed all the common type of text animations that are used to create
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

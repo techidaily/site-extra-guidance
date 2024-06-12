@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Masterclass  Navigating Zoom's Video Broadcasting Features\""
-date: 2024-05-25 19:55:53
-updated: 2024-05-28 10:56:12
+date: 2024-05-31T06:53:59.909Z
+updated: 2024-06-01T06:53:59.909Z
 tags: 
   - screen-recording
   - ai video
@@ -112,4 +112,5 @@ If you want to live stream Zoom to YouTube, the process is slightly complicated 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

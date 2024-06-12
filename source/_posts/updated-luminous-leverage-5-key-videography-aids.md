@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Luminous Leverage  5 Key Videography Aids\""
-date: 2024-05-25 15:59:28
-updated: 2024-05-28 12:25:44
+date: 2024-05-31T06:55:06.186Z
+updated: 2024-06-01T06:55:06.186Z
 tags: 
   - screen-recording
   - ai video
@@ -666,4 +666,5 @@ No matter which tool you are using, just follow these generic steps and you will
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

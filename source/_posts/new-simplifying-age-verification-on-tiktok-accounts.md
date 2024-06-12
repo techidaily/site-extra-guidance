@@ -1,7 +1,7 @@
 ---
 title: "[New] Simplifying Age Verification on TikTok Accounts"
-date: 2024-05-28 22:17:55
-updated: 2024-05-31 11:52:31
+date: 2024-05-31T06:55:30.928Z
+updated: 2024-06-01T06:55:30.928Z
 tags: 
   - screen-recording
   - ai video
@@ -124,4 +124,5 @@ Protecting underage teens and kids from the negative side of the internet is imp
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

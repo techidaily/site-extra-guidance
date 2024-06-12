@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Leveraging LUTs for Rich Color Grading in AR Apps"
-date: 2024-05-27 10:27:11
-updated: 2024-05-28 11:54:53
+date: 2024-05-31T06:56:12.017Z
+updated: 2024-06-01T06:56:12.017Z
 tags: 
   - screen-recording
   - ai video
@@ -137,4 +137,5 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

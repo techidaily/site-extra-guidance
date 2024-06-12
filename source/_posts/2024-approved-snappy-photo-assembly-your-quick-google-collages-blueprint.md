@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Snappy Photo Assembly  Your Quick Google Collages Blueprint\""
-date: 2024-05-28 20:55:32
-updated: 2024-05-31 10:39:58
+date: 2024-05-31T06:56:38.051Z
+updated: 2024-06-01T06:56:38.051Z
 tags: 
   - screen-recording
   - ai video
@@ -566,4 +566,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

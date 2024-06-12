@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Phantom 3 Showdown  Golem 4 Emerges\""
-date: 2024-05-28 14:33:44
-updated: 2024-05-29 10:32:16
+date: 2024-05-31T06:52:12.782Z
+updated: 2024-06-01T06:52:12.782Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

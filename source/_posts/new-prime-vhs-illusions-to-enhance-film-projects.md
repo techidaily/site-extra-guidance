@@ -1,7 +1,7 @@
 ---
 title: "[New] Prime VHS Illusions to Enhance Film Projects"
-date: 2024-05-27 23:19:39
-updated: 2024-05-30 12:17:51
+date: 2024-05-31T06:57:14.779Z
+updated: 2024-06-01T06:57:14.779Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ To apply the **80s VHS effects**, you can take assistance from Wondershare Filmo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

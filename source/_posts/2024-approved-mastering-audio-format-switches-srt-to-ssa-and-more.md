@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Audio Format Switches  SRT to SSA & More\""
-date: 2024-05-27 16:48:15
-updated: 2024-05-28 12:15:43
+date: 2024-05-31T06:54:36.651Z
+updated: 2024-06-01T06:54:36.651Z
 tags: 
   - screen-recording
   - ai video
@@ -261,4 +261,5 @@ There’s no doubt that the SRT file format is one of the most popular subtitle 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

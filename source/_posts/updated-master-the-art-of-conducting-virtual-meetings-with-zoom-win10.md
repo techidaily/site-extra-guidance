@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Master the Art of Conducting Virtual Meetings with Zoom (Win10)"
-date: 2024-05-26 14:34:46
-updated: 2024-05-28 11:14:30
+date: 2024-05-31T06:53:17.709Z
+updated: 2024-06-01T06:53:17.709Z
 tags: 
   - screen-recording
   - ai video
@@ -178,4 +178,5 @@ Zoom may be used on Windows devices to start new meetings, join existing ones, s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Introducing the Essence of Motion-Blur Techniques on iPhone\""
-date: 2024-05-26 18:59:39
-updated: 2024-05-27 12:55:13
+date: 2024-05-31T06:54:39.347Z
+updated: 2024-06-01T06:54:39.347Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

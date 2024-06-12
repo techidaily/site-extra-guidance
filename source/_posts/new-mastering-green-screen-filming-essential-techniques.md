@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Green Screen Filming  Essential Techniques\""
-date: 2024-05-27 11:15:57
-updated: 2024-05-28 12:26:20
+date: 2024-05-31T06:55:04.318Z
+updated: 2024-06-01T06:55:04.318Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

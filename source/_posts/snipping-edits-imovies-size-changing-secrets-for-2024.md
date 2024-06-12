@@ -1,7 +1,7 @@
 ---
 title: "\"Snipping Edits  IMovie’s Size-Changing Secrets for 2024\""
-date: 2024-05-30 19:56:52
-updated: 2024-05-31 12:54:50
+date: 2024-05-31T06:53:39.723Z
+updated: 2024-06-01T06:53:39.723Z
 tags: 
   - screen-recording
   - ai video
@@ -228,4 +228,5 @@ Click the Text /Credit icon to add opening titles, end credits, or subtitles to 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

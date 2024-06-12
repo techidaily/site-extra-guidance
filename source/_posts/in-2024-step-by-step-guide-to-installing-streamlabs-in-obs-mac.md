@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step Guide to Installing Streamlabs in OBS (Mac)\""
-date: 2024-05-30 16:11:15
-updated: 2024-05-31 12:30:27
+date: 2024-05-31T06:52:26.458Z
+updated: 2024-06-01T06:52:26.458Z
 tags: 
   - screen-recording
   - ai video
@@ -474,4 +474,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

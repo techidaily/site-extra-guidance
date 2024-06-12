@@ -1,7 +1,7 @@
 ---
 title: "\"Live Life in HD with Panasonic HX-A1 Cam for 2024\""
-date: 2024-05-27 23:59:45
-updated: 2024-05-28 12:56:48
+date: 2024-05-31T06:56:05.142Z
+updated: 2024-06-01T06:56:05.142Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

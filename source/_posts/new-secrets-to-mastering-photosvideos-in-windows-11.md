@@ -1,7 +1,7 @@
 ---
 title: "[New] Secrets to Mastering Photos/Videos in Windows 11"
-date: 2024-05-27 23:31:46
-updated: 2024-05-30 11:38:52
+date: 2024-05-31T06:55:53.790Z
+updated: 2024-06-01T06:55:53.790Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

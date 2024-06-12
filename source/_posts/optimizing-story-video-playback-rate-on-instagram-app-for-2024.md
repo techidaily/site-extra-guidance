@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Story Video Playback Rate on Instagram App for 2024"
-date: 2024-05-26 17:15:13
-updated: 2024-05-29 11:40:24
+date: 2024-05-31T06:53:02.380Z
+updated: 2024-06-01T06:53:02.380Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ We have answered the frequently asked question, "how to do slow motion on Instag
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

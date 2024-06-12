@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimal Camera Balance for Drone Use"
-date: 2024-05-27 12:55:37
-updated: 2024-05-29 12:34:52
+date: 2024-05-31T06:55:55.460Z
+updated: 2024-06-01T06:55:55.460Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

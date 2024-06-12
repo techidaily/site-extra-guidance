@@ -1,7 +1,7 @@
 ---
 title: "\"IPhones in Action  Capturing & Altering Slow Motion Content for 2024\""
-date: 2024-05-25 12:47:10
-updated: 2024-05-28 10:21:30
+date: 2024-05-31T06:56:15.039Z
+updated: 2024-06-01T06:56:15.039Z
 tags: 
   - screen-recording
   - ai video
@@ -526,4 +526,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

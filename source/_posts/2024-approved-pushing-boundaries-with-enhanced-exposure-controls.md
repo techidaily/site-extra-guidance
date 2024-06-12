@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pushing Boundaries with Enhanced Exposure Controls\""
-date: 2024-05-27 12:56:54
-updated: 2024-05-30 12:59:58
+date: 2024-05-31T06:57:52.650Z
+updated: 2024-06-01T06:57:52.650Z
 tags: 
   - screen-recording
   - ai video
@@ -241,4 +241,5 @@ Auto HDR will make sure both shadows and highlights are in focus, while Smart HD
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

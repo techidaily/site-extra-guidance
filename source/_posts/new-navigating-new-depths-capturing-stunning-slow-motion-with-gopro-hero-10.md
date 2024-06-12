@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating New Depths  Capturing Stunning Slow Motion with GoPro Hero 10\""
-date: 2024-05-27 18:16:20
-updated: 2024-05-29 10:39:12
+date: 2024-05-31T06:54:28.217Z
+updated: 2024-06-01T06:54:28.217Z
 tags: 
   - screen-recording
   - ai video
@@ -598,4 +598,5 @@ In addition, we've included some helpful pointers which will make filming slow-m
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

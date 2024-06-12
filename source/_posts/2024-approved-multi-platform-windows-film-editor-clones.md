@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Multi-Platform Windows Film Editor Clones\""
-date: 2024-05-28 19:58:29
-updated: 2024-05-29 12:32:53
+date: 2024-05-31T06:55:53.357Z
+updated: 2024-06-01T06:55:53.357Z
 tags: 
   - screen-recording
   - ai video
@@ -112,4 +112,5 @@ A unique production may be made by modifying and combining audio, image, and vid
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

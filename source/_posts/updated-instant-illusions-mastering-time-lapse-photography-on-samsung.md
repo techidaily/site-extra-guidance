@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Instant Illusions  Mastering Time-Lapse Photography on Samsung\""
-date: 2024-05-24 22:12:22
-updated: 2024-05-27 12:55:46
+date: 2024-05-31T06:54:11.336Z
+updated: 2024-06-01T06:54:11.336Z
 tags: 
   - screen-recording
   - ai video
@@ -94,4 +94,5 @@ Creating a timelapse video on a Samsung device is super easy. All the latest Sam
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

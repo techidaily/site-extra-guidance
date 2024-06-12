@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Pushing the Limits with GoPro Film Techniques"
-date: 2024-05-29 13:42:24
-updated: 2024-05-30 10:28:19
+date: 2024-05-31T06:57:47.985Z
+updated: 2024-06-01T06:57:47.985Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

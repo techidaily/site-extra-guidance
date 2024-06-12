@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Speech Recognition Made Accessible  Transforming Audio to Text with Ease in Microsoft Word\""
-date: 2024-05-28 18:14:26
-updated: 2024-05-31 10:13:26
+date: 2024-05-31T06:54:12.223Z
+updated: 2024-06-01T06:54:12.223Z
 tags: 
   - screen-recording
   - ai video
@@ -312,4 +312,5 @@ Microsoft Word's speech-to-text feature is not perfect, but it can be a huge tim
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Photographic Prose  IOS & Android's Best Caption Creators\""
-date: 2024-05-26 11:21:53
-updated: 2024-05-29 10:26:42
+date: 2024-05-31T06:53:01.018Z
+updated: 2024-06-01T06:53:01.018Z
 tags: 
   - screen-recording
   - ai video
@@ -485,4 +485,5 @@ It's now a difficult task if you want to add text to your photos. Instead, it's 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

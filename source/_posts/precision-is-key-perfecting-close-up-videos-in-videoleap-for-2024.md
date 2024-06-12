@@ -1,7 +1,7 @@
 ---
 title: "\"Precision Is Key  Perfecting Close-Up Videos in Videoleap for 2024\""
-date: 2024-05-28 15:55:16
-updated: 2024-05-29 12:37:18
+date: 2024-05-31T06:55:31.827Z
+updated: 2024-06-01T06:55:31.827Z
 tags: 
   - screen-recording
   - ai video
@@ -129,4 +129,5 @@ Videoleap is one of the leading video editing platforms available out there. The
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

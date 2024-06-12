@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Import Music to Inshot Video Editor?"
-date: 2024-05-24 10:17:14
-updated: 2024-05-27 12:15:17
+date: 2024-05-31T06:55:11.558Z
+updated: 2024-06-01T06:55:11.558Z
 tags: 
   - screen-recording
   - ai video
@@ -454,4 +454,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

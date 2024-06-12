@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Make a Mark with Minimal Fuss  Simplified Video Editing on Windows 10\""
-date: 2024-05-27 17:37:26
-updated: 2024-05-28 12:41:13
+date: 2024-05-31T06:56:17.715Z
+updated: 2024-06-01T06:56:17.715Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Spectrum Balancer\""
-date: 2024-05-26 21:46:52
-updated: 2024-05-29 12:45:29
+date: 2024-05-31T06:56:20.011Z
+updated: 2024-06-01T06:56:20.011Z
 tags: 
   - screen-recording
   - ai video
@@ -463,4 +463,5 @@ With apps like Filmora, color correcting is simple and quick to do on mobile dev
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

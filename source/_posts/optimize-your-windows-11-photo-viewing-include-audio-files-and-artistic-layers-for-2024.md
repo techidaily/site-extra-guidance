@@ -1,7 +1,7 @@
 ---
 title: "\"Optimize Your Windows 11 Photo Viewing  Include Audio Files and Artistic Layers for 2024\""
-date: 2024-05-28 13:28:46
-updated: 2024-05-29 10:14:56
+date: 2024-05-31T06:56:50.582Z
+updated: 2024-06-01T06:56:50.582Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

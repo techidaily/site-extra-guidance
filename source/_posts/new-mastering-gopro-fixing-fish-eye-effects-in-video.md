@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering GoPro  Fixing Fish Eye Effects in Video\""
-date: 2024-05-26 15:13:46
-updated: 2024-05-28 12:34:47
+date: 2024-05-31T06:57:06.625Z
+updated: 2024-06-01T06:57:06.625Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Picture in Picture Video Integration for Mac OS X"
-date: 2024-05-27 10:36:38
-updated: 2024-05-29 12:48:27
+date: 2024-05-31T06:53:47.910Z
+updated: 2024-06-01T06:53:47.910Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

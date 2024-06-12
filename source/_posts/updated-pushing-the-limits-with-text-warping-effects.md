@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Pushing the Limits with Text Warping Effects"
-date: 2024-05-28 18:38:33
-updated: 2024-05-30 11:44:33
+date: 2024-05-31T06:53:55.480Z
+updated: 2024-06-01T06:53:55.480Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ This tool allows you to distort text by adding a wavy effect to it. To use this 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

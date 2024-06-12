@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Crafting a Masterpiece with Collages\""
-date: 2024-05-29 22:55:13
-updated: 2024-05-31 12:45:55
+date: 2024-05-31T06:55:58.923Z
+updated: 2024-06-01T06:55:58.923Z
 tags: 
   - screen-recording
   - ai video
@@ -1166,4 +1166,5 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

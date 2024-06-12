@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Isolating Subject with Affinity"
-date: 2024-05-25 11:49:18
-updated: 2024-05-28 10:11:23
+date: 2024-05-31T06:54:18.642Z
+updated: 2024-06-01T06:54:18.642Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ Hopefully, this article and video can help you create ideal images!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

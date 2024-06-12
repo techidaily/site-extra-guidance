@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating the World of Podcast RSS Formatting"
-date: 2024-05-28 14:31:40
-updated: 2024-05-29 12:48:29
+date: 2024-05-31T06:54:14.875Z
+updated: 2024-06-01T06:54:14.875Z
 tags: 
   - screen-recording
   - ai video
@@ -328,4 +328,5 @@ Nevertheless, if you're looking for a reliable program to record and edit high-q
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

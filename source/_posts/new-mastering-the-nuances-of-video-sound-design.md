@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering the Nuances of Video Sound Design"
-date: 2024-05-27 12:58:32
-updated: 2024-05-28 11:55:38
+date: 2024-05-31T06:56:20.317Z
+updated: 2024-06-01T06:56:20.317Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

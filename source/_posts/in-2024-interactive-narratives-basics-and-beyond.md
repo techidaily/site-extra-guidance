@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Interactive Narratives Basics and Beyond"
-date: 2024-05-26 22:35:42
-updated: 2024-05-27 11:53:39
+date: 2024-05-31T06:53:40.964Z
+updated: 2024-06-01T06:53:40.964Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ Everybody has a narrative, but the craft of digital storytelling can transform a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

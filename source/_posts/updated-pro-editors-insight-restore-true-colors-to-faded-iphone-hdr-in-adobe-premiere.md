@@ -1,7 +1,7 @@
 ---
 title: "[Updated] [Pro Editor's Insight] Restore True Colors to Faded iPhone HDR in Adobe Premiere"
-date: 2024-05-28 13:53:11
-updated: 2024-05-30 10:40:40
+date: 2024-05-31T06:56:21.453Z
+updated: 2024-06-01T06:56:21.453Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Overall, it is possible for the HDR quality videos captured with an iPhone 12 ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

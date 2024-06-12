@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Precision in Prose  Enhancing Narrative Scripts\""
-date: 2024-05-28 22:31:31
-updated: 2024-05-29 11:21:43
+date: 2024-05-31T06:52:56.645Z
+updated: 2024-06-01T06:52:56.645Z
 tags: 
   - screen-recording
   - ai video
@@ -229,4 +229,5 @@ In conclusion, Dialogue and Narrative Script are the most common types of script
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

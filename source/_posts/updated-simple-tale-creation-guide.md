@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Simple Tale Creation Guide"
-date: 2024-05-29 18:26:23
-updated: 2024-05-31 12:16:13
+date: 2024-05-31T06:53:44.142Z
+updated: 2024-06-01T06:53:44.142Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ The value of storytelling can help you increase customer engagement and establis
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

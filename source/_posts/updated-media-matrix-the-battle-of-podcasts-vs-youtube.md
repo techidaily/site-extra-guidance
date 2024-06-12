@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Media Matrix  The Battle of Podcasts Vs. YouTube\""
-date: 2024-05-25 17:40:45
-updated: 2024-05-28 11:54:30
+date: 2024-05-31T06:57:38.611Z
+updated: 2024-06-01T06:57:38.611Z
 tags: 
   - screen-recording
   - ai video
@@ -562,4 +562,5 @@ If you prefer to create playful and exciting content, then vlogs might be more y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

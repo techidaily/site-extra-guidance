@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Scouting the Best Cameras for Aspiring Muso Videographers"
-date: 2024-05-28 16:17:10
-updated: 2024-05-30 12:35:31
+date: 2024-05-31T06:54:06.765Z
+updated: 2024-06-01T06:54:06.765Z
 tags: 
   - screen-recording
   - ai video
@@ -1110,4 +1110,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

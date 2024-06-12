@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Spark to the Future  DJI's Next-Gen Challenge From Mavic Air\""
-date: 2024-05-28 20:20:31
-updated: 2024-05-31 12:31:45
+date: 2024-05-31T06:54:37.558Z
+updated: 2024-06-01T06:54:37.558Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

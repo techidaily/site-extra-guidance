@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Precision Video Correction  Eradicating Fish Eye From GoPro\""
-date: 2024-05-26 15:48:29
-updated: 2024-05-29 11:33:35
+date: 2024-05-31T06:52:27.038Z
+updated: 2024-06-01T06:52:27.038Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

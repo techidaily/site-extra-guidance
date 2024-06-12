@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating Through 8 Prime Free SRT Translation Options"
-date: 2024-05-28 11:26:39
-updated: 2024-05-29 12:26:33
+date: 2024-05-31T06:57:21.184Z
+updated: 2024-06-01T06:57:21.184Z
 tags: 
   - screen-recording
   - ai video
@@ -898,4 +898,5 @@ If you want to try another one, then make sure to keep the pointers explained ab
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

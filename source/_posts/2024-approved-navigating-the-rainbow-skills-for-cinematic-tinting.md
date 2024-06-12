@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating the Rainbow  Skills for Cinematic Tinting\""
-date: 2024-05-28 18:50:26
-updated: 2024-05-29 12:56:46
+date: 2024-05-31T06:52:12.737Z
+updated: 2024-06-01T06:52:12.737Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

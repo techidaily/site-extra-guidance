@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Photo Preservation 101  Digitalization of Ancestral Prints\""
-date: 2024-05-27 21:36:23
-updated: 2024-05-29 10:52:20
+date: 2024-05-31T06:56:36.555Z
+updated: 2024-06-01T06:56:36.555Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

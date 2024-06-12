@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating SRT Extensions on Operating Systems"
-date: 2024-05-27 17:33:55
-updated: 2024-05-29 10:41:49
+date: 2024-05-31T06:52:15.691Z
+updated: 2024-06-01T06:52:15.691Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ The above listed are several ways by which an SRT subtitle file can be opened on
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

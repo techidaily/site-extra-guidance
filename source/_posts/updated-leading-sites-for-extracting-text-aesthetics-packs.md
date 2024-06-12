@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Leading Sites for Extracting Text Aesthetics Packs"
-date: 2024-05-25 16:34:27
-updated: 2024-05-28 12:52:23
+date: 2024-05-31T06:53:19.341Z
+updated: 2024-06-01T06:53:19.341Z
 tags: 
   - screen-recording
   - ai video
@@ -214,4 +214,5 @@ If texts and titles are an important part of your graphics or videos, you should
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

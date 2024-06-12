@@ -1,7 +1,7 @@
 ---
 title: "\"Seconds in a Snapshot  20MB Videography for 2024\""
-date: 2024-05-27 10:10:39
-updated: 2024-05-30 11:21:10
+date: 2024-05-31T06:57:22.430Z
+updated: 2024-06-01T06:57:22.430Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

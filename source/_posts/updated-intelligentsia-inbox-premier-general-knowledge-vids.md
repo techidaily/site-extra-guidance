@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Intelligentsia Inbox  Premier General Knowledge Vids\""
-date: 2024-05-26 11:45:47
-updated: 2024-05-27 12:29:59
+date: 2024-05-31T06:52:14.799Z
+updated: 2024-06-01T06:52:14.799Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ We hope you've found this article helpful and that now you know where to watch i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

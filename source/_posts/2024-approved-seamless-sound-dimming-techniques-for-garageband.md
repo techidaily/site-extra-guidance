@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Seamless Sound Dimming Techniques for Garageband\""
-date: 2024-05-27 20:41:46
-updated: 2024-05-30 10:22:41
+date: 2024-05-31T06:52:28.594Z
+updated: 2024-06-01T06:52:28.594Z
 tags: 
   - screen-recording
   - ai video
@@ -150,4 +150,5 @@ According to the survey, one of the most searched topics is **how to fade music 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Inside the World of Haul Video Production"
-date: 2024-05-24 15:40:38
-updated: 2024-05-27 10:31:34
+date: 2024-05-31T06:55:16.478Z
+updated: 2024-06-01T06:55:16.478Z
 tags: 
   - screen-recording
   - ai video
@@ -184,4 +184,5 @@ And if you're looking for a simple but powerful video editor for Personal Comput
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

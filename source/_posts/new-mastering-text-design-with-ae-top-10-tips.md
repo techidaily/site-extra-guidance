@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Text Design with AE  Top 10 Tips\""
-date: 2024-05-25 22:46:31
-updated: 2024-05-28 10:43:16
+date: 2024-05-31T06:55:09.163Z
+updated: 2024-06-01T06:55:09.163Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ If you decide to use Adobe After Effects to add text effects to your video, we h
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

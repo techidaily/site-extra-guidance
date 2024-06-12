@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating the Nuances of Nonlinear Audio Editing in Audacity"
-date: 2024-05-26 14:25:58
-updated: 2024-05-29 10:43:41
+date: 2024-05-31T06:54:19.550Z
+updated: 2024-06-01T06:54:19.550Z
 tags: 
   - screen-recording
   - ai video
@@ -188,4 +188,5 @@ In summary, Audacity is a free audio tool that's really simple to use. By utiliz
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

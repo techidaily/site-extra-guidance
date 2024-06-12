@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Masked Image Softening Tricks"
-date: 2024-05-26 15:30:20
-updated: 2024-05-28 12:22:11
+date: 2024-05-31T06:55:59.046Z
+updated: 2024-06-01T06:55:59.046Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

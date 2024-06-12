@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigate Angular Video Transitions on Android Devices"
-date: 2024-05-26 11:29:24
-updated: 2024-05-29 11:17:52
+date: 2024-05-31T06:54:10.999Z
+updated: 2024-06-01T06:54:10.999Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

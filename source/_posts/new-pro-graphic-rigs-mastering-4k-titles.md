@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pro Graphic Rigs  Mastering 4K Titles\""
-date: 2024-05-29 14:49:38
-updated: 2024-05-30 10:18:38
+date: 2024-05-31T06:52:46.876Z
+updated: 2024-06-01T06:52:46.876Z
 tags: 
   - screen-recording
   - ai video
@@ -822,4 +822,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

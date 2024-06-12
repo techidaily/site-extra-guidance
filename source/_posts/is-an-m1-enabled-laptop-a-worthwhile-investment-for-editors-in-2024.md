@@ -1,7 +1,7 @@
 ---
 title: "\"Is an M1-Enabled Laptop a Worthwhile Investment for Editors, In 2024\""
-date: 2024-05-26 16:44:19
-updated: 2024-05-28 12:29:35
+date: 2024-05-31T06:52:29.714Z
+updated: 2024-06-01T06:52:29.714Z
 tags: 
   - screen-recording
   - ai video
@@ -466,4 +466,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

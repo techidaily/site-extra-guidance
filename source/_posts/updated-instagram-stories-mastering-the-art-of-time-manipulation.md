@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Instagram Stories – Mastering the Art of Time Manipulation"
-date: 2024-05-25 21:54:16
-updated: 2024-05-27 12:23:21
+date: 2024-05-31T06:57:30.468Z
+updated: 2024-06-01T06:57:30.468Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ We have answered the frequently asked question, "how to do slow motion on Instag
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

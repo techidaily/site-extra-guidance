@@ -1,7 +1,7 @@
 ---
 title: "Peering Into the World of LUTs and Their Effect on Pixels for 2024"
-date: 2024-05-26 15:30:43
-updated: 2024-05-29 10:35:50
+date: 2024-05-31T06:52:36.366Z
+updated: 2024-06-01T06:52:36.366Z
 tags: 
   - screen-recording
   - ai video
@@ -133,4 +133,5 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

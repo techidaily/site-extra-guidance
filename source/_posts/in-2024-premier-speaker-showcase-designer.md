@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Premier Speaker Showcase Designer"
-date: 2024-05-28 20:33:29
-updated: 2024-05-29 10:15:28
+date: 2024-05-31T06:52:30.466Z
+updated: 2024-06-01T06:52:30.466Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Are you having trouble coming up with a title for your most recent webinar? Ther
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

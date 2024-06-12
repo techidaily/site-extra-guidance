@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Perfecting the Fisheye Lens for Immersive Views"
-date: 2024-05-28 14:11:45
-updated: 2024-05-29 12:40:15
+date: 2024-05-31T06:54:18.298Z
+updated: 2024-06-01T06:54:18.298Z
 tags: 
   - screen-recording
   - ai video
@@ -290,4 +290,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

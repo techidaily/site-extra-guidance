@@ -1,7 +1,7 @@
 ---
 title: "Loop Artisan Suite for 2024"
-date: 2024-05-26 16:31:57
-updated: 2024-05-28 10:23:59
+date: 2024-05-31T06:53:52.752Z
+updated: 2024-06-01T06:53:52.752Z
 tags: 
   - screen-recording
   - ai video
@@ -436,4 +436,5 @@ If you have long admired the boomerang videos that you see on social media and h
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

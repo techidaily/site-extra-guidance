@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Video Storytelling  Adding Narration Step-by-Step\""
-date: 2024-05-26 21:52:43
-updated: 2024-05-28 10:44:59
+date: 2024-05-31T06:53:36.598Z
+updated: 2024-06-01T06:53:36.598Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

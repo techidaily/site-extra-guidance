@@ -1,7 +1,7 @@
 ---
 title: "[New] Pixlr Editor Tutorial Deep Dive"
-date: 2024-05-27 20:31:53
-updated: 2024-05-29 12:11:10
+date: 2024-05-31T06:57:31.094Z
+updated: 2024-06-01T06:57:31.094Z
 tags: 
   - screen-recording
   - ai video
@@ -180,4 +180,5 @@ This article has featured a detailed discussion on iPiccy online photo editor. U
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

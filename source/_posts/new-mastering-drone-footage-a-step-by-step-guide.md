@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Drone Footage  A Step-by-Step Guide\""
-date: 2024-05-26 12:17:47
-updated: 2024-05-28 11:51:31
+date: 2024-05-31T06:52:34.561Z
+updated: 2024-06-01T06:52:34.561Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

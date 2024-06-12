@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Speedy Viewing  Manipulating Stories' Frame Rate on Instagram\""
-date: 2024-05-29 11:22:32
-updated: 2024-05-31 12:45:34
+date: 2024-05-31T06:52:41.972Z
+updated: 2024-06-01T06:52:41.972Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ We have answered the frequently asked question, "how to do slow motion on Instag
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

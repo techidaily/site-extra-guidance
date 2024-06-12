@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Insider Tips  Skyrocketing Your Canva Experience\""
-date: 2024-05-24 15:40:37
-updated: 2024-05-27 11:24:20
+date: 2024-05-31T06:57:48.065Z
+updated: 2024-06-01T06:57:48.065Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ Anyone can learn photo editing skills if they are provided with accurate guideli
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

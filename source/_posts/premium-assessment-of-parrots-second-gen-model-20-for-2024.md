@@ -1,7 +1,7 @@
 ---
 title: "\"Premium Assessment of Parrot's Second-Gen Model 2.0 for 2024\""
-date: 2024-05-27 10:49:31
-updated: 2024-05-30 10:17:38
+date: 2024-05-31T06:56:08.560Z
+updated: 2024-06-01T06:56:08.560Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Speedy Strategies  Creating Photobook Arrays on Mac\""
-date: 2024-05-28 23:42:22
-updated: 2024-05-31 12:57:25
+date: 2024-05-31T06:56:47.274Z
+updated: 2024-06-01T06:56:47.274Z
 tags: 
   - screen-recording
   - ai video
@@ -1206,4 +1206,5 @@ Turbo Collage is a software for **Mac photos collage** making. It’s actually a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

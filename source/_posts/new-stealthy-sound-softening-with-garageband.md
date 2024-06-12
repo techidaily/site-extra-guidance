@@ -1,7 +1,7 @@
 ---
 title: "[New] Stealthy Sound Softening with Garageband"
-date: 2024-05-29 16:27:43
-updated: 2024-05-31 10:21:10
+date: 2024-05-31T06:57:35.997Z
+updated: 2024-06-01T06:57:35.997Z
 tags: 
   - screen-recording
   - ai video
@@ -150,4 +150,5 @@ According to the survey, one of the most searched topics is **how to fade music 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sketch Spectacular  Top 10 Bare Essentials for Mac Illustrators\""
-date: 2024-05-30 17:35:53
-updated: 2024-05-31 11:15:40
+date: 2024-05-31T06:54:51.911Z
+updated: 2024-06-01T06:54:51.911Z
 tags: 
   - screen-recording
   - ai video
@@ -870,4 +870,5 @@ Get started quickly with Filmora's powerful performance, intuitive interface, an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

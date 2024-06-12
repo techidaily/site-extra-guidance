@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Professional Film Techniques for Drones"
-date: 2024-05-29 14:27:44
-updated: 2024-05-30 11:40:31
+date: 2024-05-31T06:57:43.636Z
+updated: 2024-06-01T06:57:43.636Z
 tags: 
   - screen-recording
   - ai video
@@ -466,4 +466,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

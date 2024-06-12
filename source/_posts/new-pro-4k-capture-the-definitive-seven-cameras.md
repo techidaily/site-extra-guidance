@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pro 4K Capture  The Definitive Seven Cameras\""
-date: 2024-05-27 11:21:42
-updated: 2024-05-30 11:54:37
+date: 2024-05-31T06:55:47.196Z
+updated: 2024-06-01T06:55:47.196Z
 tags: 
   - screen-recording
   - ai video
@@ -442,4 +442,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

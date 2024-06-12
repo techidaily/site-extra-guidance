@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] School-Based Videography  Crafting Quality Content\""
-date: 2024-05-28 10:49:32
-updated: 2024-05-30 11:46:57
+date: 2024-05-31T06:54:37.351Z
+updated: 2024-06-01T06:54:37.351Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

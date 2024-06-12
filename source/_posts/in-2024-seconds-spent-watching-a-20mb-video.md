@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Seconds Spent Watching a 20MB Video"
-date: 2024-05-28 10:25:57
-updated: 2024-05-30 11:54:22
+date: 2024-05-31T06:54:09.486Z
+updated: 2024-06-01T06:54:09.486Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

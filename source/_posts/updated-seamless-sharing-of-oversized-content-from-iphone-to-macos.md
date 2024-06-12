@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Seamless Sharing of Oversized Content From iPhone to macOS"
-date: 2024-05-27 13:14:42
-updated: 2024-05-30 10:12:24
+date: 2024-05-31T06:54:01.127Z
+updated: 2024-06-01T06:54:01.127Z
 tags: 
   - screen-recording
   - ai video
@@ -474,4 +474,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

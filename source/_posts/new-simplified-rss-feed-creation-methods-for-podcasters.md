@@ -1,7 +1,7 @@
 ---
 title: "[New] Simplified RSS Feed Creation Methods for Podcasters"
-date: 2024-05-29 12:30:25
-updated: 2024-05-31 10:40:47
+date: 2024-05-31T06:53:40.511Z
+updated: 2024-06-01T06:53:40.511Z
 tags: 
   - screen-recording
   - ai video
@@ -328,4 +328,5 @@ Nevertheless, if you're looking for a reliable program to record and edit high-q
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

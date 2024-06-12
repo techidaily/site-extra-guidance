@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Samsung Galaxy S8  In-Depth 4K Phone Analysis\""
-date: 2024-05-27 10:12:37
-updated: 2024-05-30 11:14:23
+date: 2024-05-31T06:54:41.726Z
+updated: 2024-06-01T06:54:41.726Z
 tags: 
   - screen-recording
   - ai video
@@ -546,4 +546,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

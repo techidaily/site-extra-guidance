@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Close-Up Views in Google Meet\""
-date: 2024-05-27 10:51:41
-updated: 2024-05-28 11:25:53
+date: 2024-05-31T06:56:48.751Z
+updated: 2024-06-01T06:56:48.751Z
 tags: 
   - screen-recording
   - ai video
@@ -95,4 +95,5 @@ You may show additional information on your Google Meet by zooming in and out. O
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

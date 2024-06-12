@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Text Overlays on Digital Pictures"
-date: 2024-05-27 14:17:19
-updated: 2024-05-28 10:19:44
+date: 2024-05-31T06:55:25.985Z
+updated: 2024-06-01T06:55:25.985Z
 tags: 
   - screen-recording
   - ai video
@@ -470,4 +470,5 @@ The best illustration of images is not possible without adding typography to the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

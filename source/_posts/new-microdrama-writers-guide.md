@@ -1,7 +1,7 @@
 ---
 title: "[New] Microdrama Writers Guide"
-date: 2024-05-27 20:17:31
-updated: 2024-05-28 11:57:13
+date: 2024-05-31T06:57:47.301Z
+updated: 2024-06-01T06:57:47.301Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

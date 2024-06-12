@@ -1,7 +1,7 @@
 ---
 title: "\"[New] PowerDirector App Masterclass - 2024 Edition\""
-date: 2024-05-28 20:37:45
-updated: 2024-05-29 10:34:29
+date: 2024-05-31T06:56:44.875Z
+updated: 2024-06-01T06:56:44.875Z
 tags: 
   - screen-recording
   - ai video
@@ -209,4 +209,5 @@ Now that you have learned how you can try editing another movie and uploading yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

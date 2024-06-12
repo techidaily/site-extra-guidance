@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Professional Precision  Flip Canon Photos From Basic to Advanced with LUTs\""
-date: 2024-05-28 11:18:23
-updated: 2024-05-30 12:31:28
+date: 2024-05-31T06:54:15.454Z
+updated: 2024-06-01T06:54:15.454Z
 tags: 
   - screen-recording
   - ai video
@@ -180,4 +180,5 @@ Surf the above discussed free and paid version of LUTS and bring out the best in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

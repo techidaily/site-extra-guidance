@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Palette Prestige  Highlighting 10 Free, Mac-Compatible Art Tools\""
-date: 2024-05-26 10:19:43
-updated: 2024-05-29 11:53:37
+date: 2024-05-31T06:52:12.756Z
+updated: 2024-06-01T06:52:12.756Z
 tags: 
   - screen-recording
   - ai video
@@ -870,4 +870,5 @@ Get started quickly with Filmora's powerful performance, intuitive interface, an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

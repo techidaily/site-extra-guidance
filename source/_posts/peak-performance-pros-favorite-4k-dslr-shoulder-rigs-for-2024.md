@@ -1,7 +1,7 @@
 ---
 title: "\"Peak Performance  Pro's Favorite 4K DSLR Shoulder Rigs for 2024\""
-date: 2024-05-26 12:41:35
-updated: 2024-05-29 12:53:40
+date: 2024-05-31T06:53:31.422Z
+updated: 2024-06-01T06:53:31.422Z
 tags: 
   - screen-recording
   - ai video
@@ -1082,4 +1082,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

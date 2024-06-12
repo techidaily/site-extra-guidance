@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Instructions  Turn on Windows 11'S Adaptive HDR\""
-date: 2024-05-25 18:32:59
-updated: 2024-05-27 12:29:19
+date: 2024-05-31T06:54:44.189Z
+updated: 2024-06-01T06:54:44.189Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Overall, it is possible for the HDR quality videos captured with an iPhone 12 ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

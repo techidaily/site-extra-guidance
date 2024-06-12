@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Lightroom Classic Learning Hub"
-date: 2024-05-25 10:25:34
-updated: 2024-05-28 12:19:22
+date: 2024-05-31T06:54:11.350Z
+updated: 2024-06-01T06:54:11.350Z
 tags: 
   - screen-recording
   - ai video
@@ -180,4 +180,5 @@ This article has featured a detailed discussion on iPiccy online photo editor. U
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

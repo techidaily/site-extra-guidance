@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Luminary Pixels  Masterful Lighting Secrets Unveiled\""
-date: 2024-05-25 14:38:48
-updated: 2024-05-28 12:47:31
+date: 2024-05-31T06:58:03.503Z
+updated: 2024-06-01T06:58:03.503Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

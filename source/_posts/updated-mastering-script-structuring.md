@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Script Structuring"
-date: 2024-05-25 19:13:55
-updated: 2024-05-28 11:49:22
+date: 2024-05-31T06:57:20.043Z
+updated: 2024-06-01T06:57:20.043Z
 tags: 
   - screen-recording
   - ai video
@@ -183,4 +183,5 @@ The article has provided the most information about screenplays and how to write
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating the Setup of OBS & Streamlabs for Mac Users"
-date: 2024-05-27 13:56:39
-updated: 2024-05-29 12:44:19
+date: 2024-05-31T06:57:06.996Z
+updated: 2024-06-01T06:57:06.996Z
 tags: 
   - screen-recording
   - ai video
@@ -474,4 +474,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

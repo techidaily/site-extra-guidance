@@ -1,7 +1,7 @@
 ---
 title: "Introduce Circular Smoothing Transition via Adobe Photoshop for 2024"
-date: 2024-05-26 11:22:42
-updated: 2024-05-27 11:32:25
+date: 2024-05-31T06:54:08.723Z
+updated: 2024-06-01T06:54:08.723Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

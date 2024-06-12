@@ -1,7 +1,7 @@
 ---
 title: "\"Photobooth Playback Hang-Up - Seeking Solutions for 2024\""
-date: 2024-05-27 20:11:46
-updated: 2024-05-29 10:22:23
+date: 2024-05-31T06:52:58.344Z
+updated: 2024-06-01T06:52:58.344Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ Select the file type that best suits the project you're working on from the Form
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

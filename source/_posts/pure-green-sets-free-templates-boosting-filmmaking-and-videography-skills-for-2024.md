@@ -1,7 +1,7 @@
 ---
 title: "\"Pure Green Sets  Free Templates Boosting Filmmaking and Videography Skills for 2024\""
-date: 2024-05-29 11:55:16
-updated: 2024-05-30 12:54:56
+date: 2024-05-31T06:53:28.208Z
+updated: 2024-06-01T06:53:28.208Z
 tags: 
   - screen-recording
   - ai video
@@ -192,4 +192,5 @@ Using a green screen template for your project outweighs other processes. Howeve
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

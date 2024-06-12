@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mixing Masterclass for DJI Mini/Air 2 Owners - No Cost Here\""
-date: 2024-05-27 18:36:48
-updated: 2024-05-28 11:49:51
+date: 2024-05-31T06:57:37.162Z
+updated: 2024-06-01T06:57:37.162Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ Thus, you had an elaborate discussion on the DJI LUTS in detail, and you can use
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

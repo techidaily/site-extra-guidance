@@ -1,7 +1,7 @@
 ---
 title: "[New] Quick and Easy Online Photo Cropping Hacks"
-date: 2024-05-27 11:21:52
-updated: 2024-05-30 11:30:33
+date: 2024-05-31T06:53:24.830Z
+updated: 2024-06-01T06:53:24.830Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ This article has been quite conclusive in offering proper online tools to crop i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

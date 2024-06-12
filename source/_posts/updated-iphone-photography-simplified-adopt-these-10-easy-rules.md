@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Photography Simplified  Adopt These 10 Easy Rules\""
-date: 2024-05-26 23:23:43
-updated: 2024-05-28 10:29:25
+date: 2024-05-31T06:53:16.305Z
+updated: 2024-06-01T06:53:16.305Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

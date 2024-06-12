@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sculpting Images  Selecting the Right Aspect Ratio\""
-date: 2024-05-28 21:45:33
-updated: 2024-05-30 11:29:40
+date: 2024-05-31T06:57:30.050Z
+updated: 2024-06-01T06:57:30.050Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Having your video tested on multiple devices will allow you to see a preview of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

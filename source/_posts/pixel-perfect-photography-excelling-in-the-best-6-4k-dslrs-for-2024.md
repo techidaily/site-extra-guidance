@@ -1,7 +1,7 @@
 ---
 title: "\"Pixel Perfect Photography  Excelling in the Best 6 4K DSLRs for 2024\""
-date: 2024-05-27 15:27:38
-updated: 2024-05-29 12:53:13
+date: 2024-05-31T06:53:20.762Z
+updated: 2024-06-01T06:53:20.762Z
 tags: 
   - screen-recording
   - ai video
@@ -642,4 +642,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

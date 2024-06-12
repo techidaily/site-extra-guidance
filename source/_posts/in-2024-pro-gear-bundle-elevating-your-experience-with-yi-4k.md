@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pro Gear Bundle  Elevating Your Experience with YI 4K\""
-date: 2024-05-29 14:55:22
-updated: 2024-05-30 11:54:59
+date: 2024-05-31T06:56:07.587Z
+updated: 2024-06-01T06:56:07.587Z
 tags: 
   - screen-recording
   - ai video
@@ -878,4 +878,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

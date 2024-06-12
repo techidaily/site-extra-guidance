@@ -1,7 +1,7 @@
 ---
 title: "[New] Leveraging Brand Partnerships for YouTube Content Creators"
-date: 2024-05-27 11:37:49
-updated: 2024-05-28 10:46:48
+date: 2024-05-31T06:53:09.565Z
+updated: 2024-06-01T06:53:09.565Z
 tags: 
   - screen-recording
   - ai video
@@ -116,4 +116,5 @@ Remember having a products sponsorship is not about having a free product but al
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

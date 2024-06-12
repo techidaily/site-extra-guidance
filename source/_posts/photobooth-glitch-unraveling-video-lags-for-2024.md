@@ -1,7 +1,7 @@
 ---
 title: "\"Photobooth Glitch  Unraveling Video Lags for 2024\""
-date: 2024-05-26 12:35:46
-updated: 2024-05-29 11:21:35
+date: 2024-05-31T06:54:03.362Z
+updated: 2024-06-01T06:54:03.362Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ Select the file type that best suits the project you're working on from the Form
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

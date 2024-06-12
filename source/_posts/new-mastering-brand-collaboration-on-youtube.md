@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Brand Collaboration on YouTube"
-date: 2024-05-25 21:46:55
-updated: 2024-05-28 11:19:43
+date: 2024-05-31T06:54:41.048Z
+updated: 2024-06-01T06:54:41.048Z
 tags: 
   - screen-recording
   - ai video
@@ -116,4 +116,5 @@ Remember having a products sponsorship is not about having a free product but al
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

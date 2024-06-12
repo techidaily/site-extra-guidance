@@ -1,7 +1,7 @@
 ---
 title: "\"Integrating Comfort with Efficiency  Modern Approaches to Office Design for 2024\""
-date: 2024-05-24 21:29:33
-updated: 2024-05-27 12:18:16
+date: 2024-05-31T06:55:43.781Z
+updated: 2024-06-01T06:55:43.781Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

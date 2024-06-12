@@ -1,7 +1,7 @@
 ---
 title: "Probing Into the Integration of Real and Digital in Mixed Reality for 2024"
-date: 2024-05-29 14:15:40
-updated: 2024-05-30 11:53:11
+date: 2024-05-31T06:53:41.334Z
+updated: 2024-06-01T06:53:41.334Z
 tags: 
   - screen-recording
   - ai video
@@ -218,4 +218,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

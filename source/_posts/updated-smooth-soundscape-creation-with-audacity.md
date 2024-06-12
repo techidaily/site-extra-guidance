@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Smooth Soundscape Creation with Audacity"
-date: 2024-05-29 19:15:40
-updated: 2024-05-31 11:53:52
+date: 2024-05-31T06:58:01.548Z
+updated: 2024-06-01T06:58:01.548Z
 tags: 
   - screen-recording
   - ai video
@@ -188,4 +188,5 @@ In summary, Audacity is a free audio tool that's really simple to use. By utiliz
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

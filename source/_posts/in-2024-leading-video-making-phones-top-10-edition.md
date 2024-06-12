@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Leading Video-Making Phones  Top 10 Edition\""
-date: 2024-05-26 20:27:33
-updated: 2024-05-28 10:43:26
+date: 2024-05-31T06:53:50.078Z
+updated: 2024-06-01T06:53:50.078Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Joining a live cohort where you can learn the methods, tactics, and resources th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leading Voice to Text Programs\""
-date: 2024-05-25 16:44:10
-updated: 2024-05-28 11:13:29
+date: 2024-05-31T06:54:02.749Z
+updated: 2024-06-01T06:54:02.749Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ Please refer to this list the next time you're looking for a speech to text serv
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

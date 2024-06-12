@@ -1,7 +1,7 @@
 ---
 title: "[New] Integrate Sound & Filter Magic Into Your Windows 10 Photos App"
-date: 2024-05-26 21:55:36
-updated: 2024-05-27 11:24:45
+date: 2024-05-31T06:52:18.593Z
+updated: 2024-06-01T06:52:18.593Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

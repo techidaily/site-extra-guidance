@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterpieces  14 Animated Textual Works\""
-date: 2024-05-27 18:29:35
-updated: 2024-05-28 11:24:35
+date: 2024-05-31T06:57:58.367Z
+updated: 2024-06-01T06:57:58.367Z
 tags: 
   - screen-recording
   - ai video
@@ -288,4 +288,5 @@ We have discussed all the common type of text animations that are used to create
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

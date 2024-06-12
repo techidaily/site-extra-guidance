@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Simplify Video Annotation  Adding Titles & Captions via Photos Win 11\""
-date: 2024-05-30 23:17:37
-updated: 2024-05-31 12:59:32
+date: 2024-05-31T06:55:46.029Z
+updated: 2024-06-01T06:55:46.029Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

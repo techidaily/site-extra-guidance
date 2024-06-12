@@ -1,7 +1,7 @@
 ---
 title: "[New] Simplifying Your FB Live Broadcasts on Zoom"
-date: 2024-05-30 15:36:24
-updated: 2024-05-31 10:50:45
+date: 2024-05-31T06:56:07.901Z
+updated: 2024-06-01T06:56:07.901Z
 tags: 
   - screen-recording
   - ai video
@@ -118,4 +118,5 @@ It is very usual these days to stream Zoom meeting on Facebook so that everyone 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

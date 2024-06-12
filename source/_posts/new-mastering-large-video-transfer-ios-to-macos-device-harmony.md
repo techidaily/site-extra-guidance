@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Large Video Transfer  IOS to macOS Device Harmony\""
-date: 2024-05-25 18:10:55
-updated: 2024-05-28 12:15:50
+date: 2024-05-31T06:54:47.529Z
+updated: 2024-06-01T06:54:47.529Z
 tags: 
   - screen-recording
   - ai video
@@ -474,4 +474,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

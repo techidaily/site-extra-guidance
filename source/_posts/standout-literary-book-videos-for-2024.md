@@ -1,7 +1,7 @@
 ---
 title: "Standout Literary Book Videos for 2024"
-date: 2024-05-28 22:48:31
-updated: 2024-05-31 11:34:26
+date: 2024-05-31T06:54:37.219Z
+updated: 2024-06-01T06:54:37.219Z
 tags: 
   - screen-recording
   - ai video
@@ -176,4 +176,5 @@ This article concludes that book trailers mean a lot in this digital era. To gen
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

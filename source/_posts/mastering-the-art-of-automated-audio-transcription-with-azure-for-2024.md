@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Automated Audio Transcription with Azure for 2024"
-date: 2024-05-27 11:28:56
-updated: 2024-05-28 11:46:47
+date: 2024-05-31T06:54:31.346Z
+updated: 2024-06-01T06:54:31.346Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ In that case, use a more straightforward option like Google Docs to dictate text
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

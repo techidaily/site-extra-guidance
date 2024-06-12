@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Prime Filmmaking Gear for Novices"
-date: 2024-05-27 18:13:56
-updated: 2024-05-30 12:47:20
+date: 2024-05-31T06:57:28.393Z
+updated: 2024-06-01T06:57:28.393Z
 tags: 
   - screen-recording
   - ai video
@@ -734,4 +734,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

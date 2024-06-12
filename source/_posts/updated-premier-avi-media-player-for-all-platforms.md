@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Premier AVi Media Player for All Platforms"
-date: 2024-05-27 21:25:26
-updated: 2024-05-29 12:13:28
+date: 2024-05-31T06:55:36.883Z
+updated: 2024-06-01T06:55:36.883Z
 tags: 
   - screen-recording
   - ai video
@@ -742,4 +742,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

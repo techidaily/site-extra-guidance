@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Metaverse Enthusiasts' Secret to Simple Avatars\""
-date: 2024-05-27 23:47:37
-updated: 2024-05-28 10:17:27
+date: 2024-05-31T06:53:30.888Z
+updated: 2024-06-01T06:53:30.888Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ After this technological evolution took the internet on a storm, we often hear t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

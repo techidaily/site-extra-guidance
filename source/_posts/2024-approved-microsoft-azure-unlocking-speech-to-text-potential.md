@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Microsoft Azure  Unlocking Speech-to-Text Potential\""
-date: 2024-05-27 14:15:32
-updated: 2024-05-28 10:47:14
+date: 2024-05-31T06:58:00.842Z
+updated: 2024-06-01T06:58:00.842Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ In that case, use a more straightforward option like Google Docs to dictate text
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

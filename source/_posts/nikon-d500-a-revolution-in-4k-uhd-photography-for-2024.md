@@ -1,7 +1,7 @@
 ---
 title: "\"Nikon D500  A Revolution in 4K UHD Photography for 2024\""
-date: 2024-05-27 13:57:51
-updated: 2024-05-29 12:12:27
+date: 2024-05-31T06:57:13.200Z
+updated: 2024-06-01T06:57:13.200Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

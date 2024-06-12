@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Real-Time Media Magic  The PMix Vs. Wirecast Faceoff\""
-date: 2024-05-27 19:12:40
-updated: 2024-05-30 12:57:43
+date: 2024-05-31T06:52:43.566Z
+updated: 2024-06-01T06:52:43.566Z
 tags: 
   - screen-recording
   - ai video
@@ -534,4 +534,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

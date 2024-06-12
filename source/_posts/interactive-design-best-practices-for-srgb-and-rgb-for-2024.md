@@ -1,7 +1,7 @@
 ---
 title: "\"Interactive Design  Best Practices for Srgb and Rgb for 2024\""
-date: 2024-05-25 13:38:39
-updated: 2024-05-27 10:42:10
+date: 2024-05-31T06:57:46.349Z
+updated: 2024-06-01T06:57:46.349Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ As a digital photographer, your main focus can be an artistic expression rather 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

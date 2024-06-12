@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Intense Meetings  Perfect Your Screen Focus in MSTEAMS\""
-date: 2024-05-25 20:40:34
-updated: 2024-05-27 10:15:22
+date: 2024-05-31T06:53:07.401Z
+updated: 2024-06-01T06:53:07.401Z
 tags: 
   - screen-recording
   - ai video
@@ -123,4 +123,5 @@ With Zoom and Teams, you can do most business from different places thanks to it
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

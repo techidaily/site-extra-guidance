@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Inside the Action Camera Revolution  A Yi 4K Journey\""
-date: 2024-05-25 17:17:52
-updated: 2024-05-27 10:54:32
+date: 2024-05-31T06:53:02.492Z
+updated: 2024-06-01T06:53:02.492Z
 tags: 
   - screen-recording
   - ai video
@@ -458,4 +458,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

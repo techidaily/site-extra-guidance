@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Prime Windows 11 Photo Inspector\""
-date: 2024-05-29 10:23:43
-updated: 2024-05-30 12:48:13
+date: 2024-05-31T06:57:41.300Z
+updated: 2024-06-01T06:57:41.300Z
 tags: 
   - screen-recording
   - ai video
@@ -331,4 +331,5 @@ Access the **Default Apps** menu from the **Settings** option of your OS. Then, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

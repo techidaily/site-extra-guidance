@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Sonic Update for WhatsApp Statues"
-date: 2024-05-28 19:33:41
-updated: 2024-05-31 10:26:53
+date: 2024-05-31T06:52:18.179Z
+updated: 2024-06-01T06:52:18.179Z
 tags: 
   - screen-recording
   - ai video
@@ -454,4 +454,5 @@ These are the complete details that can help you figure out how to add music to 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

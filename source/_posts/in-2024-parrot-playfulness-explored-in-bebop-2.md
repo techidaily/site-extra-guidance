@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Parrot Playfulness Explored in Bebop 2"
-date: 2024-05-26 10:42:14
-updated: 2024-05-29 10:38:11
+date: 2024-05-31T06:55:42.142Z
+updated: 2024-06-01T06:55:42.142Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

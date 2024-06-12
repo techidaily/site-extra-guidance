@@ -1,7 +1,7 @@
 ---
 title: "\"[New] IPhone Macro Magic  Capturing the Fine Details\""
-date: 2024-05-26 23:51:48
-updated: 2024-05-28 10:34:41
+date: 2024-05-31T06:54:31.421Z
+updated: 2024-06-01T06:54:31.421Z
 tags: 
   - screen-recording
   - ai video
@@ -534,4 +534,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

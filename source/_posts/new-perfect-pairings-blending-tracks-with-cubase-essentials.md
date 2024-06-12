@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfect Pairings  Blending Tracks with Cubase Essentials\""
-date: 2024-05-28 12:57:37
-updated: 2024-05-29 11:48:16
+date: 2024-05-31T06:54:46.738Z
+updated: 2024-06-01T06:54:46.738Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Unlike audio fades, MIDI fades are not implemented in the same manner. One metho
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

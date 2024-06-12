@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Smart Setup for Your Windows 11 Journey"
-date: 2024-05-28 20:16:51
-updated: 2024-05-31 10:29:18
+date: 2024-05-31T06:52:18.489Z
+updated: 2024-06-01T06:52:18.489Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

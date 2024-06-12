@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Photo Artistry  Mastering Shadows & Highlights\""
-date: 2024-05-27 17:16:29
-updated: 2024-05-28 10:44:18
+date: 2024-05-31T06:56:22.229Z
+updated: 2024-06-01T06:56:22.229Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

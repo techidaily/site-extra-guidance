@@ -1,7 +1,7 @@
 ---
 title: "[New] Mavic Air Ushers in New Era, Confronting DJI Spark’s Legacy"
-date: 2024-05-25 15:40:55
-updated: 2024-05-28 12:39:49
+date: 2024-05-31T06:54:52.363Z
+updated: 2024-06-01T06:54:52.363Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

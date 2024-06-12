@@ -1,7 +1,7 @@
 ---
 title: "\"Music That Moves You  The Ultimate Playlist for Workouts for 2024\""
-date: 2024-05-28 17:38:48
-updated: 2024-05-29 11:48:18
+date: 2024-05-31T06:57:21.295Z
+updated: 2024-06-01T06:57:21.295Z
 tags: 
   - screen-recording
   - ai video
@@ -618,4 +618,5 @@ In addition, I'd recommend that you try to keep your background music to an even
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

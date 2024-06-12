@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Your Canon Shots  10 Free, Tailored for Professionals\""
-date: 2024-05-26 14:26:20
-updated: 2024-05-29 12:12:30
+date: 2024-05-31T06:55:07.241Z
+updated: 2024-06-01T06:55:07.241Z
 tags: 
   - screen-recording
   - ai video
@@ -180,4 +180,5 @@ Surf the above discussed free and paid version of LUTS and bring out the best in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

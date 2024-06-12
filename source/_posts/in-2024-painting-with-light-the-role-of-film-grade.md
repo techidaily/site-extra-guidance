@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Painting with Light  The Role of Film Grade\""
-date: 2024-05-27 20:13:44
-updated: 2024-05-29 10:12:28
+date: 2024-05-31T06:57:22.892Z
+updated: 2024-06-01T06:57:22.892Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

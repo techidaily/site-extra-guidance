@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Into the Metaverse  Top 8 VR Wearables Listed\""
-date: 2024-05-26 12:53:41
-updated: 2024-05-27 10:21:12
+date: 2024-05-31T06:52:15.371Z
+updated: 2024-06-01T06:52:15.371Z
 tags: 
   - screen-recording
   - ai video
@@ -486,4 +486,5 @@ All this is possible with the new leap of technology metaverse. So, guys, get re
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

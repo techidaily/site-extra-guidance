@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sonic Sculpture  How to Mold Soundscapes with Cost-Free Effect Tools\""
-date: 2024-05-30 17:29:12
-updated: 2024-05-31 10:29:52
+date: 2024-05-31T06:57:03.284Z
+updated: 2024-06-01T06:57:03.284Z
 tags: 
   - screen-recording
   - ai video
@@ -292,4 +292,5 @@ While there are many applications like Discord available, if you are a gamer, th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

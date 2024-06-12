@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Metaverse Chronicles  A List of the Most Unforgettable Sci-Fi Adventures on Screen\""
-date: 2024-05-25 14:57:19
-updated: 2024-05-28 11:32:33
+date: 2024-05-31T06:54:56.933Z
+updated: 2024-06-01T06:54:56.933Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ The world is heading for a more advanced form of technology that would go beyond
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

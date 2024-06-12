@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Picture Perfection  Partial Blur on PC/Mobile Devices\""
-date: 2024-05-28 10:19:36
-updated: 2024-05-29 11:15:54
+date: 2024-05-31T06:55:10.313Z
+updated: 2024-06-01T06:55:10.313Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

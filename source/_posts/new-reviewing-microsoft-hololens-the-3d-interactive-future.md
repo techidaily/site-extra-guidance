@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reviewing Microsoft HoloLens  The 3D Interactive Future\""
-date: 2024-05-27 22:33:24
-updated: 2024-05-30 11:57:11
+date: 2024-05-31T06:53:08.832Z
+updated: 2024-06-01T06:53:08.832Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

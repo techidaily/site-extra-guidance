@@ -1,7 +1,7 @@
 ---
 title: "\"Screen Scribes  Editing Edition Guide for 2024\""
-date: 2024-05-27 14:59:12
-updated: 2024-05-30 10:31:43
+date: 2024-05-31T06:54:29.123Z
+updated: 2024-06-01T06:54:29.123Z
 tags: 
   - screen-recording
   - ai video
@@ -316,4 +316,5 @@ We hope you have found the answer to your question. If you still have any querie
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

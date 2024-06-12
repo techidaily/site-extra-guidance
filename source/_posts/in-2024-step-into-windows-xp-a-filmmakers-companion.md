@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step Into Windows XP  A Filmmaker's Companion\""
-date: 2024-05-29 14:44:40
-updated: 2024-05-31 11:34:46
+date: 2024-05-31T06:54:03.864Z
+updated: 2024-06-01T06:54:03.864Z
 tags: 
   - screen-recording
   - ai video
@@ -135,4 +135,5 @@ Microsoft Photos replaced the famous software, Windows Movie Maker, and the app 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

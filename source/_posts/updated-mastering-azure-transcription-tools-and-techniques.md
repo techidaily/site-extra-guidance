@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Azure Transcription  Tools and Techniques\""
-date: 2024-05-27 20:33:30
-updated: 2024-05-28 10:12:34
+date: 2024-05-31T06:54:34.058Z
+updated: 2024-06-01T06:54:34.058Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ In that case, use a more straightforward option like Google Docs to dictate text
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

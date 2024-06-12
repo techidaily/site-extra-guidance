@@ -1,7 +1,7 @@
 ---
 title: "\"Intellect in Your Hand  The Moto Z2 Breakdown for 2024\""
-date: 2024-05-24 11:47:32
-updated: 2024-05-27 12:59:29
+date: 2024-05-31T06:53:03.084Z
+updated: 2024-06-01T06:53:03.084Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Sonic Cinematography  Directing Video Narratives with Music for 2024\""
-date: 2024-05-30 22:33:42
-updated: 2024-05-31 11:40:43
+date: 2024-05-31T06:52:59.299Z
+updated: 2024-06-01T06:52:59.299Z
 tags: 
   - screen-recording
   - ai video
@@ -606,4 +606,5 @@ If you want to create a video with all the bells and whistles, you're better off
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

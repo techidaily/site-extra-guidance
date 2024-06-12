@@ -1,7 +1,7 @@
 ---
 title: "[New] Reducing Auditory Intensity with Careful Adjustments in Logic Pro"
-date: 2024-05-27 19:42:41
-updated: 2024-05-30 12:51:55
+date: 2024-05-31T06:53:48.740Z
+updated: 2024-06-01T06:53:48.740Z
 tags: 
   - screen-recording
   - ai video
@@ -234,4 +234,5 @@ Apple's Logic Pro X is not compatible with Windows-based computers. Therefore, i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

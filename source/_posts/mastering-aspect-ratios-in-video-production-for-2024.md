@@ -1,7 +1,7 @@
 ---
 title: "Mastering Aspect Ratios in Video Production for 2024"
-date: 2024-05-27 11:58:30
-updated: 2024-05-28 11:40:34
+date: 2024-05-31T06:58:03.443Z
+updated: 2024-06-01T06:58:03.443Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Having your video tested on multiple devices will allow you to see a preview of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

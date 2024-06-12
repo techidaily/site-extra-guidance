@@ -1,7 +1,7 @@
 ---
 title: "[New] Revolutionize Patient Engagement with Ad Insights"
-date: 2024-05-28 16:50:27
-updated: 2024-05-30 12:27:41
+date: 2024-05-31T06:55:39.978Z
+updated: 2024-06-01T06:55:39.978Z
 tags: 
   - screen-recording
   - ai video
@@ -180,4 +180,5 @@ We hope this blog post was informative and helpful. If you have any questions, f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

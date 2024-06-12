@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Shade Changes  3 Photoshop Hacks\""
-date: 2024-05-25 21:33:33
-updated: 2024-05-28 10:51:48
+date: 2024-05-31T06:53:06.071Z
+updated: 2024-06-01T06:53:06.071Z
 tags: 
   - screen-recording
   - ai video
@@ -646,4 +646,5 @@ IV. The paint tool offers you different brushes depending on the function. For e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

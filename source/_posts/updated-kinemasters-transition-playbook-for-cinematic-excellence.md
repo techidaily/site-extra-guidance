@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Kinemaster’s Transition Playbook for Cinematic Excellence"
-date: 2024-05-27 14:28:22
-updated: 2024-05-28 11:58:20
+date: 2024-05-31T06:55:30.229Z
+updated: 2024-06-01T06:55:30.229Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Thus, in this guide, you learned how to add transition effect in Kinemaster and 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

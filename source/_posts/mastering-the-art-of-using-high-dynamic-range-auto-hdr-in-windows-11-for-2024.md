@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Using High Dynamic Range (Auto HDR) in Windows 11 for 2024"
-date: 2024-05-27 21:13:35
-updated: 2024-05-28 11:54:27
+date: 2024-05-31T06:53:43.643Z
+updated: 2024-06-01T06:53:43.643Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Overall, it is possible for the HDR quality videos captured with an iPhone 12 ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

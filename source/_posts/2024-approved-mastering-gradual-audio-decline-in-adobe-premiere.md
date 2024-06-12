@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Gradual Audio Decline in Adobe Premiere\""
-date: 2024-05-27 14:24:14
-updated: 2024-05-28 12:48:58
+date: 2024-05-31T06:56:16.215Z
+updated: 2024-06-01T06:56:16.215Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ With this guide, you can easily understand the complete procedure for editing a 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

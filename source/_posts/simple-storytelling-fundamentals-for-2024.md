@@ -1,7 +1,7 @@
 ---
 title: "Simple Storytelling Fundamentals for 2024"
-date: 2024-05-29 15:14:29
-updated: 2024-05-31 12:49:54
+date: 2024-05-31T06:55:57.220Z
+updated: 2024-06-01T06:55:57.220Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ The value of storytelling can help you increase customer engagement and establis
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

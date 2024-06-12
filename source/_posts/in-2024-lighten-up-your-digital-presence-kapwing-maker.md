@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Lighten Up Your Digital Presence - Kapwing Maker\""
-date: 2024-05-26 22:46:12
-updated: 2024-05-28 12:14:39
+date: 2024-05-31T06:56:09.896Z
+updated: 2024-06-01T06:56:09.896Z
 tags: 
   - screen-recording
   - ai video
@@ -168,4 +168,5 @@ In the Meme world, there are numerous tools available for creating memes. Among 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

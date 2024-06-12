@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Motion Blur in PS  A Step-by-Step Guide\""
-date: 2024-05-25 14:14:56
-updated: 2024-05-28 12:58:29
+date: 2024-05-31T06:54:50.506Z
+updated: 2024-06-01T06:54:50.506Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Do you want to add an artistic look to your photos? One of the great ways to enh
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

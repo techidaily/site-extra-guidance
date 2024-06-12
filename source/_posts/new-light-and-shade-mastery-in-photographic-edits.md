@@ -1,7 +1,7 @@
 ---
 title: "[New] Light & Shade Mastery in Photographic Edits"
-date: 2024-05-25 13:35:21
-updated: 2024-05-28 11:43:33
+date: 2024-05-31T06:52:25.807Z
+updated: 2024-06-01T06:52:25.807Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ You can try the photography editing tips mentioned above to enhance your images 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

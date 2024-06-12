@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Introduction to Interactive Graphic Design"
-date: 2024-05-26 14:59:35
-updated: 2024-05-27 10:10:59
+date: 2024-05-31T06:53:34.382Z
+updated: 2024-06-01T06:53:34.382Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

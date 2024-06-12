@@ -1,7 +1,7 @@
 ---
 title: "Leading 8 Digital Image Composition Tool for 2024"
-date: 2024-05-27 20:27:52
-updated: 2024-05-28 11:34:27
+date: 2024-05-31T06:57:08.154Z
+updated: 2024-06-01T06:57:08.154Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ Photo and video montage makers help you make presentable and fascinating content
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

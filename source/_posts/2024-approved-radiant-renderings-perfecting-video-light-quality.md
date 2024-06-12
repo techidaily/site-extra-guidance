@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Radiant Renderings  Perfecting Video Light Quality\""
-date: 2024-05-27 20:44:19
-updated: 2024-05-30 12:11:14
+date: 2024-05-31T06:52:45.811Z
+updated: 2024-06-01T06:52:45.811Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

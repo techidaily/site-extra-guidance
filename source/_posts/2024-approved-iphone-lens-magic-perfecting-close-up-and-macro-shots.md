@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  IPhone Lens Magic  Perfecting Close-Up and Macro Shots\""
-date: 2024-05-25 16:43:24
-updated: 2024-05-28 12:23:57
+date: 2024-05-31T06:54:20.502Z
+updated: 2024-06-01T06:54:20.502Z
 tags: 
   - screen-recording
   - ai video
@@ -534,4 +534,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Snipping Videophotographs in Windows 11"
-date: 2024-05-30 14:46:49
-updated: 2024-05-31 10:12:42
+date: 2024-05-31T06:57:20.899Z
+updated: 2024-06-01T06:57:20.899Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

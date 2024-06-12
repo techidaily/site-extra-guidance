@@ -1,7 +1,7 @@
 ---
 title: "\"[New] PS Gaming Audio Masterclass - Vocal Tweaks\""
-date: 2024-05-27 20:50:10
-updated: 2024-05-30 11:13:22
+date: 2024-05-31T06:57:09.874Z
+updated: 2024-06-01T06:57:09.874Z
 tags: 
   - screen-recording
   - ai video
@@ -212,4 +212,5 @@ The recent version of Wondershare's professional video editing software is tailo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

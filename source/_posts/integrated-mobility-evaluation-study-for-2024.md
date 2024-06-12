@@ -1,7 +1,7 @@
 ---
 title: "Integrated Mobility Evaluation Study for 2024"
-date: 2024-05-25 14:27:53
-updated: 2024-05-27 10:16:25
+date: 2024-05-31T06:54:44.110Z
+updated: 2024-06-01T06:54:44.110Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Alight Motion editing app has lived up to the expectation of being the first mot
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

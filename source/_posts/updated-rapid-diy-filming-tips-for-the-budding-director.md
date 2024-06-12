@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Rapid DIY Filming Tips for the Budding Director"
-date: 2024-05-28 17:55:24
-updated: 2024-05-30 11:40:40
+date: 2024-05-31T06:55:34.524Z
+updated: 2024-06-01T06:55:34.524Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Experiment with other props at home and see which hack evolved from them. You ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

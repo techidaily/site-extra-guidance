@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Your Digital Past with FB's Preview Feature"
-date: 2024-05-27 23:44:22
-updated: 2024-05-29 10:59:33
+date: 2024-05-31T06:53:14.536Z
+updated: 2024-06-01T06:53:14.536Z
 tags: 
   - screen-recording
   - ai video
@@ -125,4 +125,5 @@ No. Facebook is a cross-platform program, meaning the changes apply to all devic
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

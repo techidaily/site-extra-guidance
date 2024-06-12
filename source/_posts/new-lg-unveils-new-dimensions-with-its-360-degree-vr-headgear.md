@@ -1,7 +1,7 @@
 ---
 title: "\"[New] LG Unveils New Dimensions with Its 360-Degree VR Headgear\""
-date: 2024-05-27 23:21:34
-updated: 2024-05-28 12:38:22
+date: 2024-05-31T06:55:22.843Z
+updated: 2024-06-01T06:55:22.843Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Novice's Guide to Photo Enhancements with Photoshop"
-date: 2024-05-26 11:43:34
-updated: 2024-05-29 11:50:18
+date: 2024-05-31T06:53:18.524Z
+updated: 2024-06-01T06:53:18.524Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ Without any doubt, Adobe Photoshop is one of the notorious tools to conduct adva
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

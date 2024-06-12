@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Social Splash  10 Best Templates for Online Shares\""
-date: 2024-05-30 17:11:30
-updated: 2024-05-31 12:48:31
+date: 2024-05-31T06:52:49.484Z
+updated: 2024-06-01T06:52:49.484Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ In summary, without some of the internet's funniest memes, there would be an une
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

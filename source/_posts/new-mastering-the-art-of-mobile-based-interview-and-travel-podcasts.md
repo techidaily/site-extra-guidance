@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering the Art of Mobile-Based Interview & Travel Podcasts\""
-date: 2024-05-27 19:30:22
-updated: 2024-05-28 12:57:41
+date: 2024-05-31T06:56:11.771Z
+updated: 2024-06-01T06:56:11.771Z
 tags: 
   - screen-recording
   - ai video
@@ -404,4 +404,5 @@ All the equipment mentioned above is available at Amazon, and you should grab th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

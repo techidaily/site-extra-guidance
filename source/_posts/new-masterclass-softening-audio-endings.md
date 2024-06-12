@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Masterclass  Softening Audio Endings\""
-date: 2024-05-27 20:11:44
-updated: 2024-05-28 10:43:58
+date: 2024-05-31T06:57:19.729Z
+updated: 2024-06-01T06:57:19.729Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ In essence, Ableton just refuses to display fades on certain songs. Fades won't 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

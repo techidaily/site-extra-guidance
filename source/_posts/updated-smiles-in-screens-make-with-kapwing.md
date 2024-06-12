@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Smiles in Screens  Make with Kapwing\""
-date: 2024-05-29 15:50:28
-updated: 2024-05-31 12:10:38
+date: 2024-05-31T06:53:27.566Z
+updated: 2024-06-01T06:53:27.566Z
 tags: 
   - screen-recording
   - ai video
@@ -168,4 +168,5 @@ In the Meme world, there are numerous tools available for creating memes. Among 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Kinetic Illustration 101  Core Skills & Concepts\""
-date: 2024-05-26 15:42:45
-updated: 2024-05-28 12:18:58
+date: 2024-05-31T06:57:26.436Z
+updated: 2024-06-01T06:57:26.436Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

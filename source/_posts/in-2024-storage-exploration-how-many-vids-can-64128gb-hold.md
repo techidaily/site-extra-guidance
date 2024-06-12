@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Storage Exploration  How Many Vids Can 64/128GB Hold?\""
-date: 2024-05-29 13:54:20
-updated: 2024-05-31 12:52:26
+date: 2024-05-31T06:55:21.917Z
+updated: 2024-06-01T06:55:21.917Z
 tags: 
   - screen-recording
   - ai video
@@ -524,4 +524,5 @@ A wide range of softwares and applications help with video compressing features 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Text Annotation in Windows Photos (Windows 11)"
-date: 2024-05-26 12:27:29
-updated: 2024-05-28 12:46:24
+date: 2024-05-31T06:53:32.278Z
+updated: 2024-06-01T06:53:32.278Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

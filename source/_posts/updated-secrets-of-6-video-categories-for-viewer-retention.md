@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Secrets of 6 Video Categories for Viewer Retention"
-date: 2024-05-29 22:18:46
-updated: 2024-05-30 12:32:21
+date: 2024-05-31T06:52:53.001Z
+updated: 2024-06-01T06:52:53.001Z
 tags: 
   - screen-recording
   - ai video
@@ -165,4 +165,5 @@ Are you using video to promote your products or services? If not, you should be!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

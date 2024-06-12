@@ -1,7 +1,7 @@
 ---
 title: "Lighting Setup Tips to Make Great Videos for 2024"
-date: 2024-05-28 19:35:44
-updated: 2024-05-30 12:32:34
+date: 2024-05-31T06:53:22.371Z
+updated: 2024-06-01T06:53:22.371Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

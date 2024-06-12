@@ -1,7 +1,7 @@
 ---
 title: "Significant Aspects in Techno Narrative Design for 2024"
-date: 2024-05-29 20:28:41
-updated: 2024-05-31 12:58:58
+date: 2024-05-31T06:53:45.676Z
+updated: 2024-06-01T06:53:45.676Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ Everybody has a narrative, but the craft of digital storytelling can transform a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

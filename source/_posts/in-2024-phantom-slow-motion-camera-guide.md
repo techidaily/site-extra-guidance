@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Phantom Slow Motion Camera Guide"
-date: 2024-05-26 11:18:52
-updated: 2024-05-29 10:31:23
+date: 2024-05-31T06:53:35.247Z
+updated: 2024-06-01T06:53:35.247Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ As filmmakers and video lovers, we have come up with some solid examples of time
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

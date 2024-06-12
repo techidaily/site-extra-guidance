@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Smooth Start  Gradual Appearance\""
-date: 2024-05-28 11:39:21
-updated: 2024-05-31 11:28:53
+date: 2024-05-31T06:56:37.485Z
+updated: 2024-06-01T06:56:37.486Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ Thus, in this guide, you learned how to add fade-in Premiere and proper edits to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

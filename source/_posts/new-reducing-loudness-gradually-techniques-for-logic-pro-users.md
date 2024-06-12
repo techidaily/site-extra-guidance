@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reducing Loudness Gradually  Techniques for Logic Pro Users\""
-date: 2024-05-28 14:33:11
-updated: 2024-05-30 10:56:49
+date: 2024-05-31T06:54:53.899Z
+updated: 2024-06-01T06:54:53.899Z
 tags: 
   - screen-recording
   - ai video
@@ -234,4 +234,5 @@ Apple's Logic Pro X is not compatible with Windows-based computers. Therefore, i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

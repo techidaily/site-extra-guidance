@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Portable Balancing System for Video Capture"
-date: 2024-05-28 21:56:40
-updated: 2024-05-29 10:48:30
+date: 2024-05-31T06:55:46.683Z
+updated: 2024-06-01T06:55:46.683Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

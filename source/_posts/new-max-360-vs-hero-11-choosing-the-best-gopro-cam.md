@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Max 360 Vs. Hero 11 - Choosing the Best GoPro Cam\""
-date: 2024-05-26 20:15:23
-updated: 2024-05-28 10:56:42
+date: 2024-05-31T06:55:49.536Z
+updated: 2024-06-01T06:55:49.536Z
 tags: 
   - screen-recording
   - ai video
@@ -480,4 +480,5 @@ Your choice between the two depends on your preference for 360-degree versatilit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

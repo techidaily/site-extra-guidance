@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] MirthVid  Quick Start for Video Makers\""
-date: 2024-05-25 18:38:56
-updated: 2024-05-28 12:29:45
+date: 2024-05-31T06:56:07.139Z
+updated: 2024-06-01T06:56:07.139Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ With the proper privacy settings, Funimate is suitable for adult adolescent user
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

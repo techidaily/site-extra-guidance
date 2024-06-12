@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating Full Screen in PPro"
-date: 2024-05-28 23:31:14
-updated: 2024-05-29 11:45:56
+date: 2024-05-31T06:52:35.658Z
+updated: 2024-06-01T06:52:35.658Z
 tags: 
   - screen-recording
   - ai video
@@ -227,4 +227,5 @@ In addition, it enables you to collaborate with partners if you are working on a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

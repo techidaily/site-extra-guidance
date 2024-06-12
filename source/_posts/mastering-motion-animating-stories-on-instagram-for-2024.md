@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Motion  Animating Stories on Instagram for 2024\""
-date: 2024-05-26 14:23:38
-updated: 2024-05-28 12:12:42
+date: 2024-05-31T06:56:36.426Z
+updated: 2024-06-01T06:56:36.426Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ The success or failure of your Instagram company depends in large part on engage
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

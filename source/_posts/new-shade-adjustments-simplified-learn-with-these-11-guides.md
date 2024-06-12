@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shade Adjustments Simplified - Learn with These 11 Guides\""
-date: 2024-05-27 18:47:52
-updated: 2024-05-30 11:36:20
+date: 2024-05-31T06:55:27.728Z
+updated: 2024-06-01T06:55:27.728Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ In short, we've touched on many different color grading tutorials that simplify 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

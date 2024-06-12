@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Professional Graphics  Selecting Between Srgb and Rgb\""
-date: 2024-05-29 12:55:32
-updated: 2024-05-30 10:19:46
+date: 2024-05-31T06:54:42.922Z
+updated: 2024-06-01T06:54:42.922Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ As a digital photographer, your main focus can be an artistic expression rather 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

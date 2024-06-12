@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Video Editing in Windows 11 - Your Movie Maker Primer\""
-date: 2024-05-27 19:10:57
-updated: 2024-05-28 10:53:18
+date: 2024-05-31T06:55:44.450Z
+updated: 2024-06-01T06:55:44.450Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ In this article, you have learned about various video editors available on Windo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

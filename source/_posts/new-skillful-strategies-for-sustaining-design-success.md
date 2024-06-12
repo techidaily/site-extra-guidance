@@ -1,7 +1,7 @@
 ---
 title: "[New] Skillful Strategies for Sustaining Design Success"
-date: 2024-05-29 21:15:40
-updated: 2024-05-31 12:41:18
+date: 2024-05-31T06:54:23.494Z
+updated: 2024-06-01T06:54:23.494Z
 tags: 
   - screen-recording
   - ai video
@@ -214,4 +214,5 @@ The world of graphic design depends on relationships with other people to advanc
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, IPhone HDR Masterclass  From Basics to Brilliance\""
-date: 2024-05-26 18:41:19
-updated: 2024-05-27 12:17:16
+date: 2024-05-31T06:52:20.760Z
+updated: 2024-06-01T06:52:20.760Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ This article perfectly sums up all the information you need in order to capture 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Light and Shadow in HDR Portraiture"
-date: 2024-05-26 13:36:32
-updated: 2024-05-28 10:11:40
+date: 2024-05-31T06:54:22.782Z
+updated: 2024-06-01T06:54:22.782Z
 tags: 
   - screen-recording
   - ai video
@@ -287,4 +287,5 @@ It is not as difficult as it seems to shoot an HDR portrait. We have made it as 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

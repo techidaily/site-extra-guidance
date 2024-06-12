@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Guide to Perfect 12 Collage Art\""
-date: 2024-05-28 16:49:11
-updated: 2024-05-31 11:37:14
+date: 2024-05-31T06:53:37.458Z
+updated: 2024-06-01T06:53:37.458Z
 tags: 
   - screen-recording
   - ai video
@@ -730,4 +730,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

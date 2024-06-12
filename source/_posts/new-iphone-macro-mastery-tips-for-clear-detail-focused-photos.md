@@ -1,7 +1,7 @@
 ---
 title: "\"[New] IPhone Macro Mastery  Tips for Clear, Detail-Focused Photos\""
-date: 2024-05-27 19:30:38
-updated: 2024-05-28 11:26:59
+date: 2024-05-31T06:53:18.189Z
+updated: 2024-06-01T06:53:18.189Z
 tags: 
   - screen-recording
   - ai video
@@ -534,4 +534,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

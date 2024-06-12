@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastery Over Instagram Video Playback Pace"
-date: 2024-05-27 19:53:44
-updated: 2024-05-28 10:39:39
+date: 2024-05-31T06:53:21.425Z
+updated: 2024-06-01T06:53:21.425Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ We have answered the frequently asked question, "how to do slow motion on Instag
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Lowering Audio Amplitude Progressively Using Lumafusion"
-date: 2024-05-31T06:53:07.133Z
-updated: 2024-06-01T06:53:07.133Z
+date: 2024-06-28T05:31:21.656Z
+updated: 2024-06-29T05:31:21.656Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Lowering Audio Amplitude Progressively Using Lumafusion"
 excerpt: "This Article Describes [New] Lowering Audio Amplitude Progressively Using Lumafusion"
 keywords: "\"Progressive Audio Reduction,Amplitude Lowering Sequence,Gradual Sound Dampening,Dynamic Volume Control,Low Amplitude Tuning,Step-by-Step Loudness Decrease,Lumafusion Amplitude Modulation\""
-thumbnail: https://www.lifewire.com/thmb/jevn_ZQZhYjRiW3CTTFu74aAcbY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/why-car-battery-keeps-dying-4125506-a2fbb3e180be4fcfb8bdf42bd8ae1bb6.png
+thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0107a7a0c827d88713775503.png
 ---
 
 ## Lowering Audio Amplitude Progressively Using Lumafusion
@@ -150,3 +150,23 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-precision-recording-gopro-5-against-sj7/"><u>[Updated] Precision Recording  GoPro 5 Against SJ7</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-significant-aspects-in-techno-narrative-design/"><u>[Updated] Significant Aspects in Techno Narrative Design</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterful-imagevideo-correction-using-smartphone-apps/"><u>[New] Masterful Image/Video Correction Using Smartphone Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-melody-management-and-legalities-on-social-media/"><u>2024 Approved  Melody Management and Legalities on Social Media</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-kinemaster-edge-the-ultimate-transition-strategies/"><u>[Updated] Kinemaster Edge  The Ultimate Transition Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pictureweaver-2021-seamless-photo-video-mix-for-2024/"><u>PictureWeaver 2021  Seamless Photo-Video Mix for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/picking-a-champion-in-video-software-vlcmx-for-2024/"><u>Picking a Champion in Video Software  VLC/MX for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-quintet-of-top-10-royale-battles/"><u>[New] In 2024, Quintet of Top 10 Royale Battles</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-simple-tricks-make-3d-gif-production-of-inspiration-pop-up-for-2024/"><u>Updated Simple Tricks Make 3D GIF Production of Inspiration Pop Up for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-bridging-app-dimensions-with-youtube-shorts/"><u>2024 Approved  Bridging App Dimensions with YouTube Shorts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-iphone-xr-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your iPhone XR on MetroPCS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtubes-monetization-milestone-500-subscribers-achieved-for-2024/"><u>YouTube's Monetization Milestone  500 Subscribers Achieved for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-most-liked-and-watched-amazon-prime-video-on-twitter/"><u>[New] In 2024, Most Liked and Watched Amazon Prime Video on Twitter</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-trendsetters-on-twitternet-top-10-threads-ranking/"><u>[Updated] 2024 Approved  Trendsetters on Twitternet  Top 10 Threads Ranking</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-a-trailblazers-guide-youtube-studio-location-unveiled-for-2024/"><u>[Updated] A Trailblazer’s Guide  YouTube Studio Location Unveiled for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-premier-programs-to-transform-webcam-footage/"><u>[Updated] 2024 Approved  Premier Programs to Transform Webcam Footage</u></a></li>
+</ul></div>

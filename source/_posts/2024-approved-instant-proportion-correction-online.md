@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Instant Proportion Correction Online\""
-date: 2024-06-11T00:45:52.738Z
-updated: 2024-06-12T00:45:52.738Z
+date: 2024-06-28T05:29:08.787Z
+updated: 2024-06-29T05:29:08.787Z
 tags: 
   - screen-recording
   - ai video
@@ -232,7 +232,7 @@ After completing adjustment or reframing, click on the "Export" button to save y
 
 Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save up.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Change Aspect Ratio at Exporting
 
@@ -466,7 +466,7 @@ After completing adjustment or reframing, click on the "Export" button to save y
 
 Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save up.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Change Aspect Ratio at Exporting
 
@@ -700,7 +700,7 @@ After completing adjustment or reframing, click on the "Export" button to save y
 
 Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save up.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Change Aspect Ratio at Exporting
 
@@ -934,7 +934,7 @@ After completing adjustment or reframing, click on the "Export" button to save y
 
 Change the name of the video and select the location where you want to save the video. Now, click on the "Export" again to save up.
 
-![Click Export Button ](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
+![Click Export Button](https://images.wondershare.com/filmora/article-images/auto-reframe-save-video.jpg)
 
 ### Method 5: Change Aspect Ratio at Exporting
 

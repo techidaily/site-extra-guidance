@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Scriptwriting Secrets  Penning Podcast Episodes That Resonate\""
-date: 2024-05-31T06:56:20.675Z
-updated: 2024-06-01T06:56:20.675Z
+date: 2024-06-28T05:31:24.775Z
+updated: 2024-06-29T05:31:24.775Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Scriptwriting Secrets: Penning Podcast Episodes That Resonate\""
 excerpt: "\"This Article Describes [Updated] Scriptwriting Secrets: Penning Podcast Episodes That Resonate\""
 keywords: "Scripting Pods Secrets,Podcast Writing Tips,Resonating Scripts,Write Impactful Pods,Engaging Episode Scripts,Scripting Techniques Pod,PodCast Script Insights"
-thumbnail: https://www.lifewire.com/thmb/R3lz9sqjFIJ8bsy-_L1OGfmqrMI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/tpmslightcomeson-59daaa4a68e1a20010dc0c97.jpg
+thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e244585454342ca9de98074a9b.jpg
 ---
 
 ## Scriptwriting Secrets: Penning Podcast Episodes That Resonate
@@ -74,24 +74,24 @@ The first right candidate for the word-for-word script is the one about to land 
 
 **Structure**
 
-* Intro: Introduce yourself, the topic of discussion, and the guests if there; episode teaser (Span: \_\_\_ )
+* Intro: Introduce yourself, the topic of discussion, and the guests if there; episode teaser (Span: \_\_\_)
 * \[Sponsor message\]
 * \[Theme music\]
-* Topic 1: \_\_\_\_\_(Span: \_\_ )
+* Topic 1: \_\_\_\_\_(Span: \_\_)
 * Principal point
 * Supporting points
 * Quotations, data, or other facts
 * Segue (can be a phrase, a piece of music, or a sound effect)
-* Topic 2: \_\_\_\_\_\_\_(Span: \_\_ )
+* Topic 2: \_\_\_\_\_\_\_(Span: \_\_)
 * Principal point
 * Supporting points
 * Quotations, data, or other facts
 * \[Sponsor message\]
-* Topic 3: \_\_\_\_\_\_\_(Span: \_\_ )
+* Topic 3: \_\_\_\_\_\_\_(Span: \_\_)
 * Principal point
 * Supporting points
 * Quotations, data, or other facts
-* Outro: \_\_\_\_\_ (Span: \_\_ )
+* Outro: \_\_\_\_\_ (Span: \_\_)
 * Overview
 * Call to action
 * \[Closing theme music\]
@@ -132,19 +132,19 @@ See you in the upcoming episode with another interesting topic \[topic name\].
 
 **Podcast Example:**
 
-##### [Unfictional](https://www.kcrw.com/culture/shows/unfictional/cabin-notebook?utm%5Fsource=KCRW&utm%5Fmedium=RSS&utm%5Fcampaign=kcrw-show-rss)
+##### Unfictional
 
 An interesting narrative-style podcast hosted and produced by Bob Carlson.
 
 ![unfictional narrative podcast](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-2.jpg)
 
-##### [S-Town](https://podcasts.apple.com/us/podcast/s-town/id1212558767)
+##### S-Town
 
 A crime story podcast hosted by Brian Reed from Serial Productions, a New York Times company.
 
 ![s town cover](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-3.jpg)
 
-##### [Bill Burr's Monday Morning](https://open.spotify.com/show/5SFiQlOQ3EKmwp0chE1QzY)
+##### Bill Burr's Monday Morning
 
 A solo podcast hosted by Bill Burr.
 
@@ -201,13 +201,13 @@ CTAs: If you want to hear more interesting podcasts like this one, follow the ch
 
 **Podcast Example**
 
-##### [Smartless](https://open.spotify.com/show/0Yzd0g8NYmn27k2HFNplv7)
+##### Smartless
 
 "SmartLess" with Jason Bateman, Sean Hayes, & Will Arnett is a podcast where people from different fields of life come to share their life experiences.
 
 ![smartless podcast cover](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-5.jpg)
 
-##### [The Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk)
+##### The Joe Rogan Experience
 
 Hosted by Joe Rogan, a conversational style podcast it is.
 
@@ -224,17 +224,17 @@ Hosts who love ad-libbing just need a bulleted list of some points to do an epis
 
 **Structure**
 
-* Intro: \_\_\_\_\_ (Span: \_\_\_\_\_ )
+* Intro: \_\_\_\_\_ (Span: \_\_\_\_\_)
 * \[Sponsor message\]
 * \[Theme music\]
-* Topic 1: \_\_\_\_\_\_\_ (Span: \_\_\_\_ )
+* Topic 1: \_\_\_\_\_\_\_ (Span: \_\_\_\_)
 * Notations
-* Topic 2: \_\_\_\_\_\_\_ (Span: \_\_\_\_ )
+* Topic 2: \_\_\_\_\_\_\_ (Span: \_\_\_\_)
 * Notations
 * Segue
-* Topic 3: \_\_\_\_\_\_\_ (Duration: \_\_\_\_ )
+* Topic 3: \_\_\_\_\_\_\_ (Duration: \_\_\_\_)
 * Notations
-* Outro: \_\_\_\_\_ (Duration: \_\_\_\_ )
+* Outro: \_\_\_\_\_ (Duration: \_\_\_\_)
 * \[Ending music\]
 
 **Template**
@@ -261,19 +261,19 @@ CTAs: Follow the channel and forward it to your friends if you want to listen to
 
 **Podcast Example**
 
-##### [WTF with Marc Maron](http://www.wtfpod.com/)
+##### WTF with Marc Maron
 
 "WTF with Marc Maron" is a comedy podcast show with a growing list of episodes. It's one of the best examples of an Ad-libbed flexible podcast script.
 
 ![wtf podcast cover](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-7.jpg)
 
-##### [Conan O'Brien Needs a Friend](https://open.spotify.com/show/3u26tlz7A3WyWRtXliX9a9)
+##### Conan O'Brien Needs a Friend
 
 A comedy podcast hosted by Conan.
 
 ![comedy podcast cover](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-8.jpg)
 
-##### [2 Bears, 1 Cave with Tom Segura & Bert Kreischer](https://open.spotify.com/show/1PgDUTgeyu3FOzK1FcBoqa)
+##### 2 Bears, 1 Cave with Tom Segura & Bert Kreischer
 
 Together, two close friends make each other laugh.
 
@@ -391,3 +391,26 @@ The crux of our discussion is that a compelling podcast script makes it simple t
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-skincare-and-sensational-looks/"><u>2024 Approved  Skincare and Sensational Looks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-for-building-impressive-iphone-photo-collagues-for-2024/"><u>Step-by-Step Guide for Building Impressive iPhone Photo Collagues for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pushing-boundaries-with-time-lapse-full-slomo-review-2024/"><u>[Updated] Pushing Boundaries with Time-Lapse  Full SloMo Review, 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-your-sierra-cloud-storage-effortlessly/"><u>In 2024, Navigating Your Sierra Cloud Storage Effortlessly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-filters-to-elevate-submerged-photography-for-2024/"><u>Prime Filters to Elevate Submerged Photography for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-rhythm-on-rings-creating-tamil-ringtone-playlists/"><u>[Updated] Rhythm on Rings  Creating Tamil Ringtone Playlists</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-metaverse-mayhem-top-party-games-listed/"><u>2024 Approved  Metaverse Mayhem  Top Party Games Listed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/space-optimization-mastery-premium-storage-reviews-for-2024/"><u>Space Optimization Mastery  Premium Storage Reviews for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-secure-value-discovering-the-top-7-artwork-to-nft-services/"><u>In 2024, Secure Value  Discovering the Top 7 Artwork-to-NFT Services</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-troubleshoot-like-a-pro-resetting-final-cut-pro-x-for-smooth-editing/"><u>Updated In 2024, Troubleshoot Like a Pro Resetting Final Cut Pro X for Smooth Editing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78t-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y78t Phone without Google Account?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-remove-pending-videos-from-your-youtube-history/"><u>In 2024, How to Remove Pending Videos From Your YouTube History</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cinematic-close-ups-elevating-your-work-with-kinemaster-for-2024/"><u>Cinematic Close-Ups  Elevating Your Work with Kinemaster for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-asus-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Asus Phone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-ace-your-youtube-finances-secrets-for-profits-at-the-500-subscriber-milestone/"><u>[Updated] 2024 Approved  Ace Your Youtube Finances  Secrets for Profits at the 500-Subscriber Milestone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-step-by-step-grab-facebook-videos-on-both-oses/"><u>[Updated] 2024 Approved  Step-by-Step  Grab Facebook Videos on Both OSes</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-x100-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo X100 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-deals-on-superior-quality-economical-asmr-mics/"><u>[New] Exclusive Deals on Superior-Quality, Economical ASMR Mics</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-apowersoft-auditory-recording-guide-complete-with-4-other-options/"><u>The Ultimate Apowersoft Auditory Recording Guide, Complete with 4 Other Options</u></a></li>
+</ul></div>

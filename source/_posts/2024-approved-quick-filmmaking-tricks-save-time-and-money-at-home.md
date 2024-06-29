@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Filmmaking Tricks  Save Time & Money at Home\""
-date: 2024-05-31T06:52:33.492Z
-updated: 2024-06-01T06:52:33.492Z
+date: 2024-06-20T03:42:37.683Z
+updated: 2024-06-21T03:42:37.683Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Quick Filmmaking Tricks: Save Time & Money at Home\""
 excerpt: "\"This Article Describes 2024 Approved: Quick Filmmaking Tricks: Save Time & Money at Home\""
 keywords: "\"Quick Film Techniques,Save Time Shooting,Money-Saving Cinematography,Home Filmmaking Hacks,Efficient Film Tips,Frugal Filmmaking Tricks,Rapid Video Production\""
-thumbnail: https://www.lifewire.com/thmb/XuYrRPCOK72waHStn6mcmYJjfFs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/000-how-to-make-high-resolution-images-on-your-computer-or-smartphone-4588802-5c83b08746e0fb0001136657.jpg
+thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c6f73b5cf48b17efe5272ad6.jpg
 ---
 
 ## Quick Filmmaking Tricks: Save Time & Money at Home
@@ -102,209 +102,32 @@ A reflector is a spontaneous or specialized reflective surface that diverts the 
 
 When applied to flat surfaces, the foil has a reflective surface. It makes it the best alternative to a professional reflector. To make your one, you will need
 
-### 1\. A Cardboard
-
-As mentioned, you can get cardboard from a nearby stationery store. The cardboard size varies according to your requirement to make a light reflector. The reflector will perform better if the cardboard is large.
-
-![cardboard used in making a diy light reflector](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-10.png)
-
-### 2\. Foil Paper
-
-The next thing you should have to make a reflector is foil paper. The foil paper is readily available at all supermarkets or in shops. Ensure that the foil paper is of aluminum because it can reflect back the light.
-
-![foil paper used for making a light reflector](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-11.png)
-
-You can wrap the foil paper around the cardboard as smoothly as possible to prevent too many creases. The smoother look, the more chances of a glowing effect.
-
-### Final Results of Using the Foil Light Reflector
-
-You can see clearly that the subject face is brighter than before the reflector usage. You can make large-size reflectors too, as per your requirement.
-
-![results after using diy light reflector](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-12.png)
-
-## Part 4\. Hack. DIY LED Light Panel
-
-For a good-supplied light to a subject, you can make your own LED light panel with LED strips at home in two steps.
-
-### 1\. A Cardboard
-
-Still, cardboard is the most helpful one. Ensure that the size of the cardboard is ideal and equal to the LED strips attached to it.
-
-![cardboard used in diy led light panel](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-13.png)
-
-### 2\. LED Strips
-
-![led strips used for making a light panel](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-14.png)
-
-First, you need to cut the cardboard into the required size. The single LED strip does not provide broad light when spread as a straight line. So, we need cardboard to create a broader light source.
-
-Fasten the LED strip on the cardboard into a spiral shape. Make sure that the gap between each circle does not change too much.
-
-![attachment of led strips on cardboard](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-15.png)
-
-### Final Results of Using the DIY LED Light Panel
-
-See how clear the subject's face looks after using an LED panel. Of course, you can make a broader panel if you have to film a more extensive subject.
-
-![results after using diy led light panel](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-16.png)
-
-As you have noticed, the light is too bright on the subject. However, you can diffuse the light by following the next hack!
-
-## Part 5\. Hack. DIY Light Diffuser
-
-The light diffusers reduce the bright light and create smooth and soft touching of the light on the subject. You can see below how professional setups use light diffusers.
-
-Light diffusers are often used on professional sets to reduce harsh shadows and create even soft lighting. However, they mostly use large diffusers due to the large filming spots, as shown below!
-
-![light diffuser used in professional studios](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-17.png)
-
-To make a light diffuser, you don't need specific props or tools. However, as shown below, you need a desk mat to make it possible!
-
-### 1\. A Desk Mat
-
-It would be best if you had a transparent desk mat, which you can find at any household store. It is an alternative to a diffuser and helps maintain the light's tone.
-
-![desk mat used for making diy light diffuser](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-18.png)
-
-First, cover the LED light panel as made in the above hack with a desk mat to make diffuse light and soften the light. After covering it, take it near the subject for shooting the video or film of an upcoming project.
-
-![process of making diy light diffuser](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-19.gif)
-
-### Final Results of Using the Light Diffuser
-
-Look below and notice that the light is not much dispersed now and balances the subject. It gives a smooth look!
-
-![final results after using a diy light diffuser](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-20.png)
-
-## Conclusion
-
-You can now create your filming studio at home by following the DIY hacks. You will get professional results from these tools. Think about more creative ideas and make them possible to boost your audience.
-
-Experiment with other props at home and see which hack evolved from them. You can also share these tips and hacks with your audience and friends!
-
-Step3 Leave a small part of the bulb open from the top and cover the part from the side.
-
-Step4 Ensure the lamp switch is off, and install the light bulb.
-
-![process of creating a black wrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-7.png)
-
-When you turn on the lamp, the light has been shaped into a smaller light source.
-
-### Final Results for the Black Wrap or Cinewrap
-
-You can observe that the light is only at the required place, with no dispersion observed and no scattering. You can create more shapes to foil and then wrap them on the bulb for a different look.
-
-![results after using cinewrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-8.png)
-
-After experimenting with light shaping and blocking hacks, we will move toward the light reflector hack!
-
-## Part 3\. Hack. DIY Light Reflector
-
-A reflector is a spontaneous or specialized reflective surface that diverts the light to our subject or object. Professional filming setups usually use a large reflector to get a glowing effect on a subject or even more than two.
-
-![light reflector used in a professional setup](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-9.png)
-
-When applied to flat surfaces, the foil has a reflective surface. It makes it the best alternative to a professional reflector. To make your one, you will need
-
-### 1\. A Cardboard
-
-As mentioned, you can get cardboard from a nearby stationery store. The cardboard size varies according to your requirement to make a light reflector. The reflector will perform better if the cardboard is large.
-
-![cardboard used in making a diy light reflector](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-10.png)
-
-### 2\. Foil Paper
-
-The next thing you should have to make a reflector is foil paper. The foil paper is readily available at all supermarkets or in shops. Ensure that the foil paper is of aluminum because it can reflect back the light.
-
-![foil paper used for making a light reflector](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-11.png)
-
-You can wrap the foil paper around the cardboard as smoothly as possible to prevent too many creases. The smoother look, the more chances of a glowing effect.
-
-### Final Results of Using the Foil Light Reflector
-
-You can see clearly that the subject face is brighter than before the reflector usage. You can make large-size reflectors too, as per your requirement.
-
-![results after using diy light reflector](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-12.png)
-
-## Part 4\. Hack. DIY LED Light Panel
-
-For a good-supplied light to a subject, you can make your own LED light panel with LED strips at home in two steps.
-
-### 1\. A Cardboard
-
-Still, cardboard is the most helpful one. Ensure that the size of the cardboard is ideal and equal to the LED strips attached to it.
-
-![cardboard used in diy led light panel](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-13.png)
-
-### 2\. LED Strips
-
-![led strips used for making a light panel](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-14.png)
-
-First, you need to cut the cardboard into the required size. The single LED strip does not provide broad light when spread as a straight line. So, we need cardboard to create a broader light source.
-
-Fasten the LED strip on the cardboard into a spiral shape. Make sure that the gap between each circle does not change too much.
-
-![attachment of led strips on cardboard](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-15.png)
-
-### Final Results of Using the DIY LED Light Panel
-
-See how clear the subject's face looks after using an LED panel. Of course, you can make a broader panel if you have to film a more extensive subject.
-
-![results after using diy led light panel](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-16.png)
-
-As you have noticed, the light is too bright on the subject. However, you can diffuse the light by following the next hack!
-
-## Part 5\. Hack. DIY Light Diffuser
-
-The light diffusers reduce the bright light and create smooth and soft touching of the light on the subject. You can see below how professional setups use light diffusers.
-
-Light diffusers are often used on professional sets to reduce harsh shadows and create even soft lighting. However, they mostly use large diffusers due to the large filming spots, as shown below!
-
-![light diffuser used in professional studios](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-17.png)
-
-To make a light diffuser, you don't need specific props or tools. However, as shown below, you need a desk mat to make it possible!
-
-### 1\. A Desk Mat
-
-It would be best if you had a transparent desk mat, which you can find at any household store. It is an alternative to a diffuser and helps maintain the light's tone.
-
-![desk mat used for making diy light diffuser](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-18.png)
-
-First, cover the LED light panel as made in the above hack with a desk mat to make diffuse light and soften the light. After covering it, take it near the subject for shooting the video or film of an upcoming project.
-
-![process of making diy light diffuser](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-19.gif)
-
-### Final Results of Using the Light Diffuser
-
-Look below and notice that the light is not much dispersed now and balances the subject. It gives a smooth look!
-
-![final results after using a diy light diffuser](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-20.png)
-
-## Conclusion
-
-You can now create your filming studio at home by following the DIY hacks. You will get professional results from these tools. Think about more creative ideas and make them possible to boost your audience.
-
-Experiment with other props at home and see which hack evolved from them. You can also share these tips and hacks with your audience and friends!
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigate-zoom-with-precision-on-windows-10-devices/"><u>In 2024, Navigate Zoom with Precision on Windows 10 Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-smooth-shifts-audio-transition-wisdom-from-sonar-by-platinum/"><u>[New] Smooth Shifts  Audio Transition Wisdom From Sonar by Platinum</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/snowboard-cross-winter-olympics-2022-highlights-for-2024/"><u>Snowboard Cross Winter Olympics 2022 Highlights for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-picks-recommended-portals-for-acquiring-snapalert-melodies/"><u>In 2024, Premium Picks  Recommended Portals for Acquiring SnapAlert Melodies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-steady-yourself-against-oculus-nausea/"><u>[Updated] Steady Yourself Against Oculus Nausea</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/starting-up-key-gopro-add-ons-unveiled-for-2024/"><u>Starting Up  Key GoPro Add-Ons Unveiled for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-camera-tech-the-top-10-camcorders/"><u>In 2024, Prime Camera Tech  The Top 10 Camcorders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-magix-visual-compendium-an-examination/"><u>[Updated] MAGIX Visual Compendium  An Examination</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-start-guide-to-engaging-with-ios-vr-content-for-2024/"><u>Quick Start Guide to Engaging with iOS VR Content for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-10-free-webcam-recorders/"><u>[New] Top 10 Free Webcam Recorders</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-avoid-draft-overload-on-tiktok-by-mastering-edit-techniques/"><u>In 2024, Avoid Draft Overload on TikTok by Mastering Edit Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-itop-screen-recorder-essential-or-excessive-in-2024/"><u>[New] ITop Screen Recorder - Essential or Excessive, In 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-poco-c55-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Poco C55 Activity | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-apple-iphone-se-2022-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your Apple iPhone SE (2022) has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-integrate-titles-and-descriptions-into-your-youtube-video/"><u>[New] In 2024, How to Integrate Titles and Descriptions Into Your YouTube Video</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-visual-preservation-tool-chromebook-for-2024/"><u>[Updated] Ultimate Visual Preservation Tool  Chromebook for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-buy-youtube-subscribers-hundreds-of-subscribers-for-5/"><u>2024 Approved  Buy YouTube Subscribers - Hundreds of Subscribers for $5?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-mastering-call-recording-on-google-voice-a-comprehensive-guide/"><u>Updated 2024 Approved Mastering Call Recording on Google Voice A Comprehensive Guide</u></a></li>
+</ul></div>
 
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins>
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins>
-
-
-
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-
-
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Masterclass 15 Color Grading Look-Ups for Camcorder\""
-date: 2024-05-31T06:53:03.419Z
-updated: 2024-06-01T06:53:03.419Z
+date: 2024-06-20T03:39:57.010Z
+updated: 2024-06-21T03:39:57.010Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Masterclass 15 Color Grading Look-Ups for Camcorder\""
 excerpt: "\"This Article Describes [Updated] Masterclass 15 Color Grading Look-Ups for Camcorder\""
 keywords: "\"Color Grading Masterclass,Camcorder Grading Lookups,Professional Color Edits,Filmmaker Editing Guide,Video Post-Production Tips,Cinematic Grading Techniques,HD Camcorder Editing\""
-thumbnail: https://www.lifewire.com/thmb/G-iW0FJ22KzS4XxqQv7mqoC_hc8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Featured-MonopolyGO-Holding-iPhone-8605534-fc32a4de91374628b778efea2caafee1.jpg
+thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d0308246b622538179ed42958d614.jpg
 ---
 
 ## Masterclass 15 Color Grading Look-Ups for Camcorder
@@ -48,7 +48,7 @@ Quickly view the different type of exclusive GoPro LUTs that develops unique eff
 
 Every LUT is unique and gives amazing video effects on the screen. They are compatible with most video editors, and it is enough if you download them and apply them hassle-free.
 
-### 1\. [GoPro LUTs](https://shop.tilldaling.com/product/gopro-luts/)
+### 1\. GoPro LUTs
 
 Price: $4.99
 
@@ -58,7 +58,7 @@ It is an exclusive LUTs that brings you the best effects on the captured content
 
 GoPro LUTs
 
-### 2\. [GoPro Hero LUT](https://shop.tilldaling.com/product/gopro-luts/)
+### 2\. GoPro Hero LUT
 
 Price: $6
 
@@ -68,7 +68,7 @@ In this GoPro Hero LUTs, you can add special effects to the video track by worki
 
 GoPro Hero LUTs
 
-### 3\. [Action day](https://fixthephoto.com/gopro-luts)
+### 3\. Action day
 
 Price: Free
 
@@ -78,7 +78,7 @@ It is high time to add some flavors to the expressions you make during the click
 
 Action Day
 
-### 4\. [Shadow Tone](https://fixthephoto.com/gopro-luts)
+### 4\. Shadow Tone
 
 Price: Free
 
@@ -88,7 +88,7 @@ The shadow tone LUTs offers a unique touch to the existing content. It works on 
 
 Shadow Tone
 
-### 5\. [Aura](https://fixthephoto.com/gopro-luts)
+### 5\. Aura
 
 Price: Free
 
@@ -98,7 +98,7 @@ In this Aura, spiritual effects are visible on the photo and video objects. It g
 
 Aura
 
-### 6\. [Contrast](https://fixthephoto.com/gopro-luts)
+### 6\. Contrast
 
 Price: Free
 
@@ -108,7 +108,7 @@ Here the contrast attributes are adjusted in pace with the recorded content. The
 
 Contrast
 
-### 7\. [Soft Purple](https://fixthephoto.com/gopro-luts)
+### 7\. Soft Purple
 
 Price: Free
 
@@ -118,7 +118,7 @@ Special attention is given to the purple shades in the footage. The color gradin
 
 Contrast
 
-### 8\. [High Tide](https://fixthephoto.com/gopro-luts)
+### 8\. High Tide
 
 Price: Free
 
@@ -128,7 +128,7 @@ Even the blurred content in the image or video boosts the clarity using these vi
 
 High Tide
 
-### 9\. [Night Vision](https://fixthephoto.com/gopro-luts)
+### 9\. Night Vision
 
 Price: Free
 
@@ -138,7 +138,7 @@ Like the Night mode in your PCs that convert your photos or videos sensitive to 
 
 Night Vision
 
-### 10\. [Purple Tint](https://fixthephoto.com/gopro-luts)
+### 10\. Purple Tint
 
 Price: Free
 
@@ -148,7 +148,7 @@ In this LUT, milder shadow effects are implemented to bring out the best in the 
 
 Purple Tint
 
-### 11\. [Cold Shadows](https://fixthephoto.com/gopro-luts)
+### 11\. Cold Shadows
 
 Price: Free
 
@@ -158,7 +158,7 @@ The brightness of the background and the image elements is increased to optimal 
 
 Cold Shadows
 
-### 12\. [Cinematic](https://fixthephoto.com/gopro-luts)
+### 12\. Cinematic
 
 Price: Free
 
@@ -168,7 +168,7 @@ If you want to convert the content as film-like footage, then switch to this fil
 
 Cinematic
 
-### 13\. [Soft Beige](https://fixthephoto.com/gopro-luts)
+### 13\. Soft Beige
 
 Price: Free
 
@@ -178,7 +178,7 @@ It is a color grading LUTs, where the beige shades are applied soft and mild on 
 
 Soft Beige
 
-### 14\. [Tinted Shades](https://fixthephoto.com/gopro-luts)
+### 14\. Tinted Shades
 
 Price: Free
 
@@ -188,7 +188,7 @@ Here special care is given to the contrast values, and the video effects are ove
 
 Tinted Shades
 
-### 15\. [Retro Matte](https://fixthephoto.com/gopro-luts)
+### 15\. Retro Matte
 
 Price: Free
 
@@ -244,3 +244,27 @@ Use the above discussed GoPro LUTs to enhance the overall look. Connect with the
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-learn-to-edit-the-avalanche-reducing-clutter-in-your-tiktok-drafters/"><u>2024 Approved  Learn to Edit the Avalanche  Reducing Clutter in Your TikTok Drafters</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/professional-photogridding-services-to-polish-your-art-for-2024/"><u>Professional Photogridding Services to Polish Your Art for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimizing-your-podcasts-rss-feed-performance-and-structure-for-2024/"><u>Optimizing Your Podcast's RSS Feed Performance and Structure for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-android-a-step-by-step-approach-to-sound-customization/"><u>[Updated] Navigating Android  A Step-by-Step Approach to Sound Customization</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premiere-pros-finest-10-text-plans/"><u>In 2024, Premiere Pro's Finest 10 Text Plans</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-macs-high-resolution-vision-the-ultimate-10-screen-companions/"><u>In 2024, Mac's High-Resolution Vision  The Ultimate #10 Screen Companions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-technology-tools-for-accurate-and-efficient-market-analysis/"><u>2024 Approved  Leveraging Technology Tools for Accurate and Efficient Market Analysis</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mobile-cinema-apples-no1-8-pack-free-and-paid-film-app-guide/"><u>In 2024, Mobile Cinema  Apple's No.1, 8-Pack Free & Paid Film App Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-through-modern-cameras-complex-shooting-modes/"><u>[New] Navigating Through Modern Camera's Complex Shooting Modes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-through-telegram-web-easily-and-quickly-for-2024/"><u>Navigating Through Telegram Web Easily and Quickly for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/subtle-audio-degradation-features-in-adobe-rush-new-version-2023/"><u>Subtle Audio Degradation Features in Adobe Rush (New Version, 2023)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-static-to-dynamic-making-text-pop-on-instagram-stories/"><u>In 2024, From Static to Dynamic  Making Text Pop on Instagram Stories</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-direct-video-tweet-release-avoid-the-rt/"><u>[Updated] Direct Video Tweet Release  Avoid the 'RT'</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-craftsmanship-incorporating-descriptive-texts/"><u>In 2024, Instagram Craftsmanship  Incorporating Descriptive Texts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-leading-the-charge-top-15-influencers-for-your-drive/"><u>In 2024, Leading the Charge  Top 15 Influencers for Your Drive</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-serene-gaming-selection-quietest-phone-apps/"><u>[Updated] 2024 Approved  Serene Gaming Selection  Quietest Phone Apps</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-5-innovative-voice-altering-apps-for-zoom-sessions-that-add-humor-to-discussions-for-2024/"><u>New 5 Innovative Voice Altering Apps for Zoom Sessions That Add Humor to Discussions for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-allocate-more-ram-to-minecraft/"><u>[Updated] How to Allocate More Ram to Minecraft</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-dynamic-duo-display-youtubes-way-of-creative-splitting/"><u>2024 Approved  Dynamic Duo Display  YouTube’s Way of Creative Splitting</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Huawei Nova Y91? | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Low-Budget Camera Buys Roundup\""
-date: 2024-05-31T06:57:19.104Z
-updated: 2024-06-01T06:57:19.104Z
+date: 2024-07-07T22:02:11.147Z
+updated: 2024-07-08T22:02:11.147Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Low-Budget Camera Buys Roundup\""
 excerpt: "\"This Article Describes [Updated] Low-Budget Camera Buys Roundup\""
 keywords: "\"Budget Cam Buy Guide,Affordable Camera Picks,Cheap Photography Equipment,Low Cost Cameras List,Value-Oriented Camera Deals,Economical Camera Options,Discounted Cam Shopping Roundup\""
-thumbnail: https://www.lifewire.com/thmb/2Nx-EdeC7xRrRbSsAaq7lIuWtrw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/What-Is-Internet-Trolling-3485891-788ddb5e8e244259a8619c7cc2ebd600.png
+thumbnail: https://thmb.techidaily.com/a6232b975632e43de71e5ab6217eebf552fc531569d56d79c1b10e2acedb4321.png
 ---
 
 ## Low-Budget Camera Buys Roundup
@@ -39,7 +39,7 @@ thumbnail: https://www.lifewire.com/thmb/2Nx-EdeC7xRrRbSsAaq7lIuWtrw=/400x300/fi
 
 ## Top 10 Cheap/Budget Friendly Action Cameras
 
-#### 1\. [ Xiaomi Yi Action Camera ($79.99): ](<https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a>
+#### 1\. [Xiaomi Yi Action Camera ($79.99):](<https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a>
 
 )
 
@@ -48,7 +48,7 @@ thumbnail: https://www.lifewire.com/thmb/2Nx-EdeC7xRrRbSsAaq7lIuWtrw=/400x300/fi
 
  It can assist users to capture high quality videos at 1080p with 60fps and at 720p with 120fps. The device is designed with ultra wide type 155 degree angle lenses so that it can provide better coverage. It is enabled with Wi-Fi and Bluetooth connectivity so that some remote operations can be performed with smart phones applications too. LED Back-lit button for recording is one more advantage of this camera.
 
-#### 2\. [Kodak WP1 Sport Camera ($99.95)](https://www.amazon.com/gp/product/B00M8C82GW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00M8C82GW&linkId=781e29414d2691f2aab70d85d0ea0859)
+#### 2\. Kodak WP1 Sport Camera ($99.95)
 
 [Cheap Action Cameras - Kodak WP1 SPORT Cameras](https://images.wondershare.com/filmora/article-images/pixpro-wp1.jpg) ](https://www.amazon.com/gp/product/B00M8C82GW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00M8C82GW&linkId=781e29414d2691f2aab70d85d0ea0859)
 
@@ -56,7 +56,7 @@ thumbnail: https://www.lifewire.com/thmb/2Nx-EdeC7xRrRbSsAaq7lIuWtrw=/400x300/fi
 
  Kodak offers a waterproof, rugged, dustproof and shock proof companion for athletes and adventure lovers. It can be easily used in rough weather conditions as well as under water. You will be able to capture still images with 12MP clarity whereas for videos it offers 720p HD quality. 2X digital zoom is one more advanced feature and the convenient advanced batteries assist users to enjoy long hour recording with ease.
 
-#### 3\. [ Polaroid XS 100 ($99.99)](<https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f>
+#### 3\. [Polaroid XS 100 ($99.99)](<https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f>
 
 )
 
@@ -129,7 +129,7 @@ Follow @Max Wales
 
 ## Top 10 Cheap/Budget Friendly Action Cameras
 
-#### 1\. [ Xiaomi Yi Action Camera ($79.99): ](<https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a>
+#### 1\. [Xiaomi Yi Action Camera ($79.99):](<https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a>
 
 )
 
@@ -138,7 +138,7 @@ Follow @Max Wales
 
  It can assist users to capture high quality videos at 1080p with 60fps and at 720p with 120fps. The device is designed with ultra wide type 155 degree angle lenses so that it can provide better coverage. It is enabled with Wi-Fi and Bluetooth connectivity so that some remote operations can be performed with smart phones applications too. LED Back-lit button for recording is one more advantage of this camera.
 
-#### 2\. [Kodak WP1 Sport Camera ($99.95)](https://www.amazon.com/gp/product/B00M8C82GW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00M8C82GW&linkId=781e29414d2691f2aab70d85d0ea0859)
+#### 2\. Kodak WP1 Sport Camera ($99.95)
 
 [Cheap Action Cameras - Kodak WP1 SPORT Cameras](https://images.wondershare.com/filmora/article-images/pixpro-wp1.jpg) ](https://www.amazon.com/gp/product/B00M8C82GW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00M8C82GW&linkId=781e29414d2691f2aab70d85d0ea0859)
 
@@ -146,7 +146,7 @@ Follow @Max Wales
 
  Kodak offers a waterproof, rugged, dustproof and shock proof companion for athletes and adventure lovers. It can be easily used in rough weather conditions as well as under water. You will be able to capture still images with 12MP clarity whereas for videos it offers 720p HD quality. 2X digital zoom is one more advanced feature and the convenient advanced batteries assist users to enjoy long hour recording with ease.
 
-#### 3\. [ Polaroid XS 100 ($99.99)](<https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f>
+#### 3\. [Polaroid XS 100 ($99.99)](<https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f>
 
 )
 
@@ -219,7 +219,7 @@ Follow @Max Wales
 
 ## Top 10 Cheap/Budget Friendly Action Cameras
 
-#### 1\. [ Xiaomi Yi Action Camera ($79.99): ](<https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a>
+#### 1\. [Xiaomi Yi Action Camera ($79.99):](<https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a>
 
 )
 
@@ -228,7 +228,7 @@ Follow @Max Wales
 
  It can assist users to capture high quality videos at 1080p with 60fps and at 720p with 120fps. The device is designed with ultra wide type 155 degree angle lenses so that it can provide better coverage. It is enabled with Wi-Fi and Bluetooth connectivity so that some remote operations can be performed with smart phones applications too. LED Back-lit button for recording is one more advantage of this camera.
 
-#### 2\. [Kodak WP1 Sport Camera ($99.95)](https://www.amazon.com/gp/product/B00M8C82GW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00M8C82GW&linkId=781e29414d2691f2aab70d85d0ea0859)
+#### 2\. Kodak WP1 Sport Camera ($99.95)
 
 [Cheap Action Cameras - Kodak WP1 SPORT Cameras](https://images.wondershare.com/filmora/article-images/pixpro-wp1.jpg) ](https://www.amazon.com/gp/product/B00M8C82GW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00M8C82GW&linkId=781e29414d2691f2aab70d85d0ea0859)
 
@@ -236,7 +236,7 @@ Follow @Max Wales
 
  Kodak offers a waterproof, rugged, dustproof and shock proof companion for athletes and adventure lovers. It can be easily used in rough weather conditions as well as under water. You will be able to capture still images with 12MP clarity whereas for videos it offers 720p HD quality. 2X digital zoom is one more advanced feature and the convenient advanced batteries assist users to enjoy long hour recording with ease.
 
-#### 3\. [ Polaroid XS 100 ($99.99)](<https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f>
+#### 3\. [Polaroid XS 100 ($99.99)](<https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f>
 
 )
 
@@ -309,7 +309,7 @@ Follow @Max Wales
 
 ## Top 10 Cheap/Budget Friendly Action Cameras
 
-#### 1\. [ Xiaomi Yi Action Camera ($79.99): ](<https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a>
+#### 1\. [Xiaomi Yi Action Camera ($79.99):](<https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a>
 
 )
 
@@ -318,7 +318,7 @@ Follow @Max Wales
 
  It can assist users to capture high quality videos at 1080p with 60fps and at 720p with 120fps. The device is designed with ultra wide type 155 degree angle lenses so that it can provide better coverage. It is enabled with Wi-Fi and Bluetooth connectivity so that some remote operations can be performed with smart phones applications too. LED Back-lit button for recording is one more advantage of this camera.
 
-#### 2\. [Kodak WP1 Sport Camera ($99.95)](https://www.amazon.com/gp/product/B00M8C82GW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00M8C82GW&linkId=781e29414d2691f2aab70d85d0ea0859)
+#### 2\. Kodak WP1 Sport Camera ($99.95)
 
 [Cheap Action Cameras - Kodak WP1 SPORT Cameras](https://images.wondershare.com/filmora/article-images/pixpro-wp1.jpg) ](https://www.amazon.com/gp/product/B00M8C82GW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00M8C82GW&linkId=781e29414d2691f2aab70d85d0ea0859)
 
@@ -326,7 +326,7 @@ Follow @Max Wales
 
  Kodak offers a waterproof, rugged, dustproof and shock proof companion for athletes and adventure lovers. It can be easily used in rough weather conditions as well as under water. You will be able to capture still images with 12MP clarity whereas for videos it offers 720p HD quality. 2X digital zoom is one more advanced feature and the convenient advanced batteries assist users to enjoy long hour recording with ease.
 
-#### 3\. [ Polaroid XS 100 ($99.99)](<https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f>
+#### 3\. [Polaroid XS 100 ($99.99)](<https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f>
 
 )
 
@@ -404,3 +404,38 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-process-youtube-vids-converted-to-mp3/"><u>In 2024, Step-by-Step Process  YouTube Vids, Converted to MP3</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-yuneec-typhoon-q500-4k-review/"><u>2024 Approved  Yuneec Typhoon Q500 4K Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximizing-visual-impact-with-extra-camera-work-for-2024/"><u>Maximizing Visual Impact with Extra Camera Work for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-guide-to-mastering-kinemaster-plus-10-best-video-editors-online/"><u>In 2024, Step-by-Step Guide to Mastering KineMaster + 10 Best Video Editors Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-stay-incognito-how-to-stream-unnoticed-on-instagram/"><u>2024 Approved  Stay Incognito  How to Stream Unnoticed on Instagram</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-transitions-fading-techniques-in-premiere-pro/"><u>[New] Mastering Transitions  Fading Techniques in Premiere Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-and-easy-tips-for-creating-insta-groups-for-2024/"><u>Quick & Easy Tips for Creating Insta Groups for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-visualization-software-for-podcasters-2023/"><u>[New] Leading Visualization Software for Podcasters 2023</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/what-is-the-best-frame-rate-for-slow-motion-video-for-2024/"><u>What Is The Best Frame Rate For Slow Motion Video for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-ipados-masterpieces-best-pencil-programs/"><u>[New] IPadOS Masterpieces  Best Pencil Programs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-seamless-soundscape-design-with-expert-crossfading-techniques-audacity/"><u>[Updated] Seamless Soundscape Design with Expert Crossfading Techniques (Audacity)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-precise-voice-adjustments-for-pubg-success/"><u>[Updated] Precise Voice Adjustments for PUBG Success</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-media-on-mobile-best-phones-of-the-year/"><u>2024 Approved  Mastering Media on Mobile  Best Phones of the Year</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-kickstart-your-film-journey-essential-camera-shot-knowledge/"><u>2024 Approved  Kickstart Your Film Journey  Essential Camera Shot Knowledge</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-preserving-pixels-in-the-sky-selecting-best-photo-cloud-storages/"><u>[New] Preserving Pixels in the Sky  Selecting Best Photo Cloud Storages</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-scaling-your-channel-a-guide-to-increased-viewership-and-followers/"><u>In 2024, Scaling Your Channel  A Guide to Increased Viewership and Followers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sonic-initiations-best-10-music-picks-to-start-your-podcasts/"><u>2024 Approved  Sonic Initiations  Best 10 Music Picks to Start Your Podcasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mac-users-check-your-hardware-for-big-sur/"><u>2024 Approved  Mac Users, Check Your Hardware for Big Sur</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-speed-shots-and-stills-quicktime-techniques-for-samsung-users/"><u>[New] Speed Shots & Stills  Quicktime Techniques for Samsung Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-advanced-techniques-applying-luts-for-stunning-photos-for-2024/"><u>Mastering Advanced Techniques  Applying LUTs for Stunning Photos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-skyrocket-with-telegram-proven-marketing-techniques-unveiled/"><u>[New] Skyrocket with Telegram  Proven Marketing Techniques Unveiled</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-mukbang-culture-in-live-video-formats/"><u>[Updated] 2024 Approved  Exploring Mukbang Culture in Live Video Formats</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-mix-fold-3-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Mix Fold 3 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-cheap-pc-screenshot-and-recording-software-guide/"><u>[Updated] Cheap PC Screenshot & Recording Software Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unveiling-the-power-of-screen-capture-showmores-review-breakdown-for-2024/"><u>[New] Unveiling the Power of Screen Capture  ShowMore's Review Breakdown for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-list-of-free-online-face-creators/"><u>Updated In 2024, The Ultimate List of Free Online Face Creators</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-logging-live-video-conversations/"><u>[Updated] 2024 Approved  Logging Live Video Conversations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pushing-the-envelope-in-color-correction-top-10-luts-for-lightroom-experts/"><u>Pushing the Envelope in Color Correction  Top 10 LUTs For Lightroom Experts</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-15-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 15 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/smileshop-memelore-hub/"><u>SmileShop  Memelore Hub</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discovering-the-basics-of-streaming-via-discord/"><u>[New] Discovering the Basics of Streaming via Discord</u></a></li>
+</ul></div>

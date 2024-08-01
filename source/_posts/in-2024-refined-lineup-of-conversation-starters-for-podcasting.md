@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Refined Lineup of Conversation Starters for Podcasting"
-date: 2024-05-31T06:57:47.222Z
-updated: 2024-06-01T06:57:47.222Z
+date: 2024-07-31T19:18:36.747Z
+updated: 2024-08-01T19:18:36.747Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Refined Lineup of Conversation Starters for Podcasting"
 excerpt: "This Article Describes In 2024, Refined Lineup of Conversation Starters for Podcasting"
 keywords: "Podcast Chat Initiators,Speaking Starter Picks,Engaging Dialogue Boosters,Topic Spark Generators,Conversation Kickstarters,Podcasting Icebreakers,Talk Ignition Ideas"
-thumbnail: https://www.lifewire.com/thmb/9RF2k5zJ8slFGgduRb1qj6IFxoo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-77744394-e5f79596e54a4ba6a914eed31be7efc4.jpg
+thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg
 ---
 
 ## Refined Lineup of Conversation Starters for Podcasting
@@ -34,6 +34,9 @@ The best way is to divide your questions into different categories.
 
 Icebreaker questions are used to begin an interview or meeting. These are personal questions to learn more about one another quickly. For example, the prompt might be "share your name, role, and what you usually do during the weekend." These questions aim to have fun, create points of connection between guests, and build confidence in speaking in front of the group.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![icebreaker questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-2.jpg)
 
 Here are some icebreaker questions that you can ask to start an interview.
@@ -49,6 +52,9 @@ Here are some icebreaker questions that you can ask to start an interview.
 9. What is one of your greatest challenges in life?
 10. How did you meet your spouse or partner?
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Leading Question
 
 A leading question suggests a particular answer to the question that the questioner desires. These questions mostly have a yes or no answer. However, if you extract your question from the answer just given by the guest of the podcast, it is also a leading question.
@@ -73,10 +79,16 @@ Some leading questions that you can ask are discussed below.
 14. Can you give an example?
 15. What do you suggest to our audience who are facing the same problems?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### Comparison Questions
 
 In an interview, a comparison question is one where you ask a person what he prefers between these two things. This type of question can also advance the discussion of the topic. Besides, you can get a deeper understanding of what guests think and feel about this podcast episode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![comparison questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-4.jpg)
 
 You can ask questions from the comparison questions given below.
@@ -116,6 +128,9 @@ When we move on to this type of question, typically, it's time to end the show. 
 
 After discussing the 50 questions you can ask in a podcast, let's see what a good podcast interview question is. A good interview question is comfortable for the guest and engaging for the listeners, so the guest can answer the question wholeheartedly. Therefore, you need to avoid impolite and aggressive asks during podcasting. Besides, try to ask such questions that your guest is not frequently asked. It may reveal new things about him and make your podcast stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Tips on How To Come Up and Ask Better Questions
 
 Asking better questions on a podcast requires preparation beforehand. Here are some tips for you to come up with better questions:
@@ -133,10 +148,16 @@ You can get the best information from the person you are interviewing if you do 
 
 As an interviewer, "why" is your most powerful tool. Guests usually provide surface-level information or opinions. The follow-up question of "why" makes them go further and give deeper details. It will also help your audience understand correctly what the guest wants to say.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What happened next?
 
 If your guest is overwhelmed by the emotions and has stopped before completing his answer, help him achieve it by asking, "What Happened Next?" Use a softer tone while asking this question.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What were your feelings when this happened?
 
 Sometimes you want the guest to answer your questions with feelings and emotions. Making your guest answer your questions while drenched in emotions can take your podcast to the next level. Questions like "What were your feelings when this happened?" can take the guest back to the past and make him answer your question with full emotions.
@@ -168,10 +189,16 @@ Avoiding asking wrong questions is as important as asking good questions. Some q
 * Similarly, avoid asking questions to which you can predict the answer will be a "no."
 * Avoid questions that might offend your guest.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5\. Should I Send an Advance Interview Questions Podcast?
 
 Yes, you can send interview questions to guests. Therefore, they get time to prepare interesting responses. Also, they may think about their answers or type out lengthy responses. Either way, they'll feel more comfortable and help you make better content.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## Take Your Content to the Next Level and Gets Shared
 
 A podcast is only as good as the questions being asked. By carefully choosing which questions to ask and which to avoid, you can take your content to the next level. It also enhances the interest of listeners.
@@ -206,3 +233,47 @@ Consider the following when picking which of the above questions to use on your 
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/eciphering-youtubes-monetary-mechanisms-for-2024/"><u>[New] Deciphering YouTube's Monetary Mechanisms for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-gain-recovery-of-personal-snapshots/"><u>[New] In 2024, Gain Recovery of Personal Snapshots</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-unlocking-the-mystery-of-facebooks-hidden-activities/"><u>[New] In 2024, Unlocking the Mystery of Facebook's Hidden Activities</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-photo-retouching/"><u>[New] Mastering the Art of Photo Retouching</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-podcast-name-creation-and-50plus-dynamic-example-titles/"><u>[New] Mastering the Art of Podcast Name Creation & 50+ Dynamic Example Titles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximize-virtual-realty-setting-up-room-and-tech/"><u>[New] Maximize Virtual Realty  Setting Up Room and Tech</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revealing-the-techniques-for-perfect-sound-transitions/"><u>[New] Revealing the Techniques for Perfect Sound Transitions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-instagram-featured-posts-with-video/"><u>[Updated] In 2024, Instagram Featured Posts with Video</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-laptop-beautification-leading-website-walls/"><u>[Updated] Laptop Beautification  Leading Website Walls</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-magnify-memories-unaltered-resolution/"><u>[Updated] Magnify Memories  Unaltered Resolution</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfect-pair-of-timers-ios-and-android-wedding-clock-essentials/"><u>[Updated] Perfect Pair of Timers  IOS & Android Wedding Clock Essentials</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premier-stream-gear-with-superior-360-degree-cameras/"><u>[Updated] Premier Stream Gear with Superior 360-Degree Cameras</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-smart-shoppers-guide-to-top-gaming-mice-and-keyboards/"><u>[Updated] Smart Shoppers' Guide to Top Gaming Mice & Keyboards</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-starting-vlogging-right-the-top-equipmentsoftware/"><u>[Updated] Starting Vlogging Right  The Top Equipment/Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-key-pages-to-acquire-text-styling-assets/"><u>2024 Approved  Key Pages to Acquire Text Styling Assets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mac-users-check-your-hardware-for-big-sur/"><u>2024 Approved  Mac Users, Check Your Hardware for Big Sur</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-masterclass-in-minimal-photoshop-alterations/"><u>2024 Approved  Masterclass in Minimal Photoshop Alterations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-professional-film-techniques-for-drones/"><u>2024 Approved  Professional Film Techniques for Drones</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-urban-uprising-video-game-list-like-gta-v/"><u>2024 Approved  Urban Uprising  Video Game List Like GTA V</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-motorola-defy-2-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Motorola Defy 2? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-20-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 20 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-samsung-galaxy-s23-tactical-edition-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Samsung Galaxy S23 Tactical Edition Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-cinematic-converter-turn-humble-footage-into-breathtaking-films/"><u>In 2024, Cinematic Converter Turn Humble Footage Into Breathtaking Films</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>In 2024, How to Bypass FRP on Motorola Moto G Stylus 5G (2023)?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-8-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 8</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-s17tfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo S17tFRP Lock</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-editing-in-garageband/"><u>In 2024, Mastering the Art of Editing in GarageBand</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-metaverse-top-picks-friends-first-games/"><u>In 2024, Metaverse Top Picks  Friends-First Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premiere-pro-quick-fade-magic-1m/"><u>In 2024, Premiere Pro Quick-Fade Magic (1M)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reducing-decibels-gradually-in-fl/"><u>In 2024, Reducing Decibels Gradually in FL</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-gt-neo-5-se-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/leading-microphones-selection-for-uncompromised-4k-clarity/"><u>Leading Microphones Selection for Uncompromised 4K Clarity</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-iphone-xs-identity-verification-face-id-repair-for-2024/"><u>Mastering iPhone X's Identity Verification  Face ID Repair for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/minimal-effort-maximum-recovery-for-deleted-posts-for-2024/"><u>Minimal Effort, Maximum Recovery for Deleted Posts for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/on-the-go-motion-dampener-for-videography-for-2024/"><u>On-the-Go Motion Dampener for Videography for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/rated-recs-top-pages-for-obtaining-snapalert-tunes-for-2024/"><u>Rated Recs  Top Pages for Obtaining SnapAlert Tunes for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sharpen-your-viewing-experience-mastering-camera-focus-online-for-2024/"><u>Sharpen Your Viewing Experience  Mastering Camera Focus Online for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sonic-scenes-from-still-shots-for-2024/"><u>Sonic Scenes From Still Shots for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-motorola-razr-40-ultra-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Motorola Razr 40 Ultra for Streaming | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-xiaomi-redmi-a2-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Xiaomi Redmi A2 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+</ul></div>

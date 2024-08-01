@@ -1,7 +1,7 @@
 ---
 title: "[New] Premium Data Recorder Compatible with Sony A7S"
-date: 2024-06-11T00:45:38.891Z
-updated: 2024-06-12T00:45:38.891Z
+date: 2024-07-31T19:34:00.976Z
+updated: 2024-08-01T19:34:00.976Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 
 # Best Memory Card for Sony A7S II
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -67,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -105,6 +115,9 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -121,3 +134,40 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-learning-luminaries-leading-ed-tutorials-online/"><u>[New] 2024 Approved  Learning Luminaries  Leading Ed Tutorials Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-key-principles-to-write-captivating-vlog-dialogues/"><u>[New] Key Principles to Write Captivating Vlog Dialogues</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-kickstart-creative-video-editing-with-xp-edition/"><u>[New] Kickstart Creative Video Editing with Xp Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterclass-in-high-speed-recording/"><u>[New] Masterclass in High-Speed Recording</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-obs-mastery-5-edits-that-will-elevate-your-work/"><u>[New] OBS Mastery  5 Edits That Will Elevate Your Work</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-discreetly-discovering-instagram-stories-online-pc-android-iphone-methods/"><u>[Updated] Discreetly Discovering Instagram Stories Online - PC, Android, iPhone Methods</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-viewer-interest-with-thumbnails-for-2024/"><u>[Updated] Enhancing Viewer Interest with Thumbnails for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-convenient-approach-to-downloading-the-funniest-tweets-gifs-on-pc/"><u>[Updated] In 2024, Convenient Approach to Downloading the Funniest Tweets (GIFs) on PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-inspire-your-fitness-journey-with-20-best-exercising-tracks/"><u>[Updated] Inspire Your Fitness Journey with 20 Best Exercising Tracks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-podcasting-success-a-complete-seo-guide-for-peak-discoverability/"><u>[Updated] Podcasting Success  A Complete SEO Guide for Peak Discoverability</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionize-streaming-top-converters-transform-4k-content/"><u>[Updated] Revolutionize Streaming  Top Converters Transform 4K Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-safest-drone-selections-5-great-options-for-young-ones/"><u>[Updated] Safest Drone Selections  5 Great Options for Young Ones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smooth-sailing-in-filming-top-phones-offering-premium-image-stabilization/"><u>[Updated] Smooth Sailing in Filming  Top Phones Offering Premium Image Stabilization</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-principles-of-crafting-alluring-vlog-storylines/"><u>2024 Approved  Principles of Crafting Alluring Vlog Storylines</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prior-upgrades-key-points-revisited/"><u>2024 Approved  Prior Upgrades? Key Points Revisited</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-spark-the-flame-top-10-motivational-films-for-you/"><u>2024 Approved  Spark the Flame  Top 10 Motivational Films for You</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/perts-blueprint-for-calculating-your-videos-impact-and-income/"><u>An Expert's Blueprint for Calculating Your Video's Impact & Income</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-15-pro-max-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 15 Pro Max to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 8 | Stellar</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-7-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone 7 in the Best Ways</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-a1-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-motorola-moto-g-stylus-2023-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Motorola Moto G Stylus (2023) Without PUK Codes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-introduction-to-plot-and-character-dynamics/"><u>In 2024, Introduction to Plot and Character Dynamics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-laugh-out-loud-on-your-iphone/"><u>In 2024, Laugh Out Loud on Your iPhone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-non-conventional-windows-tools-for-filmmaking/"><u>In 2024, Non-Conventional Windows Tools for Filmmaking</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-passport-selfie-maker-top-quality-instant-access-for-desktoponline-use/"><u>In 2024, Passport Selfie Maker – Top Quality, Instant Access for Desktop/Online Use</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-photographers-choice-top-10-watermarks-software/"><u>In 2024, Photographer's Choice  Top 10 Watermarks Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pioneering-success-a-guide-to-prolific-youtubers-growth/"><u>In 2024, Pioneering Success  A Guide to Prolific Youtubers' Growth</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-snapseed-advanced-usage-insights/"><u>In 2024, Snapseed Advanced Usage Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-process-for-formulating-perfect-podcast-names/"><u>In 2024, Step-by-Step Process for Formulating Perfect Podcast Names</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/layering-youtube-songs-onto-video-plays-for-2024/"><u>Layering YouTube Songs Onto Video Plays for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-cloud-costs-in-depth-price-analysis-and-best-options-for-2024/"><u>Mastering Cloud Costs  In-Depth Price Analysis & Best Options for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pro-tips-for-capturing-360-degree-fisheye-photos-for-2024/"><u>Pro Tips for Capturing 360-Degree Fisheye Photos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/strategic-measures-efficiently-accessing-premium-banner-imagery-for-2024/"><u>Strategic Measures  Efficiently Accessing Premium Banner Imagery for 2024</u></a></li>
+</ul></div>

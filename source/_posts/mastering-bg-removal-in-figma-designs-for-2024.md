@@ -1,7 +1,7 @@
 ---
 title: "Mastering BG Removal in Figma Designs for 2024"
-date: 2024-05-31T06:55:15.540Z
-updated: 2024-06-01T06:55:15.540Z
+date: 2024-07-31T16:41:03.469Z
+updated: 2024-08-01T16:41:03.469Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Mastering BG Removal in Figma Designs for 2024"
 excerpt: "This Article Describes Mastering BG Removal in Figma Designs for 2024"
 keywords: "2024 Pro Cams,Premier Photography Gear,Top Cameras 2024,Prof Camera Choices,Elite Camera Tech,Best Cameras 2024,Premiere Photo Tools"
-thumbnail: https://www.lifewire.com/thmb/TmsJcCDSLMPoLojfhSM-bFiZpq4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1091848586-b2b3894011ae4ffe98697d9b361c2483.jpg
+thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17d7a19ae0d763067c374fc29.jpg
 ---
 
 ## Mastering BG Removal in Figma Designs
@@ -52,6 +52,9 @@ This function lets you use brushstrokes to remove watermarks from your target pi
 
 With its Image Englargement feature, you can expand the size of your picture up to 400% without losing the quality.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to use PixCut to remove the background in Figma
 
 Here's how you can get the PixCut plugin in Figma and use it to remove the background in just three simple steps:
@@ -72,6 +75,9 @@ Step3 Paste the Appkey in the pop-up window in Figma and click **"Save."** Now, 
 
 The program will start running the plugin, and the background of your image will disappear. Click the **"Export"** option and save your file on your system.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Other Options To Remove Image's Background In Figma
 
 Apart from using PixCut Plugin in Figma, there are some alternatives that you can use to remove the image's background in Figma:
@@ -83,6 +89,9 @@ Follow these tips to remove the background of images with transparent or solid c
 * When saving your images from programs like Photoshop, make sure to save them with transparent background. This way, when you import it to Figma, the BG will be removed automatically.
 * If your image has a solid background, import it to Figma and use the **"Edit Color"** tool to change the BG to transparent.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### (2) 3 Other Figma Plugins
 
 You can use the following **Figma plugins to remove the image background**:
@@ -103,6 +112,9 @@ Step2 **Right-click** on the image in the editor and click **"Plugins."**
 
 Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
 ### (3) Using Online Removers
@@ -111,10 +123,16 @@ Another alternative is to use any tool that **removes the image background onlin
 
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we've explored the step-by-step process of how to remove background in Figma using the PixCut plugin. We've also explained the reasons why you should use this tool.
@@ -133,6 +151,9 @@ Step2 **Right-click** on the image in the editor and click **"Plugins."**
 
 Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
 ### (3) Using Online Removers
@@ -145,6 +166,9 @@ To use the Remove BG tool, visit its website, drop your image file, or click the
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we've explored the step-by-step process of how to remove background in Figma using the PixCut plugin. We've also explained the reasons why you should use this tool.
@@ -175,3 +199,50 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/-comprehensive-look-at-youtuber-snippets-for-2024/"><u>[New] A Comprehensive Look at Youtuber Snippets for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-analyzing-livestream-giants-twitch-vs-youtube-breakdown/"><u>[New] Analyzing Livestream Giants  Twitch Vs YouTube Breakdown</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-first-steps-on-social-landscape-creating-a-facebook-account-for-2024/"><u>[New] First Steps on Social Landscape  Creating a Facebook Account for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-amplify-facebook-stories-with-music-elements/"><u>[New] How to Amplify Facebook Stories with Music Elements</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-of-radio-drama-crafting/"><u>[New] Pinnacle of Radio Drama Crafting</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reflex-toolbox-bundle/"><u>[New] Reflex Toolbox Bundle</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-optimized-processes-for-effective-live-streaming-on-computer/"><u>[Updated] 2024 Approved  Optimized Processes for Effective Live Streaming on Computer</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-saving-your-focus-a-guide-to-quieting-naysayers-on-google-video-calls/"><u>[Updated] 2024 Approved  Saving Your Focus  A Guide to Quieting Naysayers on Google Video Calls</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-free-video-cutting-apps-your-go-to-list-for-2024/"><u>[Updated] Best Free Video Cutting Apps  Your Go-To List for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-luminosity-boost-for-low-light-mobile-video/"><u>[Updated] Luminosity Boost for Low-Light Mobile Video</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-overloaded-tiktok-saves-a-guide-to-editing-and-streamlining/"><u>[Updated] Mastering Overloaded TikTok Saves  A Guide to Editing and Streamlining</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mobile-magic-transform-your-snaps-at-zero-cost/"><u>[Updated] Mobile Magic  Transform Your Snaps at Zero Cost</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-self-representation-on-facebook-live-calls/"><u>[Updated] Navigating Self-Representation on Facebook Live Calls</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pristineai-designs-crafting-visuals-with-ai/"><u>[Updated] PristineAI Designs  Crafting Visuals with AI</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pro-window-11-users-guide-to-photovideo-imports/"><u>[Updated] Pro Window 11 Users' Guide to Photo/Video Imports</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-quick-escapes-dodging-edgenuity-online-course-videos-easily/"><u>[Updated] Quick Escapes  Dodging Edgenuity Online Course Videos Easily</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-spatial-realities-compared-the-meta-and-omni-experience/"><u>[Updated] Spatial Realities Compared  The Meta and Omni Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-spectra-adjustment-suite/"><u>[Updated] Spectra Adjustment Suite</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-expert-selection-ranking-the-finest-6-head-mounted-gopros/"><u>2024 Approved  Expert Selection  Ranking the Finest 6 Head-Mounted GOPROs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-vs-yi-updated-battle-for-ultimate-action-recording/"><u>2024 Approved  GoPro Vs. YI  Updated Battle for Ultimate Action Recording</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-instant-insight-into-once-lost-reddit-topics/"><u>2024 Approved  Instant Insight Into Once Lost Reddit Topics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-limitless-text-in-format-best-free-psd/"><u>2024 Approved  Limitless Text in Format  Best FREE PSD</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-luts-utilization-in-movie-color-grading/"><u>2024 Approved  Luts Utilization in Movie Color Grading</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-metaverse-laughs-crafting-funny-virtual-memes/"><u>2024 Approved  Metaverse Laughs  Crafting Funny Virtual Memes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-motivational-speaker-appraisal-edition-8/"><u>2024 Approved  Motivational Speaker Appraisal, Edition 8</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-podcast-titling-evolution-10-ai-generators-to-watch/"><u>2024 Approved  Podcast Titling Evolution  10 AI Generators to Watch</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-predicting-film-production-costs-music-video/"><u>2024 Approved  Predicting Film Production Costs  Music Video</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-preeminent-online-spaces-enhancing-youtube-traffic/"><u>2024 Approved  Preeminent Online Spaces Enhancing YouTube Traffic</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-photo-vault-services/"><u>2024 Approved  Premium Photo Vault Services</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unveiling-the-top-watermarking-tools-in-photography/"><u>2024 Approved  Unveiling the Top Watermarking Tools in Photography</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/expert-advice-the-most-effective-ways-to-capture-your-virtual-sessions/"><u>Expert Advice  The Most Effective Ways to Capture Your Virtual Sessions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 Pro 3 Ways To Unlock</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-from-shadowy-fringe-to-front-row-action-gaining-popularity-in-tiktok-unboxings/"><u>In 2024, From Shadowy Fringe to Front Row Action  Gaining Popularity in TikTok Unboxings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-max-360-vs-hero-11-gopro-cameras-face-off/"><u>In 2024, Max 360 Vs. Hero 11 - GoPro Cameras Face Off</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pinnacle-devices-best-cars-surveillance-tech/"><u>In 2024, Pinnacle Devices  Best Cars Surveillance Tech</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-7-multimedia-players-for-macos/"><u>In 2024, Prime 7 Multimedia Players for MacOS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reactivating-windows-photo-viewer-in-windows-10-methods-unveiled/"><u>In 2024, Reactivating Windows Photo Viewer in Windows 10 - Methods Unveiled</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-stable-iphone-cinematography-three-tactics-inside/"><u>In 2024, Stable iPhone Cinematography  Three Tactics Inside</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-stay-ahead-of-the-curve-engaging-activities-while-listening-to-talk-shows/"><u>In 2024, Stay Ahead of The Curve  Engaging Activities While Listening to Talk Shows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/opening-lines-breaking-the-ice-in-video-comments-for-2024/"><u>Opening Lines  Breaking the Ice in Video Comments for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/oral-notes-in-the-digital-era-an-indispentiary-guide-for-2024/"><u>Oral Notes in the Digital Era  An Indispentiary Guide for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-persistent-monitor-blankouts/"><u>Resolving Persistent Monitor Blankouts</u></a></li>
+</ul></div>

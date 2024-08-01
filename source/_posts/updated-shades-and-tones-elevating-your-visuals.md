@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Shades and Tones  Elevating Your Visuals\""
-date: 2024-05-31T06:55:32.902Z
-updated: 2024-06-01T06:55:32.902Z
+date: 2024-07-31T16:59:12.050Z
+updated: 2024-08-01T16:59:12.050Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Shades and Tones: Elevating Your Visuals\""
 excerpt: "\"This Article Describes [Updated] Shades and Tones: Elevating Your Visuals\""
 keywords: "ShadeToneBoost,ColorVarietyElevate,AestheticVisualBoost,ToneEnhancementArt,ElevatedShadingEffects,VisualColorDepthIncrease,ImprovePictureQuality"
-thumbnail: https://www.lifewire.com/thmb/qFabeuNrKnn_FI6Hqqh21cbdVo8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/videogamesGettyImages-640114292-5a8217a76bf06900379ffac6.jpg
+thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a361d23570f41841fc2273feb3.jpg
 ---
 
 ## Shades and Tones: Elevating Your Visuals
@@ -22,6 +22,9 @@ Everyone in the video editing world is full of lively and beautiful colors — j
 
 ![color grading panel filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-panel-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What is Color Grading?
 
 Color grading is the video editing process wherein grading (arranging) colors in a video or film to give them a stylistic look. It is different from Color correction because color correction is the process of correcting (fixing) colors in a video or a film as a way to get them back to what they should look like for your project or output.
@@ -62,12 +65,18 @@ Kindly see the details and steps on how to engage in color grading and color cor
 
 Then select the New Project to create a new project file and click Import to find and load your videos in local folders or portable media devices to the local media library. This software also allows you to add files with drag and drop. Then put them on the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![put video to filmora cd](https://images.wondershare.com/filmora/article-images/2022/08/put-video-to-filmora-cd.jpg)
 
 ##### Step2There are 2 ways to color your video in Wondershare Filmora
 
 Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar to enter the advanced color tools window, where you can apply the preset templates or adjust the color coarsely. It is suggested to start with Presets for beginners, which will save you much time.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![advanced color tools filmora](https://images.wondershare.com/filmora/article-images/2022/08/advanced-color-tools-filmora.jpg)
 
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
@@ -90,6 +99,9 @@ Color Panel Window - to perform color correction in Wondershare Filmora, switch 
 
 Here, there are two options to select: The Color correction. It offers different readily-made presets you can use to color your video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
 ##### Step2Select the specific video portion
@@ -98,10 +110,16 @@ Here, there are two options to select: The Color correction. It offers different
 
 First, you need to select the specific video portion you want to change the color. Just click the scissor icon or what we call split tool. In this case, I split the 2nd video when I zoom in on the subject.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
 
 * And I selected the end portion of the video. After that, choose the part of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
 
 ##### Step3Apply the color correction preset that you want then click ok
@@ -116,6 +134,9 @@ In the Presets tab, there are different templates, including Common, 3D LUT, Vig
 
 Once you've finished correcting the video color, press Play and go over the whole video through the previewing window. If satisfied with the result, click the "Export" button to transport your video. Click the Settings button to modify settings if needed. You can save the new videos in different formats under the Format tab. If you want to play the edit file on devices like Tablet, iPad, Kindle Fire, PSP, Xbox, etc., go to the "Devices" tab and select the configured preset for the specific model. You can also upload the video output on Youtube for better preservation.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![preview and save video filmora](https://images.wondershare.com/filmora/article-images/2022/08/preview-and-save-video-filmora.jpg)
 
 **Using the Color Panel Window**
@@ -124,6 +145,9 @@ Once you've finished correcting the video color, press Play and go over the whol
 
 You can modify the temperature, tint, white balance, contrast, saturation, and brightness and apply 3D LUT directly and quickly in this editing panel.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color panel windows filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-panel-windows-filmora.jpg)
 
 ##### Step2Color grading with Wondershare Filmora
@@ -198,3 +222,55 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-daily-vlogging-ideas-what-to-talk-about-while-vlogging/"><u>[New] 2024 Approved  Daily Vlogging Ideas  What to Talk About While Vlogging?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-becoming-a-master-of-instagram-auditory-aesthetics-for-2024/"><u>[New] Becoming a Master of Instagram Auditory Aesthetics for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-enhancing-your-video-with-professional-voice-overs/"><u>[New] Enhancing Your Video with Professional Voice Overs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-nightmares-unleashed-8-must-play-zombie-games-explored/"><u>[New] In 2024, Nightmares Unleashed  8 Must-Play Zombie Games Explored</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-key-vr-film-experiences-to-witness/"><u>[New] Key VR Film Experiences to Witness</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-days-to-launch-podcasts/"><u>[New] Navigating Days to Launch Podcasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-photoshop-tutorial-creating-3d-text-illusions/"><u>[New] Photoshop Tutorial  Creating 3D Text Illusions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-silent-sounds-elegant-dimming-in-garageband-projects/"><u>[New] Silent Sounds  Elegant Dimming in Garageband Projects</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-banishing-bogus-followers-from-instagram-landscape/"><u>[Updated] 2024 Approved  Banishing Bogus Followers From Instagram Landscape</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-exploring-and-harnessing-twitter-archive-insights/"><u>[Updated] 2024 Approved  Exploring and Harnessing Twitter Archive Insights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-crafting-professional-broadcasts-mastering-obs-plus-zoom-techniques-for-2024/"><u>[Updated] Crafting Professional Broadcasts  Mastering OBS + Zoom Techniques for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-tailoring-your-video-for-optimal-instagram-impact/"><u>[Updated] In 2024, Tailoring Your Video for Optimal Instagram Impact</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-metaverse-wisdom-a-compilation-of-inspiring-thoughts/"><u>[Updated] Metaverse Wisdom  A Compilation of Inspiring Thoughts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-microsofts-innovation-on-display-the-hololens-revolution/"><u>[Updated] Microsoft's Innovation on Display – The HoloLens Revolution</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-photographic-privacy-key-steps-to-blur-facial-features/"><u>[Updated] Photographic Privacy  Key Steps to Blur Facial Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smartphone-image-editing-the-best-free-layers-and-tools-guide-top-10/"><u>[Updated] Smartphone Image Editing - The Best Free Layers & Tools Guide (Top 10)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smilesphere-explore-limitless-meme-landscapes/"><u>[Updated] SmileSphere  Explore Limitless Meme Landscapes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-soothing-stories-in-video-form-insights-and-critiques/"><u>[Updated] Soothing Stories in Video Form  Insights and Critiques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-supercharge-your-social-media-scrapping-the-best-5-chrome-plugins-for-2024/"><u>[Updated] Supercharge Your Social Media Scrapping  The Best 5 Chrome Plugins for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-ios-slide-show-tools-tailored-for-high-end-models/"><u>2024 Approved  IOS Slide Show Tools Tailored for High-End Models</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-logic-pros-efficient-approach-to-softening-audio-levels/"><u>2024 Approved  Logic Pro's Efficient Approach to Softening Audio Levels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-the-melodies-secrets-to-adding-soundtracks-on-insta/"><u>2024 Approved  Master the Melodies  Secrets to Adding Soundtracks on Insta</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-3d-luts-complete-guide/"><u>2024 Approved  Mastering 3D LUTs  Complete Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-ifunny-memes/"><u>2024 Approved  Mastering the Art of iFunny Memes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-melodic-mambos-macaws/"><u>2024 Approved  Melodic Mambos Macaws</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-ringtone-repository-excellent-sources/"><u>2024 Approved  Perfect Ringtone Repository  Excellent Sources</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sonys-game-console-enhance-auditory-experience/"><u>2024 Approved  Sony's Game Console  Enhance Auditory Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oneplus-11r-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror OnePlus 11R to Roku | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-itel-a60s-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-12-pro-max-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 12 Pro Max to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-12-pro-max-5-ways-to-get-into-a-locked-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 12 Pro Max? 5 Ways to get into a Locked Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-close-up-techniques-with-videoleap/"><u>In 2024, Mastering Close-Up Techniques with Videoleap</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-value-in-your-cloud-service-expenditure/"><u>In 2024, Maximizing Value in Your Cloud Service Expenditure</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pinterests-top-free-tools-effortless-video-downloads-online/"><u>In 2024, Pinterest’s Top Free Tools  Effortless Video Downloads Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-refining-your-online-visual-experience-with-zooms/"><u>In 2024, Refining Your Online Visual Experience with Zooms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sonys-shutterbug-fixing-the-no-video-fiasco/"><u>In 2024, Sony's Shutterbug  Fixing the No-Video Fiasco</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-qanda-beyond-basic-usage/"><u>Instagram Q&A  Beyond Basic Usage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/investigating-best-fps-for-outstanding-slow-motion-cinematography-for-2024/"><u>Investigating Best FPS for Outstanding Slow-Motion Cinematography for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-camera-innovations-revealed-future-edition-for-2024/"><u>Leading Camera Innovations Revealed - Future Edition for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/scripted-temporal-displacements-in-film-production-for-2024/"><u>Scripted Temporal Displacements in Film Production for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sleep-inducing-screenplays-video-evaluation-for-2024/"><u>Sleep-Inducing Screenplays  Video Evaluation for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/smoothly-blend-images-and-movies-a-guide-to-windows-photos-and-storyremix/"><u>Smoothly Blend Images & Movies  A Guide to Windows Photos and StoryRemix</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/top-10-photo-grid-apps-to-make-your-pictures-stand-out-for-2024/"><u>Top 10 Photo Grid Apps to Make Your Pictures Stand Out for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-financial-success-through-youtubes-viewer-count-for-2024/"><u>Unlocking Financial Success Through Youtube's Viewer Count for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-voice-memos-made-simple-your-comprehensive-guide-to-high-quality-audio-recordings-on-windows-10/"><u>Updated 2024 Approved Voice Memos Made Simple Your Comprehensive Guide to High-Quality Audio Recordings on Windows 10</u></a></li>
+</ul></div>

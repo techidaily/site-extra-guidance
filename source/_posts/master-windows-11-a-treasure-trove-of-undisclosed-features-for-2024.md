@@ -1,7 +1,7 @@
 ---
 title: "\"Master Windows 11  A Treasure Trove of Undisclosed Features for 2024\""
-date: 2024-05-31T06:52:58.102Z
-updated: 2024-06-01T06:52:58.102Z
+date: 2024-07-31T14:19:22.127Z
+updated: 2024-08-01T14:19:22.127Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Master Windows 11: A Treasure Trove of Undisclosed Features for 2024\""
 excerpt: "\"This Article Describes Master Windows 11: A Treasure Trove of Undisclosed Features for 2024\""
 keywords: "Win11HiddenFeats,ProWindowsKeywords,Master11Secrets,InsiderWinTips,Win11Unrevealed,Windows11Exclusive,TreasureWinDetails"
-thumbnail: https://www.lifewire.com/thmb/KpREc8zg7ejRHANcP6sQ3GYg7fM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-use-bing-ai-on-mac-033a1a2c514d4224801fd2b9f1c47d8f.jpg
+thumbnail: https://thmb.techidaily.com/b5066dad0b601fca3256158753d40238cd5a1c7754394d186d31755e512b1e70.jpg
 ---
 
 ## Master Windows 11: A Treasure Trove of Undisclosed Features
@@ -32,6 +32,9 @@ After years of small updates, the biggest and most popular operating system in t
 
 With the increased number of notifications in Windows 11, you might get annoyed. For that, you can turn off the notifications from the 'Settings.' Either you can go to the settings from the Start Menu or by pressing 'Win+I.' Then, head over to ‘System’ and hit 'Notifications.' The notifications are ‘On’ by default, but you can turn them 'Off' if you want to.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn off unnecessary notifications](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-1.jpg)
 
 ### 2\. Minimize Applications
@@ -46,24 +49,42 @@ This feature can be activated through Windows Settings and then by clicking on �
 
 Windows 11 has many shortcut keys that will save your time on a busy day. These shortcut keys cover areas such as Widgets with (Win + W). It Opens the Team Chat app (Win + C), notification center (Win + N), Quick settings with (Win + A), and a lot more. Whereas the shortcuts for copying, pasting, and screenshots are the same as Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![windows 11 shortcut keys](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-3.jpg)
 
 ### 4\. Taskbar and Start Menu Placements
 
 The biggest Windows 11 tip and trick is the placement of Taskbar and Start Menu. Windows 11 has a taskbar and start menu in the center. The relocation of the taskbar and the start menu can be done easily. By changing the placement, you can make Windows 11 look like Windows 10 if you prefer it that way. For that, open the ‘Taskbar Behavior’ and click on ‘Taskbar Alignment’ and relocate it.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![align taskbar to the left](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Remove Unwanted Ads on Apps
 
 The updated technology allows you to have better control over the privacy of your data and device from personalized ads. For this, go to the ‘Settings’ panel and then move over to the 'Privacy and Security’ section. From the right panel, hit the ‘General’ settings. Now you can select whether you want the apps or websites to show ads based on your interests.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable unwanted ads](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Voice Typing Feature
 
 The coolest thing about Windows 11 that most people don’t know is the ‘Voice Typing’ feature. You might have experienced this before in your iPhones or Android devices, but this is new for Windows to have voice typing built-in. Press ‘Windows Key + H’ when you are in a text box and then start speaking. By using the mic button from the pop-out menu, you can start using the feature.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![windows 11 voice typing feature](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-6.jpg)
 
 ### 7\. Widgets and Chat Customization
@@ -72,12 +93,30 @@ Using Widgets and Chats helps the user have a quick chat with people that they l
 
 However, some people do not like using this kind of stuff. They don’t even prefer crowding their taskbar. For such cases, you can turn them off from the toggle switches that are available in the ‘Show or Hide the buttons that appear on Taskbar' or 'Taskbar Items. '
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable widgets and other items](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 8\. Block Trackers and Pop-up
 
 Another brilliant Windows 11 tip and trick is that it lets you block the pop-ups and also the tracking. For that, open Microsoft Edge and head over to the 3 dots on the top right corner to open 'Settings.' From the left panel in Settings, look for 'Privacy, Search and Services.' By default, it is set to 'Balanced.' You are suggested to select the 'Strict' option so that all the harmful trackers are blocked.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![secure your browsing on windows 11](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-8.jpg)
 
 ### 9\. Change your Geolocation
@@ -114,8 +153,28 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
@@ -142,3 +201,55 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-educators-guide-to-thriving-youtube-channels-10-must-know-secrets/"><u>[New] 2024 Approved  Educators' Guide to Thriving YouTube Channels – 10 Must-Know Secrets</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-how-to-add-a-countdown-timer-in-obs/"><u>[New] 2024 Approved  How To Add a Countdown Timer in OBS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-inside-the-panasonic-hx-a1-a-buyers-guide-review/"><u>[New] Inside the Panasonic HX-A1  A Buyer's Guide Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-night-time-captures-with-iphone/"><u>[New] Navigating Night-Time Captures with iPhone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-rhythm-for-rings-how-to-download-and-cut-tamil-melodies/"><u>[New] Rhythm for Rings  How To Download and Cut Tamil Melodies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-tackling-problems-with-instagrams-video-feature/"><u>[Updated] 2024 Approved  Tackling Problems with Instagram's Video Feature</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-capturecrafter-your-ultimate-guide-to-screen-recording-for-2024/"><u>[Updated] CaptureCrafter  Your Ultimate Guide to Screen Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-creating-compelling-content-with-powerful-youtube-titles-for-2024/"><u>[Updated] Creating Compelling Content with Powerful YouTube Titles for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-direct-playback-connecting-fb-vids-to-tvs-for-2024/"><u>[Updated] Direct Playback  Connecting FB Vids to TVs for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-instagrams-backward-video-display-an-insight/"><u>[Updated] Instagram's Backward Video Display  An Insight</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-jest-journal-chronicles-of-timely-laughter/"><u>[Updated] Jest Journal  Chronicles of Timely Laughter</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-essence-of-photography-polarrs-edits-revealed/"><u>[Updated] Navigating the Essence of Photography  Polarr’s Edits Revealed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimal-webcams-for-enhanced-clarity-in-all-your-zoom-calls/"><u>[Updated] Optimal Webcams for Enhanced Clarity in All Your Zoom Calls</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfect-your-iphone-writings-and-movies-with-optimal-tools/"><u>[Updated] Perfect Your iPhone' Writings & Movies With Optimal Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-plating-aesthetics-capturing-delectable-dishes-on-screen/"><u>[Updated] Plating Aesthetics  Capturing Delectable Dishes on Screen</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-scalability-strategies-adapting-to-large-scale-meetings-with-zoom-in-windows-11/"><u>[Updated] Scalability Strategies  Adapting to Large-Scale Meetings with Zoom in Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-seamless-blob-disposal-in-photopeas-interface/"><u>[Updated] Seamless Blob Disposal in Photopea's Interface</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-seamless-merge-apple-music-and-videos-together/"><u>[Updated] Seamless Merge  Apple Music & Videos Together</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-speedster-software-best-rapid-releases-for-tablets-and-computers/"><u>[Updated] Speedster Software - Best Rapid Releases for Tablets & Computers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-timelapse-techniques-for-samsung-smartphones/"><u>[Updated] Timelapse Techniques for Samsung Smartphones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-file-download-voice-track-analysis/"><u>2024 Approved  File Download  Voice Track Analysis</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-kinemasters-blueprint-for-smooth-video-flow-and-continuity/"><u>2024 Approved  Kinemaster's Blueprint for Smooth Video Flow and Continuity</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximize-your-iphone-film-shoots-mastering-8-key-skills/"><u>2024 Approved  Maximize Your iPhone Film Shoots  Mastering 8 Key Skills</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-personal-drones-that-perfectly-trace-their-owners-path/"><u>2024 Approved  Personal Drones That Perfectly Trace Their Owner's Path</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-smile-smarter-crafting-text-memes-like-a-pro/"><u>2024 Approved  Smile Smarter  Crafting Text Memes Like a Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-soundwave-selections-the-ultimate-guide-to-melodies-for-intros/"><u>2024 Approved  Soundwave Selections  The Ultimate Guide to Melodies for Intros</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-speedy-transmission-techniques-ultimate-app-and-extension-guide/"><u>2024 Approved  Speedy Transmission Techniques  Ultimate App and Extension Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-tecno-spark-go-2023-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-motorola-edge-2023-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Motorola Edge 2023 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xr-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone XR Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-oneplus-nord-ce-3-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your OnePlus Nord CE 3 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gradual-diminishment-of-sound-tips-from-logic-pro-experts/"><u>In 2024, Gradual Diminishment of Sound  Tips From Logic Pro Experts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-listen-and-act-complimentary-recognition-software/"><u>In 2024, Listen and Act  Complimentary Recognition Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-sleep-optimal-asmr-experiences-and-picks/"><u>In 2024, Mastering Sleep  Optimal ASMR Experiences & Picks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-motion-analysis-report-2023/"><u>In 2024, Motion Analysis Report 2023</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-level-phone-and-camera-gimbal-tracking-systems/"><u>In 2024, Pro-Level Phone & Camera Gimbal Tracking Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-seamless-video-chats-on-xbox-one-with-zoom/"><u>In 2024, Seamless Video Chats on Xbox One with Zoom</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-srgb-encoding-versus-rgb-basics/"><u>In 2024, Srgb Encoding Versus Rgb Basics</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instasaver-the-leading-videophoto-downloaders-round-up/"><u>InstaSaver  The Leading Video/Photo Downloaders Round-Up</u></a></li>
+<li><a href="https://driver-install.techidaily.com/laser-printer-p1102w-software-for-windows-users/"><u>Laser Printer P1102w Software for Windows Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leveraging-zoom-in-email-chats-a-guide-to-gmail-users-for-2024/"><u>Leveraging Zoom in Email Chats – A Guide to Gmail Users for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-the-art-of-directing-powerdirectors-complete-guide-for-2024/"><u>Master the Art of Directing  PowerDirector's Complete Guide for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/perfect-screen-recording-made-simple-and-orderly-for-2024/"><u>Perfect Screen Recording Made Simple & Orderly for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-pick-best-vr-devices-of-the-year-for-2024/"><u>Prime Pick  Best VR Devices of the Year for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pushing-the-envelope-how-srgb-replaces-conventional-rgb-for-2024/"><u>Pushing the Envelope  How Srgb Replaces Conventional Rgb for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/simplifying-the-world-of-ifunnys-meme-application-for-2024/"><u>Simplifying the World of iFunny's Meme Application for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/your-seagate-hdd-on-the-fence-in-win10-heres-what-to-do/"><u>Your Seagate HDD on the Fence in Win10? Here's What To Do</u></a></li>
+</ul></div>

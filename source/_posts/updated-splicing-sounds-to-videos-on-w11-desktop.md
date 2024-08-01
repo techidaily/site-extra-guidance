@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Splicing Sounds to Videos on W11 Desktop"
-date: 2024-05-31T06:55:54.100Z
-updated: 2024-06-01T06:55:54.100Z
+date: 2024-07-31T17:20:47.513Z
+updated: 2024-08-01T17:20:47.513Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Splicing Sounds to Videos on W11 Desktop"
 excerpt: "This Article Describes [Updated] Splicing Sounds to Videos on W11 Desktop"
 keywords: "\"Video Sound Conversion,Audio Splice to Video,Desktop W11 Media Edit,Convert Audio to Video W11,Direct Sounds to Videos,W11 Audio-Video Merge,PC Video Splicing Software\""
-thumbnail: https://www.lifewire.com/thmb/XgfyBKYvqv8gtnRlFpU9E6AWsUg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/savescreenshotonxboxseriesxs-4f0cc19fdaa4472a9f607b07a85e75f9.jpg
+thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b573d2796a1411e612ad84808.jpg
 ---
 
 ## Splicing Sounds to Videos on W11 Desktop
@@ -42,6 +42,347 @@ If you're unfamiliar with the Windows Photos app's video editor, let this articl
 
 03 [Wondershare Filmora](#Part 3)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
+## Part 1 Add Music To Video With Windows 11 Photo App
+
+Discover how to use Windows video editor to add music to your videos. It's now easier than ever to edit, rotate, trim and alter your video. This section teaches how to add music to video editor Windows 11.
+
+To access the Windows Photos app, you can go to the 'Start' menu and search for the app on the taskbar. This will help you find the app from your list of apps installed on your desktop.
+
+![finding the windows photos app](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-1.png)
+
+Alternatively, you can find the app by searching for it on your desktop. Click on the magnifying glass icon. This indicates the search button. You can type "Video Editor."
+
+![find windows photos app using search](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-2.png)
+
+This will bring up video editors available on Windows 11\. You're now ready to learn how to add music to Windows video editor. Before you learn how to add music to video editor on Windows, you need to add the songs of your choice to your desktop.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2 Edit Music To Video On Win 11
+
+Now that we know how to add music to your laptop, let's take a gander at how to add music in video editor Windows 11.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+### Add Media To Windows Photos App
+
+For this, you must first import the video into the Windows Photo app. You must click on the 'Project Library' section in the app to do so. Select 'Add' for the drop-down menu with three options.
+
+You can click on 'From this PC' to browse your personal computer for the file. Select the appropriate file from your local hard drives.
+
+![add video using the windows photos app](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-3.png)
+
+You can choose to load one video or more. After this, remember to 'Place in Storyboard.' This lets you have a graphic organizer consisting of your images and video.
+
+Once all your media has been assembled, you can see the storyboard screen is primed for editing. You can choose to add a title card. You can even choose how to add music to video in Windows 11\. You can play with pacing, the duration of the video.
+
+### Video Editing with Windows Photos App
+
+You can crop, edit, trim or even split a video. This lets you split the video into two parts, and you can edit them individually. This is also helpful if you want to add more footage or images in between.
+
+Now we can explore some of the fun parts of 'how to add music to a video on Windows 11'. This part deals with adding motion effects to your video. The Windows Video Editor can help you add motion effects to your videos.
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![ using the motion effect on windows 11](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-4.png)
+
+To do this, you simply need to click on the 'Motion' button available on your storyboard. Choose from one of several options available. Once you've chosen the frame you want to apply this to, click on 'Done' to apply this effect.
+
+The advanced version of this applies 3D effects. The 3D effects bring a lot to the table with cool effects. This essentially creates a layer over your video. This layer supports the 3D effects that you want to bring to life. To apply this 3D effect, tap the '3D Effects' option on the storyboard menu ribbon.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
+![using the 3d effect on windows 11](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-5.png)
+
+This opens a display with the 3D effects available. One of the ways this stands out from other 3D effects is that you can also add music to video editor (Windows). You can use the 'Volume' slider to adjust the volume.
+
+### Add Music To Video Windows 11
+
+Now, let's look at how to add music in Windows video editor. You can add an audio clip to your video to empower the visuals. Together, they can engage the viewer with more immersivity. This is why it's important to know how to add music to video on Windows 11.
+
+Adding music using the Windows Photos app is completely different on Windows 11 than Windows 10 video editor add music option. So, let's take it from the basics. You can choose your jams from your personal computer or dip into the customized library available to users on the app.
+
+It's easy on Windows video editor and how to add music. You can simply click on the 'Background Music' button available towards the top. You can choose to add music to video from Windows' pre-built audio library. This works better than Windows 10 to add music to video.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
+![windows photos app audio library](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-6.png)
+
+You can choose your own tracks by clicking on the 'Custom audio' button. This is available next to the 'Background music' tab. This will help you use Windows to add music to video. Click on the 'Add audio file' button to browse. Browse from your extensive audio collection and import to create the perfect video soundtrack. Drag and drop the file for convenient access.
+
+![windows photos app’s custom audio](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-7.png)
+
+You can use the pointers on the timeline to increase or decrease the duration of the audio clip. You can also set the preferences and click on the 'Done' button to conclude.
+
+With that, you now know how to add music to video in Windows 11\. It works better than Windows 10 video editor to add music.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+## Part 3 Wondershare Filmora
+
+You might wonder why you should use the Windows 11 video editing app. It's simple. Let's look at the pros and cons.
+
+## Pros
+
+You don't need to download any editor, and it's available permanently.
+
+It's available for use free of charge.
+
+It's simple to use once you practice.
+
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Cons
+
+It has a steep learning curve
+
+It has some performance issues, due to be fixed in the update.
+
+It can perform only a few simple operations with no scope for greater control.
+
+So, this is where a user-intuitive video editing software might come in handy. It's why you should rely on [Wondershare Filmora.](https://tools.techidaily.com/wondershare/filmora/download/)This video editor is a powerful and easy-to-use video editor. It offers more effects and resources than Windows 11 video editor.
+
+#### Wondershare Filmora
+
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![download](https://images.wondershare.com/filmora/images/filmora-box.png)
+
+While a native app may come pre-installed, Wondershare Filmora offers innovative and advanced editing features. It's suited to professionals and novices alike.
+
+### Advanced Audio Editing
+
+With Filmora, you can do a lot more with the audio. You can detect the music beat and synchronize the music accordingly. You can customize the timeline track controls. You can adjust the audio speed and control the transition of the audio.
+
+![beat detection with wondershare filmora](https://images.wondershare.com/filmora/guide/beat-detection-1.png)
+
+You can add not just sound effects, but you can detach the audio clip entirely from the video. Using the auto equalizer and auto mixer lets you completely control your audio set-up. These are simply the options you have available for editing audio.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Advanced Video Editing
+
+Video editing also offers an extensive array of options. You can enjoy the talents of the software in stabilizing the video you create. It can play the video in reverse. You can create a vibrant video bursting with color and life with advanced color tuning.
+
+You can easily create a video in a video effect thanks to green screens. This video-in-video effect can set your video creations a cut above the rest. The split-screen effect lets you do more with less.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+![filmora green screen](https://images.wondershare.com/filmora/guide/green-screen-overlay-video-chroma-key-settings.jpg)
+
+### Conclusion
+
+The Windows Photos app is packed with exciting new features that make it an excellent in-house editor. It’s perfect for learning how to add music to video on windows 11\. It comes with a steep learning curve for new users. This might mean users need some time before they can use the app to full effect.
+
+We can see an upgrade from the Windows 10 version of the software. It allows users to do more with the Windows 11 video editor. This is perfectly suited to beginner users. It does not offer the control and fine-tuning offered by Wondershare Filmora.
+
+Filmora is easier to learn, more powerful. It's packed with advanced features that make it better for professionals and amateurs alike.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+The Windows Photos app is an incredible tool that Microsoft has introduced to its armory of apps. It is also one of the most underestimated and overlooked by the vast majority of consumers. Suppose you want to know how to add music to video Windows 11\. This app is the way to go.
+
+One of the most underutilized features in the Windows Photos app is making videos from individual media elements like music, images, and more. This inbuilt video editor can perform better than other apps available for sale on the market.
+
+If you're unfamiliar with the Windows Photos app's video editor, let this article help guide you through.
+
+#### In this article
+
+01 [Add Music To Video With Windows 11 Photo App](#Part 1)
+
+02 [Edit Music To Video On Win 11](#Part 2)
+
+03 [Wondershare Filmora](#Part 3)
+
+## Part 1 Add Music To Video With Windows 11 Photo App
+
+Discover how to use Windows video editor to add music to your videos. It's now easier than ever to edit, rotate, trim and alter your video. This section teaches how to add music to video editor Windows 11.
+
+To access the Windows Photos app, you can go to the 'Start' menu and search for the app on the taskbar. This will help you find the app from your list of apps installed on your desktop.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
+![finding the windows photos app](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-1.png)
+
+Alternatively, you can find the app by searching for it on your desktop. Click on the magnifying glass icon. This indicates the search button. You can type "Video Editor."
+
+![find windows photos app using search](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-2.png)
+
+This will bring up video editors available on Windows 11\. You're now ready to learn how to add music to Windows video editor. Before you learn how to add music to video editor on Windows, you need to add the songs of your choice to your desktop.
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2 Edit Music To Video On Win 11
+
+Now that we know how to add music to your laptop, let's take a gander at how to add music in video editor Windows 11.
+
+### Add Media To Windows Photos App
+
+For this, you must first import the video into the Windows Photo app. You must click on the 'Project Library' section in the app to do so. Select 'Add' for the drop-down menu with three options.
+
+You can click on 'From this PC' to browse your personal computer for the file. Select the appropriate file from your local hard drives.
+
+![add video using the windows photos app](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-3.png)
+
+You can choose to load one video or more. After this, remember to 'Place in Storyboard.' This lets you have a graphic organizer consisting of your images and video.
+
+Once all your media has been assembled, you can see the storyboard screen is primed for editing. You can choose to add a title card. You can even choose how to add music to video in Windows 11\. You can play with pacing, the duration of the video.
+
+### Video Editing with Windows Photos App
+
+You can crop, edit, trim or even split a video. This lets you split the video into two parts, and you can edit them individually. This is also helpful if you want to add more footage or images in between.
+
+Now we can explore some of the fun parts of 'how to add music to a video on Windows 11'. This part deals with adding motion effects to your video. The Windows Video Editor can help you add motion effects to your videos.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![ using the motion effect on windows 11](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-4.png)
+
+To do this, you simply need to click on the 'Motion' button available on your storyboard. Choose from one of several options available. Once you've chosen the frame you want to apply this to, click on 'Done' to apply this effect.
+
+The advanced version of this applies 3D effects. The 3D effects bring a lot to the table with cool effects. This essentially creates a layer over your video. This layer supports the 3D effects that you want to bring to life. To apply this 3D effect, tap the '3D Effects' option on the storyboard menu ribbon.
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
+![using the 3d effect on windows 11](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-5.png)
+
+This opens a display with the 3D effects available. One of the ways this stands out from other 3D effects is that you can also add music to video editor (Windows). You can use the 'Volume' slider to adjust the volume.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+### Add Music To Video Windows 11
+
+Now, let's look at how to add music in Windows video editor. You can add an audio clip to your video to empower the visuals. Together, they can engage the viewer with more immersivity. This is why it's important to know how to add music to video on Windows 11.
+
+Adding music using the Windows Photos app is completely different on Windows 11 than Windows 10 video editor add music option. So, let's take it from the basics. You can choose your jams from your personal computer or dip into the customized library available to users on the app.
+
+It's easy on Windows video editor and how to add music. You can simply click on the 'Background Music' button available towards the top. You can choose to add music to video from Windows' pre-built audio library. This works better than Windows 10 to add music to video.
+
+![windows photos app audio library](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-6.png)
+
+You can choose your own tracks by clicking on the 'Custom audio' button. This is available next to the 'Background music' tab. This will help you use Windows to add music to video. Click on the 'Add audio file' button to browse. Browse from your extensive audio collection and import to create the perfect video soundtrack. Drag and drop the file for convenient access.
+
+![windows photos app’s custom audio](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-7.png)
+
+You can use the pointers on the timeline to increase or decrease the duration of the audio clip. You can also set the preferences and click on the 'Done' button to conclude.
+
+With that, you now know how to add music to video in Windows 11\. It works better than Windows 10 video editor to add music.
+
+## Part 3 Wondershare Filmora
+
+You might wonder why you should use the Windows 11 video editing app. It's simple. Let's look at the pros and cons.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
+## Pros
+
+You don't need to download any editor, and it's available permanently.
+
+It's available for use free of charge.
+
+It's simple to use once you practice.
+
+## Cons
+
+It has a steep learning curve
+
+It has some performance issues, due to be fixed in the update.
+
+It can perform only a few simple operations with no scope for greater control.
+
+So, this is where a user-intuitive video editing software might come in handy. It's why you should rely on [Wondershare Filmora.](https://tools.techidaily.com/wondershare/filmora/download/)This video editor is a powerful and easy-to-use video editor. It offers more effects and resources than Windows 11 video editor.
+
+#### Wondershare Filmora
+
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![download](https://images.wondershare.com/filmora/images/filmora-box.png)
+
+While a native app may come pre-installed, Wondershare Filmora offers innovative and advanced editing features. It's suited to professionals and novices alike.
+
+### Advanced Audio Editing
+
+With Filmora, you can do a lot more with the audio. You can detect the music beat and synchronize the music accordingly. You can customize the timeline track controls. You can adjust the audio speed and control the transition of the audio.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![beat detection with wondershare filmora](https://images.wondershare.com/filmora/guide/beat-detection-1.png)
+
+You can add not just sound effects, but you can detach the audio clip entirely from the video. Using the auto equalizer and auto mixer lets you completely control your audio set-up. These are simply the options you have available for editing audio.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
+### Advanced Video Editing
+
+Video editing also offers an extensive array of options. You can enjoy the talents of the software in stabilizing the video you create. It can play the video in reverse. You can create a vibrant video bursting with color and life with advanced color tuning.
+
+You can easily create a video in a video effect thanks to green screens. This video-in-video effect can set your video creations a cut above the rest. The split-screen effect lets you do more with less.
+
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![filmora green screen](https://images.wondershare.com/filmora/guide/green-screen-overlay-video-chroma-key-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
+### Conclusion
+
+The Windows Photos app is packed with exciting new features that make it an excellent in-house editor. It’s perfect for learning how to add music to video on windows 11\. It comes with a steep learning curve for new users. This might mean users need some time before they can use the app to full effect.
+
+We can see an upgrade from the Windows 10 version of the software. It allows users to do more with the Windows 11 video editor. This is perfectly suited to beginner users. It does not offer the control and fine-tuning offered by Wondershare Filmora.
+
+Filmora is easier to learn, more powerful. It's packed with advanced features that make it better for professionals and amateurs alike.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+The Windows Photos app is an incredible tool that Microsoft has introduced to its armory of apps. It is also one of the most underestimated and overlooked by the vast majority of consumers. Suppose you want to know how to add music to video Windows 11\. This app is the way to go.
+
+One of the most underutilized features in the Windows Photos app is making videos from individual media elements like music, images, and more. This inbuilt video editor can perform better than other apps available for sale on the market.
+
+If you're unfamiliar with the Windows Photos app's video editor, let this article help guide you through.
+
+#### In this article
+
+01 [Add Music To Video With Windows 11 Photo App](#Part 1)
+
+02 [Edit Music To Video On Win 11](#Part 2)
+
+03 [Wondershare Filmora](#Part 3)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Part 1 Add Music To Video With Windows 11 Photo App
 
 Discover how to use Windows video editor to add music to your videos. It's now easier than ever to edit, rotate, trim and alter your video. This section teaches how to add music to video editor Windows 11.
@@ -60,12 +401,18 @@ This will bring up video editors available on Windows 11\. You're now ready to l
 
 Now that we know how to add music to your laptop, let's take a gander at how to add music in video editor Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Add Media To Windows Photos App
 
 For this, you must first import the video into the Windows Photo app. You must click on the 'Project Library' section in the app to do so. Select 'Add' for the drop-down menu with three options.
 
 You can click on 'From this PC' to browse your personal computer for the file. Select the appropriate file from your local hard drives.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add video using the windows photos app](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-3.png)
 
 You can choose to load one video or more. After this, remember to 'Place in Storyboard.' This lets you have a graphic organizer consisting of your images and video.
@@ -100,12 +447,18 @@ It's easy on Windows video editor and how to add music. You can simply click on 
 
 You can choose your own tracks by clicking on the 'Custom audio' button. This is available next to the 'Background music' tab. This will help you use Windows to add music to video. Click on the 'Add audio file' button to browse. Browse from your extensive audio collection and import to create the perfect video soundtrack. Drag and drop the file for convenient access.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![windows photos app’s custom audio](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-7.png)
 
 You can use the pointers on the timeline to increase or decrease the duration of the audio clip. You can also set the preferences and click on the 'Done' button to conclude.
 
 With that, you now know how to add music to video in Windows 11\. It works better than Windows 10 video editor to add music.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3 Wondershare Filmora
 
 You might wonder why you should use the Windows 11 video editing app. It's simple. Let's look at the pros and cons.
@@ -118,6 +471,9 @@ It's available for use free of charge.
 
 It's simple to use once you practice.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Cons
 
 It has a steep learning curve
@@ -134,6 +490,18 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
 While a native app may come pre-installed, Wondershare Filmora offers innovative and advanced editing features. It's suited to professionals and novices alike.
@@ -178,12 +546,18 @@ If you're unfamiliar with the Windows Photos app's video editor, let this articl
 
 03 [Wondershare Filmora](#Part 3)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1 Add Music To Video With Windows 11 Photo App
 
 Discover how to use Windows video editor to add music to your videos. It's now easier than ever to edit, rotate, trim and alter your video. This section teaches how to add music to video editor Windows 11.
 
 To access the Windows Photos app, you can go to the 'Start' menu and search for the app on the taskbar. This will help you find the app from your list of apps installed on your desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![finding the windows photos app](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-1.png)
 
 Alternatively, you can find the app by searching for it on your desktop. Click on the magnifying glass icon. This indicates the search button. You can type "Video Editor."
@@ -192,10 +566,17 @@ Alternatively, you can find the app by searching for it on your desktop. Click o
 
 This will bring up video editors available on Windows 11\. You're now ready to learn how to add music to Windows video editor. Before you learn how to add music to video editor on Windows, you need to add the songs of your choice to your desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Part 2 Edit Music To Video On Win 11
 
 Now that we know how to add music to your laptop, let's take a gander at how to add music in video editor Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ### Add Media To Windows Photos App
 
 For this, you must first import the video into the Windows Photo app. You must click on the 'Project Library' section in the app to do so. Select 'Add' for the drop-down menu with three options.
@@ -208,6 +589,9 @@ You can choose to load one video or more. After this, remember to 'Place in Stor
 
 Once all your media has been assembled, you can see the storyboard screen is primed for editing. You can choose to add a title card. You can even choose how to add music to video in Windows 11\. You can play with pacing, the duration of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Video Editing with Windows Photos App
 
 You can crop, edit, trim or even split a video. This lets you split the video into two parts, and you can edit them individually. This is also helpful if you want to add more footage or images in between.
@@ -224,6 +608,9 @@ The advanced version of this applies 3D effects. The 3D effects bring a lot to t
 
 This opens a display with the 3D effects available. One of the ways this stands out from other 3D effects is that you can also add music to video editor (Windows). You can use the 'Volume' slider to adjust the volume.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Add Music To Video Windows 11
 
 Now, let's look at how to add music in Windows video editor. You can add an audio clip to your video to empower the visuals. Together, they can engage the viewer with more immersivity. This is why it's important to know how to add music to video on Windows 11.
@@ -232,6 +619,9 @@ Adding music using the Windows Photos app is completely different on Windows 11 
 
 It's easy on Windows video editor and how to add music. You can simply click on the 'Background Music' button available towards the top. You can choose to add music to video from Windows' pre-built audio library. This works better than Windows 10 to add music to video.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![windows photos app audio library](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-6.png)
 
 You can choose your own tracks by clicking on the 'Custom audio' button. This is available next to the 'Background music' tab. This will help you use Windows to add music to video. Click on the 'Add audio file' button to browse. Browse from your extensive audio collection and import to create the perfect video soundtrack. Drag and drop the file for convenient access.
@@ -242,6 +632,9 @@ You can use the pointers on the timeline to increase or decrease the duration of
 
 With that, you now know how to add music to video in Windows 11\. It works better than Windows 10 video editor to add music.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3 Wondershare Filmora
 
 You might wonder why you should use the Windows 11 video editing app. It's simple. Let's look at the pros and cons.
@@ -288,280 +681,14 @@ Video editing also offers an extensive array of options. You can enjoy the talen
 
 You can easily create a video in a video effect thanks to green screens. This video-in-video effect can set your video creations a cut above the rest. The split-screen effect lets you do more with less.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora green screen](https://images.wondershare.com/filmora/guide/green-screen-overlay-video-chroma-key-settings.jpg)
 
-### Conclusion
-
-The Windows Photos app is packed with exciting new features that make it an excellent in-house editor. It’s perfect for learning how to add music to video on windows 11\. It comes with a steep learning curve for new users. This might mean users need some time before they can use the app to full effect.
-
-We can see an upgrade from the Windows 10 version of the software. It allows users to do more with the Windows 11 video editor. This is perfectly suited to beginner users. It does not offer the control and fine-tuning offered by Wondershare Filmora.
-
-Filmora is easier to learn, more powerful. It's packed with advanced features that make it better for professionals and amateurs alike.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-The Windows Photos app is an incredible tool that Microsoft has introduced to its armory of apps. It is also one of the most underestimated and overlooked by the vast majority of consumers. Suppose you want to know how to add music to video Windows 11\. This app is the way to go.
-
-One of the most underutilized features in the Windows Photos app is making videos from individual media elements like music, images, and more. This inbuilt video editor can perform better than other apps available for sale on the market.
-
-If you're unfamiliar with the Windows Photos app's video editor, let this article help guide you through.
-
-#### In this article
-
-01 [Add Music To Video With Windows 11 Photo App](#Part 1)
-
-02 [Edit Music To Video On Win 11](#Part 2)
-
-03 [Wondershare Filmora](#Part 3)
-
-## Part 1 Add Music To Video With Windows 11 Photo App
-
-Discover how to use Windows video editor to add music to your videos. It's now easier than ever to edit, rotate, trim and alter your video. This section teaches how to add music to video editor Windows 11.
-
-To access the Windows Photos app, you can go to the 'Start' menu and search for the app on the taskbar. This will help you find the app from your list of apps installed on your desktop.
-
-![finding the windows photos app](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-1.png)
-
-Alternatively, you can find the app by searching for it on your desktop. Click on the magnifying glass icon. This indicates the search button. You can type "Video Editor."
-
-![find windows photos app using search](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-2.png)
-
-This will bring up video editors available on Windows 11\. You're now ready to learn how to add music to Windows video editor. Before you learn how to add music to video editor on Windows, you need to add the songs of your choice to your desktop.
-
-## Part 2 Edit Music To Video On Win 11
-
-Now that we know how to add music to your laptop, let's take a gander at how to add music in video editor Windows 11.
-
-### Add Media To Windows Photos App
-
-For this, you must first import the video into the Windows Photo app. You must click on the 'Project Library' section in the app to do so. Select 'Add' for the drop-down menu with three options.
-
-You can click on 'From this PC' to browse your personal computer for the file. Select the appropriate file from your local hard drives.
-
-![add video using the windows photos app](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-3.png)
-
-You can choose to load one video or more. After this, remember to 'Place in Storyboard.' This lets you have a graphic organizer consisting of your images and video.
-
-Once all your media has been assembled, you can see the storyboard screen is primed for editing. You can choose to add a title card. You can even choose how to add music to video in Windows 11\. You can play with pacing, the duration of the video.
-
-### Video Editing with Windows Photos App
-
-You can crop, edit, trim or even split a video. This lets you split the video into two parts, and you can edit them individually. This is also helpful if you want to add more footage or images in between.
-
-Now we can explore some of the fun parts of 'how to add music to a video on Windows 11'. This part deals with adding motion effects to your video. The Windows Video Editor can help you add motion effects to your videos.
-
-![ using the motion effect on windows 11](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-4.png)
-
-To do this, you simply need to click on the 'Motion' button available on your storyboard. Choose from one of several options available. Once you've chosen the frame you want to apply this to, click on 'Done' to apply this effect.
-
-The advanced version of this applies 3D effects. The 3D effects bring a lot to the table with cool effects. This essentially creates a layer over your video. This layer supports the 3D effects that you want to bring to life. To apply this 3D effect, tap the '3D Effects' option on the storyboard menu ribbon.
-
-![using the 3d effect on windows 11](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-5.png)
-
-This opens a display with the 3D effects available. One of the ways this stands out from other 3D effects is that you can also add music to video editor (Windows). You can use the 'Volume' slider to adjust the volume.
-
-### Add Music To Video Windows 11
-
-Now, let's look at how to add music in Windows video editor. You can add an audio clip to your video to empower the visuals. Together, they can engage the viewer with more immersivity. This is why it's important to know how to add music to video on Windows 11.
-
-Adding music using the Windows Photos app is completely different on Windows 11 than Windows 10 video editor add music option. So, let's take it from the basics. You can choose your jams from your personal computer or dip into the customized library available to users on the app.
-
-It's easy on Windows video editor and how to add music. You can simply click on the 'Background Music' button available towards the top. You can choose to add music to video from Windows' pre-built audio library. This works better than Windows 10 to add music to video.
-
-![windows photos app audio library](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-6.png)
-
-You can choose your own tracks by clicking on the 'Custom audio' button. This is available next to the 'Background music' tab. This will help you use Windows to add music to video. Click on the 'Add audio file' button to browse. Browse from your extensive audio collection and import to create the perfect video soundtrack. Drag and drop the file for convenient access.
-
-![windows photos app’s custom audio](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-7.png)
-
-You can use the pointers on the timeline to increase or decrease the duration of the audio clip. You can also set the preferences and click on the 'Done' button to conclude.
-
-With that, you now know how to add music to video in Windows 11\. It works better than Windows 10 video editor to add music.
-
-## Part 3 Wondershare Filmora
-
-You might wonder why you should use the Windows 11 video editing app. It's simple. Let's look at the pros and cons.
-
-## Pros
-
-You don't need to download any editor, and it's available permanently.
-
-It's available for use free of charge.
-
-It's simple to use once you practice.
-
-## Cons
-
-It has a steep learning curve
-
-It has some performance issues, due to be fixed in the update.
-
-It can perform only a few simple operations with no scope for greater control.
-
-So, this is where a user-intuitive video editing software might come in handy. It's why you should rely on [Wondershare Filmora.](https://tools.techidaily.com/wondershare/filmora/download/)This video editor is a powerful and easy-to-use video editor. It offers more effects and resources than Windows 11 video editor.
-
-#### Wondershare Filmora
-
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![download](https://images.wondershare.com/filmora/images/filmora-box.png)
-
-While a native app may come pre-installed, Wondershare Filmora offers innovative and advanced editing features. It's suited to professionals and novices alike.
-
-### Advanced Audio Editing
-
-With Filmora, you can do a lot more with the audio. You can detect the music beat and synchronize the music accordingly. You can customize the timeline track controls. You can adjust the audio speed and control the transition of the audio.
-
-![beat detection with wondershare filmora](https://images.wondershare.com/filmora/guide/beat-detection-1.png)
-
-You can add not just sound effects, but you can detach the audio clip entirely from the video. Using the auto equalizer and auto mixer lets you completely control your audio set-up. These are simply the options you have available for editing audio.
-
-### Advanced Video Editing
-
-Video editing also offers an extensive array of options. You can enjoy the talents of the software in stabilizing the video you create. It can play the video in reverse. You can create a vibrant video bursting with color and life with advanced color tuning.
-
-You can easily create a video in a video effect thanks to green screens. This video-in-video effect can set your video creations a cut above the rest. The split-screen effect lets you do more with less.
-
-![filmora green screen](https://images.wondershare.com/filmora/guide/green-screen-overlay-video-chroma-key-settings.jpg)
-
-### Conclusion
-
-The Windows Photos app is packed with exciting new features that make it an excellent in-house editor. It’s perfect for learning how to add music to video on windows 11\. It comes with a steep learning curve for new users. This might mean users need some time before they can use the app to full effect.
-
-We can see an upgrade from the Windows 10 version of the software. It allows users to do more with the Windows 11 video editor. This is perfectly suited to beginner users. It does not offer the control and fine-tuning offered by Wondershare Filmora.
-
-Filmora is easier to learn, more powerful. It's packed with advanced features that make it better for professionals and amateurs alike.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-The Windows Photos app is an incredible tool that Microsoft has introduced to its armory of apps. It is also one of the most underestimated and overlooked by the vast majority of consumers. Suppose you want to know how to add music to video Windows 11\. This app is the way to go.
-
-One of the most underutilized features in the Windows Photos app is making videos from individual media elements like music, images, and more. This inbuilt video editor can perform better than other apps available for sale on the market.
-
-If you're unfamiliar with the Windows Photos app's video editor, let this article help guide you through.
-
-#### In this article
-
-01 [Add Music To Video With Windows 11 Photo App](#Part 1)
-
-02 [Edit Music To Video On Win 11](#Part 2)
-
-03 [Wondershare Filmora](#Part 3)
-
-## Part 1 Add Music To Video With Windows 11 Photo App
-
-Discover how to use Windows video editor to add music to your videos. It's now easier than ever to edit, rotate, trim and alter your video. This section teaches how to add music to video editor Windows 11.
-
-To access the Windows Photos app, you can go to the 'Start' menu and search for the app on the taskbar. This will help you find the app from your list of apps installed on your desktop.
-
-![finding the windows photos app](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-1.png)
-
-Alternatively, you can find the app by searching for it on your desktop. Click on the magnifying glass icon. This indicates the search button. You can type "Video Editor."
-
-![find windows photos app using search](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-2.png)
-
-This will bring up video editors available on Windows 11\. You're now ready to learn how to add music to Windows video editor. Before you learn how to add music to video editor on Windows, you need to add the songs of your choice to your desktop.
-
-## Part 2 Edit Music To Video On Win 11
-
-Now that we know how to add music to your laptop, let's take a gander at how to add music in video editor Windows 11.
-
-### Add Media To Windows Photos App
-
-For this, you must first import the video into the Windows Photo app. You must click on the 'Project Library' section in the app to do so. Select 'Add' for the drop-down menu with three options.
-
-You can click on 'From this PC' to browse your personal computer for the file. Select the appropriate file from your local hard drives.
-
-![add video using the windows photos app](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-3.png)
-
-You can choose to load one video or more. After this, remember to 'Place in Storyboard.' This lets you have a graphic organizer consisting of your images and video.
-
-Once all your media has been assembled, you can see the storyboard screen is primed for editing. You can choose to add a title card. You can even choose how to add music to video in Windows 11\. You can play with pacing, the duration of the video.
-
-### Video Editing with Windows Photos App
-
-You can crop, edit, trim or even split a video. This lets you split the video into two parts, and you can edit them individually. This is also helpful if you want to add more footage or images in between.
-
-Now we can explore some of the fun parts of 'how to add music to a video on Windows 11'. This part deals with adding motion effects to your video. The Windows Video Editor can help you add motion effects to your videos.
-
-![ using the motion effect on windows 11](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-4.png)
-
-To do this, you simply need to click on the 'Motion' button available on your storyboard. Choose from one of several options available. Once you've chosen the frame you want to apply this to, click on 'Done' to apply this effect.
-
-The advanced version of this applies 3D effects. The 3D effects bring a lot to the table with cool effects. This essentially creates a layer over your video. This layer supports the 3D effects that you want to bring to life. To apply this 3D effect, tap the '3D Effects' option on the storyboard menu ribbon.
-
-![using the 3d effect on windows 11](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-5.png)
-
-This opens a display with the 3D effects available. One of the ways this stands out from other 3D effects is that you can also add music to video editor (Windows). You can use the 'Volume' slider to adjust the volume.
-
-### Add Music To Video Windows 11
-
-Now, let's look at how to add music in Windows video editor. You can add an audio clip to your video to empower the visuals. Together, they can engage the viewer with more immersivity. This is why it's important to know how to add music to video on Windows 11.
-
-Adding music using the Windows Photos app is completely different on Windows 11 than Windows 10 video editor add music option. So, let's take it from the basics. You can choose your jams from your personal computer or dip into the customized library available to users on the app.
-
-It's easy on Windows video editor and how to add music. You can simply click on the 'Background Music' button available towards the top. You can choose to add music to video from Windows' pre-built audio library. This works better than Windows 10 to add music to video.
-
-![windows photos app audio library](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-6.png)
-
-You can choose your own tracks by clicking on the 'Custom audio' button. This is available next to the 'Background music' tab. This will help you use Windows to add music to video. Click on the 'Add audio file' button to browse. Browse from your extensive audio collection and import to create the perfect video soundtrack. Drag and drop the file for convenient access.
-
-![windows photos app’s custom audio](https://images.wondershare.com/filmora/article-images/2022/03/add-music-to-video-on-windows-11-7.png)
-
-You can use the pointers on the timeline to increase or decrease the duration of the audio clip. You can also set the preferences and click on the 'Done' button to conclude.
-
-With that, you now know how to add music to video in Windows 11\. It works better than Windows 10 video editor to add music.
-
-## Part 3 Wondershare Filmora
-
-You might wonder why you should use the Windows 11 video editing app. It's simple. Let's look at the pros and cons.
-
-## Pros
-
-You don't need to download any editor, and it's available permanently.
-
-It's available for use free of charge.
-
-It's simple to use once you practice.
-
-## Cons
-
-It has a steep learning curve
-
-It has some performance issues, due to be fixed in the update.
-
-It can perform only a few simple operations with no scope for greater control.
-
-So, this is where a user-intuitive video editing software might come in handy. It's why you should rely on [Wondershare Filmora.](https://tools.techidaily.com/wondershare/filmora/download/)This video editor is a powerful and easy-to-use video editor. It offers more effects and resources than Windows 11 video editor.
-
-#### Wondershare Filmora
-
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![download](https://images.wondershare.com/filmora/images/filmora-box.png)
-
-While a native app may come pre-installed, Wondershare Filmora offers innovative and advanced editing features. It's suited to professionals and novices alike.
-
-### Advanced Audio Editing
-
-With Filmora, you can do a lot more with the audio. You can detect the music beat and synchronize the music accordingly. You can customize the timeline track controls. You can adjust the audio speed and control the transition of the audio.
-
-![beat detection with wondershare filmora](https://images.wondershare.com/filmora/guide/beat-detection-1.png)
-
-You can add not just sound effects, but you can detach the audio clip entirely from the video. Using the auto equalizer and auto mixer lets you completely control your audio set-up. These are simply the options you have available for editing audio.
-
-### Advanced Video Editing
-
-Video editing also offers an extensive array of options. You can enjoy the talents of the software in stabilizing the video you create. It can play the video in reverse. You can create a vibrant video bursting with color and life with advanced color tuning.
-
-You can easily create a video in a video effect thanks to green screens. This video-in-video effect can set your video creations a cut above the rest. The split-screen effect lets you do more with less.
-
-![filmora green screen](https://images.wondershare.com/filmora/guide/green-screen-overlay-video-chroma-key-settings.jpg)
-
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 The Windows Photos app is packed with exciting new features that make it an excellent in-house editor. It’s perfect for learning how to add music to video on windows 11\. It comes with a steep learning curve for new users. This might mean users need some time before they can use the app to full effect.
@@ -592,3 +719,49 @@ Filmora is easier to learn, more powerful. It's packed with advanced features th
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-laugh-out-loud-essential-comedy-channels-for-endless-fun/"><u>[New] 2024 Approved  Laugh Out Loud  Essential Comedy Channels for Endless Fun</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-invisible-edits-the-photoshop-specialists-guide/"><u>[New] Invisible Edits  The Photoshop Specialist's Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-premiere-pros-art-free-template-pack-2023/"><u>[New] Master Premiere Pro's Art  Free Template Pack 2023</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maximizing-video-quality-with-zooms-format-tools/"><u>[New] Maximizing Video Quality with Zoom's Format Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sony-fdr-x1000-videography-complete-review-edition/"><u>[New] Sony FDR-X1000 Videography - Complete Review Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-10-relaxing-hobbies-outside-the-athletic-domain/"><u>[New] Top 10 Relaxing Hobbies Outside the Athletic Domain</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-complete-guide-to-morphvox-voice-changer/"><u>[Updated] Complete Guide to MorphVOX Voice Changer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-examining-the-strengths-and-weaknesses-in-free2x-tools-for-2024/"><u>[Updated] Examining the Strengths and Weaknesses in Free2X Tools for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-masterpiece-models-best-of-the-computer-world/"><u>[Updated] Masterpiece Models  Best of the Computer World</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-maximizing-video-quality-in-zoom-conferences-on-win11/"><u>[Updated] Maximizing Video Quality in Zoom Conferences on Win11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pinnacle-panoramics-selecting-the-best-8k-cameras/"><u>[Updated] Pinnacle Panoramics  Selecting the Best 8K Cameras</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premier-pro-templates-of-the-year-free-version/"><u>[Updated] Premier Pro Templates of the Year - Free Version</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-6-solutions-for-multilingual-videos/"><u>[Updated] Premium 6 Solutions for Multilingual Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-preventing-phone-videoclip-distortion/"><u>[Updated] Preventing Phone Videoclip Distortion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-metaverse-reflections-a-pioneering-collection-of-thoughts/"><u>2024 Approved  Metaverse Reflections  A Pioneering Collection of Thoughts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sculpt-your-memories-with-iphone-burst-shots/"><u>2024 Approved  Sculpt Your Memories with iPhone Burst Shots</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-showcasing-creativity-an-assortment-of-top-5-book-vtts/"><u>2024 Approved  Showcasing Creativity  An Assortment of Top 5 Book VTTs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-soundstage-excellence-critical-interface-tips-for-podcasters/"><u>2024 Approved  Soundstage Excellence  Critical Interface Tips for Podcasters</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-video-vanguard-sj6-legend-against-xiaomis-yi-kickstart/"><u>2024 Approved  Video Vanguard  SJ6 Legend Against Xiaomi's Yi Kickstart</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-honor-magic-6-lite-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Honor Magic 6 Lite Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-6s-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 6s with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170572779-download-platforms-for-bg3-unveiled/"><u>Download Platforms for BG3 Unveiled</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-v30-pro-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo V30 Pro Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-6s-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 6s Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-inside-the-craft-of-creating-vr-films/"><u>In 2024, Inside The Craft of Creating VR Films</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leap-into-efficiency-with-quick-srt-to-txt-2023-guide/"><u>In 2024, Leap Into Efficiency with Quick SRT to TXT 2023 Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-metaspace-contrasted-with-cosmic-universe/"><u>In 2024, Metaspace Contrasted with Cosmic Universe</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-no-copyrights-required-best-10-melodies-for-zen-practice/"><u>In 2024, No Copyrights Required - Best 10 Melodies for Zen Practice</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-cloud-vaults-recommended-solutions/"><u>In 2024, Optimal Cloud Vaults  Recommended Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-g2-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo G2 Phone Now with These Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-fading-audio-tracks-through-audacitys-tools/"><u>In 2024, Perfecting Fading Audio Tracks Through Audacity's Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pinnacle-ai-transcribers-for-speech/"><u>In 2024, Pinnacle AI Transcribers for Speech</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pioneering-the-future-workplace-through-virtual-tech/"><u>In 2024, Pioneering the Future Workplace Through Virtual Tech</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-auto-track-cam-mount-for-smooth-shots/"><u>In 2024, Premier Auto-Track Cam Mount for Smooth Shots</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-rhythm-route-redistribution-your-playlist-anywhere/"><u>In 2024, Rhythm Route Redistribution  Your Playlist, Anywhere</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-scalability-strategies-adapting-to-large-scale-meetings-with-zoom-in-windows-11/"><u>In 2024, Scalability Strategies  Adapting to Large-Scale Meetings with Zoom in Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/instantpodstreams-a-step-by-step-approach-to-live-broadcasting-for-2024/"><u>InstantPodStreams  A Step-by-Step Approach to Live Broadcasting for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-quantum-hdr-principles-for-2024/"><u>Mastering Quantum HDR Principles for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revise-and-reshape-using-the-eraser-tool-in-photoshop-guide-for-2024/"><u>Revise & Reshape  Using the Eraser Tool in Photoshop Guide for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-compilation-of-top-sky-hd-sites/"><u>The Ultimate Compilation of Top Sky HD Sites</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/thumbnails-that-captivate-a-professionals-guide-to-visual-lures-for-2024/"><u>Thumbnails That Captivate  A Professional's Guide to Visual Lures for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/turn-your-webcam-into-a-broadcast-device-with-vlc/"><u>Turn Your Webcam Into a Broadcast Device with VLC</u></a></li>
+</ul></div>

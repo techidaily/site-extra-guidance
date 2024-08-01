@@ -1,7 +1,7 @@
 ---
 title: "\"[New] SRT Simplified  A Practical Manual for XML/SSA/TTML Transformation\""
-date: 2024-05-31T06:52:53.661Z
-updated: 2024-06-01T06:52:53.661Z
+date: 2024-07-31T14:14:41.723Z
+updated: 2024-08-01T14:14:41.723Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] SRT Simplified: A Practical Manual for XML/SSA/TTML Transformation\""
 excerpt: "\"This Article Describes [New] SRT Simplified: A Practical Manual for XML/SSA/TTML Transformation\""
 keywords: "\"XML to SRT Conversion,SSA TTML Guide,Simplified XML Scripts,SRT Format Manual,Text-to-Subtitles Transformation,XML Subtitle Editing,TTML and SRT Translation\""
-thumbnail: https://www.lifewire.com/thmb/nPjq8dKxfPk2blHP7ld-qvTcgbA=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/Android-Auto-vs-Apple-Carplay-392b0e27330d42f4be8ac186a3257459.jpg
+thumbnail: https://thmb.techidaily.com/f578a6dc00b86f004f0eebf050b3c39c1e5f0c46ca38580b5c0bd47ee47b9b9c.jpg
 ---
 
 ## SRT Simplified: A Practical Manual for XML/SSA/TTML Transformation
@@ -22,6 +22,9 @@ If it’s your first time handling an SRT file, there are high chances that you 
 
 Here, we’ve discussed the most reliable methods to convert SRT to XML, SSA, TTML, and other different formats. So, what are you waiting for? Scroll down to find out how to convert SRT without stress.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Which Platforms support SRT files?
 
 Before we discuss how to convert SRT to VTT, XML, TTML or any other format, it’ll be fair for us to know different social media and video platforms support what kind of subtitle formats to prevent future mistakes of opening VTT files on platforms that do not support VTT.
@@ -53,6 +56,9 @@ Step1 Visit [GoTranscript Subtitle Converter](https://gotranscript.com/subtitle-
 
 Step2 Click the “Upload” button to upload your SRT file.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![convert srt to xml](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-1.jpg)
 
 Step3 Select the file output format as “Flash XML (.xml)”. Then hit the “Convert” button to convert SRT to XML.
@@ -73,6 +79,9 @@ Step2 Click the “Upload” button to upload your SRT file.
 
 Step3 Click Convert to begin SRT to SSA conversion.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![click convert to begin srt to ssa](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-3.jpg)
 
 Step4 Finally, click the green Download icon to download the converted file to your device.
@@ -89,10 +98,16 @@ Step1 Open [Better Converter](https://www.better-converter.com/Subtitles-Convert
 
 Step2 Use the Browse button to upload your SRT file.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use browse to upload srt file](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-5.jpg)
 
 Step3 Once you upload the file, Better Converter will automatically convert it to TTML and download the file to your PC. You can find the file in the Download folder.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5: How to Convert SRT to SCC
 
 There are effective steps that could also come in handy if you want to convert SRT to SCC. But first, what is SCC? SCC (Scenarist Closed Captions) is a closed caption file that is used as a sidecar file in video editing and production programs. Such programs use it in saving unrendered videos before exporting them to the final video format. Unlike SRT, this type of file format can only be opened in certain applications as it’s not a universally accepted format.
@@ -107,6 +122,9 @@ Step2 Click on Select.SRT Files to upload the SRT file you want to convert to SC
 
 Step3 Under Select Output Formats, choose Scenarist (.scc).
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![choose scenarist](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-7.jpg)
 
 Step4 Enter your email into the relevant box and click the Convert button.
@@ -115,6 +133,9 @@ Step4 Enter your email into the relevant box and click the Convert button.
 
 The SRT file should be converted within a few minutes. Afterward, you can check for the converted files in your email.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 6: How to Convert SRT to FCPXML
 
 The FCPXML (Final Cut Pro XML) format is a totally different kind of caption file - it uses XML elements to describe data exchanged between the Final Cut Pro software and other third-party applications like Adobe Premiere Pro, LumaFusion, etc. This caption file format can only be used only on Final Cut Pro. So, if you're looking to convert SRT to FCPXML, you also need an online tool. Although the online tool that converts SRT to FCPXML is very limited, the Resolver Tool is one that does the job correctly. However, it only works efficiently with PC. So, we advise you use a PC for this operation.
@@ -125,6 +146,9 @@ Step1 Open Resolver Tools in your PC browser.
 
 Step2 Click on Choose File to upload the SRT file you want to convert.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![click on choose file to upload](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-9.jpg)
 
 Step3 Select FCPXML to SRT 1.5 and edit output as per requirement. Then, click Send File to begin SRT to FCPXML conversion.
@@ -153,6 +177,9 @@ Step1 Visit [GoTranscript Subtitle Converter](https://gotranscript.com/subtitle-
 
 Step2 Click the “Upload” button to upload your SRT file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![convert srt to xml](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-1.jpg)
 
 Step3 Select the file output format as “Flash XML (.xml)”. Then hit the “Convert” button to convert SRT to XML.
@@ -173,10 +200,16 @@ Step2 Click the “Upload” button to upload your SRT file.
 
 Step3 Click Convert to begin SRT to SSA conversion.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![click convert to begin srt to ssa](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-3.jpg)
 
 Step4 Finally, click the green Download icon to download the converted file to your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![clcik the green download icon](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-4.jpg)
 
 ## Part 4: How to Convert SRT to TTML
@@ -193,6 +226,9 @@ Step2 Use the Browse button to upload your SRT file.
 
 Step3 Once you upload the file, Better Converter will automatically convert it to TTML and download the file to your PC. You can find the file in the Download folder.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5: How to Convert SRT to SCC
 
 There are effective steps that could also come in handy if you want to convert SRT to SCC. But first, what is SCC? SCC (Scenarist Closed Captions) is a closed caption file that is used as a sidecar file in video editing and production programs. Such programs use it in saving unrendered videos before exporting them to the final video format. Unlike SRT, this type of file format can only be opened in certain applications as it’s not a universally accepted format.
@@ -207,6 +243,9 @@ Step2 Click on Select.SRT Files to upload the SRT file you want to convert to SC
 
 Step3 Under Select Output Formats, choose Scenarist (.scc).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose scenarist](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-7.jpg)
 
 Step4 Enter your email into the relevant box and click the Convert button.
@@ -225,10 +264,16 @@ Step1 Open Resolver Tools in your PC browser.
 
 Step2 Click on Choose File to upload the SRT file you want to convert.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![click on choose file to upload](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-9.jpg)
 
 Step3 Select FCPXML to SRT 1.5 and edit output as per requirement. Then, click Send File to begin SRT to FCPXML conversion.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select fcpxml to srt 1.5](https://images.wondershare.com/filmora/article-images/2022/09/convert-srt-to-xml-10.jpg)
 
 Once the conversion is completed, the FCPXML file will be saved to the Downloads folder on your PC automatically.
@@ -263,3 +308,46 @@ There’s no doubt that the SRT file format is one of the most popular subtitle 
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-beyond-staged-success-ten-truths-about-reels-on-instagram/"><u>[New] 2024 Approved  Beyond Staged Success  Ten Truths About Reels on Instagram</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-revolutionize-your-videos-top-10-mobile-editing-apps-on-iosandroid/"><u>[New] 2024 Approved  Revolutionize Your Videos  Top 10 Mobile Editing Apps on iOS/Android</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-investigating-diverse-google-ar-adornments/"><u>[New] Investigating Diverse Google AR Adornments</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-key-gear-for-broadcast-engineers-and-directors/"><u>[New] Key Gear for Broadcast Engineers and Directors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-innovators-in-virtual-reality-production/"><u>[New] Leading Innovators in Virtual Reality Production</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-luxury-leisure-levels-review-roundup/"><u>[New] LUXURY LEISURE LEVELS  Review Roundup</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-natural-and-artificial-blending-lights-in-iphone-photos/"><u>[New] Natural & Artificial  Blending Lights in iPhone Photos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premier-pro-templates-of-the-year-free-version/"><u>[New] Premier Pro Templates of the Year - Free Version</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-selective-enhancements-for-optimal-gopro-use/"><u>[New] Selective Enhancements for Optimal Gopro Use</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sizzling-skills-7-keys-for-scrumptious-video-cooking/"><u>[New] Sizzling Skills  7 Keys for Scrumptious Video Cooking</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-smooth-shooting-secured-choosing-ideal-tripods-and-gimbals/"><u>[New] Smooth Shooting Secured  Choosing Ideal Tripods & Gimbals</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-detecting-instagram-disconnections-fast-for-2024/"><u>[Updated] Detecting Instagram Disconnections Fast for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-androids-ultimate-guide-to-best-wildlife-games/"><u>[Updated] In 2024, Android's Ultimate Guide to Best Wildlife Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-intelligent-digital-diary-with-mematic-services/"><u>[Updated] Intelligent Digital Diary with Mematic Services</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-pip-views-on-chrome-across-devices/"><u>[Updated] Mastering PIP Views on Chrome Across Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-amateurs-to-a-listers-top-10-film-cameras-reviewed/"><u>2024 Approved  From Amateurs to A-Listers  Top 10 Film Cameras Reviewed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-public-access-zen-beats/"><u>2024 Approved  Public Access Zen Beats</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pvr-uno-customizable-media-solution/"><u>2024 Approved  PVR Uno  Customizable Media Solution</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-the-discrepant-nature-of-vr-and-full-sphere-capture/"><u>2024 Approved  Unraveling the Discrepant Nature of VR and Full Sphere Capture</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dive-deep-into-single-platform-livestreaming-with-onestream/"><u>Dive Deep Into Single-Platform Livestreaming with OneStream</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y36frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y36FRP Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-infinix-hot-30i-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Infinix Hot 30i FRP Without Computer</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-zoom-interface-like-a-pro-in-win11/"><u>In 2024, Navigating the Zoom Interface Like a Pro in Win11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-scene-selection-mastery-livestreams/"><u>In 2024, Scene Selection Mastery Livestreams</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-streamlining-your-youtube-video-logging-process/"><u>In 2024, Streamlining Your YouTube Video Logging Process</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-unleashing-music-from-tiktok-top-free-on-web-to-mp3-tools/"><u>In 2024, Unleashing Music From TikTok  Top Free, On-Web To MP3 Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inside-the-craft-of-creating-vr-films-for-2024/"><u>Inside The Craft of Creating VR Films for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/manage-srt-files-in-winmac-environments-for-2024/"><u>Manage SRT Files in Win/Mac Environments for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-podcast-submission-googles-steps-for-2024/"><u>Mastering Podcast Submission  Google's Steps for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-interview-landscape-a-guide-for-2024/"><u>Navigating the Interview Landscape  A Guide for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-through-top-film-makers-landscape-for-2024/"><u>Navigating Through Top Film Makers' Landscape for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/permanent-linkage-to-tiktok-profiles-without-hiccups-for-2024/"><u>Permanent Linkage to TikTok Profiles Without Hiccups for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-methods-to-adapt-track-paceplay-in-spotify-app-for-2024/"><u>Prime Methods to Adapt Track Paceplay in Spotify App for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/professional-recording-apps-faceoff-obs-vs-fraps/"><u>Professional Recording Apps Faceoff – OBS vs Fraps</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-v29-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo V29 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/snowboard-cross-winter-olympics-2022-highlights-for-2024/"><u>Snowboard Cross Winter Olympics 2022 Highlights for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spotlight-on-5-captivating-book-viddies-for-2024/"><u>Spotlight on 5 Captivating Book Viddies for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-most-controversial-names-leading-tech-today/"><u>The Most Controversial Names Leading Tech Today</u></a></li>
+</ul></div>

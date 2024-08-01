@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Podcast Dialogue  Tips & Practical Script Examples\""
-date: 2024-05-31T06:57:22.694Z
-updated: 2024-06-01T06:57:22.694Z
+date: 2024-07-31T18:53:16.043Z
+updated: 2024-08-01T18:53:16.043Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Mastering Podcast Dialogue: Tips & Practical Script Examples\""
 excerpt: "\"This Article Describes 2024 Approved: Mastering Podcast Dialogue: Tips & Practical Script Examples\""
 keywords: "Podcast Script Mastery,Dialogue Writing Tips,Script Examples for Podcasts,Effective Dialogue Techniques,Practical Podcast Scripting,Mastering Spoken Word Scripts,Creative Dialogue Crafting"
-thumbnail: https://www.lifewire.com/thmb/hM2M1LxRHZ_MoNKX2FHpkzmfRAQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/pope-francis-delivers-urbi-et-orbi-blessing-during-easter-mass-in-st-peter-s-square-485740869-57d398e53df78c5833492a26.jpg
+thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811cafc15697aa0c13fd607a950.jpg
 ---
 
 ## Mastering Podcast Dialogue: Tips & Practical Script Examples
@@ -24,22 +24,41 @@ Roaming about and searching on the internet for "How to write a podcast script" 
 
 A podcast script is simply a plan for the podcast that outlines the main topics in a sequence. Based on your feasibility and the type of show, it can be detailed or include the essential things. However, the majority of podcast scripts adhere to the following basic format.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![podcast script](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### Intro
 
 The intro is supposed to build the audience's interest as soon as they start listening to the podcast. So here, you will warmly welcome your listeners, say some icebreaker sentences, give your intro, and state teaser lines about the podcast.
 
 \*Pro tip: Don't reveal everything; keep it a little mysterious to hook listeners till the end.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Guest intro
 
 The guest introduction is crucial because people listen attentively if an expert addresses the topic. So, courteously welcome your guest, and mention his name, profession, achievements, and background (if related to the topic).
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Sponsor message
 
 Every brand has a distinct set of preferences; sometimes, they give you a script that you have to follow word for word, and other times they leave it up to you. In either case, the sponsor messaging should look natural and blend with the layout of your show. Besides, a persuasive sponsor message script will motivate listeners to buy brand products, thereby boosting your number of sponsors—a win-win situation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### Segue
 
 When there are multiple segments in an episode, transitions make switching from one to the next seamless. For example, it may be a piece of music, a phrase, motion graphics, etc.
@@ -48,10 +67,16 @@ When there are multiple segments in an episode, transitions make switching from 
 
 It's challenging to retain everything after listening to a significant amount of information. Hence, to facilitate listeners, summarize the entire episode and revise the key takeaways.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ### Outro
 
 It's time to acknowledge the listeners and guests for their precious time. To tie listeners to your show, you can mention references, make announcements, and reveal the topic and air time of the upcoming episode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### Call to action
 
 A straightforward call to action can boost the reach of the podcast. Here is how?
@@ -136,12 +161,18 @@ See you in the upcoming episode with another interesting topic \[topic name\].
 
 An interesting narrative-style podcast hosted and produced by Bob Carlson.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![unfictional narrative podcast](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-2.jpg)
 
 ##### [S-Town](https://podcasts.apple.com/us/podcast/s-town/id1212558767)
 
 A crime story podcast hosted by Brian Reed from Serial Productions, a New York Times company.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![s town cover](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-3.jpg)
 
 ##### [Bill Burr's Monday Morning](https://open.spotify.com/show/5SFiQlOQ3EKmwp0chE1QzY)
@@ -218,6 +249,9 @@ Hosted by Joe Rogan, a conversational style podcast it is.
 * Have room for improvisation.
 * Easy to plan as you just have to decide on the structure.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Template 3: The Ad-Libbed Show: A Flexible Script
 
 Hosts who love ad-libbing just need a bulleted list of some points to do an episode. Maybe it's because they are confident and experienced enough to deliver the episode without a stack of script papers.
@@ -265,6 +299,9 @@ CTAs: Follow the channel and forward it to your friends if you want to listen to
 
 "WTF with Marc Maron" is a comedy podcast show with a growing list of episodes. It's one of the best examples of an Ad-libbed flexible podcast script.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wtf podcast cover](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-7.jpg)
 
 ##### [Conan O'Brien Needs a Friend](https://open.spotify.com/show/3u26tlz7A3WyWRtXliX9a9)
@@ -303,6 +340,10 @@ In addition, you can include extra segments, like rapid fire, if you want to spi
 
 We all enjoy stories, but producing one is far harder than listening to one. Consider delivering the dialogues in your podcasts like a story, no matter what kind. Podcasts with a narrative format are popular because listeners' interest grows as the story unfolds. Hence, keeping them curious to find out what happens next.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### (3) Mark-ups your script
 
 A script devoid of notes is merely a piece of paper with text. "Mark-ups" is the practice of adding notes to scripts on specific elements, such as giggles, emphasis, pauses, etc. Being humans, we have emotions; therefore, adding emotions to your script will help your podcast sound like a casual, enjoyable conversation.
@@ -311,6 +352,9 @@ A script devoid of notes is merely a piece of paper with text. "Mark-ups" is the
 
 Here is an example of an annotated podcast script taken from the "[Lower Street](https://lowerstreet.co/how-to/write-podcast-script#how-to-manage-a-brand-sponsor-script)" website. As you can see, it depicts where to adjust the tone, take pause, put emphasis, etc. Also, you can annotate your writing in your style by adding certain symbols or utilizing various font styles.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### (4) Always Close with A Call To Action
 
 You are coming to the crucial section that will help expand your fan base. The Call To Action (CTA) is typically included in the outro, but you can experiment by placing it after the intro part. Whether it's an offer to join the group or a way to sign up for your newsletter, present it as simply as you can.
@@ -343,10 +387,16 @@ Along with the CTA message, it's a good idea to mention that following or subscr
 
 One of the most effective ways to keep the listeners interested throughout the episode is to communicate answers to their questions about that topic. The animating question is that a specific part of your episode answers an existing question. The key to finding the animating questions is "Research," which will help you focus on the answers listeners want to hear.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Podcast script Hot FAQs
 
 Sometimes the curiosity of people frightens me. Anyway, please don't bother yourself, as it's not a quote—just a random thought. Folks often come up with questions about podcast scripts; hence, the answers to those queries are provided below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. What podcast format is most popular?
 
 The "Interview" podcast format is currently the most popular. Experts are invited and interviewed to acquire their opinions on a topic in an interview format.
@@ -359,6 +409,9 @@ The discourse on a podcast should feel human rather than robotic; thus, the scri
 
 It's not a hard and fast rule to always have a podcast script, especially if you are a pro. But a bit of planning and organizing things beforehand can simplify your workflow.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 The crux of our discussion is that a compelling podcast script makes it simple to put ideas into action when your ultimate objective is to create high-quality content. Decide a format for your podcast if you haven't yet, pick up the script template accordingly, modify and mark up as per your needs and you are almost done.
@@ -391,3 +444,48 @@ The crux of our discussion is that a compelling podcast script makes it simple t
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-essential-steps-for-filming-using-logitech-webcam/"><u>[New] 2024 Approved  Essential Steps for Filming Using Logitech Webcam</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-direct-guide-saving-twitter-videos-on-your-mobile-device-for-2024/"><u>[New] Direct Guide  Saving Twitter Videos on Your Mobile Device for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-rhythms-unlocked-fb-downloads-galore/"><u>[New] In 2024, Rhythms Unlocked  FB Downloads Galore</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leap-into-editing-speedy-windows-photoshop-hacks/"><u>[New] Leap Into Editing  Speedy Windows Photoshop Hacks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-no-fee-audio-understanding-tool/"><u>[New] No-Fee Audio Understanding Tool</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-guide-to-crafting-realistic-motion-blur-effect-in-ps/"><u>[New] Quick Guide to Crafting Realistic Motion Blur Effect in PS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quintessential-storytelling-transforming-film-art/"><u>[New] Quintessential Storytelling Transforming Film Art</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-rapidly-constructing-a-dynamic-facebook-visual-narrative/"><u>[New] Rapidly Constructing a Dynamic Facebook Visual Narrative</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-spotlight-on-superiority-top-ten-camera-lens-picks/"><u>[New] Spotlight on Superiority  Top Ten Camera Lens Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-exclusive-list-of-elite-christian-streaming-services/"><u>[New] The Exclusive List of Elite Christian Streaming Services</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-youtube-alternatives-3-best-video-sharing-sites/"><u>[Updated] In 2024, YouTube Alternatives  3 Best Video Sharing Sites</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-insightful-ways-of-gathering-photographic-elements/"><u>[Updated] Insightful Ways of Gathering Photographic Elements</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-melody-meters-your-guide-to-free-online-pulse-detectors/"><u>[Updated] Melody Meters  Your Guide to Free Online Pulse Detectors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-precision-shooting-leading-10-gimbals-ranked/"><u>[Updated] Precision Shooting  Leading 10 Gimbals Ranked</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smooth-shots-stronger-impressions-fixing-iphone-video-instability/"><u>[Updated] Smooth Shots, Stronger Impressions  Fixing iPhone Video Instability</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pexels-101-finding-the-picture-of-your-dreams/"><u>2024 Approved  Pexels 101  Finding the Picture of Your Dreams</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-visual-sneak-peek-bundle/"><u>2024 Approved  Premier Visual Sneak Peek Bundle</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-commercial-cloud-vaulting-services/"><u>2024 Approved  Premium Commercial Cloud Vaulting Services</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pro-webcams-8-your-go-to-for-flawless-livestreams/"><u>2024 Approved  Pro Webcams 8  Your Go-To for Flawless Livestreams</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-social-media-savant-writes-on-mastering-brand-promotion/"><u>2024 Approved  The Social Media Savant' Writes on Mastering Brand Promotion</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-nokia-c32-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Nokia C32 FRP</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-the-art-of-tracking-network-activity-via-netstat-in-win11/"><u>Discover the Art of Tracking Network Activity via Netstat in Win11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-oppo-find-n3-screen-sharing-drfone-by-drfone-android/"><u>How To Do Oppo Find N3 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-12-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 12 5G Bootloader Easily</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-instant-collage-creation-tips-for-social-media-posts/"><u>In 2024, Instant Collage Creation Tips for Social Media Posts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-integrating-lut-technology-into-your-obs-setup/"><u>In 2024, Integrating LUT Technology Into Your OBS Setup</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-device-editors-for-app-development-art/"><u>In 2024, Leading Device Editors for App Development Art</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-melodic-mix-audio-meets-images-online/"><u>In 2024, Melodic Mix  Audio Meets Images Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-video-transformations-in-vlc-from-mp4-variety/"><u>In 2024, Navigating Video Transformations in VLC From MP4 Variety</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-proven-steps-to-convert-webp-to-high-quality-jpeg/"><u>In 2024, Proven Steps to Convert WebP to High-Quality JPEG</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-premium-free-srt-translation-websites-for-business-use/"><u>In 2024, Unveiling Premium Free SRT Translation Websites for Business Use</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/is-av1-the-new-video-codec-front-runner-in-2024/"><u>Is AV1 The New Video Codec Front-Runner, In 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-brand-collaboration-on-youtube-for-2024/"><u>Mastering Brand Collaboration on YouTube for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-tiktok-how-to-set-and-modify-your-profile-age-for-2024/"><u>Mastering TikTok  How to Set & Modify Your Profile Age for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pc-image-management-for-iphone-integration-for-2024/"><u>PC Image Management for iPhone Integration for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/plain-definitions-in-storytelling-basics-for-2024/"><u>Plain Definitions in Storytelling Basics for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/remove-default-podcasts-from-your-spotify-feed-for-2024/"><u>Remove Default Podcasts From Your Spotify Feed for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionary-audio-alteration-for-enhanced-pubg-experience-for-2024/"><u>Revolutionary Audio Alteration for Enhanced PUBG Experience for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/smooth-operations-leading-windows-phones-videos-for-2024/"><u>Smooth Operations  Leading Windows Phones Videos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/starters-guide-to-optimal-gopro-accessories-list/"><u>Starter’s Guide to Optimal GoPro Accessories List</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/vidstreamer-for-social-platforms/"><u>VIDStreamer for Social Platforms</u></a></li>
+</ul></div>

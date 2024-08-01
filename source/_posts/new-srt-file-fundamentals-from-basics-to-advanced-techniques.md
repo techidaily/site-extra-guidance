@@ -1,7 +1,7 @@
 ---
 title: "\"[New] SRT File Fundamentals  From Basics to Advanced Techniques\""
-date: 2024-05-31T06:56:07.026Z
-updated: 2024-06-01T06:56:07.026Z
+date: 2024-07-31T17:33:53.636Z
+updated: 2024-08-01T17:33:53.637Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] SRT File Fundamentals: From Basics to Advanced Techniques\""
 excerpt: "\"This Article Describes [New] SRT File Fundamentals: From Basics to Advanced Techniques\""
 keywords: "SRT Mastery,Basic SRT Guide,Advanced SRT Tech,SRT Fundamentals,SRT Essentials,Proficient SRT Skills,Expert SRT Methods"
-thumbnail: https://www.lifewire.com/thmb/VzXuyz80lUKLaWW9Q85Xntrc90Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/mobile-tv-watching-521008101-5bedbaefc9e77c00513d6d6c.jpg
+thumbnail: https://thmb.techidaily.com/b291d1186c17a0e27af028a28ffb312d4304bf88d64275a707a4eb2f0cc766f8.jpg
 ---
 
 ## SRT File Fundamentals: From Basics to Advanced Techniques
@@ -32,6 +32,10 @@ Before we proceed to the main discussion of the day, it'll be necessary to under
 
 SRT Subtitles (SubRip subtitles) are text formats that are generated from DVD-ripping software SubRip. Most companies and content creators today use them in their videos to facilitate easy understanding of their videos. Thus, allowing their videos to get higher engagement and views.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to create a .srt file for video on Windows?
 
 To create a .srt file for your video on a Windows computer is pretty simple. Yes, you don't require technical knowledge or any third-party software for such an operation. All it takes is just a few clicks.
@@ -108,16 +112,26 @@ Step4 Repeat step 2&3 for the remaining subtitle contents.
 
 See what an SRT subtitle looks like below;
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![an example of an srt subtitle on mac](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-for-video-on-mac-1.jpg)
 
 Step5 Review and edit the subtitle.
 
 Step6 To complete the operation, click **‘File’** at the top bar and select **Save** from the drop-down. Then navigate to ‘**Save As’** and type your file name, and change the extension from .txt to .srt.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![click on file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-for-video-on-mac-2.jpg)
 
 Make sure you Uncheck the ‘Hide Extension’ and ‘If no extension is provided’ checkboxes. Then click the ‘Save’ button to complete the operation!
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pro Tips: DIY SRT Creation for Videos like a Pro After Creating
 
 Are you looking to make advanced editing on the SRT subtitles you created? [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the ideal tool to help you complete the action.
@@ -134,10 +148,16 @@ Unlike many other advanced .srt editors, Filmora supports the creation of SRT su
 
 Step1 Download Filmora from the official website and install it on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![guide picture](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-2.jpg)
 
 Step2 Start the Filmora program and import the SRT file that you're looking to edit from your PC. Alternatively, you can just drag-n-drop the file.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start filmora program](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-for-videos-1.jpg)
 
 Step3 Drag-n-drop the .srt file into the Timeline. Then right-click on it and select ‘Advanced Edit’ from the pop-up list.
@@ -155,6 +175,9 @@ Step4 Now, edit the SRT file as per requirements. The following editing operatio
 
 Step5 Once you've successfully edited the SRT file. Navigate to the timeline and right-click on the SRT file. Then select ‘Export Subtitle File’ and save it to your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select export subtitle file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-for-videos-4.jpg)
 
 Filmora is the best choice for any kind of SRT editing. It doesn't matter if it's basic or advanced editing, all it takes is just a few clicks.
@@ -181,6 +204,9 @@ The stepwise guide illustrated below will walk you through how to create an SRT 
 
 Step1 Start your Windows computer and open the Notepad program. Then create a new file.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![create a new file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-1.jpg)
 
 Step2 Up next, play your video and listen to the first line of the dialogue. Then pause it and write your first subtitle in the note by doing the following;
@@ -253,10 +279,16 @@ Step5 Review and edit the subtitle.
 
 Step6 To complete the operation, click **‘File’** at the top bar and select **Save** from the drop-down. Then navigate to ‘**Save As’** and type your file name, and change the extension from .txt to .srt.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-for-video-on-mac-2.jpg)
 
 Make sure you Uncheck the ‘Hide Extension’ and ‘If no extension is provided’ checkboxes. Then click the ‘Save’ button to complete the operation!
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Pro Tips: DIY SRT Creation for Videos like a Pro After Creating
 
 Are you looking to make advanced editing on the SRT subtitles you created? [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the ideal tool to help you complete the action.
@@ -265,6 +297,9 @@ Filmora is a professional video editing software that is loaded with a wide rang
 
 Unlike many other advanced .srt editors, Filmora supports the creation of SRT subtitles in over 20 languages including English. And the cool thing is you don't need technical knowledge to operate the tool as it has a clean interface that makes navigation easier than you can ever think.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### How to use Filmora to Edit SRT files for Videos after Creating
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -285,6 +320,9 @@ Step3 Drag-n-drop the .srt file into the Timeline. Then right-click on it and se
 
 Step4 Now, edit the SRT file as per requirements. The following editing operations you can perform with Filmora include;
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit srt file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-for-videos-3.jpg)
 
 * Edit time code.
@@ -294,10 +332,16 @@ Step4 Now, edit the SRT file as per requirements. The following editing operatio
 
 Step5 Once you've successfully edited the SRT file. Navigate to the timeline and right-click on the SRT file. Then select ‘Export Subtitle File’ and save it to your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select export subtitle file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-for-videos-4.jpg)
 
 Filmora is the best choice for any kind of SRT editing. It doesn't matter if it's basic or advanced editing, all it takes is just a few clicks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Final Words
 
 You need SRT to make your videos easy to understand. So, if you're looking to create SRT, this article has introduced all effective methods that you can always rely on to get the job done seamlessly.
@@ -326,3 +370,42 @@ You can create SRT on Windows using Notepad or on Mac using TextEdit. However, t
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-panopticam-review-breakdown/"><u>[New] In 2024, PanoptiCam Review Breakdown</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-intro-creation-made-simple-free-templates/"><u>[New] Intro Creation Made Simple - Free Templates</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-magic-photo-management-decoded-by-reviews/"><u>[New] Magic Photo Management Decoded by Reviews</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-most-popular-firefox-visual-recorders/"><u>[New] Most Popular Firefox Visual Recorders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimize-clarity-mastering-close-up-techniques-in-videoleap/"><u>[New] Optimize Clarity  Mastering Close-Up Techniques in Videoleap</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-overcoming-common-windows-10-photos-display-problems/"><u>[New] Overcoming Common Windows 10 Photos Display Problems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pioneering-medical-messaging-in-digital-advertising/"><u>[New] Pioneering Medical Messaging in Digital Advertising</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-polarrs-complete-guide-mastering-image-editing/"><u>[New] Polarr's Complete Guide  Mastering Image Editing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-collage-apps-for-android-lovers/"><u>[New] Prime Collage Apps for Android Lovers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-real-time-videography-scaler/"><u>[New] Real-Time Videography Scaler</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-shattering-limits-of-visuals-standard-definition-to-hdr-revolution/"><u>[New] Shattering Limits of Visuals  Standard Definition to HDR Revolution</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-the-secrets-of-captivating-auditory-and-visual-sensations-in-asmr-videos/"><u>[New] Unlocking the Secrets of Captivating Auditory & Visual Sensations in ASMR Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-charting-a-course-through-websites-of-youtube-affiliates-for-2024/"><u>[Updated] Charting a Course Through Websites of YouTube Affiliates for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-cut-costs-improve-videos-learn-free-vimeo-editing/"><u>[Updated] Cut Costs, Improve Videos  Learn Free Vimeo Editing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mobile-panorama-tips-for-skyward-shots/"><u>[Updated] Mobile Panorama Tips for Skyward Shots</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-navigating-the-world-of-instagram-filters-a-comprehensive-guide-to-2023-for-2024/"><u>[Updated] Navigating the World of Instagram Filters  A Comprehensive Guide to 2023 for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-world-of-srt-alteration-in-macos-systems/"><u>[Updated] Navigating the World of SRT Alteration in macOS Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimal-quick-glance-windows-photo-app/"><u>[Updated] Optimal Quick Glance Window's Photo App</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-proven-methods-to-improve-macro-video-quality-and-aesthetics/"><u>[Updated] Proven Methods to Improve Macro Video Quality and Aesthetics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-starting-off-smoothly-with-fast-forwarding-in-snapchat/"><u>[Updated] Starting Off Smoothly with Fast-Forwarding in Snapchat</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-websites-for-acoustic-phone-alerts/"><u>2024 Approved  Leading Websites for Acoustic Phone Alerts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-live-stream-perfection-an-experts-take-on-webcams/"><u>2024 Approved  Live Stream Perfection  An Expert's Take on WebCams</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-camera-spin-top-professionals-360cameras-of-2023/"><u>2024 Approved  Pioneering Camera Spin  Top Professionals’ 360°Cameras of 2023</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-secrets-for-successful-live-streams-on-youtube-with-a-tiny-fanbase/"><u>2024 Approved  Secrets for Successful Live Streams on YouTube with a Tiny Fanbase</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-smartphones-ultimate-guide-to-image-editing-and-annotation/"><u>2024 Approved  Smartphones' Ultimate Guide to Image Editing & Annotation</u></a></li>
+<li><a href="https://win11.techidaily.com/a-compreenas-of-the-most-reliable-window-pomodoros-for-work/"><u>A Compreenas of The Most Reliable Window Pomodoros for Work</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-list-elite-call-alert-engineers/"><u>In 2024, Leading List  Elite Call Alert Engineers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leaping-from-low-quality-to-hdri-mastery-your-ultimate-guide/"><u>In 2024, Leaping From Low Quality to HDRI Mastery - Your Ultimate Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-virtual-worlds-compreenas-top-8-metaverse-headgear/"><u>In 2024, Mastering Virtual Worlds  Compreenas Top 8 Metaverse Headgear</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-days-for-podcast-drops/"><u>In 2024, Optimal Days for Podcast Drops</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pinnacle-vision-studio-review-yearly-update/"><u>In 2024, Pinnacle Vision Studio Review  Yearly Update</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/key-principles-to-write-captivating-vlog-dialogues-for-2024/"><u>Key Principles to Write Captivating Vlog Dialogues for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quick-file-sync-pc-content-to-iphone-compatibility/"><u>Quick File Sync  PC Content to iPhone Compatibility</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/top-10-tiktok-viral-videos-on-twitter-for-2024/"><u>Top 10 TikTok Viral Videos on Twitter for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-tones-expert-chromatic-conversion-for-2024/"><u>Transformative Tones  Expert Chromatic Conversion for 2024</u></a></li>
+</ul></div>

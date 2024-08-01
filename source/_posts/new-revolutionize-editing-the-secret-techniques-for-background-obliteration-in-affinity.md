@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Revolutionize Editing  The Secret Techniques for Background Obliteration in Affinity\""
-date: 2024-05-31T06:57:01.134Z
-updated: 2024-06-01T06:57:01.134Z
+date: 2024-07-31T18:30:51.812Z
+updated: 2024-08-01T18:30:51.812Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Revolutionize Editing: The Secret Techniques for Background Obliteration in Affinity\""
 excerpt: "\"This Article Describes [New] Revolutionize Editing: The Secret Techniques for Background Obliteration in Affinity\""
 keywords: "FireSoundAlter,BeginnerFireTechniques,AlteringFireAudio,NewIdentitySoundEdit,StartFireAlteration,FreeSoundFireChange,IdentityShiftEditMusic"
-thumbnail: https://www.lifewire.com/thmb/BFH4IjacJgo8OjvfJ9Ze8PwUVIM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1212937831-e325a23541f44dbcacab2ea0a3a13ca8.jpg
+thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a686ee8cbfaaa30ee82b5b40.jpg
 ---
 
 ## Revolutionize Editing: The Secret Techniques for Background Obliteration in Affinity
@@ -22,6 +22,9 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
@@ -42,6 +45,10 @@ Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and 
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -50,12 +57,18 @@ Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, 
 
 Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** menu. A red mask will be applied to your subject, giving you an idea of how your image will look once you remove the background. Zoom in and if any details are excluded, paint them over. Once you are satisfied, click **"Apply"** to save your changes.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -81,6 +94,9 @@ Step5 In this last step, you must deselect the outline around your subject. For 
 
 Finally, click **"File"** and select the **"Export"** option from the drop-down menu. Then, in the Export Settings menu, choose PNG and click **"Export"** to save your file on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
@@ -91,6 +107,9 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -125,6 +144,9 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -175,3 +197,37 @@ Hopefully, this article and video can help you create ideal images!
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-brevity-in-action-the-process-of-shortening-youtube-videos/"><u>[New] In 2024, Brevity in Action  The Process of Shortening YouTube Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-maximize-video-conferencing-value-discover-our-top-10-recorder-picks-for-2024/"><u>[New] Maximize Video Conferencing Value - Discover Our Top 10 Recorder Picks for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-days-to-launch-podcasts/"><u>[New] Navigating Days to Launch Podcasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-no-budget-no-problem-here-are-the-best-vfx-pages/"><u>[New] No Budget? No Problem! Here Are the Best VFX Pages</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-photoshop-tutorial-creating-3d-text-illusions/"><u>[New] Photoshop Tutorial  Creating 3D Text Illusions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-silent-sounds-elegant-dimming-in-garageband-projects/"><u>[New] Silent Sounds  Elegant Dimming in Garageband Projects</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-speeding-up-your-streams-the-netflix-efficiency-guide/"><u>[New] Speeding Up Your Streams  The Netflix Efficiency Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-harnessing-your-cameras-power-for-live-online-content-on-personal-computers-for-2024/"><u>[Updated] Harnessing Your Camera's Power for Live Online Content on Personal Computers for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-kodi-remote-x-wmps-easy-alternative/"><u>[Updated] Kodi Remote X  WMP's Easy Alternative</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-m1-mastery-seamless-editing-with-video-tools/"><u>[Updated] M1 Mastery  Seamless Editing with Video Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smartphone-image-editing-the-best-free-layers-and-tools-guide-top-10/"><u>[Updated] Smartphone Image Editing - The Best Free Layers & Tools Guide (Top 10)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smilesphere-explore-limitless-meme-landscapes/"><u>[Updated] SmileSphere  Explore Limitless Meme Landscapes</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-3d-luts-complete-guide/"><u>2024 Approved  Mastering 3D LUTs  Complete Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-melodic-mambos-macaws/"><u>2024 Approved  Melodic Mambos Macaws</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-altered-text-aesthetics-in-visual-media/"><u>2024 Approved  Perfecting Altered Text Aesthetics in Visual Media</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photoshop-shake-control-necessary-tool-or-unnecessary/"><u>2024 Approved  Photoshop Shake Control  Necessary Tool or Unnecessary?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sonys-game-console-enhance-auditory-experience/"><u>2024 Approved  Sony's Game Console  Enhance Auditory Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/eyemosaic-the-essential-photo-patcher-for-2024/"><u>EyeMosaic  The Essential Photo Patcher for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-tecno-phantom-v-fold-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Tecno Phantom V Fold to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-c53-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme C53 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimize-your-shots-with-pro-light-tips-for-iphones/"><u>In 2024, Optimize Your Shots with Pro Light Tips for IPhones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pinterests-top-free-tools-effortless-video-downloads-online/"><u>In 2024, Pinterest’s Top Free Tools  Effortless Video Downloads Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-refining-your-online-visual-experience-with-zooms/"><u>In 2024, Refining Your Online Visual Experience with Zooms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-secrets-of-savings-the-ultimate-list-of-boxes-buying-websites/"><u>In 2024, Secrets of Savings  The Ultimate List of Boxes-Buying Websites</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/screen-savvy-starting-point-deciphering-display-standards-for-2024/"><u>Screen-Savvy Starting Point  Deciphering Display Standards for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/simplified-guide-to-switching-clownfish-voices-on-win-for-2024/"><u>Simplified Guide to Switching Clownfish Voices on Win for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/uninterrupted-gameplay-with-xbox-s-controller/"><u>Uninterrupted Gameplay with Xbox S Controller</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unlocking-your-pc-games-with-ease-on-windows-10-for-2024/"><u>Unlocking Your PC Games with Ease on Windows 10 for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-how-to-make-a-memorable-honeymoon-video/"><u>Updated In 2024, How to Make a Memorable Honeymoon Video</u></a></li>
+</ul></div>

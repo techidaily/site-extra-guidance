@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Leveraging Alternative Footage in Filmmaking"
-date: 2024-05-31T06:56:28.366Z
-updated: 2024-06-01T06:56:28.366Z
+date: 2024-07-31T17:56:23.093Z
+updated: 2024-08-01T17:56:23.093Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Leveraging Alternative Footage in Filmmaking"
 excerpt: "This Article Describes In 2024, Leveraging Alternative Footage in Filmmaking"
 keywords: "\"Film Alt Footage Use,Creative Footage Strategy,Alternative Video Methods,Innovative Cinematography,Unique Film Scenarios,Diverse Filmmaking Techniques,Non-Traditional Image Capture\""
-thumbnail: https://www.lifewire.com/thmb/E-bplQlBHLm0L2wSA_D5laHXhBM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/google-meet-camera-not-working-how-to-fix-the-problem-5201889-1-266a66056f7f4b3e945b24c0de3a729b.jpg
+thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468dfb7fb68a3c7508632db1da6.jpg
 ---
 
 ## Leveraging Alternative Footage in Filmmaking
@@ -22,6 +22,14 @@ B roll is a phrase used to describe supplemental video, which is frequently used
 
 Now that we know that, let's dive in!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -32,6 +40,9 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -40,10 +51,16 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
@@ -52,6 +69,9 @@ Aerial B roll is the solution when you like to show your viewers where your film
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
@@ -60,6 +80,9 @@ B roll footage can be used to tell a story that supports the narrative of your v
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ### 5\. Atmospheric b roll footage
 
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
@@ -108,3 +131,51 @@ We sincerely hope that this post will be of use to you in making your films more
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-50plus-motivational-messages-from-tiktok-stars-for-2024/"><u>[New] 50+ Motivational Messages From TikTok Stars for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-automating-subtitles-for-social-media-visuals-on-instagram-for-2024/"><u>[New] Automating Subtitles for Social Media Visuals on Instagram for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-lecture-transcription-at-zero-expense/"><u>[New] Lecture Transcription at Zero Expense</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mix-mastery-syncing-audio-to-windows-11-videos/"><u>[New] Mix Mastery  Syncing Audio to Windows 11 Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfect-pages-with-premieres-fade-techniques/"><u>[New] Perfect Pages with Premiere's Fade Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfecting-your-sound-palette-with-audacity-crossfading/"><u>[New] Perfecting Your Sound Palette with Audacity Crossfading</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-picabuze-funny-image-creation-for-free/"><u>[New] Picabuze  Funny Image Creation for Free</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-podcasts-vs-youtube-which-should-you-choose/"><u>[New] Podcasts Vs. YouTube  Which Should You Choose?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-alert-tones-selective-websites-guide/"><u>[New] Prime Alert Tones  Selective Websites Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-uav-options-to-maximize-your-gopro-video-potential/"><u>[New] Prime UAV Options to Maximize Your GoPro Video Potential</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-profound-analysis-of-morphvox-technology-and-its-role-in-audio-modification/"><u>[New] Profound Analysis of MorphVOX Technology and Its Role in Audio Modification</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-refining-shots-with-gopros-advanced-color-tools/"><u>[New] Refining Shots with GoPro's Advanced Color Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-samsungs-latest-bd-edition-k850-update/"><u>[New] Samsung's Latest BD Edition - K850 Update</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-iphone-guide-for-free-downloaded-podcast-episodes/"><u>[New] Step-by-Step iPhone Guide for Free Downloaded Podcast Episodes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-adventure-the-best-6-gopro-mounts-revealed/"><u>[Updated] Mastering Adventure  The Best 6 GoPro Mounts Revealed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-free-photo-frame-video-downloads/"><u>[Updated] Mastering Free Photo Frame Video Downloads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pro-hunters-choice-best-camcorders-unveiled/"><u>[Updated] Pro Hunters Choice  Best Camcorders Unveiled</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-significant-20-public-domain-pubg-snapshot-packs/"><u>[Updated] Significant 20 Public Domain PUBG Snapshot Packs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-iphone-video-capture-apps/"><u>[Updated] Top 10 iPhone Video Capture Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unexpected-angle-alterations-in-instagram-video-posts/"><u>[Updated] Unexpected Angle Alterations in Instagram Video Posts</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-instagram-stardom-through-strategic-reel-making/"><u>2024 Approved  Instagram Stardom Through Strategic Reel Making</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-tip-crafting-perfect-insta-collages/"><u>2024 Approved  Quick Tip  Crafting Perfect Insta Collages</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-apple-iphone-6s-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from Apple iPhone 6s</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-apple-iphone-11-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your Apple iPhone 11 for Free</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-oppo-a1-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Oppo A1 5G Face Lock?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-fb-easy-listen-no-pay-required/"><u>In 2024, FB Easy Listen  No Pay Required</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-first-steps-in-the-youtubian-economy-building-a-brand-boosting-bank-balance/"><u>In 2024, First Steps in the Youtubian Economy  Building a Brand, Boosting Bank Balance</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-y36-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo Y36 Phone?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-youtubes-subtitle-system-download-with-ease-using-3-methods/"><u>In 2024, Navigating YouTube's Subtitle System  Download with Ease Using 3 Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-progressive-procedure-masterful-method-with-applewatch/"><u>In 2024, Progressive Procedure  Masterful Method with AppleWatch</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reviewing-microsoft-hololens-the-3d-interactive-future/"><u>In 2024, Reviewing Microsoft HoloLens  The 3D Interactive Future</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-rhythmic-resonance-select-sites-for-downloading-tones/"><u>In 2024, Rhythmic Resonance  Select Sites for Downloading Tones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/iphone-image-transfer-methods-explained-for-2024/"><u>IPhone Image Transfer Methods Explained for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/jumpstart-your-journey-learning-snapseed-techniques-for-2024/"><u>Jumpstart Your Journey  Learning Snapseed Techniques for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-telegram-web-a-beginners-walkthrough-for-2024/"><u>Mastering Telegram Web  A Beginner's Walkthrough for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-tiktok-visual-enhancements-for-2024/"><u>Mastering the Art of TikTok Visual Enhancements for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-instagrams-video-landscape-a-detailed-look-for-2024/"><u>Navigating Instagram's Video Landscape  A Detailed Look for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pictorial-mosaic-construction-with-digital-photography-for-2024/"><u>Pictorial Mosaic Construction with Digital Photography for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/radiance-studios-review-pinnacle-suite-deep-dive-into-studio-25-2023-for-2024/"><u>Radiance Studios Review  Pinnacle Suite Deep Dive Into Studio 25, 2023 for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/saturation-savvy-professionals-secrets-revealed-for-2024/"><u>Saturation Savvy  Professionals' Secrets Revealed for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/saving-display-options-fix-in-win-7-and-10-solved/"><u>Saving Display Options: Fix in Win 7 & 10 [Solved]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sharp-images-no-fog-protecting-gopro-quality-for-2024/"><u>Sharp Images, No Fog  Protecting GoPro Quality for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-lava-blaze-curve-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Lava Blaze Curve 5G IMEI without Root A Comprehensive Guide</u></a></li>
+</ul></div>

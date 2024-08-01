@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterclass  From Yi's 4K to Thrilling Cinematography\""
-date: 2024-06-28T05:28:37.296Z
-updated: 2024-06-29T05:28:37.296Z
+date: 2024-07-31T13:42:37.364Z
+updated: 2024-08-01T13:42:37.364Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582
 
 # Yi 4K + Action Camera Complete Review
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -114,10 +118,16 @@ Yi 4K is designed with built in Wi-Fi abilities so that users can make direct co
 
 The future firmware update of Yi 4K+ action camera is supposed to bring so many interesting features into this tiny device. It will be extending support towards live streaming facility and raw images will be soon processed. The most interesting addition will be voice command support that will make control actions much easier during adventurous sports recording needs. This device will be offering impressive high performance service while consuming very low power and all ultra HD videos will deliver crisper details with elegant color distributions.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Yi 4K+ is first action camera device to support 60fps frame rate at 4K resolution level and it further provides 8MP support to every still while ensuring crisp and deep details. There are several interesting features inside this tiny action cam including USB-C external mic connectivity and many more. However, you may also find few troubles like it cannot go underwater without protective housing. It not even extends support to live streaming and RAW files cannot be processed. But, even after so many downsides, its amazing video quality makes it standout against all competitors. You must order your new action camera soon.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -134,3 +144,51 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-comprehensive-list-securing-monetized-youtube-content-for-2024/"><u>[New] Comprehensive List  Securing Monetized YouTube Content for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-efficiently-tackling-twitter-archive-data-analysis-for-2024/"><u>[New] Efficiently Tackling Twitter Archive Data Analysis for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-live-action-9-the-ultimate-guide/"><u>[New] Live Action, #9  The Ultimate Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterful-sound-setup-ultimate-tips-and-gear-list/"><u>[New] Masterful Sound Setup  Ultimate Tips & Gear List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-practical-techniques-for-downloading-youtube-srt/"><u>[New] Practical Techniques for Downloading YouTube SRT</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-correction-quest-how-to-skillfully-edit-images-on-win10/"><u>[New] Quick Correction Quest  How to Skillfully Edit Images on WIN10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reimagine-your-content-with-advanced-number-edits-in-tiktok/"><u>[New] Reimagine Your Content with Advanced Number Edits in TikTok</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-save-on-soccer-spectacles-live-tape-trim-for-free/"><u>[New] Save on Soccer Spectacles - Live, Tape, Trim for Free</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-shooting-hdr-on-iphone-a-comprehensive-guide/"><u>[New] Shooting HDR on iPhone  A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-art-of-tweaking-soundtracks-in-youtube-videos/"><u>[New] The Art of Tweaking Soundtracks in YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-beginners-steps-to-broadcast-on-youtube-via-obs/"><u>[Updated] 2024 Approved  Beginner's Steps to Broadcast on Youtube via OBS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-easy-way-to-establish-collaborative-conversations-on-skype-regardless-of-your-operating-system/"><u>[Updated] In 2024, Easy Way to Establish Collaborative Conversations on Skype, Regardless of Your Operating System</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-introducing-the-essence-of-motion-blur-techniques-on-iphone-for-2024/"><u>[Updated] Introducing the Essence of Motion-Blur Techniques on iPhone for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-keep-the-curiosity-alive-with-these-6-viewer-friendly-types/"><u>[Updated] Keep the Curiosity Alive with These 6 Viewer-Friendly Types</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-use-of-telegram-in-a-step-by-step-approach/"><u>[Updated] Mastering the Use of Telegram in a Step-by-Step Approach</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-avi-gif-transformation-an-all-inclusive-guide-by-filmora/"><u>2024 Approved  Master AVI-GIF Transformation  An All-Inclusive Guide by Filmora</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-nine-leading-iphone-image-watermarking-tools-analysis/"><u>2024 Approved  Nine Leading iPhone Image Watermarking Tools Analysis</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-proven-tips-and-tricks-to-nail-every-green-screen-scene/"><u>2024 Approved  Proven Tips and Tricks to Nail Every Green Screen Scene</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-smart-spending-on-action-cams-find-your-bargains-under-100/"><u>2024 Approved  Smart Spending on ACTION Cams  Find Your Bargains Under $100</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-the-potency-of-open-source-video-engines/"><u>2024 Approved  Unleashing the Potency of Open Source Video Engines</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-redmi-note-13-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Redmi Note 13 5G?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-choices-our-exclusive-top-10-gopro-case-picks-for-2024/"><u>Ideal Choices  Our Exclusive Top 10 GoPro Case Picks for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-realme-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Realme FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-11-pro-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 11 Pro Max When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-lenovo-thinkphone-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Lenovo ThinkPhone to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-instagrams-unique-video-display-a-deep-dive/"><u>In 2024, Instagram’s Unique Video Display  A Deep Dive</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-iphone-photography-techniques-for-clear-mirror-captures/"><u>In 2024, IPhone Photography  Techniques for Clear Mirror Captures</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Mega Mewtwo The Strongest Pokémon On Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-portable-battery-packs-to-keep-recording-longer/"><u>In 2024, Portable Battery Packs to Keep Recording Longer</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-humor-photoshop-studio/"><u>In 2024, Premier Humor Photoshop Studio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-unmanned-aerial-vehicles-for-gopro-recording/"><u>In 2024, Premium Unmanned Aerial Vehicles for GoPro Recording</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reason-behind-photo-booth-video-stalls/"><u>In 2024, Reason Behind Photo Booth Video Stalls</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-reviving-the-hidden-watch-icon-on-facebook/"><u>In 2024, Reviving the Hidden Watch Icon on Facebook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionizing-reality-expertly-reviewed-peripherals/"><u>In 2024, Revolutionizing Reality  Expertly Reviewed Peripherals</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-screenplay-basics-penning-dynamic-characters-speeches/"><u>In 2024, Screenplay Basics  Penning Dynamic Characters' Speeches</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-securely-sharing-visuals-learn-the-art-of-screencast-with-ezvid/"><u>In 2024, Securely Sharing Visuals  Learn the Art of Screencast with Ezvid</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-echo-of-valyria-prime-destinations-for-tts-downloads/"><u>In 2024, The Echo of Valyria  Prime Destinations for TTS Downloads</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/iphoneandroids-best-5-multimedia-capturing-apps-reviewed-for-2024/"><u>IPhone/Android's Best 5 Multimedia Capturing Apps Reviewed for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-world-of-digital-gifs-for-2024/"><u>Navigating the World of Digital GIFs for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/proven-methods-for-downloading-a-thousand-tiktoks-at-once-for-2024/"><u>Proven Methods for Downloading a Thousand TikToks at Once for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sprinting-to-victory-key-moments-from-2-omics-games-for-2024/"><u>Sprinting to Victory  Key Moments From 2 Omics Games for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/thrifty-tech-finds-best-cameras-on-a-dime/"><u>Thrifty Tech Finds  Best Cameras on a Dime</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/understanding-facebook-story-algorithms-how-to-optimize-for-success-for-2024/"><u>Understanding Facebook Story Algorithms  How to Optimize for Success for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/vocal-excellence-techniques-for-capturing-flawless-audio-for-2024/"><u>Vocal Excellence  Techniques for Capturing Flawless Audio for 2024</u></a></li>
+</ul></div>

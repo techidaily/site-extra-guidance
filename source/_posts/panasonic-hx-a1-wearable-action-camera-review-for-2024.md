@@ -1,7 +1,7 @@
 ---
 title: "\"Panasonic HX-A1 Wearable Action Camera Review for 2024\""
-date: 2024-05-31T06:55:23.794Z
-updated: 2024-06-01T06:55:23.794Z
+date: 2024-07-31T16:49:47.312Z
+updated: 2024-08-01T16:49:47.312Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Panasonic HX-A1 Wearable Action Camera Review for 2024\""
 excerpt: "\"This Article Describes Panasonic HX-A1 Wearable Action Camera Review for 2024\""
 keywords: "\"Panasonic A1 Cam,Action Cam HX-A1,HX-A1 Review Guide,Wearable Cam HX-A1,Panasonic HX ActionCam,HX-A1 Action Camera,Panasonic A1 ActionReview\""
-thumbnail: https://www.lifewire.com/thmb/ru-jVd0Cvv8tkOSsngOh3taWsHA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-2443739-5b55bc7c46e0fb00378df55b.jpg
+thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d87088006ba977c8519d5351.jpg
 ---
 
 ## A Deep Dive Into Panasonic's HX-A1 Camera Features
@@ -32,12 +32,21 @@ thumbnail: https://www.lifewire.com/thmb/ru-jVd0Cvv8tkOSsngOh3taWsHA=/400x300/fi
 
  With an unconventional cylindrical design, this digital camcorder is ready to make you fall for it. Panasonic has always tried to add versatility to their product and this focus has helped to win the hearts of its fans! HX-A1 Wearable Action Camera, as its name suggests, helps to mount it to any ideal spot. Its elongated torch-like shape helps in mounting it to your helmet, board or any other piece of mountain gear. You can attach it to your bag, hat or backpack or just put it like a headband! The twin mount helps in clicking in dark situations especially where you need an IR flashlight. Its 0 lux night vision mode allows IR flashlight to be mounted in addition to A1\. The camera allows to film in 1080p at 30fps, 720p at 60fps and 480p at 240fps. Available at a very affordable price of $101.95, A1 is certainly compatible to exceed your expectations. Let us unfold aspects of this A1 camera in this post.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Design and Usability
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![panasonic-hx-a1-design](https://images.wondershare.com/filmora/article-images/panasonic-hx-a1-design.jpg)
 
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Specification
 
 | Review Price                | $101.95 (Amazon)                                                                             |
@@ -100,6 +109,9 @@ thumbnail: https://www.lifewire.com/thmb/ru-jVd0Cvv8tkOSsngOh3taWsHA=/400x300/fi
 
 [Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Features
 
 #### **1. Video and photo quality**
@@ -152,12 +164,18 @@ Follow @Max Wales
 
  With an unconventional cylindrical design, this digital camcorder is ready to make you fall for it. Panasonic has always tried to add versatility to their product and this focus has helped to win the hearts of its fans! HX-A1 Wearable Action Camera, as its name suggests, helps to mount it to any ideal spot. Its elongated torch-like shape helps in mounting it to your helmet, board or any other piece of mountain gear. You can attach it to your bag, hat or backpack or just put it like a headband! The twin mount helps in clicking in dark situations especially where you need an IR flashlight. Its 0 lux night vision mode allows IR flashlight to be mounted in addition to A1\. The camera allows to film in 1080p at 30fps, 720p at 60fps and 480p at 240fps. Available at a very affordable price of $101.95, A1 is certainly compatible to exceed your expectations. Let us unfold aspects of this A1 camera in this post.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Design and Usability
 
 ![panasonic-hx-a1-design](https://images.wondershare.com/filmora/article-images/panasonic-hx-a1-design.jpg)
 
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specification
 
 | Review Price                | $101.95 (Amazon)                                                                             |
@@ -220,6 +238,9 @@ Follow @Max Wales
 
 [Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Features
 
 #### **1. Video and photo quality**
@@ -254,6 +275,9 @@ Follow @Max Wales
 
  Looking for action cameras with low budget? [Check best action cameras under 100 now.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -303,6 +327,9 @@ Follow @Max Wales
 | Allows to record Slow-motion and in dark also.                                                                                                                         | No HDMI output for HD movies                                                                           |
 | Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Accessories in the box
 
  The box obviously contains one of the best products from Panasonic which is the camera but also has little surprising accessories which will alleviate your shooting experience.
@@ -368,12 +395,18 @@ Follow @Max Wales
 
  A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
  The minor drawbacks in A1 are completely understandable. With its decent picture quality and plenty of other features such as SFDW formula, it can be rightly said that Panasonic has created a fine budget camera which is worth investing. There is always a way to capture your fun and thrills and Panasonic HX-A1 gets along your making it a capable action camera!
 
  Looking for action cameras with low budget? [Check best action cameras under 100 now.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -423,6 +456,9 @@ Follow @Max Wales
 | Allows to record Slow-motion and in dark also.                                                                                                                         | No HDMI output for HD movies                                                                           |
 | Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Accessories in the box
 
  The box obviously contains one of the best products from Panasonic which is the camera but also has little surprising accessories which will alleviate your shooting experience.
@@ -488,12 +524,18 @@ Follow @Max Wales
 
  A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
  The minor drawbacks in A1 are completely understandable. With its decent picture quality and plenty of other features such as SFDW formula, it can be rightly said that Panasonic has created a fine budget camera which is worth investing. There is always a way to capture your fun and thrills and Panasonic HX-A1 gets along your making it a capable action camera!
 
  Looking for action cameras with low budget? [Check best action cameras under 100 now.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -524,3 +566,48 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-chart-a-course-to-success-youtube-studio-blueprint/"><u>[New] 2024 Approved  Chart a Course to Success  YouTube Studio Blueprint</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-chromatic-excellence-learning-to-leverage-colors/"><u>[New] In 2024, Chromatic Excellence  Learning to Leverage Colors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-instant-iphone-success-proven-tips-for-making-professional-photo-collagues/"><u>[New] Instant iPhone Success  Proven Tips for Making Professional Photo Collagues</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-focus-best-photo-viewing-win11-app/"><u>[New] Prime Focus  Best Photo Viewing Win11 App</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-rapid-reader-advanced-windows-photoshop/"><u>[New] Rapid Reader - Advanced Windows Photoshop</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-secrets-to-perfecting-snapchats-playback-speed-settings/"><u>[New] Secrets to Perfecting Snapchat's Playback Speed Settings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-simplified-avatar-design-in-the-metaverse-explained/"><u>[New] Simplified Avatar Design in the Metaverse Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-this-video-will-get-you-100000-views-on-youtube/"><u>[New] This Video Will Get You 100000 Views on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-vdsn-vidscreen-record-review-thorough-analysis/"><u>[New] VDSN VidScreen Record Review  Thorough Analysis</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-most-popular-gratuitous-vfx-websites/"><u>[Updated] 2024 Approved  Most Popular Gratuitous VFX Websites</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ultimate-durecorder-handbook-insights-and-evaluation/"><u>[Updated] 2024 Approved  Ultimate DuRecorder Handbook  Insights & Evaluation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lunapic-101-a-step-by-step-photo-editing-guide/"><u>[Updated] LunaPic 101  A Step-by-Step Photo Editing Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-soundscapes-the-ultimate-guide-to-iphoneipad-podcast-downloads/"><u>[Updated] Mastering Soundscapes  The Ultimate Guide to iPhone/iPad Podcast Downloads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-picshot-the-key-to-hassle-free-collage-making/"><u>[Updated] Picshot  The Key to Hassle-Free Collage Making</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-melody-meets-discovering-crossfade-magic/"><u>[Updated] The Melody Meets  Discovering Crossfade Magic</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-streamlined-ocean-video-capture/"><u>[Updated] The Ultimate Guide to Streamlined Ocean Video Capture</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unraveling-the-secrets-to-captivating-asmr-scenarios-and-effects/"><u>[Updated] Unraveling the Secrets to Captivating ASMR Scenarios and Effects</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-full-evaluation-djis-latest-drone-the-inspire-1/"><u>2024 Approved  Full Evaluation  DJI's Latest Drone, The Inspire 1</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-instagram-live-maintaining-privacy-while-streaming/"><u>2024 Approved  Instagram Live  Maintaining Privacy While Streaming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-video-capture-the-premier-18-cameras-for-professionals/"><u>2024 Approved  Mastering Video Capture  The Premier 18 Cameras for Professionals</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-morphvox-mastery-complete-technique-collection/"><u>2024 Approved  MorphVOX Mastery  Complete Technique Collection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-figma-erase-background-elements-seamlessly/"><u>2024 Approved  Navigating Figma  Erase Background Elements Seamlessly</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-real-time-facebook-footage-the-top-5-live-streaming-apps/"><u>2024 Approved  Real-Time Facebook Footage  The Top 5 Live-Streaming Apps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-itel-a60s-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Itel A60s Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-6-plus-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 6 Plus without Passcode</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-behind-the-scenes-samsungs-s8-and-4k-technology/"><u>In 2024, Behind the Scenes  Samsung's S8 and 4K Technology</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-y78-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo Y78 5G Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-xiaomi-redmi-13c-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Xiaomi Redmi 13C Lock Screen Password</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-masterclass-in-monochrome-magic-a-professionals-guide/"><u>In 2024, Masterclass in Monochrome Magic  A Professional's Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-smartphones-ultimate-guide-to-image-editing-and-annotation/"><u>In 2024, Smartphones' Ultimate Guide to Image Editing & Annotation</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-v30-lite-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo V30 Lite 5G Phone FRP Lock</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-graphics-tech-for-uhd-videography-for-2024/"><u>Leading Graphics Tech for UHD Videography for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/learn-to-leverage-kinemasters-features-for-maximum-gaming-fun-then-compare-for-2024/"><u>Learn to Leverage KineMaster's Features for Maximum Gaming Fun, Then Compare for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-vocal-transformations-high-ranked-app-options-for-2024/"><u>Mastering Vocal Transformations  High-Ranked App Options for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-novice-level-nft-production-with-precision-for-2024/"><u>Navigating Novice-Level NFT Production with Precision for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-art-of-online-photo-trimming-for-2024/"><u>Navigating the Art of Online Photo Trimming for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pro-iphones-capturing-perfect-silhouettes-for-2024/"><u>Pro iPhones  Capturing Perfect Silhouettes for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/saturation-savvy-3-effective-methods-for-photocolor-evolution-for-2024/"><u>Saturation Savvy  3 Effective Methods for PhotoColor Evolution for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seamless-sound-dimming-guide-in-premiere-pro-for-2024/"><u>Seamless Sound Dimming Guide in Premiere Pro for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-biggest-tweet-waves-of-2023-decoded-for-2024/"><u>The Biggest Tweet Waves of 2023 Decoded for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-strategies-for-flawless-srt-file-creation/"><u>Ultimate Strategies for Flawless SRT File Creation</u></a></li>
+</ul></div>

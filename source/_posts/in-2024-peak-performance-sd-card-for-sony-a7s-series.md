@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Peak Performance SD Card for Sony A7S Series"
-date: 2024-05-31T06:56:41.355Z
-updated: 2024-06-01T06:56:41.355Z
+date: 2024-07-31T18:09:58.205Z
+updated: 2024-08-01T18:09:58.205Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "This Article Describes In 2024, Peak Performance SD Card for Sony A7S Series"
 excerpt: "This Article Describes In 2024, Peak Performance SD Card for Sony A7S Series"
 keywords: "\"A7S SD Card,Peak SD Card,Sony SD Performance,SD High Speed A7S,SD Durable for A7S,Professional A7S Storage,Top-Quality A7S Memory\""
-thumbnail: https://www.lifewire.com/thmb/rqyqthwQQWoFP9hOZir1yhPCils=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/cq5dam.web.1280.1280-5c2a5a7b4cedfd0001df64bd.jpeg
+thumbnail: https://thmb.techidaily.com/0be1e99c17baad20df818e64c74b29c212a06e76be2a092d41b1fc888150e8a5.jpeg
 ---
 
 ## Peak Performance SD Card for Sony A7S Series
 
 # Best Memory Card for Sony A7S II
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -121,6 +124,9 @@ Follow @Max Wales
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -158,6 +164,9 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -196,6 +205,10 @@ Follow @Max Wales
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -287,6 +300,9 @@ Follow @Max Wales
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -378,6 +394,10 @@ Follow @Max Wales
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -408,3 +428,60 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-best-free-pc-video-capture-software-roundup/"><u>[New] 2024 Approved  Best Free PC Video Capture Software Roundup</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-easy-efficient-and-essential-top-23-tools-to-downgrade-youtube-audios/"><u>[New] 2024 Approved  Easy, Efficient, and Essential  Top 23 Tools to Downgrade YouTube Audios</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-masterclass-transforming-everyday-images-for-tiktok-vids/"><u>[New] 2024 Approved  Masterclass  Transforming Everyday Images for TikTok Vids</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-aerial-footage-best-drone-editors-ranked-by-skill-level/"><u>[New] Leading Aerial Footage  Best Drone Editors Ranked by Skill Level</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-the-nft-market-leading-generators-for-digital-masters/"><u>[New] Master the NFT Market  Leading Generators for Digital Masters</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-melodious-modulation-techniques-in-free-fire/"><u>[New] Melodious Modulation Techniques in Free Fire</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-steps-for-adding-speech-to-text-in-powerpoint-slides/"><u>[New] Quick Steps for Adding Speech-to-Text in PowerPoint Slides</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-realizing-dreamscapes-picks-of-the-best-tools-for-animation-artists/"><u>[New] Realizing Dreamscapes  Picks of the Best Tools for Animation Artists</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-redefining-visual-storytelling-with-virtual-reality/"><u>[New] Redefining Visual Storytelling with Virtual Reality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-samsungs-photo-manipulation-software-a-review/"><u>[New] Samsung's Photo Manipulation Software  A Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-scaling-up-subscriber-numbers-with-savvy-strategies/"><u>[New] Scaling Up Subscriber Numbers with Savvy Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sierras-best-the-top-5-choices-for-mac-video-editing/"><u>[New] Sierra's Best  The Top 5 Choices for Mac Video Editing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-smile-station-quick-tips-for-chuckling-creations/"><u>[New] Smile Station  Quick Tips for Chuckling Creations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-daily-movie-storage-gb-explained-for-2024/"><u>[Updated] Daily Movie Storage  GB Explained for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-exploring-the-top-viral-tweets-of-the-year/"><u>[Updated] In 2024, Exploring the Top Viral Tweets of the Year</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-prime-your-vlogging-game-top-tier-mac-mp4-editors-reviewed/"><u>[Updated] In 2024, Prime Your Vlogging Game  Top-Tier Mac MP4 Editors Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-evaluation-of-clipcreator-editor-updated/"><u>[Updated] In-Depth Evaluation of ClipCreator Editor - Updated</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-world-of-gopro-filming/"><u>[Updated] Navigating the World of GoPro Filming</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-premium-tools-for-saving-your-live-video-memories/"><u>[Updated] Premium Tools for Saving Your Live Video Memories</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sculpting-softness-a-guide-to-quieter-mixes-with-fl-studio/"><u>[Updated] Sculpting Softness  A Guide to Quieter Mixes with FL Studio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-select-top-6-apps-for-creating-impressive-photo-shows/"><u>[Updated] Select Top 6 Apps for Creating Impressive Photo Shows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-live-action-revealed-an-in-depth-review-of-polaroids-new-camera/"><u>2024 Approved  Live-Action Revealed  An In-Depth Review of Polaroid's New Camera</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-your-media-best-6-video-apps-for-macos-big-sur-users/"><u>2024 Approved  Master Your Media  Best 6 Video Apps for macOS Big Sur Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-srt-mp4-conversion-for-video-enhancement/"><u>2024 Approved  Mastering SRT MP4 Conversion for Video Enhancement</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-youtube-permanently-stop-video-snips-complete-guide/"><u>2024 Approved  Mastering YouTube  Permanently Stop Video Snips [Complete Guide]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimal-8-camera-stands-for-ultra-hd-shooting/"><u>2024 Approved  Optimal 8 Camera Stands for Ultra-HD Shooting</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-sites-for-downloading-text-aesthetics/"><u>2024 Approved  Pioneering Sites for Downloading Text Aesthetics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-start-at-vectors-beginning-a-short-overview-of-forms-and-tools/"><u>2024 Approved  Start at Vector's Beginning  A Short Overview of Forms & Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-motorola-moto-g34-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Motorola Moto G34 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/creative-game-writing-with-chatgpt/"><u>Creative Game Writing with ChatGPT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-upgraded-gopro-sessions-for-2024/"><u>Exploring the Upgraded GoPro Sessions for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-huawei-p60-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-11-pro-max-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 11 Pro Max to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-asus-rog-phone-7-ultimate-drfone-by-drfone-android/"><u>How to Screen Mirroring Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-tecno-phantom-v-flip-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Tecno Phantom V Flip to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-14-pro-max-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 14 Pro Max Unavailable Issue With Ease</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-pubg-effective-techniques-for-altering-your-vocal-presence/"><u>In 2024, Mastering PUBG  Effective Techniques for Altering Your Vocal Presence</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pearl-like-pixels-tips-for-perfect-underwater-footage-with-gopro/"><u>In 2024, Pearl-Like Pixels  Tips for Perfect Underwater Footage with GoPro</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-shine-a-light-the-12-ultimate-fixes-for-making-facebook-videos-visible-again/"><u>In 2024, Shine a Light  The 12 Ultimate Fixes for Making Facebook Videos Visible Again</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/integrated-story-spread-4-simple-steps-on-fb/"><u>Integrated Story Spread  4 Simple Steps on FB</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/joint-venture-campaigns-for-brands-on-video-platforms-for-2024/"><u>Joint Venture Campaigns for Brands on Video Platforms for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/live-broadcasts-in-focus-scrutinizing-the-best-6-microphones-available-for-2024/"><u>Live Broadcasts in Focus  Scrutinizing the Best 6 Microphones Available for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/painting-with-light-the-role-of-film-grade-for-2024/"><u>Painting with Light  The Role of Film Grade for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/preventing-virtual-reality-nausea-for-2024/"><u>Preventing Virtual Reality Nausea for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-image-safekeepers-online-for-2024/"><u>Prime Image Safekeepers Online for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/push-boundaries-expert-advice-on-snapchat-zooms-for-2024/"><u>Push Boundaries  Expert Advice on Snapchat Zooms for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/secrets-of-successful-unboxing-reels-a-compreenasium-guide-for-2024/"><u>Secrets of Successful Unboxing Reels  A Compreenasium Guide for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/shielding-screen-stability-in-surface-pro-7/"><u>Shielding Screen Stability in Surface Pro 7</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/soundscape-storytelling-at-its-best-for-2024/"><u>Soundscape Storytelling at Its Best for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/streamline-your-workflow-essential-tips-to-record-on-hp-laptop/"><u>Streamline Your Workflow  Essential Tips to Record on HP Laptop</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swiftly-streamline-windows-drivers/"><u>Swiftly Streamline Windows Drivers</u></a></li>
+</ul></div>

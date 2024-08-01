@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Inside the Panasonic HX-A1  A Buyer's Guide Review\""
-date: 2024-06-20T03:40:00.879Z
-updated: 2024-06-21T03:40:00.879Z
+date: 2024-07-31T15:17:32.967Z
+updated: 2024-08-01T15:17:32.967Z
 tags: 
   - screen-recording
   - ai video
@@ -32,12 +32,21 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 
  With an unconventional cylindrical design, this digital camcorder is ready to make you fall for it. Panasonic has always tried to add versatility to their product and this focus has helped to win the hearts of its fans! HX-A1 Wearable Action Camera, as its name suggests, helps to mount it to any ideal spot. Its elongated torch-like shape helps in mounting it to your helmet, board or any other piece of mountain gear. You can attach it to your bag, hat or backpack or just put it like a headband! The twin mount helps in clicking in dark situations especially where you need an IR flashlight. Its 0 lux night vision mode allows IR flashlight to be mounted in addition to A1\. The camera allows to film in 1080p at 30fps, 720p at 60fps and 480p at 240fps. Available at a very affordable price of $101.95, A1 is certainly compatible to exceed your expectations. Let us unfold aspects of this A1 camera in this post.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Design and Usability
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![panasonic-hx-a1-design](https://images.wondershare.com/filmora/article-images/panasonic-hx-a1-design.jpg)
 
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Specification
 
 | Review Price                | $101.95 (Amazon)                                                                             |
@@ -63,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 | Allows to record Slow-motion and in dark also.                                                                                                                         | No HDMI output for HD movies                                                                           |
 | Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Accessories in the box
 
  The box obviously contains one of the best products from Panasonic which is the camera but also has little surprising accessories which will alleviate your shooting experience.
@@ -96,6 +108,9 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 
 #### Wind jammer and strap adapter
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Wind jammer and strap adapter can be other accessories which you can buy. Wind jammer help in making the audio clearer during windy conditions and strap adapter helps in connecting the camera to the floatation strap, neck strap or key ring. This pretty device is very catchy to the eyes, after all![Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ## Features
@@ -132,6 +147,10 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 
  Looking for action cameras with low budget? [Check best action cameras under 100 now.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -148,3 +167,47 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-quick-window-snaps-in-winoses/"><u>[New] 2024 Approved  Quick Window Snaps in WinOSes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maintaining-softness-fading-effects-in-fl-studio-mixes/"><u>[New] Maintaining Softness  Fading Effects in FL Studio Mixes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimize-sound-clarity-top-audio-interface-recommendations/"><u>[New] Optimize Sound Clarity  Top Audio Interface Recommendations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-photo-booth-woes-why-videos-halt/"><u>[New] Photo Booth Woes  Why Videos Halt?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-desktop-systems-unveiled/"><u>[New] Premium Desktop Systems Unveiled</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-srt-simplified-a-practical-manual-for-xmlssattml-transformation/"><u>[New] SRT Simplified  A Practical Manual for XML/SSA/TTML Transformation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-insider-writers-on-popular-tiktok-wallpapers/"><u>[Updated] Insider' Writers on Popular TikTok Wallpapers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-jokesterjigsaw-toolkit/"><u>[Updated] JokesterJigsaw Toolkit</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-making-the-transition-from-older-windows-to-new-version-11/"><u>[Updated] Making the Transition  From Older Windows to New Version 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimal-quick-image-reader-for-pcs/"><u>[Updated] Optimal Quick Image Reader for PCs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfect-your-pics-ideal-apps-list-for-iphonesandroids/"><u>[Updated] Perfect Your Pics  Ideal Apps List for iPhones/Androids</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sharing-photos-and-videos-between-android-and-iphone/"><u>[Updated] Sharing Photos & Videos Between Android & iPhone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-stability-showcase-premium-phone-compatible-tripods/"><u>[Updated] Stability Showcase  Premium Phone-Compatible Tripods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-sharing-media-from-one-iphone-to-another/"><u>[Updated] Step-by-Step  Sharing Media From One iPhone to Another</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-to-stunning-snaps-with-snapseed/"><u>[Updated] Step-by-Step to Stunning Snaps with Snapseed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unlocking-snapchats-secret-symbolic-messages/"><u>[Updated] Unlocking Snapchat's Secret Symbolic Messages</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-humorous-highlights-create-with-kapwing-meme-maker/"><u>2024 Approved  Humorous Highlights  Create with Kapwing Meme Maker</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-iphones-ringtone-personalization/"><u>2024 Approved  Mastering iPhone's Ringtone Personalization</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-zoom-on-windows-10-a-step-by-step-guide/"><u>2024 Approved  Mastering Zoom on Windows 10  A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-picture-perfectionism-top-tools-and-sites-for-superior-photo-frames/"><u>2024 Approved  Picture Perfectionism  Top Tools & Sites for Superior Photo Frames</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-select-4-websites-easy-skype-tone-downloads/"><u>2024 Approved  Select 4 Websites  Easy Skype Tone Downloads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-smoothie-your-phone-converting-iphones-jpegpng-to-pdf/"><u>2024 Approved  Smoothie Your Phone  Converting iPhone's JPEG/PNG to PDF</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevated-engagement-awards-on-video-realms-for-2024/"><u>Elevated Engagement Awards on Video Realms for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/elevating-visual-storytelling-expert-techniques-for-instagram-video-edits-for-2024/"><u>Elevating Visual Storytelling  Expert Techniques for Instagram Video Edits for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/filming-flexibility-talent-distribution-license/"><u>Filming Flexibility  Talent Distribution License</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-infinix-smart-7-hd-by-fonelab-android-recover-data/"><u>How to recover lost data from Infinix Smart 7 HD?</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-v27e-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo V27e Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigate-to-these-10-online-havens-showcasing-striking-3d-texts/"><u>In 2024, Navigate to These 10 Online Havens Showcasing Striking 3D Texts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-peak-summit-in-virtual-landscapes/"><u>In 2024, Peak Summit in Virtual Landscapes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-podcast-preludes-crafting-irresistible-openings/"><u>In 2024, Podcast Preludes  Crafting Irresistible Openings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-softened-screen-debut/"><u>In 2024, Softened Screen Debut</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-13-mini-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone 13 mini with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-splendid-screenplay-strategies-for-spectaculous-lights/"><u>In 2024, Splendid Screenplay  Strategies for Spectaculous Lights</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-infinix-smart-8-plus-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Infinix Smart 8 Plus Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/innovative-ways-to-leverage-zoom-for-fb-live-for-2024/"><u>Innovative Ways to Leverage Zoom for FB Live for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/live-image-processing-into-continuous-action-frames-for-2024/"><u>Live Image Processing Into Continuous Action Frames for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-video-production-xstudio-deep-dive-for-2024/"><u>Mastering Video Production  XStudio Deep Dive for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-your-mac-a-complete-guide-to-leveraging-preview-features-for-2024/"><u>Mastering Your Mac  A Complete Guide to Leveraging Preview Features for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/skyrocket-your-storage-top-20-free-cloud-services-to-choose-from-1tbplus-for-2024/"><u>Skyrocket Your Storage - Top 20 Free Cloud Services to Choose From (1TB+) for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-user-friendly-approach-to-mac-data-recovery/"><u>Stellar's User-Friendly Approach to Mac Data Recovery</u></a></li>
+</ul></div>

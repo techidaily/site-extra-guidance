@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfect Photos  Applying Radial Blur in PS\""
-date: 2024-05-31T06:53:13.723Z
-updated: 2024-06-01T06:53:13.723Z
+date: 2024-07-31T14:35:49.994Z
+updated: 2024-08-01T14:35:49.994Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Perfect Photos: Applying Radial Blur in PS\""
 excerpt: "\"This Article Describes [New] Perfect Photos: Applying Radial Blur in PS\""
 keywords: "\"Ps Radial Blur Perfection,PS Photo Blurring Techniques,Photoshop Radial Effects,PS Image Enhancement,Professional Shots: PS Blur,Radial Blur in Creative PS,PS Artistic Radial Filter\""
-thumbnail: https://www.lifewire.com/thmb/yUwTZpCNo69jlc1KnyqQFn2f6SQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-screen-mirroring-842272124-5a7897e104d1cf0037763c0a.jpg
+thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c3cb7fed4a8969e3e80f00a3.jpg
 ---
 
 ## Perfect Photos: Applying Radial Blur in PS
@@ -22,6 +22,9 @@ Have you ever seen radial blur pictures? To add a sense of speed to still images
 
 If you are unaware of the radial blur effect, this article can act as a guide. Through this article, you can learn how to add **radial blur in Photoshop** with the help of simple instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: What is a Radial Blur Effect?
 
 The radial blur effect is somehow similar to motion blur. This effect can be created at a slow shutter speed in the camera, or you can move or rotate your cameras in certain ways to create this effect. Many photographers also create a motion blur effect by zooming in at a slow shutter speed. By adding this effect, you will create a tunnel vision in your photos.
@@ -36,6 +39,9 @@ To craft a **radial blur image**, many individuals prefer using [Adobe Photoshop
 
 Photoshop also allows you to use its pre-built filters for further modifications. With a single tap, you can apply filters to the photos without making them look artificial or low-quality. Moreover, you can also perform basic photo editing by utilizing the options such as cropping and resizing. Apart from all these distinct features, Photoshop also enables you to add a radial blur effect to the pictures.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to Create Radial Blur Effect in Photoshop
 
 Are you eager to learn how to create **radial motion blur in Photoshop**? Keep reading this part of the article to find accurate instructions to craft radial blur effects in Photoshop:
@@ -54,8 +60,14 @@ Step3 Afterward, click on the background layer and head to the "Filter" tab. Fro
 
 Step4 After making all the adjustments in the Radial Blur window, press the "OK" button. Once done, select the top layer and add a "Curve Adjustment Layer." Now adjust the curve properties according to your preference. Thus, you can see the radial blur effect on your photo on your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![adjust the curves](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Bonus Tips – The Alternative to Photoshop to Create Radial Blur Effect
 
 Are you finding it challenging to create a radial blur in Photoshop? If yes, there is no need to worry, as we will provide you with the best alternative to Photoshop. The best available tool that offers high-end effects and other functions in a friendly interface is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). This tool can make your editing experience delightful and extremely simple.
@@ -76,12 +88,18 @@ Creating a radial blur effect in Filmora is extremely simple and easy. Its intui
 
 Begin by launching Wondershare Filmora on your PC. Afterward, tap on the "Create New Project" button to open a new window. Hit the "Arrow" button and import the photo into the project media.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![import the photo in filmora](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-6.jpg)
 
 ##### Step 2 Add the Required Effect
 
 Drag and drop the photo in the timeline to proceed. Now go to the Effects tab and tap on the "Video Effects" option. From there, tap on "Utility" to explore multiple effects. Here, there are three blur effects that you can utilize: Mosaic, Tilt-shift Circle, and Tilt-shift Linear.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![access the video effects](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-7.jpg)
 
 ##### Step 3 Adjust the Blur Settings
@@ -96,6 +114,9 @@ You can also edit the clip by adding titles or more effects. Once done with the 
 
 ![export the photo with radial blur](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Many photographers and professionals apply different techniques or effects to enhance their photos. One of the trending effects that can add an artistic element to the fast-moving objects in your photos is the radial blur effect. This effect can bring attention and focus to your photos.
@@ -122,18 +143,28 @@ Begin by launching Wondershare Filmora on your PC. Afterward, tap on the "Create
 
 Drag and drop the photo in the timeline to proceed. Now go to the Effects tab and tap on the "Video Effects" option. From there, tap on "Utility" to explore multiple effects. Here, there are three blur effects that you can utilize: Mosaic, Tilt-shift Circle, and Tilt-shift Linear.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access the video effects](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-7.jpg)
 
 ##### Step 3 Adjust the Blur Settings
 
 Choose your preferred effect and drop it into the timeline. Now increase the duration of your effect according to the clip. Once done, double-click on the effect to open its properties. Here, you can adjust the size, intensity, and other elements of the blur effect.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adjust the added blur settings](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-8.jpg)
 
 ##### Step 4 Edit the Clip
 
 You can also edit the clip by adding titles or more effects. Once done with the edits, hit the "Export" button given on top.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![export the photo with radial blur](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-9.jpg)
 
 ## Conclusion
@@ -164,3 +195,41 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-mastering-photo-aesthetics-the-essence-of-luts/"><u>[New] 2024 Approved  Mastering Photo Aesthetics  The Essence of LUTs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-broadcasting-strategies-for-vimeo-films-for-2024/"><u>[New] Broadcasting Strategies for Vimeo Films for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-initiating-conversations-on-instagram-live/"><u>[New] In 2024, Initiating Conversations on Instagram Live</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-lowering-sound-gradually-a-logic-pro-method/"><u>[New] Lowering Sound Gradually  A Logic Pro Method</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-zoom-on-xbox-a-step-by-step-guide/"><u>[New] Mastering Zoom on Xbox  A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premier-digital-discussion-director/"><u>[New] Premier Digital Discussion Director</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-telegram-web-setup-for-novices/"><u>[New] Step-by-Step Telegram Web Setup for Novices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fostering-fandoms-top-three-storytelling-techniques-for-2024/"><u>[Updated] Fostering Fandoms  Top Three Storytelling Techniques for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-from-amateurs-to-pros-mastering-mac-audio-in-audacity-for-2024/"><u>[Updated] From Amateurs to Pros  Mastering Mac Audio in Audacity for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hit-top-rank-firstrow-pursuits-outside-sports/"><u>[Updated] Hit Top Rank  Firstrow Pursuits Outside Sports</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-control-over-video-velocity-on-snapchat-app/"><u>[Updated] Master Control Over Video Velocity on Snapchat App</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pixel-perfect-portfolits-the-leading-websites-for-photo-framing/"><u>[Updated] Pixel-Perfect Portfolits  The Leading Websites for Photo Framing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-free-template-pack-top-titles-for-ae-dreamers/"><u>[Updated] Premium FREE Template Pack  Top Titles for AE Dreamers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-secrets-to-procuring-gratis-picture-frame-media/"><u>[Updated] Secrets to Procuring Gratis Picture Frame Media</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-iphone-ringer-update-guide/"><u>[Updated] Step-by-Step  IPhone Ringer Update Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-gamers-selection-top-livestraning-tech-picks/"><u>2024 Approved  Gamer's Selection  Top Livestraning Tech Picks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-picsart-app-deep-dive-full-review-analysis-and-instructions-for-the-new-year/"><u>2024 Approved  PicsArt App Deep Dive  Full Review, Analysis & Instructions for the New Year</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-color-correction-with-mastery-over-ps-3d-luts/"><u>2024 Approved  Precision Color Correction with Mastery over PS 3D LUTs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premiere-gear-optimal-panoramic-recorders/"><u>2024 Approved  Premiere Gear  Optimal Panoramic Recorders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-preparing-your-pc-and-room-for-the-ultimate-vr/"><u>2024 Approved  Preparing Your PC and Room for the Ultimate VR</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-say-goodbye-to-excess-master-the-art-of-editing-tiktok-drafters/"><u>2024 Approved  Say Goodbye to Excess  Master the Art of Editing TikTok Drafters</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-snapseed-essentials-conquering-image-enhancement/"><u>2024 Approved  Snapseed Essentials  Conquering Image Enhancement</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/fresh-perspectives-picture-perfect-collages-for-lifes-highlights/"><u>Fresh Perspectives  Picture-Perfect Collages for Life's Highlights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-nokia-c300-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Nokia C300 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-elevate-storytelling-free-soundtrack-options-available/"><u>In 2024, Elevate Storytelling - Free Soundtrack Options Available!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-y17s-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo Y17s to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-the-hectic-editing-and-organizing-bulky-tiktok-drafts/"><u>In 2024, Master the Hectic  Editing and Organizing Bulky TikTok Drafts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-os-bridging-virtualmix-pro/"><u>In 2024, OS-Bridging VirtualMix Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-proven-strategies-building-time-lapses-using-samsung-cameras/"><u>In 2024, Proven Strategies  Building Time-Lapses Using Samsung Cameras</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-proving-ground-discovering-the-top-10-reel-making-apps/"><u>In 2024, Proving Ground  Discovering the Top 10 Reel-Making Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sierra-edition-selecting-top-video-editing-software-on-mac/"><u>In 2024, Sierra Edition  Selecting Top Video Editing Software on Mac</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-asus-rog-phone-7-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Asus ROG Phone 7 Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pioneering-path-for-instantaneous-srt-to-text-conversions-for-2024/"><u>Pioneering Path for Instantaneous SRT to Text Conversions for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/screensphere-comprehensively-global-plus-locally-connected-for-2024/"><u>ScreenSphere  Comprehensively Global + Locally Connected for 2024</u></a></li>
+</ul></div>

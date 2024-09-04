@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Leading Tactics  Sourcing High-Quality Photo & Video Backdrops\""
-date: 2024-07-31T19:42:55.302Z
-updated: 2024-08-01T19:42:55.302Z
+date: 2024-09-03T18:10:38.944Z
+updated: 2024-09-04T18:10:38.944Z
 tags: 
   - screen-recording
   - ai video
@@ -24,9 +24,6 @@ Background stock images are all-ready-made images available on the internet for 
 
 Where you get quality background stock images can be quite difficult with the huge number of stock image sites available on the net presently. To help you out, we decided to create a list of sites with stunning images that you can use. We will share the sites with you here in this article. So read on!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Part 1\. How to Get Background Stock Images for Photos and Videos
 
 Getting background stock images for your photos and video is easy. There are two powerful techniques to do that. Check them out below:
@@ -65,9 +62,6 @@ End-users of this platform find it easy to use because of the easy-to-manage use
 
 1. **Shutterstock**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![shutterstock](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-4.png)
 
 If you looking for a royalty-free stock image website with beautiful collections, Shutterstock is definitely the right website to use. Shutterstock provides you with first-quality images generated from vector designs, illustrations, or hand-drawn paintings.
@@ -80,11 +74,14 @@ Should you find images that suit your requirement but don't like the background,
 
 1. **Media.io**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![media.io](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Media.io is an all-in-one media solution you can use to remove backgrounds from images without distorting the quality. This software program lets you transform your image background from solid color to a transparent one without stress.
 
 You can also count on this software to convert your media files, whether video, audio, or image, from one format to another. It also lets you compress large-size media files at zero cost fee.
@@ -121,13 +118,22 @@ Step1Upload a video file that you wish to erase its background from your local d
 
 ![selecting the import media](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2Next, drag and drop the video into the timeline just as shown in the image given below:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![drag and drop video into timeline](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now double-click the image in the timeline. A settings tab will pop up on your screen. Navigate around the settings option till you find **Chroma Key**. Kindly enable Chroma Key, and your photo background would become transparent automatically. Click on **OK** to confirm your actions then move to the next step.
 
 Step3Now that you've successfully transformed the background of your photo into a transparent one, locate and click on the **Export** button to save it to your local storage.
@@ -138,24 +144,30 @@ Step3Now that you've successfully transformed the background of your photo into 
 
 ![imovie](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 iMovie is a great video editing software that allows end-users to erase image backgrounds. It lets you transform an image background into a transparent one and vice versa. The software also supports several background templates that you can use to customize your image background.
 
 You don't need to be a tech guru to use this software. Thanks to the clean user interface which is simple to operate. In addition to the services offered by this video editing software, iMovie lets you create/shoot engaging video content.
 
 1. **Canvas**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![canvas](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 With Canva, you can also remove background from your images conveniently. This Windows operating system compatible software lets you delete an image background so it appears transparent. It's one of the most versatile software to own.
 
 In addition to the functionalities of Canva, it can also be used to create aesthetic designs like logos, presentations, posters, flyers, ads video, etc. The software supports several customized templates that you can use to decorate your images.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. How to Use a Background Media in your own Photos and Videos?
 
 Using background media in a photo or video is easy. All you need is professional photo or video editing software. We've introduced 4 amazing photo editors in the section above. Filmora is the best amongst them as it supports both video and photo editing.
@@ -163,7 +175,10 @@ Using background media in a photo or video is easy. All you need is professional
 You can count on the Wondershare Filmora video editor to import or delete backgrounds from your photos and videos without distorting the output quality.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Conclusion
 

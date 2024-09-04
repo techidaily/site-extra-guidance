@@ -1,7 +1,7 @@
 ---
 title: "Enhance Performance: Build a Custom Mini PC with Direct eGPU Connection & Speeds that Outpace Thunderbolt 4"
-date: 2024-08-18T01:05:44.086Z
-updated: 2024-08-19T01:05:44.086Z
+date: 2024-09-03T18:10:28.860Z
+updated: 2024-09-04T18:10:28.860Z
 tags:
   - desktop
 categories:
@@ -111,5 +111,8 @@ Pick up a powerful new gaming or productivity desktop from Lenovo with a tasty d
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

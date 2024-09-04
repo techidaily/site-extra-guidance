@@ -1,7 +1,7 @@
 ---
 title: Cutting-Edge Interconnects Launched by PCI-SIG - Introducing CopperLynx for Enhanced Gen 5 & #6 Performance; Upcoming PCIe Gen 7 on Horizon
-date: 2024-08-18T01:05:46.928Z
-updated: 2024-08-19T01:05:46.928Z
+date: 2024-09-03T18:10:28.830Z
+updated: 2024-09-04T18:10:28.830Z
 tags:
   - desktop
 categories:
@@ -111,5 +111,8 @@ The Xyber Team launched its Xyber XPC Mini Desktop Computer campaign on[Indiegog
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

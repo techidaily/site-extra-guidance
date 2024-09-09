@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Past and Present: The Ongoing Appeal of AGP Slot Modifications to Support New Graphics Cards & Networking Enhancements - Spotlight on Two Adaptors"
-date: 2024-09-03T18:10:28.776Z
-updated: 2024-09-04T18:10:28.776Z
+date: 2024-09-08T04:13:20.549Z
+updated: 2024-09-09T04:13:20.549Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,24 @@ categories:
 thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f2f0442bcc2c7a6fb3d30ee1.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Revolutionize Your PC Experience with Maingear's Zero Motherboard Cables - Launches at High-End Prices Starting at Just $1,399
 
 Maingear has today announced the launch of its Zero Series of desktops featuring[MSI](https://www.tomshardware.com/tag/msi-microstar) Project Zero motherboards and cases. The Zero Series desktops feature[MG-RC hidden cables](https://www.tomshardware.com/desktops/gaming-pcs/maingear-patented-its-rear-connector-motherboard-design-in-2011-and-now-it-wants-to-make-mg-rc-an-industry-standard) which move the connectors and cables to the backside, helping to create a tidier build. Prices start at $1,399, with the most expensive model costing $3,929\. The Zero Series line-up comes after Maingear released just 50 Zero Limited Edition desktops, which are fundamentally similar.
 
 ![Maingear's Zero Series desktop PC.](https://cdn.mos.cms.futurecdn.net/UvoT3pXRiwgoEGGyFgEjAE-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Maingear)
 
  By default, the Zero desktops use Nvidia GPUs — many of which feature on our list[Best Graphics Cards for Gaming](https://www.tomshardware.com/reviews/best-gpus,4380.html) — and Intel CPUs (except for the Ruby model which uses an[AMD Ryzen 7 7800X3D](https://www.tomshardware.com/reviews/amd-ryzen-7-7800x3d-cpu-review) ). Customers can customize Zero Series PC if they so wish, though these units will apparently take longer to ship than stock configurations. Using the custom configurator you can easily build a $5,500 system, just in case you thought a $3,929 desktop was too cheap.
@@ -29,6 +41,12 @@ Maingear has today announced the launch of its Zero Series of desktops featuring
 
  The Zero Series is available today at[Maingear's website](https://maingear.com/zero/) , with the cheapest configuration starting at $1,399, which is equipped with the RTX 4060, Core i5-14400F, 16GB of DDR5-5200MHz, and a 1TB PCIe 4.0 SSD.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -90,10 +108,3 @@ Maingear has today announced the launch of its Zero Series of desktops featuring
 <li><a href="https://extra-guidance.techidaily.com/troubleshooting-steps-for-call-of-duty-vanguard-dev-error-5573-what-you-need-to-know/"><u>Troubleshooting Steps for Call of Duty: Vanguard Dev Error 5573 – What You Need To Know</u></a></li>
 <li><a href="https://extra-guidance.techidaily.com/which-leads-analyzing-the-strengths-of-llama-vs-gpt-nnamaste-4/"><u>Which Leads? Analyzing The Strengths Of Llama Vs. GPT-nNamaste-4</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

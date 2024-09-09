@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Online Meetings  Tips for Chromebook Users\""
-date: 2024-09-03T18:10:38.171Z
-updated: 2024-09-04T18:10:38.171Z
+date: 2024-09-08T04:13:29.437Z
+updated: 2024-09-09T04:13:29.437Z
 tags: 
   - screen-recording
   - ai video
@@ -16,6 +16,18 @@ keywords: "Chromebook Conferencing,WebMeeting Techniques,Remote Collaboration,Vi
 thumbnail: https://thmb.techidaily.com/e4beac8fff1e6ed1138983bf5a17ed77a249b1784cd0b6ce36cdaf1016dc1bb5.png
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mastering Online Meetings: Tips for Chromebook Users
 
 Chromebook is a new-age device that works on the principles of a laptop. However, it is the best alternative to your traditional laptop. One of the primary specialties of the Chromebook is that it does not have substantial hard disk space. It is because while working on Chromebook, you need consistent internet access to store all your files and other documents in the cloud. One of the unique features of the Chrome Operating System is Zoom. **Zoom in Chromebook** has made it possible for people to work from anywhere.
@@ -36,10 +48,28 @@ In the recent past, due to the horrific invasion of the pandemic, Zoom was able 
 5. [Increase or decrease the whole screen](#part2-5)  
 6. [Changing the background in a Zoom meeting](#part2-6)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to use Zoom on Chromebook?
 
 Zoom works excellently in Chromebook. Hence, if you want to use the Zoom app with your Chrome Operating System, you need to visit the official website of Zoom and then download it. Once you install the Zoom app, you can start using it after creating an account for login. Following is a step-by-step guide that will help you to use **Zoom on a Chromebook.**
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Download Zoom App
 
 * Head on to the Chrome Web Store on your Chromebook.
@@ -48,6 +78,12 @@ Zoom works excellently in Chromebook. Hence, if you want to use the Zoom app wit
 
 ![add zoom to chrome](https://images.wondershare.com/filmora/article-images/2022/07/use-zoom-chromebook-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Create an account with Zoom
 
 * If you are not a regular user, there is no need to create an account with Zoom. However, if you use the App regularly, you need to create an account.
@@ -60,30 +96,30 @@ Zoom works excellently in Chromebook. Hence, if you want to use the Zoom app wit
 
 ![create a zoom meeting](https://images.wondershare.com/filmora/article-images/2022/07/use-zoom-chromebook-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * After logging in using your credentials, you can have a video or an audio meeting. Whatever the case may be, when you create a Zoom meeting, you need to share it with your contacts using the Zoom ID.
 * The communications must be on your contact list so that you can invite them with the Zoom ID.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Schedule a Zoom Meeting
 
 * One of the best ways to schedule a Zoom Meeting on your Chromebook is to use the web dashboard. Browse to the ‘Meeting page’ and click on ‘Schedule a Meeting.' You need to enter the date, time, and the topic of the meeting along with the meeting ID. If you wish, you can also include a password to open the discussion in Zoom.
 * Alternatively, you can also use the Zoom Scheduler extension from the Chrome Web Store. The significant advantage of the Zoom Scheduler is that you can schedule an appointment with the Google calendar. You can turn it into a Zoom meeting by clicking on the 'Make it a Zoom Meeting' button. You will then get a new Meeting ID which you can share with your invitees.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6 Tips for using Zoom on Chromebook
 
 One of the best features of using Zoom on your Chromebook is that if you cannot see the screen correctly, you can always zoom in and out. Following are the ways that will help you through the process:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Increase the size of a specific page
 
 To know **how to zoom in on Chromebook,** you need to use the Ctrl button and the 'Plus' symbol on your Chromebook keyboard. Alternatively, you can also use the 'Minus' button to zoom out the screen. As you press the buttons to zoom in and out, you will see the percent increasing or decreasing on your screen.
@@ -92,18 +128,6 @@ To know **how to zoom in on Chromebook,** you need to use the Ctrl button and th
 
 Suppose you want to increase or decrease everything on your screen, you need to use the Ctrl button with the Shift Key and the plus or minus sign. It will help to increase or decrease the screen on your Chromebook.
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Magnify the entire screen
 
 Using the magnifying glass icon, you can magnify the entire screen. Everything will be the same except that it will zoom in closer. You must press the Ctrl tab with 'M' to invoke the magnifying glass icon and click on 'Continue' if you wish to zoom in on your screen.
@@ -112,12 +136,6 @@ Using the magnifying glass icon, you can magnify the entire screen. Everything w
 
 One of the unique features of Zoom is that you can magnify a part of the screen. It would be best if you pressed Ctrl plus D on your keyboard. Once you click on 'Continue,' you will see a part of the screen in zoom-in mode. You must remember to hover the cursor in the correct area of your screen that you require in a magnifying manner.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Increase or decrease the whole screen
 
 If you want to know **how to zoom out Chromebook** or zoom in on the entire screen, you need to press Ctrl and Alt keys along with the brightness up and down keys, and it only works when your screen is in a magnified mode.
@@ -146,16 +164,16 @@ Chromebook is the latest in the block in the world of computers. The Chrome Oper
 * [Increase or decrease the whole screen](#part2-5)
 * [Changing the background in a Zoom meeting](#part2-6)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to use Zoom on Chromebook?
 
 Zoom works excellently in Chromebook. Hence, if you want to use the Zoom app with your Chrome Operating System, you need to visit the official website of Zoom and then download it. Once you install the Zoom app, you can start using it after creating an account for login. Following is a step-by-step guide that will help you to use **Zoom on a Chromebook.**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Download Zoom App
 
 * Head on to the Chrome Web Store on your Chromebook.
@@ -165,10 +183,10 @@ Zoom works excellently in Chromebook. Hence, if you want to use the Zoom app wit
 ![add zoom to chrome](https://images.wondershare.com/filmora/article-images/2022/07/use-zoom-chromebook-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Create an account with Zoom
 
@@ -177,10 +195,10 @@ Zoom works excellently in Chromebook. Hence, if you want to use the Zoom app wit
 * At the end of the process, Zoom will ask for your date of birth. Enter the details, and you will be ready to use Zoom on your Chromebook.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Creating a Zoom Meeting
 
@@ -188,18 +206,6 @@ Zoom works excellently in Chromebook. Hence, if you want to use the Zoom app wit
 
 ![create a zoom meeting](https://images.wondershare.com/filmora/article-images/2022/07/use-zoom-chromebook-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * After logging in using your credentials, you can have a video or an audio meeting. Whatever the case may be, when you create a Zoom meeting, you need to share it with your contacts using the Zoom ID.
 * The communications must be on your contact list so that you can invite them with the Zoom ID.
 
@@ -208,35 +214,41 @@ Zoom works excellently in Chromebook. Hence, if you want to use the Zoom app wit
 * One of the best ways to schedule a Zoom Meeting on your Chromebook is to use the web dashboard. Browse to the ‘Meeting page’ and click on ‘Schedule a Meeting.' You need to enter the date, time, and the topic of the meeting along with the meeting ID. If you wish, you can also include a password to open the discussion in Zoom.
 * Alternatively, you can also use the Zoom Scheduler extension from the Chrome Web Store. The significant advantage of the Zoom Scheduler is that you can schedule an appointment with the Google calendar. You can turn it into a Zoom meeting by clicking on the 'Make it a Zoom Meeting' button. You will then get a new Meeting ID which you can share with your invitees.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6 Tips for using Zoom on Chromebook
 
 One of the best features of using Zoom on your Chromebook is that if you cannot see the screen correctly, you can always zoom in and out. Following are the ways that will help you through the process:
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Increase the size of a specific page
 
 To know **how to zoom in on Chromebook,** you need to use the Ctrl button and the 'Plus' symbol on your Chromebook keyboard. Alternatively, you can also use the 'Minus' button to zoom out the screen. As you press the buttons to zoom in and out, you will see the percent increasing or decreasing on your screen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Increase or decrease everything on your screen
 
 Suppose you want to increase or decrease everything on your screen, you need to use the Ctrl button with the Shift Key and the plus or minus sign. It will help to increase or decrease the screen on your Chromebook.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Magnify the entire screen
 
@@ -246,21 +258,15 @@ Using the magnifying glass icon, you can magnify the entire screen. Everything w
 
 One of the unique features of Zoom is that you can magnify a part of the screen. It would be best if you pressed Ctrl plus D on your keyboard. Once you click on 'Continue,' you will see a part of the screen in zoom-in mode. You must remember to hover the cursor in the correct area of your screen that you require in a magnifying manner.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Increase or decrease the whole screen
 
 If you want to know **how to zoom out Chromebook** or zoom in on the entire screen, you need to press Ctrl and Alt keys along with the brightness up and down keys, and it only works when your screen is in a magnified mode.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Changing the background in a Zoom meeting
 
@@ -271,6 +277,12 @@ Though Chromebook does not have the facility of virtual backgrounds, you can sti
 * Visual effects for Google Meet extension
 * Virtual backgrounds work on Google Meet. Therefore, if you want a virtual background in Zoom, you need to visit the Google Meet tab on your screen. You have to hover your mouse over the ‘Green Screen’ and then click on ‘Upload Background’ to select a new background for your Zoom meeting.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Chromebook is the latest in the block in the world of computers. The Chrome Operating System works well with all the Google Apps. However, it would be best to have a good internet connection while working on Chromebook, as most apps are online. You must also upgrade your Chrome Operating System when there is a requirement. If you want the best performance, you need to upgrade it to the latest version. The Chromebook also works best with the Zoom App. Moreover, since the Chromebook works best online, you can use Zoom from the website directly.

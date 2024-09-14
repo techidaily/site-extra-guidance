@@ -1,7 +1,7 @@
 ---
 title: Navigate the World of Advanced Electronics with Insights From Tom's Hardware
-date: 2024-09-08T04:13:20.632Z
-updated: 2024-09-09T04:13:20.632Z
+date: 2024-09-11T07:57:49.532Z
+updated: 2024-09-13T22:44:17.846Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/ozqDihdWshdHA5AE2Mfu3g-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Explore the Latest in Computing: Discover What's New at Tom's Hardware
 
 Mini PC specialist Minisforum has launched a new device, claiming several firsts. The new[AtomMan X7 Ti](https://www.minisforum.com/page/x7ti/index.html?lang=en) becomes the first in the firm's AtomMan line, described as a high-end cutting-edge marque by Minisforum. It is also claimed to be the “first Intel Ultra 9 AI Mini PC with a 4-inch Touchscreen.” With the rising popularity of[extra screens in PCs](https://www.tomshardware.com/pc-components/cooling/hands-on-lian-lis-lcd-screen-fans-turn-heads-and-are-surprisingly-affordable-but-not-as-configurable-as-id-like) , integrating one into a compact desktop might be a popular idea.
@@ -27,38 +21,14 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  Moving inside, the star of the show is the new Intel Core Ultra 9 processor[185H](https://www.intel.com/content/www/us/en/products/sku/236849/intel-core-ultra-9-processor-185h-24m-cache-up-to-5-10-ghz/specifications.html) with a 16C/22T CPU running at up to 5.1 GHz, and onboard Arc GPU with eight Xe cores running at up to 2.35 GHz. This[Meteor Lake](https://www.tomshardware.com/news/intel-details-core-ultra-meteor-lake-architecture-launches-december-14) chip is cooled by the new Cold Wave cooling system featuring a large diameter fan, 3 copper heatpipes, and a phase-change module.
@@ -71,18 +41,6 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -91,14 +49,11 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,55 +64,21 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-exploring-imovie-trimming-the-crop-conundrum-for-2024/"><u>[New] Exploring iMovie Trimming  The Crop Conundrum for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-proven-youtube-tactics-for-maximum-impact-heres-what-you-need-to-know/"><u>[New] In 2024, Proven YouTube Tactics for Maximum Impact – Here's What You Need to Know</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-ai-editor-with-advanced-features/"><u>[New] Pinnacle AI Editor with Advanced Features</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-curated-queries-for-spirited-conversations-in-podcasts/"><u>[Updated] Curated Queries for Spirited Conversations in Podcasts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-enjoy-youtube-on-iphoneipad-with-the-leading-ios-fb-video-downloader-for-2024/"><u>[Updated] Enjoy YouTube on iPhone/iPad with the Leading iOS FB Video Downloader for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-content-creators-arena-vs-beta-studio-evolutionary-path/"><u>[Updated] In 2024, Content Creator's Arena  Vs. Beta Studio Evolutionary Path</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-metaverse-vs-multimetverse-what-are-the-differences-ultimate-guide/"><u>[Updated] Metaverse Vs. MultiMetverse  What Are the Differences [Ultimate Guide]</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ar-old-video-sensation-unprecedented-wealth-accumulation/"><u>11-Year-Old Video Sensation  Unprecedented Wealth Accumulation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-fcp-freedom/"><u>2024 Approved  Mastering the Art of FCP Freedom</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigate-to-these-10-online-havens-showcasing-striking-3d-texts/"><u>2024 Approved  Navigate to These 10 Online Havens Showcasing Striking 3D Texts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-perfect-emulators-to-replay-playstation-1-classics/"><u>2024 Approved  Perfect Emulators to Replay PlayStation 1 Classics</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/advanced-home-network-support-with-netgears-robust-nighthawk-x6s-range-booster/"><u>Advanced Home Network Support with Netgear's Robust Nighthawk X6S Range Booster</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/are-battery-fixes-profitable-for-phonespods/"><u>Are Battery Fixes Profitable for Phones/Pods?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/boosting-avatars-fps-overcoming-stutter-and-lags-on-the-world-of-pandora/"><u>Boosting Avatar's FPS: Overcoming Stutter and Lags on the World of Pandora</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/deciphering-payday-2-pc-issues-strategies-to-get-your-game-running-smoothly/"><u>Deciphering Payday 2 PC Issues: Strategies to Get Your Game Running Smoothly</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/diagnose-and-fix-audio-glitches-making-apple-airpods-work-with-mic-on-windows-11-again/"><u>Diagnose and Fix Audio Glitches: Making Apple AirPods Work with Mic on Windows 11 Again</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/diagnosing-and-solving-common-amazon-prime-video-connectivity-errors/"><u>Diagnosing and Solving Common Amazon Prime Video Connectivity Errors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/elevating-computer-speed-the-cpu-update-path/"><u>Elevating Computer Speed: The CPU Update Path</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/eliminating-lag-and-stutter-during-playthroughs-of-age-of-empires-iv/"><u>Eliminating Lag and Stutter During Playthroughs of Age of Empires IV</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/expert-review-of-mmocks-powerhouse-a-10000plus-amperes-18000mah-car-resuscitator-the-market-leader/"><u>Expert Review of MMOCK's Powerhouse - A 10,000+ Amperes 18000mAh Car Resuscitator: The Market Leader</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/gpt-meets-gearshifts-mercedes-voice-in-cars-revolution/"><u>GPT Meets Gearshifts: Mercedes' VOICE in Cars Revolution</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/how-to-fix-a-black-display-error-when-playing-fortnite-on-your-laptopdesktop/"><u>How to Fix a Black Display Error When Playing Fortnite on Your Laptop/Desktop</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/how-to-optimize-frame-rates-for-an-enhanced-ark-survival-experience-on-your-computer/"><u>How to Optimize Frame Rates for an Enhanced ARK Survival Experience on Your Computer</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/1723004655227-how-to-overcome-the-life-is-strange-true-colors-glitch-solved/"><u>How to Overcome the Life Is Strange: True Colors Glitch - Solved!</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-how-to-screen-record-on-hp-laptop-best-4-ways-to-use/"><u>In 2024, How to Screen Record on Hp Laptop? - Best 4 Ways to Use</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-live-media-masters-choice-vmix-vs-wirecast-for-professionals/"><u>In 2024, Live Media Masters Choice  VMix Vs. Wirecast for Professionals</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-your-watchlist-with-controlled-netflix-frame-rate/"><u>In 2024, Perfect Your Watchlist with Controlled Netflix Frame Rate</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-slow-start-technique/"><u>In 2024, Slow Start Technique</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-depth-evaluation-how-playstation-4-pro-delivers-next-level-4k-gaming-experience/"><u>In-Depth Evaluation: How PlayStation 4 Pro Delivers Next-Level 4K Gaming Experience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/insta360-one-x2-the-ultimate-waterproof-4k-camera/"><u>Insta360 One X2: The Ultimate Waterproof 4K Camera</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-and-greatest-how-to-get-the-newest-netgear-wi-fi-driver-updates-for-your-device/"><u>Latest and Greatest: How to Get the Newest NETGEAR Wi-Fi Driver Updates for Your Device</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-smooth-screens-effective-guide-to-resolve-chrome-flicker-issues-in-windows/"><u>Mastering Smooth Screens: Effective Guide to Resolve Chrome Flicker Issues in Windows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-world-of-warcraft-graphics-settings-expert-tips-to-elevate-your-fps/"><u>Mastering World of Warcraft Graphics Settings - Expert Tips to Elevate Your FPS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-lenovo-ideapad-130s-performance-limits-a-look-at-its-impressive-usability-features/"><u>Navigating the Lenovo IdeaPad 130S' Performance Limits - A Look at Its Impressive Usability Features</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/nikon-sb-700-af-speedlight-flash-review-premium-portable-performance-at-a-cost/"><u>Nikon SB-700 AF Speedlight Flash Review: Premium Portable Performance, at a Cost</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/overcoming-startup-issues-with-cyberpunk-2077-a-comprehensive-solution/"><u>Overcoming Startup Issues with Cyberpunk 2077 – A Comprehensive Solution</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/overcoming-the-2024-launch-issues-in-forza-horizon-4-expert-strategies/"><u>Overcoming the 2024 Launch Issues in Forza Horizon 4: Expert Strategies</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/overcoming-the-challenge-of-star-wars-battlefront-2-error-code-n-327-a-fix-guide/"><u>Overcoming the Challenge of Star Wars Battlefront 2 Error Code N 327 - A Fix Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/restore-sound-on-your-jbl-g435-wireless-headphones-with-these-simple-repairs/"><u>Restore Sound on Your JBL G435 Wireless Headphones with These Simple Repairs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/solving-launch-issues-top-8-troubleshooting-tips-for-hogwarts-legacy-pc-game/"><u>Solving Launch Issues: Top 8 Troubleshooting Tips for Hogwarts Legacy PC Game</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/sony-ps-players-voice-modification-techniques-for-2024/"><u>Sony PS Players' Voice Modification Techniques for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-solutions-to-restore-your-creative-pebble-speakers-functionality/"><u>Step-by-Step Solutions to Restore Your Creative Pebble Speaker's Functionality</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/synology-rt2600ac-a-comprehensive-guide-to-its-long-range-wifi-and-parental-controls/"><u>Synology RT2600ac: A Comprehensive Guide to Its Long Range WiFi and Parental Controls</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/the-essentials-of-a-trustworthy-ups-a-thorough-review-of-cyberpowers-cp685avrg-model/"><u>The Essentials of a Trustworthy UPS - A Thorough Review of Cyberpower's CP685AVRG Model</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/the-lenovo-chromebook-duet-review-a-cost-efficient-alternative-to-traditional-2-in-1-pcs/"><u>The Lenovo Chromebook Duet Review: A Cost-Efficient Alternative to Traditional 2-in-1 PCs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/troubleshooting-steps-for-call-of-duty-vanguard-dev-error-5573-what-you-need-to-know/"><u>Troubleshooting Steps for Call of Duty: Vanguard Dev Error 5573 – What You Need To Know</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/ultimate-fix-for-persistent-crashing-problems-in-revived-diablo-ii/"><u>Ultimate Fix for Persistent Crashing Problems in Revived Diablo II</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/which-leads-analyzing-the-strengths-of-llama-vs-gpt-nnamaste-4/"><u>Which Leads? Analyzing The Strengths Of Llama Vs. GPT-nNamaste-4</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/cutting-edge-interconnects-launched-by-pci-sig-introducing-copperlynx-for-enhanced-gen-5-and-6-performance-upcoming-pcie-gen-7-on-horizon/"><u>Cutting-Edge Interconnects Launched by PCI-SIG - Introducing CopperLynx for Enhanced Gen 5 & #6 Performance; Upcoming PCIe Gen 7 on Horizon</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-netgear-wn780rpi-firmware-with-simple-steps/"><u>Download & Update Netgear WN780RPI Firmware with Simple Steps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/enhance-performance-build-a-custom-mini-pc-with-direct-egpu-connection-and-speeds-that-outpace-thunderbolt-4/"><u>Enhance Performance: Build a Custom Mini PC with Direct eGPU Connection & Speeds that Outpace Thunderbolt 4</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tial-steps-for-seamless-youtube-video-loops/"><u>Essential Steps for Seamless YouTube Video Loops</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-the-art-of-obtaining-hidden-facebook-vids/"><u>Mastering the Art of Obtaining Hidden Facebook Vids</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/supersonic-revelations-how-an-everyday-can-of-compressed-air-hits-sonic-boom-speeds-engineer-unveils-shock-wave-phenomenon/"><u>Supersonic Revelations: How an Everyday Can of Compressed Air Hits Sonic Boom Speeds - Engineer Unveils Shock Wave Phenomenon</u></a></li>
+<li><a href="https://techidaily.com/the-complete-review-of-the-xbox-series-x-revolutionizing-play-experience-in-breathtaking-4k-quality/"><u>The Complete Review of the Xbox Series X: Revolutionizing Play Experience in Breathtaking 4K Quality</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/top-10-online-yoga-classrooms-enhancing-physical-strength/"><u>Top 10 Online Yoga Classrooms Enhancing Physical Strength</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

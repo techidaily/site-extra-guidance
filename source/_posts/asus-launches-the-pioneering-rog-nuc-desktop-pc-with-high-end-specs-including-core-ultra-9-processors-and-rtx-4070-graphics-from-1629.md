@@ -1,7 +1,7 @@
 ---
 title: Asus Launches the Pioneering ROG NUC Desktop PC with High-End Specs Including Core Ultra 9 Processors and RTX 4070 Graphics From $1,629
-date: 2024-09-08T04:13:20.992Z
-updated: 2024-09-09T04:13:20.992Z
+date: 2024-09-08T08:11:18.699Z
+updated: 2024-09-13T19:31:10.514Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/uvCHnTPBRqS2Qx5793b9UT-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discover Asus' Groundbreaking ROG NUC: The First Gaming Desktop with Up to Intel Core I9 & NVIDIA RTX 4070 - Available Starting at $1,629
 
 Asus is launching its first gaming mini-PC with the ROG NUC. This tiny PC weighs just 2.6 kg and comes in a 2.5-liter chassis that measures 270 x 180 x 50mm. Even though it has a diminutive form factor, you won't miss out on performance as it comes with either an Intel Core Ultra 7 155H or a Core Ultra 9 185H. Both models also have a discrete GPU — an RTX 4060 for the Ultra 7 and RTX 4070 for the Ultra 9.
@@ -47,12 +41,6 @@ These are the specifications of the two Asus ROG NUC models:
 
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -61,14 +49,11 @@ These are the specifications of the two Asus ROG NUC models:
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -79,53 +64,30 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-elevate-image-edits-quick-tips-from-the-pixlr-pros/"><u>[New] Elevate Image Edits  Quick Tips From the Pixlr Pros</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-vsdc-screen-recorder-review/"><u>[New] In 2024, VSDC Screen Recorder Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-timing-on-mobile-top-10-apps-for-couples-special-day/"><u>[New] Mastering Timing on Mobile  Top 10 Apps for Couple's Special Day</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-precision-in-memory-keeping-organizing-photos-on-iphone-and-uploading-to-icloud/"><u>[New] Precision in Memory Keeping  Organizing Photos on iPhone and Uploading to iCloud</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-pixel-pizzazz-top-10-screenshot-sticker-enhancers-for-iphonesandroids/"><u>[Updated] In 2024, Pixel Pizzazz  Top 10 Screenshot Sticker Enhancers for iPhones/Androids</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-precision-editing-perfecting-the-art-of-fades-in-pro/"><u>[Updated] Precision Editing  Perfecting the Art of Fades in Pro</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-master-your-photos-the-prime-selection-of-no-cost-editors/"><u>2024 Approved  Master Your Photos  The Prime Selection of No-Cost Editors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/advanced-home-network-support-with-netgears-robust-nighthawk-x6s-range-booster/"><u>Advanced Home Network Support with Netgear's Robust Nighthawk X6S Range Booster</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/are-battery-fixes-profitable-for-phonespods/"><u>Are Battery Fixes Profitable for Phones/Pods?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/boosting-avatars-fps-overcoming-stutter-and-lags-on-the-world-of-pandora/"><u>Boosting Avatar's FPS: Overcoming Stutter and Lags on the World of Pandora</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-restrictions-in-steam-libraries-windows-11-guide/"><u>Bypassing Restrictions in Steam Libraries: Windows 11 Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/deciphering-payday-2-pc-issues-strategies-to-get-your-game-running-smoothly/"><u>Deciphering Payday 2 PC Issues: Strategies to Get Your Game Running Smoothly</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/diagnose-and-fix-audio-glitches-making-apple-airpods-work-with-mic-on-windows-11-again/"><u>Diagnose and Fix Audio Glitches: Making Apple AirPods Work with Mic on Windows 11 Again</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/diagnosing-and-solving-common-amazon-prime-video-connectivity-errors/"><u>Diagnosing and Solving Common Amazon Prime Video Connectivity Errors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/elevating-computer-speed-the-cpu-update-path/"><u>Elevating Computer Speed: The CPU Update Path</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/eliminating-lag-and-stutter-during-playthroughs-of-age-of-empires-iv/"><u>Eliminating Lag and Stutter During Playthroughs of Age of Empires IV</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/expert-review-of-mmocks-powerhouse-a-10000plus-amperes-18000mah-car-resuscitator-the-market-leader/"><u>Expert Review of MMOCK's Powerhouse - A 10,000+ Amperes 18000mAh Car Resuscitator: The Market Leader</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620235009-expert-strategies-for-converting-wmv-to-gifs-top-techniques-to-master-now/"><u>Expert Strategies for Converting WMV to GIFs: Top Techniques to Master Now!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/gpt-meets-gearshifts-mercedes-voice-in-cars-revolution/"><u>GPT Meets Gearshifts: Mercedes' VOICE in Cars Revolution</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/how-to-fix-a-black-display-error-when-playing-fortnite-on-your-laptopdesktop/"><u>How to Fix a Black Display Error When Playing Fortnite on Your Laptop/Desktop</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-poco-c50-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Poco C50 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/how-to-optimize-frame-rates-for-an-enhanced-ark-survival-experience-on-your-computer/"><u>How to Optimize Frame Rates for an Enhanced ARK Survival Experience on Your Computer</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/1723004655227-how-to-overcome-the-life-is-strange-true-colors-glitch-solved/"><u>How to Overcome the Life Is Strange: True Colors Glitch - Solved!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-discovering-your-customized-youtube-playlist/"><u>In 2024, Discovering Your Customized YouTube Playlist</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-simplify-images-remove-the-environmental-elements/"><u>In 2024, Simplify Images  Remove the Environmental Elements</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-slide-show-software-selection-from-ix-ios13/"><u>In 2024, Slide Show Software Selection From IX-IOS13</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-depth-evaluation-how-playstation-4-pro-delivers-next-level-4k-gaming-experience/"><u>In-Depth Evaluation: How PlayStation 4 Pro Delivers Next-Level 4K Gaming Experience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/insta360-one-x2-the-ultimate-waterproof-4k-camera/"><u>Insta360 One X2: The Ultimate Waterproof 4K Camera</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-smooth-screens-effective-guide-to-resolve-chrome-flicker-issues-in-windows/"><u>Mastering Smooth Screens: Effective Guide to Resolve Chrome Flicker Issues in Windows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-world-of-warcraft-graphics-settings-expert-tips-to-elevate-your-fps/"><u>Mastering World of Warcraft Graphics Settings - Expert Tips to Elevate Your FPS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigate-away-from-windows-10-photos-app-failures-with-precision-for-2024/"><u>Navigate Away From Windows 10 Photos App Failures with Precision for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-lenovo-ideapad-130s-performance-limits-a-look-at-its-impressive-usability-features/"><u>Navigating the Lenovo IdeaPad 130S' Performance Limits - A Look at Its Impressive Usability Features</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-create-stunning-visual-stories-best-online-collage-software/"><u>New In 2024, Create Stunning Visual Stories Best Online Collage Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/nikon-sb-700-af-speedlight-flash-review-premium-portable-performance-at-a-cost/"><u>Nikon SB-700 AF Speedlight Flash Review: Premium Portable Performance, at a Cost</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/overcoming-startup-issues-with-cyberpunk-2077-a-comprehensive-solution/"><u>Overcoming Startup Issues with Cyberpunk 2077 – A Comprehensive Solution</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/overcoming-the-2024-launch-issues-in-forza-horizon-4-expert-strategies/"><u>Overcoming the 2024 Launch Issues in Forza Horizon 4: Expert Strategies</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/overcoming-the-challenge-of-star-wars-battlefront-2-error-code-n-327-a-fix-guide/"><u>Overcoming the Challenge of Star Wars Battlefront 2 Error Code N 327 - A Fix Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/restore-sound-on-your-jbl-g435-wireless-headphones-with-these-simple-repairs/"><u>Restore Sound on Your JBL G435 Wireless Headphones with These Simple Repairs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/solving-launch-issues-top-8-troubleshooting-tips-for-hogwarts-legacy-pc-game/"><u>Solving Launch Issues: Top 8 Troubleshooting Tips for Hogwarts Legacy PC Game</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-solutions-to-restore-your-creative-pebble-speakers-functionality/"><u>Step-by-Step Solutions to Restore Your Creative Pebble Speaker's Functionality</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/synology-rt2600ac-a-comprehensive-guide-to-its-long-range-wifi-and-parental-controls/"><u>Synology RT2600ac: A Comprehensive Guide to Its Long Range WiFi and Parental Controls</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/the-essentials-of-a-trustworthy-ups-a-thorough-review-of-cyberpowers-cp685avrg-model/"><u>The Essentials of a Trustworthy UPS - A Thorough Review of Cyberpower's CP685AVRG Model</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/the-lenovo-chromebook-duet-review-a-cost-efficient-alternative-to-traditional-2-in-1-pcs/"><u>The Lenovo Chromebook Duet Review: A Cost-Efficient Alternative to Traditional 2-in-1 PCs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-choosing-a-camera-gimbal-for-drone-photographers-for-2024/"><u>The Ultimate Guide To Choosing A Camera Gimbal For Drone Photographers for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/troubleshooting-steps-for-call-of-duty-vanguard-dev-error-5573-what-you-need-to-know/"><u>Troubleshooting Steps for Call of Duty: Vanguard Dev Error 5573 – What You Need To Know</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/ultimate-fix-for-persistent-crashing-problems-in-revived-diablo-ii/"><u>Ultimate Fix for Persistent Crashing Problems in Revived Diablo II</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/which-leads-analyzing-the-strengths-of-llama-vs-gpt-nnamaste-4/"><u>Which Leads? Analyzing The Strengths Of Llama Vs. GPT-nNamaste-4</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-s-embracing-a-disc-free-future/"><u>Xbox S: Embracing a Disc-Free Future</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-troubleshooting-common-issues-when-uploading-to-apple/"><u>[New] Troubleshooting Common Issues When Uploading to Apple</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unleash-your-potential-on-facebook-keyword-strategies-reviewed/"><u>2024 Approved Unleash Your Potential on Facebook Keyword Strategies Reviewed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/citing-ai-tools-correctly-the-step-by-step-process-for-mentioning-chatgpt/"><u>Citing AI Tools Correctly: The Step-by-Step Process for Mentioning ChatGPT</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/cleaning-day-discovery-original-q1-pc-and-other-vintage-desktops-found-in-boxes-featuring-intels-pioneering-8008-cpu-and-16kb-memory/"><u>Cleaning Day Discovery: Original Q1 PC and Other Vintage Desktops Found in Boxes, Featuring Intel's Pioneering 8008 CPU and 16KB Memory</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/damn-small-linux-a-fresh-start-for-legacy-systems-explained-in-simple-steps/"><u>Damn Small Linux: A Fresh Start for Legacy Systems Explained in Simple Steps</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-8-plus-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 8 Plus to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-optimal-vlog-filming-ideal-handheld-stabilizers-compared/"><u>In 2024, Optimal Vlog Filming Ideal Handheld Stabilizers Compared</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-world-of-pc-components-with-toms-gear-guides/"><u>Navigating the World of PC Components with Tom's Gear Guides</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/prime-video-stardom-top-tweets-and-peak-watchability-rankings/"><u>Prime Video Stardom Top Tweets and Peak Watchability Rankings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/1723262394224-unbeatable-gaming-deal-at-999-get-the-cyberpower-pc-packed-with-rtx-4-and-intel-i5-processor/"><u>Unbeatable Gaming Deal at $999: Get the CyberPower PC Packed with RTX 4# and Intel I5 Processor</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/unveiling-hardware-secrets-toms-expert-tech-review-platform-for-savvy-shoppers/"><u>Unveiling Hardware Secrets: Tom's Expert Tech Review Platform for Savvy Shoppers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-choose-microsoft-copilot-4-compelling-reasons-against-chatgpt/"><u>Why Choose Microsoft Copilot? 4 Compelling Reasons Against ChatGPT</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

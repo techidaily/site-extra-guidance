@@ -1,7 +1,7 @@
 ---
 title: Inside Tom's Tech Haven - Your Guide to Computer Hardware
-date: 2024-09-08T04:13:20.465Z
-updated: 2024-09-09T04:13:20.465Z
+date: 2024-09-07T10:08:40.653Z
+updated: 2024-09-13T21:30:56.648Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/H76eY7NH92oTc4ML7VNhJm-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Comprehensive Hardware Guides by Tom - Find Your Perfect Match
 
 Just under four months after the initial[Ayaneo AM01 Mini PC unveiling](https://www.tomshardware.com/video-games/handheld-gaming/ayaneos-first-mini-pcs-feature-classic-retro-styling) and subsequent[specs and pricing](https://www.tomshardware.com/news/ayaneo-retro-mini-pc-am01-uses-older-amd-apus-but-is-cheap) reveal, Ayaneo posted to[their blog](https://www.ayaneo.com/article/818) with up-to-date info on the AM01, including the reveal of a Zen 3-based Ryzen 7 5800U version. The two cheaper versions use a[Ryzen 3 3200U](https://www.tomshardware.com/news/amd-picasso-ryzen-3000-apu,38241.html) and a[Ryzen 7 5700U](https://www.tomshardware.com/news/amd-ryzen-7-5700u-lucienne-benchmark) based on AMD's Zen 1 and Zen 2 architectures. For your reference, the[Zen 3](https://www.tomshardware.com/news/amd-zen-3-ryzen-5000-release-date-specifications-pricing-benchmarks-all-we-know) architecture was released in late 2020, and we're currently awaiting the release of[Zen 5](https://www.tomshardware.com/news/amd-shares-new-cpu-core-roadmap-3nm-zen-5-by-2024-4th-gen-infinity-architecture) here in 2024.
@@ -23,12 +17,6 @@ Just under four months after the initial[Ayaneo AM01 Mini PC unveiling](https://
 
 ![Current pricing matrix for the Zen 3-based Ryzen 7 5800U configuration of Ayaneo AM01.](https://cdn.mos.cms.futurecdn.net/zkexFiVS4JdrAYoKakvYu5-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Current pricing matrix for the Zen 3-based Ryzen 7 5800U configuration of Ayaneo AM01.  (Image credit: Ayaneo)
 
  The Ayaneo blog post also confirms that the Ryzen 7 is slated to operate at up to 35 Watts on the AM01, an ample boost to the official maximum TDP of 25 Watts. This higher TDP enabled alongside the proper[RAM](https://www.tomshardware.com/reviews/best-ram,4057.html) selection should help maximize the performance of the iGPU within.
@@ -37,12 +25,6 @@ Just under four months after the initial[Ayaneo AM01 Mini PC unveiling](https://
 
  If you hope to get your hands on the Ayaneo AM01 PC as soon as possible, head to their Indiegogo page to buy the device through crowdfunding. And as always, while we acknowledge Ayaneo's excellent track record in crowdfunded devices, you can't know what to expect until people get their hands on it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -51,14 +33,11 @@ Just under four months after the initial[Ayaneo AM01 Mini PC unveiling](https://
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -69,45 +48,20 @@ Just under four months after the initial[Ayaneo AM01 Mini PC unveiling](https://
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-capturing-web-streamed-music-step-by-step-guide/"><u>[New] Capturing Web-Streamed Music  Step by Step Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-curate-and-connect-videos-for-watchlist-for-2024/"><u>[New] Curate and Connect Videos for Watchlist for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ultimate-relaxation-top-10-mobile-idle-games/"><u>[New] In 2024, Ultimate Relaxation  Top 10 Mobile Idle Games</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastery-in-making-gifs-into-stickers-on-messaging-platforms-with-this-guide/"><u>[New] Mastery in Making Gifs Into Stickers on Messaging Platforms with This Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pioneering-design-discover-the-best-software-for-vectors/"><u>[New] Pioneering Design  Discover the Best Software for Vectors</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-podcast-prelude-selecting-in-sync-sonic-sources/"><u>[New] Podcast Prelude  Selecting In-Sync Sonic Sources</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-power-play-the-ultimate-guide-to-selecting-lipos-for-uavs/"><u>[New] Power Play  The Ultimate Guide to Selecting LiPos for UAVS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pushing-boundaries-exploring-iphone-xs-unique-lens-tech/"><u>[New] Pushing Boundaries  Exploring iPhone X's Unique Lens Tech</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-steady-silence-decreasing-volume-in-logic-pro-projects/"><u>[New] Steady Silence  Decreasing Volume in Logic Pro Projects</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-lively-film-reader-assessment/"><u>[Updated] 2024 Approved  Lively Film Reader Assessment</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-viewer-to-video-voyager-building-strong-backlinks-in-youtube/"><u>[Updated] From Viewer to Video Voyager  Building Strong Backlinks in YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-novices-path-to-professional-gopro-video-editing/"><u>[Updated] Novice's Path to Professional GoPro Video Editing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-perfect-photos-effortless-best-10-screenshot-sticker-enhancers-for-smartphones/"><u>[Updated] Perfect Photos, Effortless  Best 10 Screenshot-Sticker Enhancers for Smartphones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-plotting-precise-promotional-reels/"><u>[Updated] Plotting Precise Promotional Reels</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-quintessential-scripts-elevating-blockbusters/"><u>[Updated] Quintessential Scripts Elevating Blockbusters</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-selecting-the-perfect-timing-for-b-roll-insertion/"><u>[Updated] Selecting the Perfect Timing for B Roll Insertion</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-instant-mirth-mastery-your-shortcut-to-ifunny-memes/"><u>2024 Approved  Instant Mirth Mastery  Your Shortcut to iFunny Memes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-is-inshot-leading-video-cutting-tech-deep-insight-reviewed/"><u>2024 Approved  Is InShot Leading Video Cutting Tech? Deep Insight Reviewed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-adding-linktree-to-your-tiktok-info/"><u>2024 Approved  Mastering the Art of Adding Linktree to Your TikTok Info</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-spectral-film-reset-guide/"><u>2024 Approved  Spectral Film Reset Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-supernatural-video-slowdown-handbook/"><u>2024 Approved  Supernatural Video Slowdown Handbook</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-windows-experience-with-top-5-affordable-car-update-tools/"><u>Elevate Your Windows Experience with Top 5 Affordable Car Update Tools</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y100i-power-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-0xc000007b-when-apps-fail-to-start-properly-solutions-inside/"><u>How to Fix Error 0xC000007B When Apps Fail to Start Properly - Solutions Inside</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-13-pro-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 13 Pro Unavailable Issue With Ease</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-master-headline-hacks-for-maximum-impressions/"><u>In 2024, Master Headline Hacks for Maximum Impressions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximize-iphone-screen-space-with-smaller-videos/"><u>In 2024, Maximize iPhone Screen Space with Smaller Videos</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-honor-100-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Honor 100 Screen | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-guide-to-unmicrophonic-audio-recording/"><u>In 2024, Step-by-Step Guide to Unmicrophonic Audio Recording</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-strategic-advantages-in-business-with-vr-tech/"><u>In 2024, Strategic Advantages in Business with VR Tech</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/instagram-live-without-a-trace-the-unseen-spectators-playbook-for-2024/"><u>Instagram Live without a Trace  The Unseen Spectator's Playbook for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/iphone-guide-engage-with-audio-content-seamlessly-for-2024/"><u>IPhone Guide  Engage with Audio Content Seamlessly for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/optimize-your-new-windows-11-system-with-intel-iris-graphics-drivers-v655/"><u>Optimize Your New Windows 11 System with Intel Iris Graphics Drivers V655</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-outlooks-error-0x80040610-in-windows-systems/"><u>Overcoming Outlook's Error 0X80040610 in Windows Systems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-gt-3-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme GT 3 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prime-avi-media-reader-superior-on-every-platform-for-2024/"><u>Prime Avi Media Reader - Superior on Every Platform for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/rebound-creators-range-for-2024/"><u>Rebound Creators' Range for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/seamless-integration-using-gpt-3-tools-at-openai-hub/"><u>Seamless Integration: Using GPT-3 Tools at OpenAI Hub</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/side-by-side-hero4-vs-hero5-analysis-for-2024/"><u>Side by Side  Hero4 vs Hero5 Analysis for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-zte-axon-40-lite-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from ZTE Axon 40 Lite to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beijings-frigid-triumph-in-winter-sports-2022/"><u>[Updated] Beijing's Frigid Triumph in Winter Sports, 2022</u></a></li>
+<li><a href="https://windows11.techidaily.com/breathing-life-into-your-dormant-windows-mouse/"><u>Breathing Life Into Your Dormant Windows Mouse</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/gear-up-smartly-expert-reviews-and-advice-on-latest-hardware-from-toms-resource/"><u>Gear Up Smartly: Expert Reviews and Advice on Latest Hardware From Tom’s Resource</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-realme-narzo-n53-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Realme Narzo N53?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-profile-picture-dimensions/"><u>In 2024, FB Profile Picture Dimensions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/introducing-asuss-groundbreaking-rog-nuc-top-of-the-line-tech-featuring-amd-ryzen-9-and-nvidia-rtx-4070-available-for-1629/"><u>Introducing Asus's Groundbreaking ROG NUC: Top of The Line Tech Featuring AMD Ryzen 9 & Nvidia RTX 4070 - Available for $1,629</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-world-of-electronics-with-toms-review-site/"><u>Navigating the World of Electronics with Tom's Review Site</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-timeless-appeal-a-detailed-review-of-the-huawei-p3-pro/"><u>Unveiling the Timeless Appeal: A Detailed Review of the Huawei P3# Pro</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

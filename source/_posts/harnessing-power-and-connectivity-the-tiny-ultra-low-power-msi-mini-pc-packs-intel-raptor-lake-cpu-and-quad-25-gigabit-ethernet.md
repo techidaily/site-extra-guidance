@@ -1,7 +1,7 @@
 ---
 title: "Harnessing Power and Connectivity: The Tiny Ultra-Low-Power MSI Mini PC Packs Intel Raptor Lake CPU & Quad 2.5 Gigabit Ethernet"
-date: 2024-09-08T04:13:20.599Z
-updated: 2024-09-09T04:13:20.599Z
+date: 2024-09-07T16:45:29.406Z
+updated: 2024-09-13T18:13:09.229Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/0d60a13e95bd2f19c3825589ac3dc780b265ba27c26a5a1444fa33e9bf405f0f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## WD's Ultrastar Transporter: A Game-Changer in Data Mobility with 368TB NVMe Storage Capacity and High-End Specs
 
 [Western Digital](https://www.tomshardware.com/tag/western-digital) , known for its hard drives and SSDs, has unveiled a new product that isn't a storage device in the technical sense. The product, known as the Ultrastar Transporter, is a new Western Digital-built travel case that houses a whopping 368TB of NVMe flash storage. The case is TAA compliant and has a 12-core Intel Ice Lake server that houses all SSDs and dual 200Gb ethernet ports.
@@ -25,22 +19,10 @@ thumbnail: https://thmb.techidaily.com/0d60a13e95bd2f19c3825589ac3dc780b265ba27c
 
 ![Western Digital Ultrastar Transporter](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Western Digital)
 
 ![Western Digital Ultrastar Transporter](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Western Digital)
 
  A few examples include workloads where high-capacity data capture needs to be processed at one location from another. Another is the proliferation of multi-datacenter workflows, where large data sets have to be held at multiple locations and rapidly sent to those locations faster than what raw internet bandwidth can provide.
@@ -49,12 +31,6 @@ thumbnail: https://thmb.techidaily.com/0d60a13e95bd2f19c3825589ac3dc780b265ba27c
 
  The case itself looks like a conventional carrying case. The outer shell appears to be hard plastic, with metal supporting rails filling the lips of the case. The case features two latching mechanisms and a mechanism to attach a lock for[security](https://www.tomshardware.com/tag/security) . You can transport the travel case by rolling it on its two wheels or with another handle that allows you to carry it like a briefcase.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -63,14 +39,11 @@ thumbnail: https://thmb.techidaily.com/0d60a13e95bd2f19c3825589ac3dc780b265ba27c
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -81,56 +54,27 @@ thumbnail: https://thmb.techidaily.com/0d60a13e95bd2f19c3825589ac3dc780b265ba27c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-resolve-instagrams-video-problems-swiftly/"><u>[New] 2024 Approved  Resolve Instagram's Video Problems Swiftly</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-best-in-class-ps3-virtual-games-for-pc/"><u>[New] Best-in-Class PS3 Virtual Games for PC</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-dive-into-the-world-of-youtube-on-facebook-video-content/"><u>[New] In 2024, Dive Into the World of YouTube on Facebook Video Content</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-how-to-schedule-effective-reliable-virtual-team-meetings-with-google/"><u>[New] In 2024, How to Schedule Effective, Reliable Virtual Team Meetings with Google</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-premium-6-choices-for-cost-effective-4k-projection/"><u>[New] In 2024, Premium 6 Choices for Cost-Effective 4K Projection</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-unveiling-the-secrets-of-stretching-seconds-creating-spectaculous-slow-mo-videos-with-photos-and-web-tools/"><u>[New] In 2024, Unveiling the Secrets of Stretching Seconds  Creating Spectaculous Slow-Mo Videos with Photos & Web Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-secrets-of-gopro-chrono-photography/"><u>[New] Unveiling the Secrets of GoPro Chrono Photography</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-hidden-shotsnappers-advanced-techniques-for-invisible-image-capturing-on-snapchat/"><u>[Updated] 2024 Approved  Hidden ShotSnappers  Advanced Techniques for Invisible Image Capturing on Snapchat</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-exploring-screenflow-features-a-mac-developers-perspective-for-2024/"><u>[Updated] Exploring ScreenFlow Features – A Mac Developer's Perspective for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/spiring-youtube-guides-for-aspiring-singers-and-instrumentalists-for-2024/"><u>15 Inspiring YouTube Guides for Aspiring Singers and Instrumentalists for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-in-the-virtual-world-your-step-by-step-meme-guide/"><u>2024 Approved  Crafting in the Virtual World  Your Step-by-Step Meme Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-exploring-paid-tweeting-on-twitter/"><u>2024 Approved  Exploring Paid Tweeting on Twitter</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-lava-blaze-2-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/advanced-home-network-support-with-netgears-robust-nighthawk-x6s-range-booster/"><u>Advanced Home Network Support with Netgear's Robust Nighthawk X6S Range Booster</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/are-battery-fixes-profitable-for-phonespods/"><u>Are Battery Fixes Profitable for Phones/Pods?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/boosting-avatars-fps-overcoming-stutter-and-lags-on-the-world-of-pandora/"><u>Boosting Avatar's FPS: Overcoming Stutter and Lags on the World of Pandora</u></a></li>
-<li><a href="https://common-error.techidaily.com/call-of-duty-ww2-bug-code-easy-troubleshooting-steps-to-correct-errors/"><u>Call of Duty WW2 Bug Code 지표: Easy Troubleshooting Steps to Correct Errors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/deciphering-payday-2-pc-issues-strategies-to-get-your-game-running-smoothly/"><u>Deciphering Payday 2 PC Issues: Strategies to Get Your Game Running Smoothly</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/diagnose-and-fix-audio-glitches-making-apple-airpods-work-with-mic-on-windows-11-again/"><u>Diagnose and Fix Audio Glitches: Making Apple AirPods Work with Mic on Windows 11 Again</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/diagnosing-and-solving-common-amazon-prime-video-connectivity-errors/"><u>Diagnosing and Solving Common Amazon Prime Video Connectivity Errors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/elevating-computer-speed-the-cpu-update-path/"><u>Elevating Computer Speed: The CPU Update Path</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/eliminating-lag-and-stutter-during-playthroughs-of-age-of-empires-iv/"><u>Eliminating Lag and Stutter During Playthroughs of Age of Empires IV</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/expert-review-of-mmocks-powerhouse-a-10000plus-amperes-18000mah-car-resuscitator-the-market-leader/"><u>Expert Review of MMOCK's Powerhouse - A 10,000+ Amperes 18000mAh Car Resuscitator: The Market Leader</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/google-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>Google Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/gpt-meets-gearshifts-mercedes-voice-in-cars-revolution/"><u>GPT Meets Gearshifts: Mercedes' VOICE in Cars Revolution</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Realme Note 50? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/how-to-fix-a-black-display-error-when-playing-fortnite-on-your-laptopdesktop/"><u>How to Fix a Black Display Error When Playing Fortnite on Your Laptop/Desktop</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/how-to-optimize-frame-rates-for-an-enhanced-ark-survival-experience-on-your-computer/"><u>How to Optimize Frame Rates for an Enhanced ARK Survival Experience on Your Computer</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/1723004655227-how-to-overcome-the-life-is-strange-true-colors-glitch-solved/"><u>How to Overcome the Life Is Strange: True Colors Glitch - Solved!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nubia-red-magic-8s-proplus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nubia Red Magic 8S Pro+ to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-iphone-15-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your iPhone 15 and iPad?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-maximize-fun-choose-from-heres-top-5-chrome-extensions-for-facebook-vids/"><u>In 2024, Maximize Fun  Choose From Here's Top 5 Chrome Extensions for Facebook Vids</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-steps-to-convert-video-tweets-to-mp3-soundtracks/"><u>In 2024, Steps to Convert Video Tweets to MP3 Soundtracks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-depth-evaluation-how-playstation-4-pro-delivers-next-level-4k-gaming-experience/"><u>In-Depth Evaluation: How PlayStation 4 Pro Delivers Next-Level 4K Gaming Experience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/insta360-one-x2-the-ultimate-waterproof-4k-camera/"><u>Insta360 One X2: The Ultimate Waterproof 4K Camera</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-smooth-screens-effective-guide-to-resolve-chrome-flicker-issues-in-windows/"><u>Mastering Smooth Screens: Effective Guide to Resolve Chrome Flicker Issues in Windows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-world-of-warcraft-graphics-settings-expert-tips-to-elevate-your-fps/"><u>Mastering World of Warcraft Graphics Settings - Expert Tips to Elevate Your FPS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-lenovo-ideapad-130s-performance-limits-a-look-at-its-impressive-usability-features/"><u>Navigating the Lenovo IdeaPad 130S' Performance Limits - A Look at Its Impressive Usability Features</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/nikon-sb-700-af-speedlight-flash-review-premium-portable-performance-at-a-cost/"><u>Nikon SB-700 AF Speedlight Flash Review: Premium Portable Performance, at a Cost</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/overcoming-startup-issues-with-cyberpunk-2077-a-comprehensive-solution/"><u>Overcoming Startup Issues with Cyberpunk 2077 – A Comprehensive Solution</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/overcoming-the-2024-launch-issues-in-forza-horizon-4-expert-strategies/"><u>Overcoming the 2024 Launch Issues in Forza Horizon 4: Expert Strategies</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/overcoming-the-challenge-of-star-wars-battlefront-2-error-code-n-327-a-fix-guide/"><u>Overcoming the Challenge of Star Wars Battlefront 2 Error Code N 327 - A Fix Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/restore-sound-on-your-jbl-g435-wireless-headphones-with-these-simple-repairs/"><u>Restore Sound on Your JBL G435 Wireless Headphones with These Simple Repairs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/solving-launch-issues-top-8-troubleshooting-tips-for-hogwarts-legacy-pc-game/"><u>Solving Launch Issues: Top 8 Troubleshooting Tips for Hogwarts Legacy PC Game</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-solutions-to-restore-your-creative-pebble-speakers-functionality/"><u>Step-by-Step Solutions to Restore Your Creative Pebble Speaker's Functionality</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/synology-rt2600ac-a-comprehensive-guide-to-its-long-range-wifi-and-parental-controls/"><u>Synology RT2600ac: A Comprehensive Guide to Its Long Range WiFi and Parental Controls</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/the-essentials-of-a-trustworthy-ups-a-thorough-review-of-cyberpowers-cp685avrg-model/"><u>The Essentials of a Trustworthy UPS - A Thorough Review of Cyberpower's CP685AVRG Model</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/the-lenovo-chromebook-duet-review-a-cost-efficient-alternative-to-traditional-2-in-1-pcs/"><u>The Lenovo Chromebook Duet Review: A Cost-Efficient Alternative to Traditional 2-in-1 PCs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/troubleshooting-steps-for-call-of-duty-vanguard-dev-error-5573-what-you-need-to-know/"><u>Troubleshooting Steps for Call of Duty: Vanguard Dev Error 5573 – What You Need To Know</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/ultimate-fix-for-persistent-crashing-problems-in-revived-diablo-ii/"><u>Ultimate Fix for Persistent Crashing Problems in Revived Diablo II</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/which-leads-analyzing-the-strengths-of-llama-vs-gpt-nnamaste-4/"><u>Which Leads? Analyzing The Strengths Of Llama Vs. GPT-nNamaste-4</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-instagram-quick-paths-to-influence/"><u>[New] Mastering Instagram Quick Paths to Influence</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-starting-from-scratch-best-game-editing-programs-for-newbies/"><u>[New] Starting From Scratch Best Game Editing Programs for Newbies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-process-to-revamp-your-youtube-audio-tracks/"><u>[New] Step-by-Step Process to Revamp Your YouTube Audio Tracks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/acemagic-admits-first-batch-of-custom-built-mini-pcs-equipped-with-preinstalled-spy-software/"><u>AceMagic Admits First Batch of Custom-Built Mini PCs Equipped With Preinstalled Spy Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/alienware-aurora-r16-laptop-save-500-now-with-rtx-4080-super-and-intel-core-i9-14900kf-processor/"><u>Alienware Aurora R16 Laptop: Save $500 - Now with RTX 4080 Super & Intel Core I9-14900KF Processor</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/cleaning-day-discovery-original-q1-pc-and-other-vintage-desktops-found-in-boxes-featuring-intels-pioneering-8008-cpu-and-16kb-memory/"><u>Cleaning Day Discovery: Original Q1 PC and Other Vintage Desktops Found in Boxes, Featuring Intel's Pioneering 8008 CPU and 16KB Memory</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/create-your-portable-desktop-amd-ryzen-pc-in-a-mini-keyboard-with-trackpad-and-battery-attach-only-monitor-to-complete-setup/"><u>Create Your Portable Desktop: AMD Ryzen PC in a Mini Keyboard with Trackpad & Battery, Attach Only Monitor to Complete Setup</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/draft-complete-pcie-generation-7-specifications-unveiled-poised-for-full-introduction/"><u>Draft Complete: PCIe Generation 7 Specifications Unveiled, Poised For Full Introduction</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723060152742-explore-with-hero7-black-a-superior-action-cam-review/"><u>Explore with HERO7 Black - A Superior Action Cam Review!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-meizu-21-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Meizu 21 Pro Phone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-your-build-essential-tips-from-toms-hardware/"><u>Mastering Your Build: Essential Tips From Tom's Hardware</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-updated-earnings-policies-for-streamers-for-2024/"><u>Navigating Updated Earnings Policies for Streamers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-sync-windows-plus-android-via-flow-app/"><u>Streamlining Sync: Windows + Android via Flow App</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/unlocking-tech-secrets-with-professional-analysis-at-tomngear-insights/"><u>Unlocking Tech Secrets with Professional Analysis at Tom'nGear Insights</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-samsung-galaxy-a15-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Samsung Galaxy A15 5G ?</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

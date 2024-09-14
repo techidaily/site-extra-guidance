@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Lens Hacks  Capturing Perfect Reflections\""
-date: 2024-09-08T04:13:25.791Z
-updated: 2024-09-09T04:13:25.791Z
+date: 2024-09-12T08:16:33.256Z
+updated: 2024-09-13T20:19:00.315Z
 tags: 
   - screen-recording
   - ai video
@@ -16,18 +16,6 @@ keywords: "IPhone Reflection Shots,IPhone Mirror Photography,Perfect iPhone Self
 thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b69670867cf0671d294f1cd7b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## IPhone Lens Hacks: Capturing Perfect Reflections
 
 # Reflection Photography Tips for iPhone
@@ -56,12 +44,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![reflection-surface](https://images.wondershare.com/filmora/article-images/reflection-surface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A Crystal/Glass Ball
 
 ![reflection-photography-for-iPhone](https://images.wondershare.com/filmora/article-images/crystal-ball.jpg)
@@ -70,12 +52,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![water-reflection](https://images.wondershare.com/filmora/article-images/water-reflection.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 2\.  Pay Attention to Composition
 
  Composition is the very basis of good photography, as the person taking the picture you decide the scene. The most integral part of good composition is the rule of thirds. This means you should divide up the scene/subject into 9 equal squares/rectangles (depending on frame).
@@ -104,18 +80,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 4\.  Reality and Reflection
 
  Don't just focus on the reflection, these tend to distract from how good the reflection is. Of course if the reflective surface reflects too well and you just focus on that. The image might come out as looking the same as if you had just pointed and shot the subject.
@@ -134,12 +98,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Post Production Reflective Effects
 
  It's possible to create great reflective photographs by using reflective effects after you have taken it. You can deceptively take one of your great photos and use the reflective effect to make it appear on a reflective looking surface. Here's some examples of photos that were created using this effect through software:
@@ -159,48 +117,18 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![reflect-mirror-camera-app](https://images.wondershare.com/filmora/article-images/reflect-mirror-camera-app.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Really easy to use entry level app, you can simply add reflections to your photos and there's also an option to do this as you take the photograph. The user interface is really clean and easy to use. You also get access to a massive library of templates and effects to make photos truly unique.
 
 #### 2\. Reflection
 
 ![reflection-create-water-reflection-photo-arts](https://images.wondershare.com/filmora/article-images/reflection-create-water-reflection-photo-arts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Super user friendly app lets you create HD photos and it's intuitive feature means you can create reflective photos in a few taps. This is one of the best apps in terms of the quality of images/edits. It has all of the reflective effects of many of the top editing packages like Photoshop.
 
 #### 3\. Photo Reflection
 
 ![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
 
 #### 4\. Photo Mirror Effects
@@ -213,19 +141,11 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -233,52 +153,34 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-beyond-clickbait-whats-real-about-instagram-reels/"><u>[New] In 2024, Beyond Clickbait  What's Real About Instagram Reels?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-memetic-magic-unlock-with-kapwing-creator/"><u>[New] Memetic Magic – Unlock with Kapwing Creator</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-optimizing-space-setting-up-a-vr-capable-area/"><u>[New] Optimizing Space  Setting Up a VR-Capable Area</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-paint-jocular-visuals-with-giphy-in-mind/"><u>[New] Paint Jocular Visuals with Giphy in Mind</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-powerslide-music-integration-a-comprehensive-guide/"><u>[New] PowerSlide Music Integration  A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premium-applications-for-animating-3d-scenes/"><u>[New] Premium Applications for Animating 3D Scenes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-prime-online-converter-options-for-instant-gif-to-video/"><u>[New] Prime Online Converter Options for Instant GIF to Video</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-sculpting-digital-landscapes-with-windows-10s-latest-features/"><u>[New] Sculpting Digital Landscapes with Windows 10'S Latest Features</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-kinemasters-comprehensive-guide-to-green-screen-usage/"><u>[Updated] Kinemaster's Comprehensive Guide to Green Screen Usage</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-launch-free-portable-dvd-software-today/"><u>[Updated] Launch Free, Portable DVD Software Today</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-peering-behind-the-scenes-of-youtube-reviews/"><u>[Updated] Peering Behind the Scenes of YouTube Reviews</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premier-cloud-storage-guide-for-enterprises/"><u>[Updated] Premier Cloud Storage Guide for Enterprises</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pros-cons-and-guide-to-utilizing-samsung-photo-editor/"><u>[Updated] Pros, Con's, and Guide to Utilizing Samsung PHOTO EDITOR</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-secrets-to-never-ending-snaps-on-snapchat-for-2024/"><u>[Updated] The Secrets to Never-Ending Snaps on Snapchat for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-ultimate-fidelity-in-mac-screen-and-audio-recording-for-2024/"><u>[Updated] Ultimate Fidelity in Mac Screen & Audio Recording for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-the-art-complete-vsco-editor-breakdown/"><u>2024 Approved  Master the Art  Complete VSCO Editor Breakdown</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-gradual-audio-decline-in-adobe-premiere/"><u>2024 Approved  Mastering Gradual Audio Decline in Adobe Premiere</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-vlc-media-player-for-efficient-video-format-changes/"><u>2024 Approved  Mastering VLC Media Player for Efficient Video Format Changes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-zoom-interface-for-effective-fb-lives/"><u>2024 Approved  Navigating the Zoom Interface for Effective FB Lives</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-peering-into-pixels-with-polaroids-camplus-action-device/"><u>2024 Approved  Peering Into Pixels with Polaroid's Cam+ Action Device</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-photoshop-sway-decrease-pivotal-or-superfluous/"><u>2024 Approved  Photoshop Sway Decrease  Pivotal or Superfluous?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-step-up-your-game-free-software-for-professional-thumbnails/"><u>2024 Approved  Step Up Your Game  Free Software for Professional Thumbnails</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-focused-footage-freedom-techniques-for-audio-eradication-across-various-video-formats-mp4-mkv-avi-mov-wmv/"><u>2024 Approved Focused Footage Freedom Techniques for Audio Eradication Across Various Video Formats (MP4, MKV, AVI, MOV, WMV)</u></a></li>
-<li><a href="https://facebook.techidaily.com/9-reasons-why-social-media-is-actually-good-for-you/"><u>9 Reasons Why Social Media Is Actually Good for You</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/a-detailed-and-trustworthy-review-of-murfai-ai-text-to-speech-tool/"><u>A Detailed and Trustworthy Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/an-insiders-look-at-toolwizs-photo-editing-features-for-2024/"><u>An Insider’s Look at Toolwiz's Photo Editing Features for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/best-solutions-for-vivo-network-unlock-by-drfone-android/"><u>Best Solutions for Vivo Network Unlock</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y36-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo Y36</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-google-upload-mastery-a-step-by-step-guide/"><u>In 2024, Google Upload Mastery - A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-instantaneous-media-movement-android-to-iphone/"><u>In 2024, Instantaneous Media Movement  Android to iPhone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-journey-from-monochrome-masterpieces-to-vivid-hdri-imagery/"><u>In 2024, Journey From Monochrome Masterpieces to Vivid HDRI Imagery</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-quick-and-easy-skype-calls-to-mp3-files-free/"><u>In 2024, Quick & Easy Skype Calls to MP3 Files (Free)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-camouflage-blurring-faces-on-demand/"><u>In 2024, Quick Camouflage  Blurring Faces on Demand</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-revised-question-series-to-connect-with-podcast-audience/"><u>In 2024, Revised Question Series to Connect with Podcast Audience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-screen-selection-simplified-ultrawide-versus-uhd-4k-demystified/"><u>In 2024, Screen Selection Simplified  UltraWide Versus UHD 4K Demystified</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-shooting-mastery-in-mobile-devices-via-optical-image-correction/"><u>In 2024, Shooting Mastery in Mobile Devices via Optical Image Correction</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-motorola-moto-g14-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Motorola Moto G14</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/laugh-o-matic-crafting-gags-on-the-house-rate-for-2024/"><u>Laugh-O-Matic  Crafting Gags on the House Rate for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leading-action-cams-that-keep-moving-steady-for-2024/"><u>Leading Action Cams That Keep Moving Steady for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leading-list-the-best-10-apps-for-live-racing-and-rugby-streaming-for-2024/"><u>Leading List  The Best 10 Apps for Live Racing & Rugby Streaming for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/preserving-chronological-integrity-in-visuals-for-2024/"><u>Preserving Chronological Integrity in Visuals for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/quintessential-conclusion-to-vr-adventures-for-2024/"><u>Quintessential Conclusion to VR Adventures for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/streamlining-revenue-adsense-tips-for-youtubers-for-2024/"><u>Streamlining Revenue  AdSense Tips for YouTubers for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/understanding-and-solving-epson-printing-anomalies/"><u>Understanding and Solving Epson Printing Anomalies</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-se-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone SE With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maximize-your-listening-experience-ios-podcast-mastery/"><u>[New] Maximize Your Listening Experience IOS Podcast Mastery</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-speaking-directly-to-text-mastering-the-art-of-voice-to-text-ms-word/"><u>[New] Speaking Directly to Text Mastering the Art of Voice-to-Text (MS Word)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-stepwise-strategy-for-perfectly-curating-videos-in-your-youtube-playlists/"><u>[New] Stepwise Strategy for Perfectly Curating Videos in Your YouTube Playlists</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-masterpieces-without-barriers-publicly-available-artwork/"><u>[Updated] Masterpieces Without Barriers Publicly Available Artwork</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-best-mirrorless-cams-top-picks-for-your-next-vlog-project/"><u>[Updated] The Best Mirrorless Cams Top Picks for Your Next Vlog Project</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-transform-your-tiktok-avatar-instruction-manual-for-change/"><u>2024 Approved Transform Your TikTok Avatar Instruction Manual for Change</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ultimate-ice-cream-viewer-tech-overview/"><u>2024 Approved Ultimate Ice Cream Viewer Tech Overview</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-pro-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 13 Pro Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y36i-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y36i Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signatures-for-dotx-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Online signatures for .dotx file</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pro-free-photo-workspace-discover-the-best-editing-suites-for-2024/"><u>Pro Free Photo Workspace Discover the Best Editing Suites for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-your-pcs-apc-index-mismatch-critical-stop-error/"><u>Resolve Your PC's 'APC Index Mismatch' Critical Stop Error</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sleek-superior-substantial-reviewing-the-asus-mg28uq-4k-display-for-2024/"><u>Sleek, Superior, Substantial – Reviewing the ASUS MG28UQ 4K Display for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

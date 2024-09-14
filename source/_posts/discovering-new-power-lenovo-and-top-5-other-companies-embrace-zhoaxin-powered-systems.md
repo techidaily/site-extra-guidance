@@ -1,7 +1,7 @@
 ---
 title: "Discovering New Power: Lenovo and Top 5 Other Companies Embrace Zhoaxin-Powered Systems"
-date: 2024-09-08T04:13:20.500Z
-updated: 2024-09-09T04:13:20.500Z
+date: 2024-09-11T20:21:12.143Z
+updated: 2024-09-14T00:18:55.653Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae116eaf3e790989364bc8da0ce.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering Technology: Find the Best Deals on Computers at [Your Site Name] - Savvy Shopper’s Paradise
 
 This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show was filled interesting AI focused PCs, but often, their most interesting features had little to do with AI. Such is the case with[MSI](https://www.tomshardware.com/tag/msi-microstar) 's MEG Vision X AI Desktop, which we stumbled upon in the company's sprawling booth.
@@ -29,48 +23,18 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 ![MSI Meg Vision X with Gelsinger Signature](https://cdn.mos.cms.futurecdn.net/BYkvUDqMNVz6ycnx4BZFYV-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  By default, the touch display shows key PC stats such as your CPU temperature and clock speed. It also allows you to launch your favorite apps on your primary screen by tapping a shortcut icon. You can change performance modes here as well, opting for more speed or quieter fans.
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/2SRaW8dq9GVUxC4BK2xbzh-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The display is seen by Windows as a full-fledged second display in portrait mode. So you can play YouTube videos on it or run apps on it if you wish. MSI reps said a game streamer should keep their chat or OBS window on the front-panel screen while gaming on their primary monitor. They also said that the touch screen uses Intel integrated graphics while the main monitor or any secondary monitors you attach would use the Nvidia graphics card.
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -85,26 +49,17 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  But even if having a local image generator / chatbot is really valuable to you, you don't need a special PC or an on-case screen on the case to get those features. MSI may have its own branded apps, but it's likely using the same chat and image generation that's available elsewhere. Anyone who has a decent graphics card can download and install Stable Diffusion image generator or LLama for chat. If you have an RTX card, try[ComfyUI](https://github.com/comfyanonymous/ComfyUI) , which is a very powerful frontend for Stable Diffusion.
 
  What you can't get elsewhere is a full HD screen that takes up the entire front surface of your chassis. We have seen some cases with screens on the front -- the[Jonsbo D41](https://www.jonsbo.com/en/products/D41MESHSCREENBlack.html) comes to mind. But MSI's display takes up the entire space and is meant to be an integral part of the user experience, not just a cute special effect.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -115,51 +70,28 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-red-carpet-rollouts-top-picks-for-iphone-filmmakers-choices/"><u>[New] Red Carpet Rollouts  Top Picks for iPhone Filmmakers' Choices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-soniccapture-pro-review-and-download-steps-for-2024/"><u>[New] SonicCapture Pro Review & Download Steps for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-beginners-guide-to-straightforward-hdr-techniques/"><u>[New] The Beginner's Guide to Straightforward HDR Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-10-online-stores-for-personalized-box-designs/"><u>[New] Top 10 Online Stores for Personalized Box Designs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-inspirational-metaverse-sayings-arvr-edition/"><u>[Updated] Inspirational Metaverse Sayings  AR/VR Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leap-forward-with-xsplits-substitute-software/"><u>[Updated] Leap Forward with Xsplit's Substitute Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-masterclass-on-innovative-cover-art-techniques/"><u>[Updated] Masterclass on Innovative Cover Art Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-instagram-live-anonymously-a-step-by-step-approach/"><u>[Updated] Navigating Instagram Live Anonymously  A Step-by-Step Approach</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-top-10-affordable-mobile-video-services/"><u>[Updated] Navigating Top 10 Affordable Mobile Video Services</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premium-4k-displays-top-ten-elite-selections/"><u>[Updated] Premium 4K Displays  Top Ten Elite Selections</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-revolutionize-patient-engagement-with-ad-insights/"><u>[Updated] Revolutionize Patient Engagement with Ad Insights</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-seamless-media-conversion-from-avis-to-striking-gif-images-via-filmora-software-windowsmacos/"><u>[Updated] Seamless Media Conversion  From AVIs to Striking GIF Images via Filmora Software (Windows/macOS)</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-influential-edge-mastering-sponsorship-and-promotion-on-social-media/"><u>[Updated] The Influential Edge  Mastering Sponsorship and Promotion on Social Media</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-engagement-in-your-tiktok-unpacking-sessions/"><u>2024 Approved  Maximizing Engagement in Your TikTok Unpacking Sessions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-color-grading-a-look-at-luts-significance/"><u>2024 Approved  Navigating Color Grading  A Look at LUT's Significance</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-photovideo-text-warping-essentials/"><u>2024 Approved  Photo/Video Text Warping Essentials</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premiere-pro-rapid-transitions/"><u>2024 Approved  Premiere Pro Rapid Transitions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-reviewing-the-future-moto-z2s-intelligent-features/"><u>2024 Approved  Reviewing The Future  Moto Z2's Intelligent Features</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-strategic-lighting-for-best-iphone-photography/"><u>2024 Approved  Strategic Lighting for Best iPhone Photography</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-ultimate-list-of-most-watched-videos-on-fb/"><u>2024 Approved  The Ultimate List of Most-Watched Videos on FB</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/are-battery-fixes-profitable-for-phonespods/"><u>Are Battery Fixes Profitable for Phones/Pods?</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoid-these-top-10-pitfalls-when-buying-a-monitor/"><u>Avoid These Top 10 Pitfalls When Buying a Monitor</u></a></li>
-<li><a href="https://win-blog.techidaily.com/complete-guide-to-resolving-fifa-21-pc-crashes-tips-and-tricks/"><u>Complete Guide to Resolving FIFA 21 PC Crashes: Tips & Tricks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/diagnose-and-fix-audio-glitches-making-apple-airpods-work-with-mic-on-windows-11-again/"><u>Diagnose and Fix Audio Glitches: Making Apple AirPods Work with Mic on Windows 11 Again</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/diagnosing-and-solving-common-amazon-prime-video-connectivity-errors/"><u>Diagnosing and Solving Common Amazon Prime Video Connectivity Errors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/digital-transit-how-to-route-files-to-your-computer/"><u>Digital Transit  How to Route Files to Your Computer</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/expert-review-of-mmocks-powerhouse-a-10000plus-amperes-18000mah-car-resuscitator-the-market-leader/"><u>Expert Review of MMOCK's Powerhouse - A 10,000+ Amperes 18000mAh Car Resuscitator: The Market Leader</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/gpt-meets-gearshifts-mercedes-voice-in-cars-revolution/"><u>GPT Meets Gearshifts: Mercedes' VOICE in Cars Revolution</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-poco-x6-pro-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Poco X6 Pro Phone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Nubia Z50S Pro? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-asus-rog-phone-7-ultimate-by-drfone-android/"><u>In 2024, How to Bypass FRP on Asus ROG Phone 7 Ultimate?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-layers-of-plot-and-character-design/"><u>In 2024, Layers of Plot and Character Design</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-your-virtual-gatherings-clearing-up-audio-distortion/"><u>In 2024, Perfect Your Virtual Gatherings  Clearing Up Audio Distortion</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-picture-perfect-zero-cost-photo-enhancement-app/"><u>In 2024, Picture Perfect  Zero Cost Photo Enhancement App</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-slomo-capture-application-assessment-expert-opinions/"><u>In 2024, SloMo Capture Application Assessment - Expert Opinions</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/key-3d-tools-optimized-for-animation-workflows/"><u>Key 3D Tools Optimized for Animation Workflows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/minimize-external-noise-find-a-quiet-environment-to-minimize-distractions-that-can-hinder-understanding-for-2024/"><u>Minimize External Noise  Find a Quiet Environment to Minimize Distractions that Can Hinder Understanding for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-lenovo-ideapad-130s-performance-limits-a-look-at-its-impressive-usability-features/"><u>Navigating the Lenovo IdeaPad 130S' Performance Limits - A Look at Its Impressive Usability Features</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/nikon-sb-700-af-speedlight-flash-review-premium-portable-performance-at-a-cost/"><u>Nikon SB-700 AF Speedlight Flash Review: Premium Portable Performance, at a Cost</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prime-sd-card-selections-for-optimal-gopro-hero-78-performance-for-2024/"><u>Prime SD Card Selections for Optimal GoPro Hero 7/8 Performance for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/restore-sound-on-your-jbl-g435-wireless-headphones-with-these-simple-repairs/"><u>Restore Sound on Your JBL G435 Wireless Headphones with These Simple Repairs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/speech-to-text-magic-for-ms-word-users-for-2024/"><u>Speech-to-Text Magic for MS Word Users for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/the-lenovo-chromebook-duet-review-a-cost-efficient-alternative-to-traditional-2-in-1-pcs/"><u>The Lenovo Chromebook Duet Review: A Cost-Efficient Alternative to Traditional 2-in-1 PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-printer-software-get-the-latest-hp-deskjet-eall-in-one-driver-for-win10-8-and-7-instantly/"><u>Update Your Printer Software: Get the Latest HP DeskJet eAll-in-One Driver for Win10, 8 & 7 Instantly</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/which-leads-analyzing-the-strengths-of-llama-vs-gpt-nnamaste-4/"><u>Which Leads? Analyzing The Strengths Of Llama Vs. GPT-nNamaste-4</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-best-android-options-10-gb-emulation-tools-for-2024/"><u>[Updated] Best Android Options 10 GB Emulation Tools for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-iphonescreen-recording-a-straightforward-guide/"><u>[Updated] In 2024, IPhonescreen Recording A Straightforward Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-professional-voice-capture-on-mac-compiling-the-best-5-apps/"><u>[Updated] In 2024, Professional Voice Capture on Mac Compiling The Best 5 Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-scriptwriting-101-decoding-and-writing-slug-lines/"><u>[Updated] In 2024, Scriptwriting 101 Decoding and Writing Slug Lines</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-optimal-screen-capture-techniques-tunefab-style/"><u>[Updated] Optimal Screen Capture Techniques - Tunefab Style</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/acemagic-admits-first-batch-of-custom-built-mini-pcs-equipped-with-preinstalled-spy-software/"><u>AceMagic Admits First Batch of Custom-Built Mini PCs Equipped With Preinstalled Spy Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/an-easy-to-follow-methodology-for-initiating-a-productive-skype-conversation-among-various-os-users/"><u>An Easy-to-Follow Methodology for Initiating a Productive Skype Conversation Among Various OS Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/cleaning-day-discovery-original-q1-pc-and-other-vintage-desktops-found-in-boxes-featuring-intels-pioneering-8008-cpu-and-16kb-memory/"><u>Cleaning Day Discovery: Original Q1 PC and Other Vintage Desktops Found in Boxes, Featuring Intel's Pioneering 8008 CPU and 16KB Memory</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/damn-small-linux-a-fresh-start-for-legacy-systems-explained-in-simple-steps/"><u>Damn Small Linux: A Fresh Start for Legacy Systems Explained in Simple Steps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-v30-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme V30 Phone?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/mastering-the-art-of-finding-lost-chats-for-2024/"><u>Mastering the Art of Finding Lost Chats for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-your-build-essential-tips-from-toms-hardware/"><u>Mastering Your Build: Essential Tips From Tom's Hardware</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-world-of-pc-components-with-toms-gear-guides/"><u>Navigating the World of PC Components with Tom's Gear Guides</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/1723262394224-unbeatable-gaming-deal-at-999-get-the-cyberpower-pc-packed-with-rtx-4-and-intel-i5-processor/"><u>Unbeatable Gaming Deal at $999: Get the CyberPower PC Packed with RTX 4# and Intel I5 Processor</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/unveiling-hardware-secrets-toms-expert-tech-review-platform-for-savvy-shoppers/"><u>Unveiling Hardware Secrets: Tom's Expert Tech Review Platform for Savvy Shoppers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Honor 70 Lite 5G | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Cleaning Day Discovery: Original Q1 PC and Other Vintage Desktops Found in Boxes, Featuring Intel's Pioneering 8008 CPU and 16KB Memory"
-date: 2024-09-09T03:08:31.221Z
-updated: 2024-09-13T16:30:46.388Z
+date: 2024-09-18T21:40:02.764Z
+updated: 2024-09-19T19:46:35.753Z
 tags:
   - desktop
 categories:
@@ -76,26 +76,21 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-earnings-escalation-leveraging-your-youtube-channel-on-mobile-devices/"><u>[New] 2024 Approved Earnings Escalation Leveraging Your YouTube Channel on Mobile Devices</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-5-ways-to-rewind-a-twitch-live-stream/"><u>[New] 5 Ways to Rewind A Twitch Live Stream</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-everlasting-capture-no-limit-savings-available/"><u>[New] Everlasting Capture, No Limit Savings Available</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-memorable-dialogues-a-screenwriters-guide/"><u>Crafting Memorable Dialogues A Screenwriter's Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/cutting-edge-interconnects-launched-by-pci-sig-introducing-copperlynx-for-enhanced-gen-5-and-6-performance-upcoming-pcie-gen-7-on-horizon/"><u>Cutting-Edge Interconnects Launched by PCI-SIG - Introducing CopperLynx for Enhanced Gen 5 & #6 Performance; Upcoming PCIe Gen 7 on Horizon</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discussing-the-need-for-better-refund-policies-from-major-gaming-brands/"><u>Discussing the Need for Better Refund Policies From Major Gaming Brands</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/enhance-performance-build-a-custom-mini-pc-with-direct-egpu-connection-and-speeds-that-outpace-thunderbolt-4/"><u>Enhance Performance: Build a Custom Mini PC with Direct eGPU Connection & Speeds that Outpace Thunderbolt 4</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/harnessing-power-and-connectivity-the-tiny-ultra-low-power-msi-mini-pc-packs-intel-raptor-lake-cpu-and-quad-25-gigabit-ethernet/"><u>Harnessing Power and Connectivity: The Tiny Ultra-Low-Power MSI Mini PC Packs Intel Raptor Lake CPU & Quad 2.5 Gigabit Ethernet</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-xbox-extra-storage-best-hdd-options-reviewed/"><u>In 2024, Xbox Extra Storage Best HDD Options Reviewed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigate-the-world-of-advanced-electronics-with-insights-from-toms-hardware/"><u>Navigate the World of Advanced Electronics with Insights From Tom's Hardware</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/supersonic-revelations-how-an-everyday-can-of-compressed-air-hits-sonic-boom-speeds-engineer-unveils-shock-wave-phenomenon/"><u>Supersonic Revelations: How an Everyday Can of Compressed Air Hits Sonic Boom Speeds - Engineer Unveils Shock Wave Phenomenon</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-good-in-gathering-unpacking-9-benefits-of-social-engagement/"><u>The Good in Gathering: Unpacking 9 Benefits of Social Engagement</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/unveiling-hardware-secrets-toms-expert-tech-review-platform-for-savvy-shoppers/"><u>Unveiling Hardware Secrets: Tom's Expert Tech Review Platform for Savvy Shoppers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-professional-guide-expertise-in-vimeo-video-logging/"><u>[New] 2024 Approved Professional Guide Expertise in Vimeo Video Logging</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-av1-vs-vp9-which-video-codec-wins/"><u>[New] AV1 Vs. VP9 Which Video Codec Wins?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-hidden-viewers-guide-reading-instagram-stories-privately-from-pcandroidios-for-2024/"><u>[New] Hidden Viewers Guide Reading Instagram Stories Privately From PC/Android/iOS for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-nine-superior-choices-for-live-streaming-now/"><u>[Updated] Nine Superior Choices for Live Streaming Now</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pivotal-principles-in-digital-story-making/"><u>[Updated] Pivotal Principles in Digital Story Making</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-winning-strategies-and-hashtags-for-youtubes-best-freefirers-for-2024/"><u>[Updated] Winning Strategies & Hashtags for YouTube's Best FreeFirers for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-apple-iphone-12-mini-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 12 mini Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mixed-reality-shopping-showcase/"><u>In 2024, Mixed Reality Shopping Showcase</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Smooth Screens: Effective Guide to Resolve Chrome Flicker Issues in Windows"
-date: 2024-09-09T10:46:18.156Z
-updated: 2024-09-13T22:29:49.230Z
+date: 2024-09-13T22:55:02.397Z
+updated: 2024-09-19T23:34:43.109Z
 tags:
   - win11
   - win10
@@ -51,19 +51,6 @@ If the issue persists, read on and try the next fix.
 
 If the issue remains, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  Minecraft is a graphics-intensive game, so the graphics driver is essential to your gaming experience. If your graphics driver is faulty or outdated, you’re likely to encounter a black screen in Minecraft. To fix it,**make sure you’re using the latest graphics driver** .
@@ -77,19 +64,6 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
@@ -98,6 +72,13 @@ If the issue remains, move on to the next fix.
  After updating your graphics driver, restart your computer and launch Minecraft to see if the issue is resolved.
 
  If updating the graphics driver doesn’t solve your problem, go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Set the anti-aliasing to default
 
@@ -109,15 +90,16 @@ If the issue remains, move on to the next fix.
  File address: **%LocalAppData%PackagesMicrosoft.MinecraftUWP\_8wekyb3d8bbweLocalStategamescom.mojangminecraftpe**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/file-explorer.jpg)
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
-5. **Save** the options.txt file.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
+5. **Save** the options.txt file.
 
 6. Relaunch Minecraft to see if the problem is solved.
 
@@ -126,10 +108,10 @@ If the issue remains, move on to the next fix.
 If this method doesn’t do the trick, continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Close unnecessary programs
@@ -155,18 +137,27 @@ If not, try the next fix.
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
-6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
+6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
 
@@ -192,17 +183,19 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-advanced-3d-shaping-crafting-perfect-mc-circles-and-spheres/"><u>[New] In 2024, Advanced 3D Shaping Crafting Perfect MC Circles & Spheres</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-ranking-the-finest-five-screen-snipers-in-windows/"><u>[New] Ranking the Finest Five Screen Snipers in Windows</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-methods-for-device-capturing-applications/"><u>[Updated] 2024 Approved Essential Methods for Device Capturing Applications</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-secrets-to-superior-sprouts-in-the-world-of-valheim/"><u>[Updated] In 2024, Secrets to Superior Sprouts in the World of Valheim</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/expert-guidance-on-computer-components-with-toms-gear-guide/"><u>Expert Guidance on Computer Components with Tom's Gear Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/harnessing-power-and-connectivity-the-tiny-ultra-low-power-msi-mini-pc-packs-intel-raptor-lake-cpu-and-quad-25-gigabit-ethernet/"><u>Harnessing Power and Connectivity: The Tiny Ultra-Low-Power MSI Mini PC Packs Intel Raptor Lake CPU & Quad 2.5 Gigabit Ethernet</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-enhancing-clicks-youtube-thumbnail-sizes-explored/"><u>In 2024, Enhancing Clicks YouTube Thumbnail Sizes Explored</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-poco-x5-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Poco X5 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-new-devices-with-expert-advice-from-toms-hardware-world/"><u>Navigating New Devices with Expert Advice From Tom’s Hardware World</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/ultimate-10-volume-uplifters-for-windowsios-devices-for-2024/"><u>Ultimate 10 Volume Uplifters for Windows/iOS Devices for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/ultimate-guide-to-live-streaming-fb-on-laptops-macs-and-pcs-for-2024/"><u>Ultimate Guide to Live Streaming FB on Laptops, Macs, and PCs for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-freezing-issues-with-your-laptops-trackpad-or-touchscreen/"><u>Ultimate Guide: Resolving Freezing Issues with Your Laptop's Trackpad or Touchscreen</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-apple-excellence-iphones-best-no-cost-image-assemblers-and-layouts/"><u>[New] Apple Excellence – iPhone's Best No-Cost Image Assemblers & Layouts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-deep-dive-into-du-recorders-design-and-functionality-for-2024/"><u>[New] Deep Dive Into Du Recorder's Design and Functionality for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-snap-to-perfection-editing-strategies-that-work-wonders/"><u>[New] Snap to Perfection Editing Strategies That Work Wonders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-musicality-in-whatsapp-expressions/"><u>[Updated] Musicality in WhatsApp Expressions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-effortless-voice-memo-creation-on-apple-devices/"><u>2024 Approved Effortless Voice Memo Creation on Apple Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-movement-a-look-at-intova-x/"><u>2024 Approved Mastering Movement A Look at Intova X</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-snapslowly-the-art-of-time-lapse-via-samsung/"><u>2024 Approved SnapSlowly The Art of Time-Lapse via Samsung</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dive-into-huggingchat-the-affordable-public-domain-option-versus-chatgpt/"><u>Dive Into HuggingChat: The Affordable, Public Domain Option Versus ChatGPT</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-optimal-soundscapes-an-exhaustive-compilation-of-top-voice-suppression-tools-for-karaoke-and-productions/"><u>In 2024, Optimal Soundscapes An Exhaustive Compilation of Top Voice Suppression Tools for Karaoke and Productions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-straightforward-approach-to-mastering-simple-hdr-techniques/"><u>In 2024, Straightforward Approach to Mastering Simple HDR Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-unveiling-valheims-soil-secrets-premium-seed-guide/"><u>In 2024, Unveiling Valheim's Soil Secrets Premium Seed Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/laughlineup-app-become-a-master-at-memes-for-2024/"><u>LaughLineup App - Become a Master at Memes for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/online-and-offline-guide-convert-your-avi-files-to-mp4-format-on-windows-11mac-for-free/"><u>Online & Offline Guide: Convert Your AVI Files to MP4 Format on Windows 11/Mac for Free</u></a></li>
 </ul></div>
 

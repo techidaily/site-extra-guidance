@@ -1,7 +1,7 @@
 ---
 title: Eliminating Lag and Stutter During Playthroughs of Age of Empires IV
-date: 2024-09-10T07:30:52.912Z
-updated: 2024-09-13T23:05:32.884Z
+date: 2024-09-17T22:00:37.365Z
+updated: 2024-09-19T23:19:15.790Z
 tags:
   - win11
   - win10
@@ -71,15 +71,22 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 
  Now you should be able to play your game smoothly. But if it doesn’t work for you, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Stop overclocking
 
  Some players might use overclocking applications such as MSI Afterburner to hopefully get a performance increase. But the truth is that these applications can cause crashes, stutters and other performance issues for some titles. If you suffer from sudden frame rate drops and stutters during Splitgate gameplay, you should stop overclocking.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Update your graphics driver
@@ -95,13 +102,6 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
@@ -121,15 +121,15 @@ Here’s how to update drivers with Driver Easy:
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down. Find **Graphics settings** and click on it.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/grahics-settings-1.png)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/change-default-graphics-settings.jpg)
 4. Turn on**Hardware-accelerated GPU scheduling** .  
@@ -137,6 +137,13 @@ Here’s how to update drivers with Driver Easy:
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
  After applying the changes, restart your PC and you should be able to gain a certain amount of FPS boost. However, if this doesn’t do the trick, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Optimize in-game settings
 
@@ -152,13 +159,6 @@ Here’s how to update drivers with Driver Easy:
 **VSYNC:** turn it off  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/fullscreen-and-disable-vsync.png)  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then apply the changes and test your gameplay.
 
@@ -181,19 +181,20 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-download-custom-mcb-banner-packs/"><u>[Updated] In 2024, Download Custom MCB Banner Packs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-quick-guide-to-optimized-and-streamlined-mac-screenshots-via-keyboard-shortcuts-for-2024/"><u>[Updated] Quick Guide to Optimized and Streamlined Mac Screenshots via Keyboard Shortcuts for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/asus-launches-the-pioneering-rog-nuc-desktop-pc-with-high-end-specs-including-core-ultra-9-processors-and-rtx-4070-graphics-from-1629/"><u>Asus Launches the Pioneering ROG NUC Desktop PC with High-End Specs Including Core Ultra 9 Processors and RTX 4070 Graphics From $1,629</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/discover-the-latest-in-computing-with-toms-gadget-insights/"><u>Discover the Latest in Computing with Tom's Gadget Insights</u></a></li>
-<li><a href="https://fox-http.techidaily.com/elite-film-clips-anthology/"><u>Elite Film Clips Anthology</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/embrace-nostalgia-with-ayaneos-newest-retail-offering-an-amd-powered-classic-macintosh-inspired-mini-computer/"><u>Embrace Nostalgia with Ayaneo's Newest Retail Offering: An AMD-Powered, Classic Macintosh Inspired Mini Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/game-performance-improved-how-to-prevent-your-football-manager-2020-from-crashing/"><u>Game Performance Improved: How to Prevent Your Football Manager 2020 From Crashing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/instantaneously-assemble-aesthetic-fb-collage-posts-for-2024/"><u>Instantaneously Assemble Aesthetic FB Collage Posts for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-fixing-xbox-game-pass-issue-0x00000001-on-windows-11/"><u>Mastering the Art of Fixing Xbox Game Pass Issue 0X00000001 on Windows 11</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Realme Narzo N55? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/preventing-layer-misalignment-in-3d-printing-tips-and-tricks/"><u>Preventing Layer Misalignment in 3D Printing: Tips & Tricks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/toms-tech-the-ultimate-guide-to-computer-hardware/"><u>Tom's Tech: The Ultimate Guide to Computer Hardware</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/top-picks-unbeatable-computer-and-notebook-offers/"><u>Top Picks: Unbeatable Computer & Notebook Offers</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/usb-print-malfunction-in-sleep-state-w7/"><u>USB Print Malfunction in Sleep State, W7</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-engaging-tactics-for-increased-subscriber-count/"><u>[New] 2024 Approved Engaging Tactics for Increased Subscriber Count</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-smart-screen-capture-on-mac-understanding-the-best-5-methods/"><u>[Updated] In 2024, Smart Screen Capture on Mac Understanding the Best 5 Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lightning-fast-windows-data-analysis-guide/"><u>[Updated] Lightning-Fast Windows Data Analysis Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-quick-cut-cinematic-concept/"><u>[Updated] Quick Cut Cinematic Concept</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smile-saver-essential-free-meme-templates/"><u>[Updated] Smile Saver Essential Free Meme Templates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-your-gopro-matchmaker-a-detailed-model-analysis/"><u>[Updated] Your Gopro Matchmaker A Detailed Model Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quickest-online-platforms-transforming-gif-into-video/"><u>2024 Approved Quickest Online Platforms Transforming GIF Into Video</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-meizu-21-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Meizu 21 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-honor-x50iplus-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Honor X50i+ Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-how-to-make-a-good-movie-trailer/"><u>In 2024, How To Make A Good Movie Trailer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oppo-a59-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Oppo A59 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-legal-music-archives-top-10-websites-for-game-playlists/"><u>In 2024, Legal Music Archives Top 10 Websites for Game Playlists</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-iphone-saving-and-utilizing-gifs-effectively/"><u>In 2024, Mastering iPhone Saving & Utilizing GIFs Effectively</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/piecing-together-memories-your-guide-to-montages-for-2024/"><u>Piecing Together Memories Your Guide to Montages for 2024</u></a></li>
 </ul></div>
 

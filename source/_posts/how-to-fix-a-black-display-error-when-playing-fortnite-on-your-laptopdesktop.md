@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Black Display Error When Playing Fortnite on Your Laptop/Desktop
-date: 2024-09-08T21:37:23.516Z
-updated: 2024-09-13T20:48:07.813Z
+date: 2024-09-17T16:06:26.459Z
+updated: 2024-09-19T19:02:16.135Z
 tags:
   - win11
   - win10
@@ -72,16 +72,29 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
  Reboot your computer after the driver update completes, and check if Deathloop still crashes. If so, try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Temporarily disable third-party software
@@ -106,26 +119,27 @@ You can also close all unnecessary apps in the background. Here is how:
 1. Launch Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Deathloop and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-3.jpg)
 3. Click**Local Files** on the left and click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2-1.jpg)
 
- It will take several minutes for the detecting and repairing to complete. Once done, relaunch Deathloop to check whether the issue gets fixed. If not, move on to the last solution below.
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ It will take several minutes for the detecting and repairing to complete. Once done, relaunch Deathloop to check whether the issue gets fixed. If not, move on to the last solution below.
 
 ### Fix 6 – Turn off overlay
 
@@ -140,16 +154,10 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### On Discord
@@ -159,13 +167,6 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select the **Overlay** tab in the left pane and toggle off **Enable in-game overlay** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Deathloop should be back to normal after you applied the settings as above.
 
@@ -188,14 +189,16 @@ You can also close all unnecessary apps in the background. Here is how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-a-captivated-audience-in-3-steps/"><u>[New] In 2024, Crafting a Captivated Audience in 3 Steps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-star-clusters-in-social-media-landscape/"><u>2024 Approved Star Clusters in Social Media Landscape</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-complete-set-of-msi-x470-gaming-motherboard-drivers/"><u>Download Complete Set of MSI X470 Gaming Motherboard Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-visuals-download-gtx-1050-ti-driver-updates/"><u>Elevate Visuals: Download GTX 1050 Ti Driver Updates</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/excellent-video-and-picture-capture-for-iphones-and-androids-here/"><u>Excellent Video & Picture Capture for iPhones & Androids Here</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-frame-rate-fluctuations-and-smooth-out-gameplay-in-battlefield-2042-for-pc-players/"><u>How to Resolve Frame Rate Fluctuations and Smooth Out Gameplay in Battlefield 2042 for PC Players</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/hp-enterprise-challenges-inspur-on-patents-asserts-continuous-operation-in-the-us-despite-sanctions/"><u>HP Enterprise Challenges Inspur on Patents, Asserts Continuous Operation in the US Despite Sanctions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/inside-toms-tech-haven-your-guide-to-computer-hardware/"><u>Inside Tom's Tech Haven - Your Guide to Computer Hardware</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/meet-the-atomman-g7-pt-the-revolutionary-amd-advantage-mini-pc-featuring-r9-7945hx-and-rx-7600m-xt-gpus/"><u>Meet the Atomman G7 PT - The Revolutionary AMD Advantage Mini PC Featuring R9 7945HX and RX 7600M XT GPUs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-standout-80s-aesthetics-for-video-editing-pros/"><u>[New] Standout '80S Aesthetics for Video Editing Pros</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mastering-youtube-standard-studio-or-beta-progress/"><u>[Updated] 2024 Approved Mastering YouTube Standard Studio or Beta Progress</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-audio-amplified-todays-hits-backdropping-yt-shorts-for-2024/"><u>[Updated] Audio Amplified Today's Hits Backdropping YT Shorts for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photographic-soundtracking-online/"><u>2024 Approved Photographic Soundtracking Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-screenstream-worldwide-live-including-exclusive-locals/"><u>2024 Approved ScreenStream Worldwide Live, Including Exclusive Locals</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-huawei-nova-y71-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Huawei Nova Y71? Try These Fixes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-advanced-visual-techniques-with-version-22-vce-for-2024/"><u>Mastering Advanced Visual Techniques with Version 2.2 VCE for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/top-2024-hevc-encoder-software-the-ultimate-guide-for-pc-and-mac-users/"><u>Top 2024 HEVC Encoder Software: The Ultimate Guide for PC and Mac Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshoot-and-fix-broadcom-ethernet-driver-installation-issues-on-windows-11-devices/"><u>Troubleshoot & Fix Broadcom Ethernet Driver Installation Issues on Windows 11 Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-videos-on-facebook-the-transfer-guide-for-2024/"><u>Twitter Videos on Facebook The Transfer Guide for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-windows-11s-hidden-know-how-for-media-importing/"><u>Unveiling Windows 11'S Hidden Know-How for Media Importing</u></a></li>
 </ul></div>
 

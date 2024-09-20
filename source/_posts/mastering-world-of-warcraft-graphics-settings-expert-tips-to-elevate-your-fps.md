@@ -1,7 +1,7 @@
 ---
 title: Mastering World of Warcraft Graphics Settings - Expert Tips to Elevate Your FPS
-date: 2024-09-12T20:59:39.412Z
-updated: 2024-09-14T11:06:41.339Z
+date: 2024-09-13T22:06:44.598Z
+updated: 2024-09-19T20:25:37.130Z
 tags:
   - win11
   - win10
@@ -66,13 +66,6 @@ To keep your graphics driver up-to-date, here are two options for you:
 
 If this method doesn’t work, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3 – Verify integrity of game files
 
  Missing or corrupted game files could also lead to annoying issues like Elden Ring FPS drops. Before moving on to the more advanced steps, you could check if there’s something wrong with your game files and repair it automatically in Steam. Here are the steps:
@@ -82,24 +75,24 @@ If this method doesn’t work, try the next solution.
 2. Right-click**Elden Ring** from the game list and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
- It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
 
 ### Fix 4 – Disable Steam overlay
 
@@ -110,6 +103,14 @@ If this method doesn’t work, try the next solution.
 2. From the game list, right-click Elden Ring and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
 
 Restart the game and test. Still no luck? Continue to the next fix.
@@ -124,16 +125,16 @@ Restart the game and test. Still no luck? Continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-1.jpg)
 3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
 4. Click**Yes** to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
 
@@ -145,21 +146,14 @@ Restart the game and test. Still no luck? Continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-1.jpg)
 2. Click **3D settings** \> **Manage 3D settings** in the left pane.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 3. Under the**Global Settings** tab, scroll through the list to find**Shader Cache Size** and set it to**Unlimited** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
@@ -188,16 +182,21 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/acemagic-admits-first-batch-of-custom-built-mini-pcs-equipped-with-preinstalled-spy-software/"><u>AceMagic Admits First Batch of Custom-Built Mini PCs Equipped With Preinstalled Spy Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/alienware-aurora-r16-laptop-save-500-now-with-rtx-4080-super-and-intel-core-i9-14900kf-processor/"><u>Alienware Aurora R16 Laptop: Save $500 - Now with RTX 4080 Super & Intel Core I9-14900KF Processor</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/create-your-portable-desktop-amd-ryzen-pc-in-a-mini-keyboard-with-trackpad-and-battery-attach-only-monitor-to-complete-setup/"><u>Create Your Portable Desktop: AMD Ryzen PC in a Mini Keyboard with Trackpad & Battery, Attach Only Monitor to Complete Setup</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-your-build-essential-tips-from-toms-hardware/"><u>Mastering Your Build: Essential Tips From Tom's Hardware</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-latest-in-pc-technology-with-toms-hardware-experts/"><u>Navigating the Latest in PC Technology with Tom's Hardware Experts</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/revolutionary-metaverse-tech-highlights-of-top-8-helmets-for-2024/"><u>Revolutionary Metaverse Tech Highlights of Top 8 Helmets for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-comprehensive-guide-to-usb-mouse-drivers-in-win71011/"><u>The Comprehensive Guide to USB-Mouse Drivers in Win7/10/11</u></a></li>
-<li><a href="https://solve-help.techidaily.com/top-tips-converting-dvds-to-high-quality-h265hevc-mp4-files-for-free/"><u>Top Tips: Converting DVDs to High-Quality H.265/HEVC MP4 Files For Free</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/unlocking-tech-secrets-with-professional-analysis-at-tomngear-insights/"><u>Unlocking Tech Secrets with Professional Analysis at Tom'nGear Insights</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/zoom-skype-integration-secrets-to-ultimate-video-conferencing/"><u>ZOOM-Skype Integration Secrets to Ultimate Video Conferencing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-unlimited-tiktok-videos-no-watermarks-free-downloads/"><u>[New] In 2024, Unlimited TikTok Videos No Watermarks, Free Downloads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-techniques-to-increase-periscope-stream-velocity/"><u>[New] Techniques to Increase Periscope Stream Velocity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-utilizing-netflixs-floating-window-feature-effectively/"><u>[New] Utilizing Netflix's Floating Window Feature Effectively</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-memetic-magic-unlock-with-kapwing-creator/"><u>[Updated] Memetic Magic – Unlock with Kapwing Creator</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-professional-strategies-for-drone-imagery-editing/"><u>[Updated] Professional Strategies for Drone Imagery Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-auditory-aesthetics-for-slides-infusing-your-ppt-with-tunes/"><u>2024 Approved Auditory Aesthetics for Slides Infusing Your PPT with Tunes</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-creating-costless-webinars-on-youtube-a-handbook/"><u>2024 Approved Creating Costless Webinars on YouTube A Handbook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-global-perspective-inclusive-technology-review/"><u>2024 Approved Global Perspective Inclusive Technology Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimal-room-decorations-for-livestreams/"><u>2024 Approved Optimal Room Decorations for Livestreams</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-smirksketcher-lighten-up-with-quick-art-tools/"><u>2024 Approved SmirkSketcher Lighten Up with Quick Art Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improved-access-your-online-account-sign-in-is-now-working/"><u>Improved Access: Your Online Account Sign-In Is Now Working</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-mic-choices-for-4k-cameras-and-clear-audio-capture/"><u>In 2024, Premier Mic Choices for 4K Cameras & Clear Audio Capture</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premiere-pro-solutions-to-perfect-iphone-hd-video-exposure-balance/"><u>In 2024, Premiere Pro Solutions to Perfect iPhone HD Video Exposure Balance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-camera-stability-in-photo-and-video-for-2024/"><u>Mastering Camera Stability in Photo & Video for 2024</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-y27s-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Y27s</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-creating-breathtaking-tile-art-for-2024/"><u>Step-by-Step Guide to Creating Breathtaking Tile Art for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimal Scripting Solutions in AE for 2024"
-date: 2024-09-11T05:19:40.114Z
-updated: 2024-09-14T06:30:23.731Z
+date: 2024-09-14T19:25:19.258Z
+updated: 2024-09-19T17:22:22.851Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,13 @@ If you want to effectively use the After Effects expressions even if you are not
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
@@ -53,10 +60,10 @@ If you want to create the perfect shape behind your text, then TextBox is a good
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Font Manager
@@ -68,16 +75,16 @@ Font Manager is an After Effects text plugin that is useful when creating and wo
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983446">
+<span id="1982462">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Cartoon Moblur
@@ -94,20 +101,6 @@ If you are looking for shadow styles that will go very well with your project, S
 
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Texts Animation Bundle
 
 Link: <https://aedownload.com/download-texts-animation-bundle-free-videohive/>
@@ -115,6 +108,13 @@ Link: <https://aedownload.com/download-texts-animation-bundle-free-videohive/>
 This is a bundle of more than 80 different templates to add text effects to any text in After Effects. All the templates in the bundle are easily customizable and the plugin is very easy to use, allowing you to create amazing text effects in just a few clicks. The templates are modeled from various titles, quotes, and stories, so there is a little bit of something for everyone. Plus, the bundle gets constant updates and you are likely to get new templates with each update.
 
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Artificial Intelligence Titles
 
@@ -124,6 +124,19 @@ The Artificial Intelligence Titles is an After Effects text plugin that is desig
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
@@ -131,13 +144,6 @@ Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
 This is another great text animation bundle with different options for just about any kind of project. But unlike other plugin bundles that only have a few effects to choose from, Text Library has thousands of templates to choose from. Once you have selected the template that you would like to use, you also get the option to customize the template to suit your project. You can customize the text, size, duration of the animation, and color. It is easy to use and is constantly updated to introduce even more templates with each update.
 
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -173,21 +179,17 @@ On its own After Effects comes with so many post-production effects and features
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-convert-and-share-simplified-mp3-to-youtube-process-3-phases-for-2024/"><u>[New] Convert & Share Simplified MP3 to YouTube Process [3 Phases] for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-diy-video-setups-perfect-self-portraits-for-youtubers/"><u>[Updated] DIY Video Setups Perfect Self-Portraits for YouTubers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-room-and-pc-prep-for-immersive-vr-experience/"><u>2024 Approved Room & PC Prep for Immersive VR Experience</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-xiaomi-redmi-13c-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Xiaomi Redmi 13C without App | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/alienware-aurora-r16-laptop-save-500-now-with-rtx-4080-super-and-intel-core-i9-14900kf-processor/"><u>Alienware Aurora R16 Laptop: Save $500 - Now with RTX 4080 Super & Intel Core I9-14900KF Processor</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/compact-chinese-mini-pc-features-rare-inverted-u-shape-and-expandable-pcie-slot/"><u>Compact Chinese Mini PC Features Rare Inverted 'U' Shape and Expandable PCIe Slot</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-steps-to-correct-your-realtek-rtl8723be-driver-malfunction/"><u>Comprehensive Steps to Correct Your Realtek RTL8723BE Driver Malfunction</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/create-your-portable-desktop-amd-ryzen-pc-in-a-mini-keyboard-with-trackpad-and-battery-attach-only-monitor-to-complete-setup/"><u>Create Your Portable Desktop: AMD Ryzen PC in a Mini Keyboard with Trackpad & Battery, Attach Only Monitor to Complete Setup</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/gear-up-smartly-expert-reviews-and-advice-on-latest-hardware-from-toms-resource/"><u>Gear Up Smartly: Expert Reviews and Advice on Latest Hardware From Tom’s Resource</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-video-conferencing-a-complete-guide-to-zoom-on-android-for-2024/"><u>Mastering Video Conferencing A Complete Guide to Zoom on Android for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-your-build-essential-tips-from-toms-hardware/"><u>Mastering Your Build: Essential Tips From Tom's Hardware</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-world-of-electronics-with-toms-review-site/"><u>Navigating the World of Electronics with Tom's Review Site</u></a></li>
-<li><a href="https://win11.techidaily.com/personalizing-your-pc-saving-spotlight-pictures-as-wallpapers/"><u>Personalizing Your PC: Saving Spotlight Pictures as Wallpapers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-to-finding-instagram-filters-for-no-cost/"><u>The Ultimate Guide to Finding Instagram Filters for No Cost</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/unlocking-tech-secrets-with-professional-analysis-at-tomngear-insights/"><u>Unlocking Tech Secrets with Professional Analysis at Tom'nGear Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-charting-a-course-through-youtubes-maker-domain-for-2024/"><u>[New] Charting a Course Through YouTube's Maker Domain for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pushing-the-envelope-in-display-technology-detailed-examination-of-benq-bl2711u/"><u>[New] Pushing the Envelope in Display Technology Detailed Examination of BenQ BL2711U</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unlock-gaming-potential-your-complete-xbox-screenshot-guide/"><u>[Updated] 2024 Approved Unlock Gaming Potential Your Complete Xbox Screenshot Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-leading-mac-snipper-programs-analyzed/"><u>[Updated] In 2024, Leading Mac Snipper Programs Analyzed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-srt-postings-a-guide-for-platform-specific-strategies/"><u>2024 Approved Mastering the Art of SRT Postings A Guide for Platform-Specific Strategies</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/basic-anatomy-explained-body-parts-in-french-156-characters/"><u>Basic Anatomy Explained: Body Parts in French (156 Characters)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-your-apple-device-now-available/"><u>ChatGPT for Your Apple Device Now Available!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-pci-device-driver-downloads-for-windows-operating-systems-including-windows-11-10-8-and/"><u>Latest PCI Device Driver Downloads for Windows Operating Systems Including Windows 11, 10, 8 & #</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/learn-to-negate-video-ordering-in-android-for-2024/"><u>Learn To Negate Video Ordering in Android for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/syncing-your-live-obs-content-with-fb-network-for-2024/"><u>Syncing Your Live OBS Content with FB Network for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-ultimate-voice-guided-powerpoint-handbook-for-2024/"><u>The Ultimate Voice-Guided PowerPoint Handbook for 2024</u></a></li>
 </ul></div>
 

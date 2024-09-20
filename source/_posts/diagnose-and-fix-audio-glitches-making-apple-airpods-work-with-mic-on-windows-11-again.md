@@ -1,7 +1,7 @@
 ---
 title: "Diagnose and Fix Audio Glitches: Making Apple AirPods Work with Mic on Windows 11 Again"
-date: 2024-09-13T12:09:13.190Z
-updated: 2024-09-13T18:11:08.043Z
+date: 2024-09-14T21:00:27.903Z
+updated: 2024-09-19T21:43:11.087Z
 tags:
   - win11
   - win10
@@ -62,19 +62,6 @@ If this trick doesn’t work for you, please move to the next fix.
 
 If this fix doesn’t help, move to the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Realtek driver issue
 
  If you have Realtek audio on your PC, this fix might be the right one for you. Realtek driver is sometimes corrupted on Windows 11 and it can lead to Windows 11 no sound or other audio issues. Here’s how to fix it.
@@ -82,46 +69,50 @@ If this fix doesn’t help, move to the next fix.
 1. Click the**Search** button on the bottom and type**device manager** . Then press the**Enter** key to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound3.jpg)
 2. Expand**Sound, video and game controllers** . Find**Realtek audio** and right-click on it. Choose**Update driver** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound4.jpg)
-3. Click**Browse my computer for drivers** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound5.jpg)
-4. Click**Let me pick from a list of available drivers on my computer** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound4.jpg)
+3. Click**Browse my computer for drivers** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound5.jpg)
+4. Click**Let me pick from a list of available drivers on my computer** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound6.jpg)
 5. Check**Show compatible hardware** . Then click**High Definition Audio Device** \>**Next** .  
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound7.jpg)
 6. Click**Yes** in the pop-up window.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound8.jpg)
 7. Restart your PC for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Check the sound on your PC.
 
 ## Fix 4: Update your Windows system
@@ -146,16 +137,16 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -177,18 +168,15 @@ If this fix doesn’t help, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-step-by-step-strategy-to-design-engaging-youtube-teasers/"><u>[New] In 2024, A Step-by-Step Strategy to Design Engaging YouTube Teasers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-unlock-image-potential-10plus-lut-samples-some-at-zero-cost/"><u>[New] Unlock Image Potential 10+ LUT Samples, Some at Zero Cost</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-discover-ultimate-asmr-microphones-for-clear-sounds-for-2024/"><u>[Updated] Discover Ultimate ASMR Microphones for Clear Sounds for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-battery-life-by-halting-background-activities-of-mobile-applications-on-android/"><u>Boost Battery Life by Halting Background Activities of Mobile Applications on Android</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/bridging-the-past-and-present-the-ongoing-appeal-of-agp-slot-modifications-to-support-new-graphics-cards-and-networking-enhancements-spotlight-on-two-adapto90/"><u>Bridging the Past and Present: The Ongoing Appeal of AGP Slot Modifications to Support New Graphics Cards & Networking Enhancements - Spotlight on Two Adaptors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/de-video-a-sonido-tres-pasos-faciles-para-conversion-auditiva/"><u>De Vídeo a Sonido: Tres Pasos Fáciles Para Conversión Auditiva</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-top-3-destinations-for-live-country-tunes-and-securely-get-songs-downloaded-without-cost/"><u>Discover the Ultimate Top 3 Destinations for Live Country Tunes and Securely Get Songs Downloaded without Cost</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/discovering-new-power-lenovo-and-top-5-other-companies-embrace-zhoaxin-powered-systems/"><u>Discovering New Power: Lenovo and Top 5 Other Companies Embrace Zhoaxin-Powered Systems</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/expert-guidance-on-computer-components-with-toms-gear-guide/"><u>Expert Guidance on Computer Components with Tom's Gear Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mitigate-playback-problems-in-android-and-ios-apps/"><u>In 2024, Mitigate Playback Problems in Android & iOS Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/innovative-mini-pc-design-fanless-future-inspired-build-with-state-of-the-art-usb4-solid-state-drives/"><u>Innovative Mini PC Design: Fanless, Future-Inspired Build with State-of-the-Art USB4 Solid State Drives</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/ruggedize-your-workspace-with-the-amd-ryzen-7-powered-bird-dropping-resistant-xyber-xpc-mini-pc/"><u>Ruggedize Your Workspace with the AMD Ryzen 7 Powered, Bird Dropping Resistant Xyber XPC Mini-PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimal-webcams-enhancing-audio-experience/"><u>[New] Optimal Webcams Enhancing Audio Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-script-zip-up-creating-srt-from-video-archives-fastly/"><u>[New] Script Zip-Up Creating SRT From Video Archives Fastly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transform-your-revenue-with-youtube-shorts-tips/"><u>[New] Transform Your Revenue with YouTube Shorts Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-sound-capture-top-mics-pairing-with-4k-video-equipment/"><u>2024 Approved Prime Sound Capture Top Mics Pairing with 4K Video Equipment</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-persistent-latency-in-forza-horizon-5-ultimate-troubleshooting-guide/"><u>Fixing Persistent Latency in Forza Horizon 5: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 15 Pro without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-xiaomi-redmi-note-12-proplus-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Xiaomi Redmi Note 12 Pro+ 5G FRP Without Computer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/innovative-power-solutions-exploring-the-features-of-poweradd-pilot-pro2-charging-station/"><u>Innovative Power Solutions: Exploring the Features of POWERADD Pilot Pro2 Charging Station</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the 2024 Launch Issues in Forza Horizon 4: Expert Strategies"
-date: 2024-09-09T21:13:31.840Z
-updated: 2024-09-14T05:08:24.422Z
+date: 2024-09-16T20:45:55.404Z
+updated: 2024-09-19T19:43:45.938Z
 tags:
   - win11
   - win10
@@ -81,30 +81,10 @@ If the lagging issue persists, try the next fix.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If updating the network driver doesn’t solve your problem, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Allow Forza Horizon 5 through the firewall
 
@@ -127,34 +107,21 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14.jpg)
 2. Click **Browse** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-09-14_13-11-21.jpg)
 3. Navigate to Forza Horizon 5 game folders and add the game executable to the list.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Find Forza Horizon 5 on the list,**tick the checkbox of Private network** , and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block Forza Horizon 5 when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If the lagging issue persists, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Set the game process priority to high
 
@@ -175,10 +142,10 @@ If this fix doesn’t help with your problem, try the next fix.
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1: Flush your DNS
@@ -191,9 +158,24 @@ Here’s how to do it:
 2. Type**cmd** , then press**Shift** and**Enter** at the same time. If prompted for permission, click**Yes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
 
@@ -204,13 +186,6 @@ Here’s how to do it:
 2. Click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
@@ -225,10 +200,10 @@ Here’s how to do it:
  If this fix doesn’t solve your problem, no worries, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 7: Lower in-game settings
@@ -259,17 +234,18 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-history-on-your-flip-watching-old-fb-stories-for-2024/"><u>[New] History on Your Flip Watching Old FB Stories for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-leading-free-switch-game-reproducers/"><u>[Updated] In 2024, Leading Free Switch Game Reproducers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-quick-tips-for-nvidia-screen-capturing/"><u>[Updated] Quick Tips for NVIDIA Screen Capturing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oppo-a78-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Oppo A78 5G Unlock Without Password</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/compact-chinese-mini-pc-features-rare-inverted-u-shape-and-expandable-pcie-slot/"><u>Compact Chinese Mini PC Features Rare Inverted 'U' Shape and Expandable PCIe Slot</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/gear-up-smartly-expert-reviews-and-advice-on-latest-hardware-from-toms-resource/"><u>Gear Up Smartly: Expert Reviews and Advice on Latest Hardware From Tom’s Resource</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-netflix-streaming-again-top-1nine-tricks-for-resolving-common-lg-tv-glitches/"><u>Get Netflix Streaming Again: Top 1Nine Tricks for Resolving Common LG TV Glitches</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-oppo-find-x7-ultra-lock-screen-password-by-drfone-android/"><u>How To Change Oppo Find X7 Ultra Lock Screen Password?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/introducing-asuss-groundbreaking-rog-nuc-top-of-the-line-tech-featuring-amd-ryzen-9-and-nvidia-rtx-4070-available-for-1629/"><u>Introducing Asus's Groundbreaking ROG NUC: Top of The Line Tech Featuring AMD Ryzen 9 & Nvidia RTX 4070 - Available for $1,629</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-world-of-electronics-with-toms-review-site/"><u>Navigating the World of Electronics with Tom's Review Site</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017019298-skype-not-playing-sound-heres-how-you-can-fix-it-instantly/"><u>Skype Not Playing Sound? Here's How You Can Fix It Instantly</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/unlocking-tech-secrets-with-professional-analysis-at-tomngear-insights/"><u>Unlocking Tech Secrets with Professional Analysis at Tom'nGear Insights</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-maximizing-value-from-youtube-comment-threads/"><u>[New] In 2024, Maximizing Value From YouTube Comment Threads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-the-art-of-erasing-stickers-in-social-media-clips/"><u>2024 Approved Perfecting the Art of Erasing Stickers in Social Media Clips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-guide-syncing-images-and-movies-between-iphones/"><u>2024 Approved Quick Guide Syncing Images & Movies Between iPhones</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-steam-disconnection-issue-on-pc/"><u>Addressing Steam Disconnection Issue on PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elevate-your-content-delivery-from-zoom-to-fb-live-streaming-for-2024/"><u>Elevate Your Content Delivery From Zoom to FB Live Streaming for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sky-high-selfies-and-beyond-an-insightful-analysis-of-dji-spark/"><u>In 2024, Sky High Selfies and Beyond An Insightful Analysis of DJI Spark</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mac-specific-tutorial-bypassing-drm-for-disneys-guarded-movie-disc-playback/"><u>Mac-Specific Tutorial: Bypassing DRM for Disney's Guarded Movie Disc Playback</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-game-capture-fbx-filming-techniques/"><u>Mastering Game Capture FBX Filming Techniques</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-online-networking-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Online Networking: Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/optimal-energy-solutions-official-and-third-party-hero5-batteries-for-2024/"><u>Optimal Energy Solutions - Official & Third-Party Hero5 Batteries for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/propel-promotions-with-select-words-and-phrases-for-2024/"><u>Propel Promotions with Select Words and Phrases for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/shake-and-smile-with-iphone-memes-for-2024/"><u>Shake & Smile with iPhone Memes for 2024</u></a></li>
 </ul></div>
 

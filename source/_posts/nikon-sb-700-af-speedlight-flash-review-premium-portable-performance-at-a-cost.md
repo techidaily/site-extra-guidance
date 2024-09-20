@@ -1,7 +1,7 @@
 ---
 title: "Nikon SB-700 AF Speedlight Flash Review: Premium Portable Performance, at a Cost"
-date: 2024-09-07T22:48:15.929Z
-updated: 2024-09-13T20:46:16.165Z
+date: 2024-09-14T01:58:27.907Z
+updated: 2024-09-20T02:38:48.881Z
 categories:
   - BestProducts
 description: "This Article Describes Nikon SB-700 AF Speedlight Flash Review: Premium Portable Performance, at a Cost"
@@ -100,14 +100,14 @@ Lifewire / Jonno Hill
 
 ![LG Gram 17](https://www.lifewire.com/thmb/mt69Vhar3JM30uFdBWA58_wPdYg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-5-f2352e95cadc4e2b99d738b0238fb7bf.jpg)
 
- Lifewire / Jonno Hill
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Jonno Hill
 
 ## **Display** :**A joy to use**
 
@@ -121,19 +121,6 @@ Lifewire / Jonno Hill
 
  The IPS display also performs admirably by most other metrics that buyers will care about, such as a maximum brightness high enough to be usable outdoors. Additionally, the display looks great from off-angles, losing very little brightness when viewed from the sides, and showing no signs of color shift.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Performance** :**Ready to work (but not to game)**
 
  The LG Gram 17 performed well in our tests, managing a 3,851 score in PCMark 10\. As mentioned previously, this laptop is best suited for productivity-related tasks. The absence of a dedicated graphics card means that it won’t be able to keep up in anything beyond casual games and very light video editing workloads, but so long as you avoid these types of tasks you shouldn’t really notice any shortcomings. The 16GB of RAM and 8th gen Intel i7 made using the Gram 17 a fast, responsive experience in everyday and work-related tasks.
@@ -141,6 +128,13 @@ Lifewire / Jonno Hill
  We did nonetheless test the LG Gram 17 in some less demanding games, such as Slay the Spire, a roguelike card game with relatively undemanding graphics. We were able to play the game, but definitely noted some lag that made gameplay a little less pleasant.
 
 ![LG Gram 17](https://www.lifewire.com/thmb/4DSmBdI2ZVvCXO9PXT1iEnSCRxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-6-5381cd4656aa4307ba017acf8ce77c4b.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
@@ -154,9 +148,23 @@ Lifewire / Jonno Hill
 
  Keep in mind though that while watching most standard 16:9 content, you aren’t taking advantage of all 17 inches of the display, and will see black bars on the top and bottom.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Network** :**Everything you’d expect**
 
  Wi-Fi on the LG Gram 17 gave us no trouble, offering a strong signal and speeds in any of the public and private environments we tested in. LG uses the Intel Wireless AC 9560 Wi-Fi adapter, the fastest of such chips currently on offer from Intel. This Wi-Fi adapter has a theoretical max speed of 1.73Gbps and offers a 2x2 antenna configuration, though you’re unlikely to ever hit such a high download speed.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Camera** :**Bare minimum**
 
@@ -166,25 +174,11 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Battery** :**Beyond plentiful**
 
  The LG Gram 17 is equipped with a more than capable battery that offers up to 19.5 hrs of battery life, according to LG. In our tests, the laptop averaged around 14 hours during mixed daily use—still quite a great deal. This is likely due to a mixture of the larger than average battery, lack of a discrete graphics card, and an energy-efficient display. This is about as good as you can hope for in a laptop, to be honest, and a surprising achievement for such a light and thin one. If time between charges is a concern for you, take note.
 
  When running Battery Eater Pro to push the laptop to its limits, it kicked the bucket in just over 2 hours and 30 minutes. This may seem like a very short time, but it’s still considerably better than any of the[other 17-inch laptops](https://www.lifewire.com/best-17-inch-laptops-832683) we tested using this brutal benchmark.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Software: Standard Windows with some unique features**
 
@@ -202,13 +196,6 @@ Lifewire / Jonno Hill
 
  At an MSRP of $1,700, the LG Gram 17 is not particularly affordable, and even less so when compared to similar options in the market. For this price, we would normally expect to get a discrete graphics card and the expanded possibilities that come with it. The premium you are paying for in this case isn’t sheer price-to-performance but portability and form factor. On these fronts, the LG Gram 17 definitely shines.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **LG Gram 17 vs. ASUS VivoBook Pro 17**
 
  These two laptops share very little in common other than both having 17-inch displays and the same Intel processor. The VivoBook has a lower resolution (1920 x 1080 versus 2560 x 1600) display, larger bezels, chunkier body, smaller battery, and weighs over 50 percent more (4.6 versus 2.95 pounds). The VivoBook, on the other hand, has an Nvidia GTX 1050 graphics card and costs far less ($1,099 vs $1,699).
@@ -222,6 +209,19 @@ Lifewire / Jonno Hill
 **A featherweight champion for productivity.**
 
  As it stands, you won’t find a lighter, smaller 17-inch laptop than the LG Gram 17\. LG is aware of how valuable this is to buyers that care about these metrics, and has priced their laptop accordingly. If you are shopping for what the Gram has on offer, we can’t imagine you’ll be too disappointed. This is a smart, capable laptop that delights in daily use.
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -257,13 +257,15 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-accelerated-attention-on-instagram-the-like-video-method/"><u>[New] Accelerated Attention on Instagram - The Like-Video Method</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-quick-and-easy-incorrante-audio-into-fb-profiles-ios-android-for-2024/"><u>[New] Quick & Easy Incorrante Audio Into FB Profiles (iOS, Android) for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-seamlessly-backup-your-camera-roll-exporting-to-snapchat-made-easy/"><u>[New] Seamlessly Backup Your Camera Roll Exporting to Snapchat Made Easy</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/compact-chinese-mini-pc-features-rare-inverted-u-shape-and-expandable-pcie-slot/"><u>Compact Chinese Mini PC Features Rare Inverted 'U' Shape and Expandable PCIe Slot</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/gear-up-smartly-expert-reviews-and-advice-on-latest-hardware-from-toms-resource/"><u>Gear Up Smartly: Expert Reviews and Advice on Latest Hardware From Tom’s Resource</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-fallout-3-gameplay-tips-for-windows-10-users/"><u>Mastering Fallout 3 Gameplay: Tips for Windows 10 Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-world-of-electronics-with-toms-review-site/"><u>Navigating the World of Electronics with Tom's Review Site</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-diagnosing-and-fixing-final-cut-pro-x-crash-errors/"><u>New In 2024, Diagnosing and Fixing Final Cut Pro X Crash Errors</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-5-essential-steps-to-prevent-blank-screen-issues-in-obs-for-2024/"><u>[New] 5 Essential Steps to Prevent Blank-Screen Issues in OBS for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-techniques-to-transform-your-footage-in-gopro-studio/"><u>[New] Innovative Techniques to Transform Your Footage in GoPro Studio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pioneering-free-convertors-top-5-online-apps-for-gifs-to-videos/"><u>[New] Pioneering Free Convertors Top 5 Online Apps for GIFs to Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-syncing-words-and-images-lyric-video-magic-with-lyric-video-maker/"><u>[Updated] Syncing Words and Images Lyric Video Magic with Lyric Video Maker</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-expert-guide-to-free-pc-software-for-capturing-tv/"><u>2024 Approved Expert Guide to Free PC Software for Capturing TV</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-dual-display-the-netflix-floating-window-guide/"><u>2024 Approved Navigating Dual Display The Netflix Floating Window Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-new-lens-on-sony-s3700-blu-ray-play-reviews/"><u>In 2024, New Lens on Sony S3700 Blu-Ray PLAY Reviews</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-malfunction-fixes-for-windows-operating-systems-11-7-and-8/"><u>Keyboard Malfunction Fixes for Windows Operating Systems: 11, 7 & 8</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pcwinx-mediatrans/"><u>PCとスマートデバイスに対応したWinX MediaTrans: 簡単な操作で音楽、ビデオ、画像のシームレス転送</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-users-discover-the-latest-driver-updates-for-your-brother-scanners-now-available/"><u>Windows Users! Discover the Latest Driver Updates for Your Brother Scanners Now Available</u></a></li>
 </ul></div>
 

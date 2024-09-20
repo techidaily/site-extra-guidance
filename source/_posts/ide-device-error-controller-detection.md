@@ -1,7 +1,7 @@
 ---
 title: "Ide Device Error: Controller Detection"
-date: 2024-09-07T16:28:20.389Z
-updated: 2024-09-13T18:56:54.006Z
+date: 2024-09-14T01:03:55.913Z
+updated: 2024-09-19T21:40:17.019Z
 tags:
   - win11
   - win10
@@ -57,13 +57,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b920e62afcac.jpg)
 4. Restart your computer and check if your “The driver detected a controller error on \\Device\\Ide\\Ideport0” problem is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your BIOS
 
  Some users fixed their   **The driver detected a controller error on \\Device\\Ide\\Ideport0**  issue with a BIOS upgrade. If the above steps didn’t work for you, you might as well give it a go. Here’s how to update your BIOS:
@@ -72,33 +65,43 @@ OR
    1. Type **msinfo32**  in the Windows search box and press**Enter** on your keyboard.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type your system’s manufacturer name, your system’s model name and “BIOS” in the Google search box, then select the matching result to go to the manufacturer’s official website and download BIOS update.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.**Note:** If you find there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
 7. Click the**Start** button > **power icon** \>**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
  If you’re using**HP** , press**F10** or**F1** ;  
@@ -132,12 +135,19 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-xiaomi-11-a-new-era-of-high-fidelity-video-recording/"><u>[Updated] Xiaomi 11 A New Era of High Fidelity Video Recording</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/asus-launches-the-pioneering-rog-nuc-desktop-pc-with-high-end-specs-including-core-ultra-9-processors-and-rtx-4070-graphics-from-1629/"><u>Asus Launches the Pioneering ROG NUC Desktop PC with High-End Specs Including Core Ultra 9 Processors and RTX 4070 Graphics From $1,629</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/crafting-your-dream-gaming-pc-for-2e24-affordable-choices-starting-at-500-to-high-end-setups-exceeding-4000/"><u>Crafting Your Dream Gaming PC for 2E24: Affordable Choices Starting at $500 to High-End Setups Exceeding $4,000</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/decoding-the-appeal-what-makes-you-love-filmora-editing-for-2024/"><u>Decoding the Appeal What Makes You Love Filmora Editing for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/how-to-smoothly-transition-sounds-with-audition-for-2024/"><u>How to Smoothly Transition Sounds with Audition for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-your-digital-lifestyle-with-smart-picks-from-toms-hardware-authorities/"><u>Master Your Digital Lifestyle with Smart Picks From Tom's Hardware Authorities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721434632646-unleash-bings-ai-now-available-for-both-ios-and-android/"><u>Unleash Bing's AI: Now Available for Both iOS & Android.</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sky-archives-reimagined-exploring-the-best-cloud-vaults-of-2024/"><u>[New] Sky Archives Reimagined Exploring the Best Cloud Vaults of 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-elevate-your-farming-game-to-immortal-status-with-these-7-14-mods/"><u>[Updated] In 2024, Elevate Your Farming Game to Immortal Status with These #7-14 Mods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-landscape-smm-best-practices/"><u>[Updated] Navigating the Landscape SMM Best Practices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-powerdirector-app-masterclass-2024-edition/"><u>[Updated] PowerDirector App Masterclass - 2024 Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-eliminate-cacophony-perfecting-sound-quality-for-youtube/"><u>2024 Approved Eliminate Cacophony Perfecting Sound Quality for YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-legal-zen-melodies-your-guide-to-soothing-soundtracks/"><u>2024 Approved Legal Zen Melodies – Your Guide to Soothing Soundtracks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-ios-application-launched/"><u>ChatGPT's iOS Application Launched</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-lucidsound-ls30-working-again-effective-troubleshooting-tips/"><u>How To Get Your LucidSound LS30 Working Again: Effective Troubleshooting Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-screen-capture-tips-for-mi-11-users/"><u>In 2024, Essential Screen Capture Tips for Mi 11 Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inshot-editors-guide-to-fluid-cut-techniques-for-2024/"><u>Inshot Editor's Guide to Fluid Cut Techniques for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sculpt-personalized-digital-laughs-now-for-2024/"><u>Sculpt Personalized Digital Laughs Now for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sorcerers-syllables-is-this-voice-changer-software-legitimate-learn-about-others-for-2024/"><u>Sorcerer's Syllables Is This Voice Changer Software Legitimate? Learn About Others for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-editors-path-to-seamless-inshot-joins/"><u>The Editor's Path to Seamless Inshot Joins</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-iphone-guide-to-slow-motion-magic-for-2024/"><u>The Ultimate iPhone Guide to Slow-Motion Magic for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Lightning Loop  Top 10 Agile Games on Mobile/PC\""
-date: 2024-09-09T16:24:56.212Z
-updated: 2024-09-14T02:33:11.610Z
+date: 2024-09-20T22:08:50.886Z
+updated: 2024-09-27T16:18:09.621Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
 ![adobe-flash-player](https://images.wondershare.com/filmora/article-images/adobe-flash-player.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Any FLV Player:
 
  This flv player works like an easy to use utility while supporting high quality flash videos over internet. There is no need to access additional flash authoring tools when you already have Any FLV Player on your device because it can handle all FLV media files with ease. There is one more advanced feature to discuss about Any FLV player and that is its ability to create web based videos using embedded controls so that those clips can be directly played online. You can create interesting clips with added customization and they can be further posted on blogs with few clicks.
@@ -49,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 ![any-flv-player](https://images.wondershare.com/filmora/article-images/any-flv-player.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Wimpy Player:
@@ -62,17 +69,10 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 ![wimpy-player](https://images.wondershare.com/filmora/article-images/wimpy-player.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. VLC Media Player:
@@ -88,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 ![winamp](https://images.wondershare.com/filmora/article-images/winamp.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best Flash or Flv Players for Android or iOS
@@ -109,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 ![mx-android](https://images.wondershare.com/filmora/article-images/mx-android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8\. BS Player (Android):
@@ -121,18 +121,25 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
 ![bsplayer-android](https://images.wondershare.com/filmora/article-images/bsplayer-android.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 9\. O Player Lite (iOS):
 
  Using beginner friendly platform of O player you can easily play high quality videos or get them converted into other file types as per need. O player extends support to all popular media file formats while offering impressive results for audio and video playbacks. You can enjoy playing MKV, 4k, 3GP, swf, webm, avi and many other video files on O Player whereas audio extensions include amr, eac3, wma, mp3, lossless music and many other popular names. This platform also allows easy subtitle playbacks while delivering impressive content quality for streams.
 
 ![oplayer](https://images.wondershare.com/filmora/article-images/oplayer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 10\. viPlay (iOS):
 
@@ -141,16 +148,10 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 ![vplayer](https://images.wondershare.com/filmora/article-images/vplayer.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -168,5 +169,23 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-efficiently-archive-social-media-videos-with-top-5-pick/"><u>[New] In 2024, Efficiently Archive Social Media Videos with Top 5 Pick</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-learn-iphones-burst-shot-magic/"><u>[Updated] Learn iPhone's Burst Shot Magic</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-hue-and-saturation-techniques/"><u>[Updated] Mastering Hue & Saturation Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-racing-cameras-clash-is-black-hero-4-or-ghost-s-better/"><u>[Updated] Racing Cameras Clash Is Black Hero 4 or Ghost-S Better?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-rhythmic-reels-making-instagram-memories-to-the-beat/"><u>[Updated] Rhythmic Reels Making Instagram Memories to the Beat</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-iphones-premier-videography-tools/"><u>2024 Approved IPhone's Premier Videography Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pro-film-masterclass-the-quickest-5-diy-cinematic-tricks/"><u>2024 Approved Pro-Film Masterclass The Quickest 5 DIY Cinematic Tricks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revamp-your-mac-the-macos-sierra-setup-process/"><u>2024 Approved Revamp Your Mac The macOS Sierra Setup Process</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-art-of-drone-video-recording/"><u>2024 Approved The Art of Drone Video Recording</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-chorus-chronicles-storytelling-with-musical-themes/"><u>In 2024, Chorus Chronicles Storytelling with Musical Themes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-m34-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy M34 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-12-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone 12? 5 Tips You Must Know</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-add-echo-to-audio-online-and-on-windows/"><u>New In 2024, How to Add Echo to Audio Online and on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-usb-device-not-accepted-challenge-expert-advice-and-fixes/"><u>Overcoming the 'USB Device Not Accepted' Challenge: Expert Advice and Fixes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spotlight-on-snapchat-a-users-handbook-for-highlights-for-2024/"><u>Spotlight on Snapchat A User's Handbook for Highlights for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-11-and-the-lost-bluetooth-9-effective-solutions-to-find-your-connection/"><u>Win 11 and the Lost Bluetooth: 9 Effective Solutions to Find Your Connection</u></a></li>
+</ul></div>
 

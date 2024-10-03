@@ -1,7 +1,7 @@
 ---
 title: "Cleaning Day Discovery: Original Q1 PC and Other Vintage Desktops Found in Boxes, Featuring Intel's Pioneering 8008 CPU and 16KB Memory"
-date: 2024-09-21T18:52:51.079Z
-updated: 2024-09-27T16:33:09.114Z
+date: 2024-10-01T02:30:58.568Z
+updated: 2024-10-02T17:08:31.615Z
 tags:
   - desktop
 categories:
@@ -76,31 +76,37 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-secure-and-detailed-best-ways-to-document-fb-call-footage-for-2024/"><u>[New] Secure & Detailed Best Ways to Document FB Call Footage for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-high-def-mastery-the-leading-blu-ray-devs/"><u>[Updated] 2024 Approved High-Def Mastery The Leading Blu-Ray Devs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-intelligentsia-inbox-premier-general-knowledge-vids/"><u>[Updated] Intelligentsia Inbox Premier General Knowledge Vids</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-get-every-moment-of-fb-lives-top-5-video-capture-apps/"><u>2024 Approved Get Every Moment of Fb Lives Top 5 Video Capture Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-inspirational-metaverse-sayings-arvr-edition/"><u>2024 Approved Inspirational Metaverse Sayings AR/VR Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-canons-timelapse-a-quick-guide/"><u>2024 Approved Mastering Canon's Timelapse A Quick Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-narrative-scripts-dialogue-excellence/"><u>2024 Approved Perfecting Narrative Scripts Dialogue Excellence</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-proven-film-edits-that-enhance-visual-storytelling/"><u>2024 Approved Proven Film Edits That Enhance Visual Storytelling</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-ps5xbox-series-x-elite-console-companion-screens/"><u>2024 Approved PS5/Xbox Series X Elite Console Companion Screens</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/avoiding-common-pitfalls-when-posting-on-instagram/"><u>Avoiding Common Pitfalls When Posting on Instagram</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effective-strategies-top-7-ai-prompt-techniques-guaranteed-to-deliver-results/"><u>Effective Strategies: Top 7 AI Prompt Techniques Guaranteed to Deliver Results</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y200e-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y200e 5G</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-master-class-top-online-aids-for-improving-media-captions-quality/"><u>In 2024, Master Class Top Online Aids for Improving Media Captions' Quality</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-zoom-email-integration-tips-for-efficient-meetings/"><u>In 2024, Mastering Zoom Email Integration Tips for Efficient Meetings</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-skillful-shortcuts-quick-background-elimination-tactics/"><u>In 2024, Skillful Shortcuts Quick Background Elimination Tactics</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/macx-dvd-ripper-pro-free-distribution-celebrate-digiarts-decade-with-our-summer-limited-time-campaign/"><u>MacX DVD Ripper Pro Free Distribution - Celebrate DigiArt's Decade with Our Summer Limited-Time Campaign!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/trasforma-il-tuo-video-mp4-gratuitamente-in-m4v-utilizzando-la-web-di-movavi/"><u>Trasforma Il Tuo Video MP4 Gratuitamente in M4V Utilizzando La Web Di Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-xbox-network-issues-are-you-affected-globally/"><u>Troubleshooting Xbox Network Issues: Are You Affected Globally?</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/why-engineers-cant-get-enough-of-windows-11-unveiling-perspectives-on-microsofts-latest-operating-system-zdnet-reports/"><u>Why Engineers Can't Get Enough of Windows 11: Unveiling Perspectives on Microsoft's Latest Operating System (ZDNet Reports)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-visionary-video-snatcher-tools-guide/"><u>[New] In 2024, Visionary Video Snatcher Tools Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pioneering-pathways-in-virtual-reality-biking/"><u>[New] Pioneering Pathways in Virtual Reality Biking</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionize-your-mac-streaming-experience/"><u>[New] Revolutionize Your Mac Streaming Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-tandem-display-data-archiving/"><u>[Updated] 2024 Approved Tandem Display Data Archiving</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-download-screen-recorder-pro-for-windows-10/"><u>[Updated] In 2024, Download Screen Recorder Pro for Windows 10</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-get-close-or-farther-with-ease-on-instagram-stories/"><u>[Updated] In 2024, Get Close or Farther with Ease on Instagram Stories</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lens-legends-battle-sj6-versus-xiaomis-yi-4k-visionary/"><u>[Updated] Lens Legends Battle SJ6 Versus Xiaomi's Yi 4K Visionary</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-play-every-game-at-home-nba-streaming-made-simple-top-15/"><u>[Updated] Play Every Game at Home NBA Streaming Made Simple (Top 15)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unlock-the-power-of-speed-in-video-production-for-2024/"><u>[Updated] Unlock the Power of Speed in Video Production for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-your-linkedin-summary-statement/"><u>2024 Approved Perfecting Your LinkedIn Summary Statement</u></a></li>
+<li><a href="https://article-helps.techidaily.com/architectural-marvels-for-vr-display/"><u>Architectural Marvels for VR Display</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/overcoming-biometric-blockades-in-iphone-x-fixing-face-id-for-2024/"><u>Overcoming Biometric Blockades in iPhone X - Fixing Face ID for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfected-techniques-for-high-quality-webp-to-jpg-conversion-for-2024/"><u>Perfected Techniques for High-Quality WebP to JPG Conversion for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photoshop-path-to-painting-perfect-colors-for-2024/"><u>Photoshop Path to Painting-Perfect Colors for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pixel-power-streaming-strategies-in-the-software-vs-hardware-arena-for-2024/"><u>Pixel Power Streaming Strategies in the Software vs Hardware Arena for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/portable-picture-pixels-windows-mac-best-photo-to-cartoon-converter-for-2024/"><u>Portable Picture Pixels Windows, Mac - Best Photo-to-Cartoon Converter for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sharing-the-spotlight-involving-viewers-in-your-journey-for-2024/"><u>Sharing the Spotlight Involving Viewers in Your Journey for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-free-darkroom-suite-lightzone-edition-for-windows-macos-and-linux-users/"><u>The Ultimate Guide to Free Darkroom Suite: LightZone Edition for Windows, macOS and Linux Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-9-essential-considerations-when-investing-in-an-electric-vehicle/"><u>Top 9 Essential Considerations When Investing in an Electric Vehicle</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

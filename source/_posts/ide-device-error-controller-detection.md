@@ -1,7 +1,7 @@
 ---
 title: "Ide Device Error: Controller Detection"
-date: 2024-09-24T18:00:37.703Z
-updated: 2024-09-27T22:32:13.068Z
+date: 2024-09-28T19:33:05.928Z
+updated: 2024-10-02T17:36:46.344Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7a3ca9a5a8-300x280.jpg)
 3. Start your computer and see if the error is fixed. If not, try Fix 2, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  If Fix 1 didn’t work for you, the most likely cause is a controller or chipset driver problem.
@@ -54,8 +61,29 @@ OR
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b920d759d33e.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b920e62afcac.jpg)
 4. Restart your computer and check if your “The driver detected a controller error on \\Device\\Ide\\Ideport0” problem is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 3, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your BIOS
 
@@ -66,44 +94,23 @@ OR
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type your system’s manufacturer name, your system’s model name and “BIOS” in the Google search box, then select the matching result to go to the manufacturer’s official website and download BIOS update.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.**Note:** If you find there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
@@ -143,24 +150,14 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-economical-microphones-catered-to-vloggers/"><u>[New] Economical Microphones Catered to Vloggers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-mastering-facebook-visuals-adding-text-boxes-and-dark-bar-overlays-for-2024/"><u>[New] Mastering Facebook Visuals Adding Text Boxes & Dark Bar Overlays for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-unveiling-vidas-power-for-film-and-video-professionals/"><u>[New] Unveiling Vida's Power for Film and Video Professionals</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-a-step-by-step-approach-to-screening-on-switch/"><u>[Updated] A Step-by-Step Approach to Screening on Switch</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premier-gif-application-selection-for-iphone-users/"><u>[Updated] Premier GIF Application Selection for iPhone Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-say-goodbye-to-data-limits-explore-the-best-of-30-free-clouds-offering-1tbplus-included/"><u>[Updated] Say Goodbye to Data Limits - Explore the Best of 30 Free Clouds Offering 1TB+ Included</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-nft-mastermakers-essential-tools-for-digital-artists/"><u>2024 Approved NFT Mastermakers Essential Tools for Digital Artists</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-ways-from-video-links-to-audio-downloads/"><u>2024 Approved Prime Ways From Video Links to Audio Downloads</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-5-pc-compatible-gb-advance-emulators-for-optimal-play/"><u>2024 Approved Top 5 PC-Compatible GB Advance Emulators for Optimal Play</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beginners-guide-exploring-the-world-of-ai-with-these-9-communities/"><u>Beginner's Guide: Exploring the World of AI with These 9 Communities</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-professional-mobile-devices-for-content-creators/"><u>In 2024, Professional Mobile Devices for Content Creators</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pugilism-vs-players-battle-for-supremacy/"><u>In 2024, Pugilism vs Players Battle for Supremacy</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-simple-windows-11-techniques-for-video-editing/"><u>In 2024, Simple Windows 11 Techniques for Video Editing</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-unlocking-savings-in-cloud-data-services/"><u>In 2024, Unlocking Savings in Cloud Data Services</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-venture-into-virtuality-comprehensively-reviewing-top-10-vr-streamers/"><u>In 2024, Venture Into Virtuality Comprehensively Reviewing Top 10 VR Streamers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/perfect-for-broadcasters-top-360-cameras-listed-for-2024/"><u>Perfect for Broadcasters Top 360° Cameras Listed for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/solo-scrutiny-an-examination-of-3dr-printers-for-2024/"><u>Solo Scrutiny An Examination of '3DR' Printers for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-iphone-composition-choosing-right-angles/"><u>The Ultimate Guide to iPhone Composition Choosing Right Angles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-artistry-selecting-from-6-best-nft-makers/"><u>[New] Navigating Artistry Selecting From 6 Best NFT Makers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-snippets-from-cinema-to-skillful-editors-arsenal/"><u>[New] Snippets From Cinema to Skillful Editors' Arsenal</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-staying-relevant-adapting-to-periscope-trends/"><u>[New] Staying Relevant Adapting to Periscope Trends</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-stepwise-process-turning-video-clocks-backward-on-snap-for-2024/"><u>[Updated] Stepwise Process Turning Video Clocks Backward on Snap for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hands-on-crafting-unique-movie-closures-for-pennies/"><u>2024 Approved Hands-On Crafting Unique Movie Closures for Pennies</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-poco-m6-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Poco M6 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-oppo-find-x7-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Oppo Find X7 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reimagine-photos-with-picshots-simple-techniques/"><u>In 2024, Reimagine Photos with Picshot’s Simple Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-staying-relevant-adapting-to-periscope-trends/"><u>In 2024, Staying Relevant Adapting to Periscope Trends</u></a></li>
 </ul></div>
 

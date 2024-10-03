@@ -1,7 +1,7 @@
 ---
 title: "Diagnose and Fix Audio Glitches: Making Apple AirPods Work with Mic on Windows 11 Again"
-date: 2024-09-26T19:42:58.697Z
-updated: 2024-09-27T17:03:54.369Z
+date: 2024-09-26T20:31:39.674Z
+updated: 2024-10-02T20:45:07.730Z
 tags:
   - win11
   - win10
@@ -30,16 +30,10 @@ Before you start, make sure your headset is working properly.
 5. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Enable Enhance audio
@@ -52,29 +46,23 @@ Before you start, make sure your headset is working properly.
 3. Scroll down to find**Enhance audio** . Turn Enhance audio on and then back off.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound2.jpg)
 4. Check your PC sound, it should be back to normal.
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this trick doesn’t work for you, please move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your audio driver
 
@@ -86,6 +74,13 @@ If this trick doesn’t work for you, please move to the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -108,21 +103,14 @@ If this fix doesn’t help, move to the next fix.
 3. Click**Browse my computer for drivers** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound5.jpg)
 4. Click**Let me pick from a list of available drivers on my computer** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound6.jpg)
 5. Check**Show compatible hardware** . Then click**High Definition Audio Device** \>**Next** .  
@@ -132,13 +120,6 @@ If this fix doesn’t help, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound8.jpg)
 7. Restart your PC for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Check the sound on your PC.
 
@@ -151,6 +132,13 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound9.jpg)
 3. Windows will check the latest available updates for you. If you have available updates, Windows 11 will download and install them automatically.
 4. After the whole process, restart your PC and check the effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Repair system files
 
@@ -169,10 +157,16 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -195,17 +189,22 @@ If this fix doesn’t help, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-connecting-in-real-time-advanced-tips-for-streaming-screens-via-fb/"><u>[New] Connecting in Real Time Advanced Tips for Streaming Screens via Fb</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-discover-the-leading-apps-for-instagrams-vertical-igtv-edits/"><u>[New] Discover the Leading Apps for Instagram's Vertical IGTV Edits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-make-each-second-count-engaging-activities-that-blend-learning-and-multitasking/"><u>[New] Make Each Second Count Engaging Activities that Blend Learning and Multitasking</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-iphone-photo-blurring-4-techniques-explored/"><u>2024 Approved Mastering iPhone Photo Blurring 4 Techniques Explored</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-new-horizons-in-graphic-design-post-acid/"><u>2024 Approved New Horizons in Graphic Design Post-ACID</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-nubia-red-magic-8s-proplus-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Nubia Red Magic 8S Pro+? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-next-gen-realities-navigating-vrs-future-trajectory/"><u>In 2024, Next-Gen Realities Navigating VR's Future Trajectory</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maintain-your-iphone-memories-while-purging-photos-from-icloud-easily/"><u>Maintain Your iPhone Memories While Purging Photos From iCloud Easily</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-mac-subtitle-editing-software-best-options-beyond-subtitle-edit/"><u>New Mac Subtitle Editing Software Best Options Beyond Subtitle Edit</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/nokia-71-smartphone-reviewed-superior-screen-quality-and-cameras-without-breaking-the-bank/"><u>Nokia 7.1 Smartphone Reviewed: Superior Screen Quality & Cameras Without Breaking the Bank</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-iphones-auto-brightness-problem-using-7-effective-fixes/"><u>Solve Your iPhone's Auto-Brightness Problem Using 7 Effective Fixes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/startup-strategies-for-making-money-on-periscope-for-2024/"><u>Startup Strategies for Making Money on Periscope for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-are-thoughtful-analyses-monetarily-rewarded/"><u>[New] In 2024, Are Thoughtful Analyses Monetarily Rewarded?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-artisanarray-pro-online-creation-powerhouse/"><u>[New] In 2024, ArtisanArray Pro Online Creation Powerhouse</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-pixel-power-unveiling-youtubes-twitter-crew/"><u>[New] Pixel Power Unveiling YouTube's Twitter Crew</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-backdrop-be-gone-guide-for-images/"><u>[New] Step-by-Step Backdrop Be Gone Guide for Images</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-learn-to-turn-your-photos-into-their-opposites/"><u>[Updated] Learn to Turn Your Photos Into Their Opposites</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-audible-content-conversion-into-slide-ready-format-with-powerpoint/"><u>[Updated] Mastering Audible Content Conversion Into Slide-Ready Format with PowerPoint</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-megasecond-analysis-understanding-20mb-video-time/"><u>[Updated] MegaSecond Analysis Understanding 20Mb Video Time</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-the-pause-how-to-craft-exceptional-slow-motion-videos/"><u>[Updated] Perfecting the Pause How to Craft Exceptional Slow Motion Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-through-the-terrain-of-mixed-reality/"><u>[Updated] Pioneering Through the Terrain of Mixed Reality</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-srt-to-sub-a-comprehensive-guide/"><u>2024 Approved Seamless SRT to SUB A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/an-insight-into-total-immersion-with-htc-vive-review/"><u>An Insight Into Total Immersion with HTC Vive Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-fn-keys-to-maximize-pc-efficiency-in-wins/"><u>Customizing FN Keys to Maximize PC Efficiency in Wins</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/fortnites-latest-thrill-ride-an-exciting-season-review/"><u>Fortnite's Latest Thrill Ride: An Exciting Season-Review</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-y36i-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo Y36i Device SIM</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/srt-file-handling-simplified-on-pcmac-for-2024/"><u>SRT File Handling Simplified on PC/Mac for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlocking-affordable-efficiency-with-fellowes-microban-keyboards-expert-reviews-and-insights/"><u>Unlocking Affordable Efficiency with Fellowes Microban Keyboards: Expert Reviews & Insights</u></a></li>
 </ul></div>
 

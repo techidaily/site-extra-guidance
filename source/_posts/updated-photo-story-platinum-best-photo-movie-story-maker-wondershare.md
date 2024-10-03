@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Photo Story Platinum - Best Photo Movie Story Maker | Wondershare\""
-date: 2024-09-22T19:22:08.679Z
-updated: 2024-09-27T16:06:12.613Z
+date: 2024-09-27T00:30:29.056Z
+updated: 2024-10-02T18:38:43.479Z
 tags: 
   - screen-recording
   - ai video
@@ -40,13 +40,6 @@ Wondershare Photo Story Platinum is an intuitive photo slideshow maker which you
 * Able to burn your photo story to DVD.
 * Directly share on YouTube, Facebook & virtually anywhere.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Use Wondershare Photo Story Platinum for Windows and Mac
 
 #### Step 1\. Add photos and videos
@@ -60,13 +53,6 @@ After the mode selection, click the Add Files button to import your photos and v
 
 ![photo story](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 2\. Personalize your photo story
 
 Click the Personalize tab. Then you can add transitions, effects, background music and more t create your own gorgeous photo story.
@@ -74,6 +60,13 @@ Click the Personalize tab. Then you can add transitions, effects, background mus
 You can import your photos and videos at one time and arrange the order by dragging. To tell your own photo story, you can add captions to each photo or record your own voice by click the Voice Over button.
 
 ![Photo Story Platinum](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 3\. Publish your photo story
 
@@ -84,6 +77,13 @@ The photo story maker provides sorts of methods for you. For example, if you wan
 ![photo dvd](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
 
 Learn more: [user guide of Photo Story Platinum for Windows](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) here.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Supported Output Formats by Web Converter
 
@@ -97,19 +97,19 @@ Learn about the detailed [technical specifications](https://tools.techidaily.com
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -127,17 +127,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-huaweis-built-in-recorder-screen-capture-for-mate-and-p-series/"><u>[New] 2024 Approved Huawei's Built-In Recorder Screen Capture for Mate and P Series</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-next-gen-ai-for-professional-visual-editing/"><u>[New] Next Gen AI for Professional Visual Editing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-no-pay-no-problem-get-your-free-passport-photo-creator-now-online-and-on-desktop/"><u>[New] No Pay, No Problem Get Your Free Passport Photo Creator Now Online & On Desktop</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-panoramic-power-play-gear-vs-lgcam-showdown/"><u>[New] Panoramic Power Play Gear vs LGCam Showdown</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-restoring-clarity-resolving-iphones-blurry-photos/"><u>[New] Restoring Clarity Resolving iPhone's Blurry Photos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-seamless-integration-of-srt-files-in-windows-macos/"><u>[New] Seamless Integration of SRT Files in Windows, MacOS</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-ditch-thumbnail-peek-turn-off-video-preview-yt/"><u>[Updated] Ditch Thumbnail Peek Turn Off Video Preview YT</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-hilarious-hub-highest-rated-free-meme-archives/"><u>In 2024, Hilarious Hub Highest-Rated Free Meme Archives</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-vsco-editors-handbook/"><u>In 2024, The Ultimate VSCO Editor's Handbook</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-y77t-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Y77t Android SIM Unlock APK</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/marketing-layers-deconstructing-strategys-packaging-for-2024/"><u>Marketing Layers Deconstructing Strategy's Packaging for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/rethinking-upgrades-windows-11s-improvement-focus/"><u>Rethinking Upgrades: Windows 11’S Improvement Focus</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-comprehensive-analysis-of-samsung-image-editor/"><u>[New] In 2024, Comprehensive Analysis of Samsung Image Editor</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfect-every-shot-get-10plus-lut-packs-many-free/"><u>[New] Perfect Every Shot Get 10+ LUT Packs, Many Free</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-transformation-best-face-editors-on-iphones-and-androids/"><u>[New] Seamless Transformation Best Face Editors on iPhones and Androids</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-extracting-youtube-videos-simplified-for-2024/"><u>[Updated] Extracting YouTube Videos Simplified for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtubes-most-lucrative-star-title/"><u>[Updated] In 2024, YouTube's Most Lucrative Star Title</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-turn-social-media-audio-into-mp3/"><u>[Updated] Turn Social Media Audio Into MP3</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximize-your-valorant-potential-try-this-costless-game-changer-today/"><u>2024 Approved Maximize Your Valorant Potential - Try This Costless Game Changer Today</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pickus-claim-the-ultimate-editor-or-just-another-featured-app-in-android/"><u>2024 Approved PickU's Claim – The Ultimate Editor or Just Another Featured App in Android?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-soundseekers-avoiding-dacast-traps/"><u>2024 Approved SoundSeekers Avoiding DaCast Traps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/common-iphone-screen-faults-here-are-7-ways-to-fix-them-efficiently/"><u>Common iPhone Screen Faults? Here Are 7 Ways to Fix Them Efficiently!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-the-latest-xrecorder-software-for-windows-users-compatible-with-win11-win10-win81-win8-and-win7/"><u>Download the Latest XRecorder Software for Windows Users: Compatible with Win11, Win10, Win8.1, Win8 & Win7</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-tecno-spark-go-2023-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Spark Go (2023) in Minutes | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-interactive-narratives-basics-and-beyond/"><u>In 2024, Interactive Narratives Basics and Beyond</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-next-generation-of-social-video-periscopes-counterparts/"><u>The Next Generation of Social Video Periscope's Counterparts</u></a></li>
 </ul></div>
 

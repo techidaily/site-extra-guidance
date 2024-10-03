@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Racing Cameras Clash  Is Black Hero 4 or Ghost-S Better?\""
-date: 2024-07-31T19:40:38.741Z
-updated: 2024-08-01T19:40:38.741Z
+date: 2024-09-28T22:38:04.719Z
+updated: 2024-10-03T01:43:41.448Z
 tags: 
   - screen-recording
   - ai video
@@ -73,131 +73,6 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
 
  Hero 4 Black layout is really impressive with a Wi-Fi button on the right side and a special setting button that assists in immediate adjustment of camera modes. On the left side of the device, the removable cover is hiding Micro SD slot, Mini USB port and Micro HDMI port etc.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
-![gopro-hero4-black-design](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-design.jpg)
-
-#### 2\.  Accessories in the Box
-
- • Drift Ghost S: In the box you will find the camera, battery, remote, a non waterproof type connector that allows easy access to mic ports and mini USB terminal, a universal clip, a wrist strap, two mount clips, one mini USB cable, one goggle mount and a microphone extension cable.
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Drift-Ghost-S-accessories](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_accessories.jpg)
-
- • Hero 4 Black: This device usually comes with standard housing arrangement and to provide direct access to camera a skeleton backdoor is included. Other than this the box will have rechargeable battery, flat and curved adhesive mount, three way pivot arm, quick release buckles and Mini USB Cable.
-
-![gopro-hero4-black-accessories](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-accessories.jpg)
-
- Need more information about accessories?[Check Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 3\.  Video and Image Quality
-
- Hero4 Black can shoot videos with 4K resolution at 30fps but this facility is missing in Drift Ghost S action camera. And if we talk about 1080p resolution level then frame rate of Hero4 Black is exactly twice as that of Ghost S because the former one serves with 120fps and later can go up to 60fps only.
-
- Need to correct the fisheye in the post production? Use Action Cam Tool in Filmora.
-
- Want to learn more about action cameras with 4K capacity?[Check Top 7 Best 4K Action Cameras for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
-
- The image resolution of both these cameras is limited to 12 MP where burst photo mode works at 30fps in Hero4 black only with 10fps in Ghost S.
-
-#### 4\.  Battery Life
-
- Hero4 Black consists of a removable 1160mAh battery that can work up to one hour and 5 minutes with 4K resolution and if you record at 1080p/30fps then this battery life can be extended up to 1.5 hours only. In case of Drift Ghost S you have 1700 mAh battery that can work up to 3.5 hours while recording videos at 1080p/30fps. If you switch on the WiFi during recording then battery life is automatically decayed in Hero4 Black.
-
-#### 5\.  WaterProof
-
- You will be glad to know that Ghost S device is waterproof even without any additional housing arrangement so it also provides much better audio quality. This action cam can go under water up to 3 m without any housing whereas if you attach housing then it allows recording up to 60m. On the other side, Hero4 Black is not water proof at all and even with the additional housing you can take it up to 40 m below water.
-
- Want to know more action cameras with waterproof capacity?[Check Top 7 Best Waterproof Action Camera For 2017](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 5\.  Scene Mode
-
- Drift comes with few additional scene modes: Low Light, Vivid and Normal. Low light mode assists in better clarity during night hours, Vivid helps to push up color information whereas normal mode add more natural colors to footage. On the other side, Hero4 Black comes with only one scene mode that is Low Light. It helps to develop better resolution at night so that more details can be accessed.
-
-#### 6\.  Video Tagging (Ghost S) and HiLight Tag (GoPro)
-
- The GoPro Hero4 Black device is designed with one additional feature named as HiLight Tagging where by pressing the side button you can allow the application to automatically mark the special moments in video footage.
-
- The video tagging feature in Ghost S allows users to save the highlighted moments separately in the whole video so that they can be easily recognized later. This feature can be applied to all current, future and past videos.
-
-#### 8\.  App
-
- Hero4 Black works with GoPro App that assists in easy connectivity over smartphones and also helps in remote navigation. The same feature is supported by Ghost S with its own Drift App that works over iOS and Android platform. GoPro Application also supports Window platform along with iOS and Android.
-
-#### Conclusions
-
- The only major question that you must ask yourself before selection of camera is whether you need a 4K resolution or not? Because if it is your requirement then you have to go for Hero4 Black but as all other features are equally comparable so otherwise users can prefer to buy Ghost S device. If you are looking for a perfect companion that can be mounted on helmet then Ghost S is right choice for you.
-
- Want to learn more about Ghost-S?[Check Drift Innocations Ghost-S Action Camera Review](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- Before the GoPro Hero5 Black series was introduced to camera market, Hero4 Black was the most popular action camera from GoPro. It was the very first device in action camera series that supported 4K resolution at 30fps frame rate because all the early models were limited to 15fps speed.
-
- GoPro Hero4 Black can easily meat all requirements of action camera lovers and at the same time it is available at lower price range. The video quality of Hero4 Black can be rated high and is perfectly suitable for all those who are not in a stage to spend more. On the other side Drift Ghost S comes with an attractive bundle of accessories like wireless remote and it offers long battery life. With payment of $285 for Drift Ghost S, you will be able to make broader settings for video shooting while using its high speed and normal mode.
-
- The complete comparison provided below in this article will help you to make decision about on which camera you must keep your eye in 2017:
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Complete Comparison
-
-#### Specs Comparison between Ghost-S and Hero4 Black
-
-| |  GoPro Hero4 Black | Drift Ghost-S                                              |                                                   |
-| -------------------- | ---------------------------------------------------------- | ------------------------------------------------- |
-| Price                | $329                                                       | $284.95                                           |
-| Image Sensor         | 12 MP CMOS Sensor                                          | 12MP Sensor backlit CMOS                          |
-| Battery              | 1160mAh (1hr 4K@30fps)                                     | 1700mAh (3.5hrs 1080P@30fps)                      |
-| Lens                 | Wide Angle                                                 | 2.97 +/- 0.5, 300 Rotatable Lens                  |
-| Built-in Memory      | N/A                                                        | 2GB DDR2 SDRAM + 256MB SLC Nand Flash             |
-| Display              | N/A                                                        | 2” TFT LCD                                        |
-| Memory Capacity      | Up to 64GB MicroSD Card, MicroSDXC Card and MicroSDHC Card | SDXC MicroSD card, Up to 64GB Class 10/UHS-1 SDHC |
-| Connectivity         | Wi-Fi, Bluetooth, Micro HDMI-D, Mini-USB                   | WiFi: Mini HDMI C Mini-B USB                      |
-| Frame Rates          | up to 4k 30/25/24 fps,                                     | up to 1080p 25/30/50/60 fps                       |
-| Remote Control       | Yes                                                        | Yes                                               |
-| Photo Resolution     | Up to 12MP                                                 | Up to 12MP                                        |
-| Loop Recording       | Yes                                                        | Yes                                               |
-| Burst Photo          | 12MP @ 30 fps                                              | 12MP @10fps                                       |
-| Waterproof           | 40m (with housing)                                         | 3m (without housing)                              |
-| APP                  | Yes                                                        | Yes                                               |
-| Built-in Mic         | Yes                                                        | Yes                                               |
-| Weight               | 88g (camera only)                                          | 172g                                              |
-| External Mic         | Supported                                                  | Supported                                         |
-| Zoom                 | N/A                                                        | 10X                                               |
-| Built-in Speaker     | N/A                                                        | Yes                                               |
-| Scene mode           | Low Light                                                  | Normal Vivid Low Light                            |
-| Clone mode           | N/A                                                        | Yes                                               |
-
- This comparison table shows that touchscreen feature is missing in Hero4 Black but it is capable to shoot 4K videos. On the other side, Ghost S is equipped with LCD screen but it cannot shoot beyond 1080p with 60fps. One more advantage of Ghost S device is that its lens can be rotated up to 360 degrees that leads to much effective image alignment during shoots and the touchscreen put another edge on its video stability.
-
-#### **Features Comparison:**
-
-#### 1\.  Design Structure
-
- Although this bullet shaped Ghost S action cam is bulkier and larger than most competing models but the advantage is that it can store a powerful battery inside. At the same time you will be able to access buttons on the top for all major controls like left/right navigation, Menu and power button that provides direct control over Select/Play and Record functions. A bright LED is provided to reflect the recording status all the time and on the back portion a removable cover is used to hide the 3.5 mm mic jack, Mini USB port, Mini HDMI, Micro SD and battery. A standard screw mount along with speaker is connected at right side.
-
-![Drift-Ghost-S-35832568-design](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_35832568_design.jpg)
-
- Hero 4 Black layout is really impressive with a Wi-Fi button on the right side and a special setting button that assists in immediate adjustment of camera modes. On the left side of the device, the removable cover is hiding Micro SD slot, Mini USB port and Micro HDMI port etc.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![gopro-hero4-black-design](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-design.jpg)
 
 #### 2\.  Accessories in the Box
@@ -270,6 +145,19 @@ Follow @Max Wales
 
  The complete comparison provided below in this article will help you to make decision about on which camera you must keep your eye in 2017:
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Complete Comparison
 
 #### Specs Comparison between Ghost-S and Hero4 Black
@@ -307,16 +195,17 @@ Follow @Max Wales
 
  Although this bullet shaped Ghost S action cam is bulkier and larger than most competing models but the advantage is that it can store a powerful battery inside. At the same time you will be able to access buttons on the top for all major controls like left/right navigation, Menu and power button that provides direct control over Select/Play and Record functions. A bright LED is provided to reflect the recording status all the time and on the back portion a removable cover is used to hide the 3.5 mm mic jack, Mini USB port, Mini HDMI, Micro SD and battery. A standard screw mount along with speaker is connected at right side.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Drift-Ghost-S-35832568-design](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_35832568_design.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hero 4 Black layout is really impressive with a Wi-Fi button on the right side and a special setting button that assists in immediate adjustment of camera modes. On the left side of the device, the removable cover is hiding Micro SD slot, Mini USB port and Micro HDMI port etc.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![gopro-hero4-black-design](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-design.jpg)
 
 #### 2\.  Accessories in the Box
@@ -327,9 +216,139 @@ Follow @Max Wales
 
  • Hero 4 Black: This device usually comes with standard housing arrangement and to provide direct access to camera a skeleton backdoor is included. Other than this the box will have rechargeable battery, flat and curved adhesive mount, three way pivot arm, quick release buckles and Mini USB Cable.
 
+![gopro-hero4-black-accessories](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-accessories.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Need more information about accessories?[Check Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 3\.  Video and Image Quality
+
+ Hero4 Black can shoot videos with 4K resolution at 30fps but this facility is missing in Drift Ghost S action camera. And if we talk about 1080p resolution level then frame rate of Hero4 Black is exactly twice as that of Ghost S because the former one serves with 120fps and later can go up to 60fps only.
+
+ Need to correct the fisheye in the post production? Use Action Cam Tool in Filmora.
+
+ Want to learn more about action cameras with 4K capacity?[Check Top 7 Best 4K Action Cameras for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ The image resolution of both these cameras is limited to 12 MP where burst photo mode works at 30fps in Hero4 black only with 10fps in Ghost S.
+
+#### 4\.  Battery Life
+
+ Hero4 Black consists of a removable 1160mAh battery that can work up to one hour and 5 minutes with 4K resolution and if you record at 1080p/30fps then this battery life can be extended up to 1.5 hours only. In case of Drift Ghost S you have 1700 mAh battery that can work up to 3.5 hours while recording videos at 1080p/30fps. If you switch on the WiFi during recording then battery life is automatically decayed in Hero4 Black.
+
+#### 5\.  WaterProof
+
+ You will be glad to know that Ghost S device is waterproof even without any additional housing arrangement so it also provides much better audio quality. This action cam can go under water up to 3 m without any housing whereas if you attach housing then it allows recording up to 60m. On the other side, Hero4 Black is not water proof at all and even with the additional housing you can take it up to 40 m below water.
+
+ Want to know more action cameras with waterproof capacity?[Check Top 7 Best Waterproof Action Camera For 2017](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 5\.  Scene Mode
+
+ Drift comes with few additional scene modes: Low Light, Vivid and Normal. Low light mode assists in better clarity during night hours, Vivid helps to push up color information whereas normal mode add more natural colors to footage. On the other side, Hero4 Black comes with only one scene mode that is Low Light. It helps to develop better resolution at night so that more details can be accessed.
+
+#### 6\.  Video Tagging (Ghost S) and HiLight Tag (GoPro)
+
+ The GoPro Hero4 Black device is designed with one additional feature named as HiLight Tagging where by pressing the side button you can allow the application to automatically mark the special moments in video footage.
+
+ The video tagging feature in Ghost S allows users to save the highlighted moments separately in the whole video so that they can be easily recognized later. This feature can be applied to all current, future and past videos.
+
+#### 8\.  App
+
+ Hero4 Black works with GoPro App that assists in easy connectivity over smartphones and also helps in remote navigation. The same feature is supported by Ghost S with its own Drift App that works over iOS and Android platform. GoPro Application also supports Window platform along with iOS and Android.
+
+#### Conclusions
+
+ The only major question that you must ask yourself before selection of camera is whether you need a 4K resolution or not? Because if it is your requirement then you have to go for Hero4 Black but as all other features are equally comparable so otherwise users can prefer to buy Ghost S device. If you are looking for a perfect companion that can be mounted on helmet then Ghost S is right choice for you.
+
+ Want to learn more about Ghost-S?[Check Drift Innocations Ghost-S Action Camera Review](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Before the GoPro Hero5 Black series was introduced to camera market, Hero4 Black was the most popular action camera from GoPro. It was the very first device in action camera series that supported 4K resolution at 30fps frame rate because all the early models were limited to 15fps speed.
+
+ GoPro Hero4 Black can easily meat all requirements of action camera lovers and at the same time it is available at lower price range. The video quality of Hero4 Black can be rated high and is perfectly suitable for all those who are not in a stage to spend more. On the other side Drift Ghost S comes with an attractive bundle of accessories like wireless remote and it offers long battery life. With payment of $285 for Drift Ghost S, you will be able to make broader settings for video shooting while using its high speed and normal mode.
+
+ The complete comparison provided below in this article will help you to make decision about on which camera you must keep your eye in 2017:
+
+## Complete Comparison
+
+#### Specs Comparison between Ghost-S and Hero4 Black
+
+| |  GoPro Hero4 Black | Drift Ghost-S                                              |                                                   |
+| -------------------- | ---------------------------------------------------------- | ------------------------------------------------- |
+| Price                | $329                                                       | $284.95                                           |
+| Image Sensor         | 12 MP CMOS Sensor                                          | 12MP Sensor backlit CMOS                          |
+| Battery              | 1160mAh (1hr 4K@30fps)                                     | 1700mAh (3.5hrs 1080P@30fps)                      |
+| Lens                 | Wide Angle                                                 | 2.97 +/- 0.5, 300 Rotatable Lens                  |
+| Built-in Memory      | N/A                                                        | 2GB DDR2 SDRAM + 256MB SLC Nand Flash             |
+| Display              | N/A                                                        | 2” TFT LCD                                        |
+| Memory Capacity      | Up to 64GB MicroSD Card, MicroSDXC Card and MicroSDHC Card | SDXC MicroSD card, Up to 64GB Class 10/UHS-1 SDHC |
+| Connectivity         | Wi-Fi, Bluetooth, Micro HDMI-D, Mini-USB                   | WiFi: Mini HDMI C Mini-B USB                      |
+| Frame Rates          | up to 4k 30/25/24 fps,                                     | up to 1080p 25/30/50/60 fps                       |
+| Remote Control       | Yes                                                        | Yes                                               |
+| Photo Resolution     | Up to 12MP                                                 | Up to 12MP                                        |
+| Loop Recording       | Yes                                                        | Yes                                               |
+| Burst Photo          | 12MP @ 30 fps                                              | 12MP @10fps                                       |
+| Waterproof           | 40m (with housing)                                         | 3m (without housing)                              |
+| APP                  | Yes                                                        | Yes                                               |
+| Built-in Mic         | Yes                                                        | Yes                                               |
+| Weight               | 88g (camera only)                                          | 172g                                              |
+| External Mic         | Supported                                                  | Supported                                         |
+| Zoom                 | N/A                                                        | 10X                                               |
+| Built-in Speaker     | N/A                                                        | Yes                                               |
+| Scene mode           | Low Light                                                  | Normal Vivid Low Light                            |
+| Clone mode           | N/A                                                        | Yes                                               |
+
+ This comparison table shows that touchscreen feature is missing in Hero4 Black but it is capable to shoot 4K videos. On the other side, Ghost S is equipped with LCD screen but it cannot shoot beyond 1080p with 60fps. One more advantage of Ghost S device is that its lens can be rotated up to 360 degrees that leads to much effective image alignment during shoots and the touchscreen put another edge on its video stability.
+
+#### **Features Comparison:**
+
+#### 1\.  Design Structure
+
+ Although this bullet shaped Ghost S action cam is bulkier and larger than most competing models but the advantage is that it can store a powerful battery inside. At the same time you will be able to access buttons on the top for all major controls like left/right navigation, Menu and power button that provides direct control over Select/Play and Record functions. A bright LED is provided to reflect the recording status all the time and on the back portion a removable cover is used to hide the 3.5 mm mic jack, Mini USB port, Mini HDMI, Micro SD and battery. A standard screw mount along with speaker is connected at right side.
+
+![Drift-Ghost-S-35832568-design](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_35832568_design.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Hero 4 Black layout is really impressive with a Wi-Fi button on the right side and a special setting button that assists in immediate adjustment of camera modes. On the left side of the device, the removable cover is hiding Micro SD slot, Mini USB port and Micro HDMI port etc.
+
+![gopro-hero4-black-design](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-design.jpg)
+
+#### 2\.  Accessories in the Box
+
+ • Drift Ghost S: In the box you will find the camera, battery, remote, a non waterproof type connector that allows easy access to mic ports and mini USB terminal, a universal clip, a wrist strap, two mount clips, one mini USB cable, one goggle mount and a microphone extension cable.
+
+![Drift-Ghost-S-accessories](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_accessories.jpg)
+
+ • Hero 4 Black: This device usually comes with standard housing arrangement and to provide direct access to camera a skeleton backdoor is included. Other than this the box will have rechargeable battery, flat and curved adhesive mount, three way pivot arm, quick release buckles and Mini USB Cable.
+
 ![gopro-hero4-black-accessories](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-accessories.jpg)
 
  Need more information about accessories?[Check Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -374,9 +393,6 @@ Follow @Max Wales
 
  Want to learn more about Ghost-S?[Check Drift Innocations Ghost-S Action Camera Review](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -395,9 +411,6 @@ Follow @Max Wales
 
  The complete comparison provided below in this article will help you to make decision about on which camera you must keep your eye in 2017:
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## Complete Comparison
 
 #### Specs Comparison between Ghost-S and Hero4 Black
@@ -435,31 +448,34 @@ Follow @Max Wales
 
  Although this bullet shaped Ghost S action cam is bulkier and larger than most competing models but the advantage is that it can store a powerful battery inside. At the same time you will be able to access buttons on the top for all major controls like left/right navigation, Menu and power button that provides direct control over Select/Play and Record functions. A bright LED is provided to reflect the recording status all the time and on the back portion a removable cover is used to hide the 3.5 mm mic jack, Mini USB port, Mini HDMI, Micro SD and battery. A standard screw mount along with speaker is connected at right side.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Drift-Ghost-S-35832568-design](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_35832568_design.jpg)
 
  Hero 4 Black layout is really impressive with a Wi-Fi button on the right side and a special setting button that assists in immediate adjustment of camera modes. On the left side of the device, the removable cover is hiding Micro SD slot, Mini USB port and Micro HDMI port etc.
 
 ![gopro-hero4-black-design](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-design.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2\.  Accessories in the Box
 
  • Drift Ghost S: In the box you will find the camera, battery, remote, a non waterproof type connector that allows easy access to mic ports and mini USB terminal, a universal clip, a wrist strap, two mount clips, one mini USB cable, one goggle mount and a microphone extension cable.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![Drift-Ghost-S-accessories](https://images.wondershare.com/filmora/article-images/Drift_Ghost-S_accessories.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  • Hero 4 Black: This device usually comes with standard housing arrangement and to provide direct access to camera a skeleton backdoor is included. Other than this the box will have rechargeable battery, flat and curved adhesive mount, three way pivot arm, quick release buckles and Mini USB Cable.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![gopro-hero4-black-accessories](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-accessories.jpg)
 
  Need more information about accessories?[Check Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -534,7 +550,18 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-leveraging-cg-central-luts-for-cinematic-color-enhancement/"><u>[New] Leveraging CG Central LUTs for Cinematic Color Enhancement</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-netflixs-secret-ally-your-mac-for-recording-entertainment-for-2024/"><u>[New] Netflix's Secret Ally Your Mac for Recording Entertainment for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-unmanned-aerial-vehicles-for-gopro-recording/"><u>[Updated] Premium Unmanned Aerial Vehicles for GoPro Recording</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-tips-for-shooting-high-quality-youtube-videos/"><u>[Updated] Top Tips for Shooting High-Quality YouTube Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unlocking-laughter-in-vr-crafting-metaverse-humor-for-2024/"><u>[Updated] Unlocking Laughter in VR Crafting Metaverse Humor for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-image-deformation-techniques/"><u>2024 Approved Master Image Deformation Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-footage-select-best-gimbals-and-handhelds-guide/"><u>2024 Approved Mastering Footage Select Best Gimbals & Handhelds Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplifying-mixers-interface-for-macos-streamers/"><u>2024 Approved Simplifying Mixer's Interface for macOS Streamers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-tecno-pova-5-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Tecno Pova 5 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/perfect-your-macs-microphone-usage-with-this-guide-to-audacity/"><u>Perfect Your Mac's Microphone Usage with This Guide to Audacity</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/video-mastery-on-instagram-tips-and-tricks/"><u>Video Mastery on Instagram Tips and Tricks</u></a></li>
+</ul></div>
 

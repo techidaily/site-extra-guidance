@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Introduction to Soft-Starting Sounds in Audition\""
-date: 2024-10-01T20:01:21.724Z
-updated: 2024-10-02T18:17:10.484Z
+date: 2024-10-01T22:30:46.416Z
+updated: 2024-10-07T19:53:20.004Z
 tags: 
   - screen-recording
   - ai video
@@ -65,6 +65,13 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Steps to use Filmora
 
 * First, do the installation of Filmora software from the home screen and set the default procedure for a successful installation, and then open it. Now, to your timeline, add your desired audio file, and then, opt for double-clicking on the same for opening the Audio editing menu.
@@ -72,47 +79,26 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 
 ![set effects](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * There is an alternative to this. You may opt for the selection of fade icons that is on the left and/or right side of the waveform portion so you are able to fade in and/or fade out faster.
 * At the starting point of an audio clip, opt for dragging the fade-in maker that is to the right side. Then, opt for the application of the fade-in effect.
 * Now, opt for the clip's end, and then, opt for dragging the fade-out maker i.e. to the left side. This is for the addition of a fade-out effect. There is one thing to keep in mind if you drag it further, the fade effect lasts for a longer time.
 
 ## Part 3\. Related FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. How do you fade in multitrack in Audition?
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. How do you do a master fade in Audition?
 
 Select the option of amplifying the effects i.e., amplitude and compression. Do the necessary adjustments there. Then, go to effects and click on Special, and from there, select Mastering.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Adobe Audition fade-out greyed out?
 
@@ -139,18 +125,25 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 * At the starting point of an audio clip, opt for dragging the fade-in maker that is to the right side. Then, opt for the application of the fade-in effect.
 * Now, opt for the clip's end, and then, opt for dragging the fade-out maker i.e. to the left side. This is for the addition of a fade-out effect. There is one thing to keep in mind if you drag it further, the fade effect lasts for a longer time.
 
-## Part 3\. Related FAQs
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Part 3\. Related FAQs
 
 ### 1\. How do you fade in multitrack in Audition?
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. How do you do a master fade in Audition?
 
@@ -159,6 +152,13 @@ Select the option of amplifying the effects i.e., amplitude and compression. Do 
 ### 3\. Adobe Audition fade-out greyed out?
 
 Fade-in and fade-out options are available in the top-left and right corners of the waveform. Right-clicking in the project panel will produce no ability to work in the audition. That option is called grey out. Whatever you want to look for won't work in this view.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -192,18 +192,16 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-digital-artistry-the-meme-generator/"><u>[New] Free Digital Artistry The Meme Generator</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-nurturing-relationships-inspiring-connections-with-your-viewers/"><u>[New] Nurturing Relationships Inspiring Connections With Your Viewers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-simplifying-windows-11-sound-logging/"><u>[Updated] Simplifying Windows 11 Sound Logging</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigate-the-best-free-photography-enhancers-worldwide/"><u>2024 Approved Navigate the Best Free Photography Enhancers Worldwide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bedtime-tales-in-motion-reviews-of-storytelling-videos-for-2024/"><u>Bedtime Tales in Motion Reviews of Storytelling Videos for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-z-flip-5-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy Z Flip 5 Pattern Lock Screen</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/how-to-search-for-cool-photos-on-pexelscom-for-2024/"><u>How to Search for Cool Photos on Pexels.com for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/premier-6-modern-architecture-in-mc-world/"><u>Premier 6 Modern Architecture in MC World</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/seamless-blob-disposal-in-photopeas-interface-for-2024/"><u>Seamless Blob Disposal in Photopea's Interface for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/understanding-the-implications-of-recent-upgrades-from-bambu-lab-on-printer-systems/"><u>Understanding the Implications of Recent Upgrades From Bambu Lab on Printer Systems</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unite-chords-and-visuals-on-powerpoint-for-2024/"><u>Unite Chords and Visuals on PowerPoint for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unlock-new-dimensions-of-sound-best-free-valorant-audio-alterer-revealed-for-2024/"><u>Unlock New Dimensions of Sound Best Free Valorant Audio Alterer Revealed for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-cutting-edge-tools-to-snatch-and-save-videos-flawlessly-for-2024/"><u>[New] Cutting-Edge Tools to Snatch and Save Videos Flawlessly for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pixelated-panorama-vr-cinematic-odyssey/"><u>[New] Pixelated Panorama VR Cinematic Odyssey</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-realism-refined-how-to-use-motion-blur-in-faces-using-picsart/"><u>[New] Realism Refined How to Use Motion Blur in Faces Using Picsart</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-top-10-tik-tok-catchy-songs-of-2024-that-are-stuck-in-your-head/"><u>[New] Top 10 Tik Tok Catchy Songs of 2024 that Are Stuck in Your Head</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pairing-videography-and-soundtrack-in-w11/"><u>[Updated] Pairing Videography and Soundtrack in W11</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-start-video-chatting-technique-for-snapchat-pros-for-2024/"><u>[Updated] Quick-Start Video Chatting Technique for Snapchat Pros for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-steps-to-develop-a-charismatic-vlog-script/"><u>2024 Approved Steps to Develop a Charismatic Vlog Script</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-6s-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone 6s for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y17s-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y17s Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-latest-samsung-bd-j5900-updated-review-2023/"><u>In 2024, Latest Samsung BD-J5900 Updated Review 2023</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-vivo-s18-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo S18 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

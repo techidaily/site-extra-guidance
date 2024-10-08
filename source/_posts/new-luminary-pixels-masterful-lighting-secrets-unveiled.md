@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Luminary Pixels  Masterful Lighting Secrets Unveiled\""
-date: 2024-07-31T19:35:38.163Z
-updated: 2024-08-01T19:35:38.163Z
+date: 2024-10-06T19:17:23.528Z
+updated: 2024-10-08T03:51:50.441Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ Many people are wondering how to set up lighting for video shooting. While there
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -55,9 +52,6 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
@@ -80,25 +74,16 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 **Using Key Light + Fill + Backlight**
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 **_3) Pro Tips: The light setting_**
@@ -108,8 +93,12 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -142,5 +131,23 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-action-cam-faceoff-hero5-black-and-yis-4k-battle-revisited/"><u>[New] 2024 Approved Action Cam Faceoff Hero5 Black and Yi's 4K Battle Revisited</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-channel-your-content-earning-through-evaluative-endeavors-online/"><u>[New] 2024 Approved Channel Your Content Earning Through Evaluative Endeavors Online</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-the-mechanics-perfecting-every-snaps-boomerang-effect/"><u>[New] In 2024, Mastering the Mechanics Perfecting Every Snap's Boomerang Effect</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-precision-editing-harnessing-photoshops-eraser/"><u>[New] Precision Editing Harnessing Photoshop’s Eraser</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-and-easy-method-for-clearing-image-backdrops/"><u>[New] Quick and Easy Method for Clearing Image Backdrops</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-end-computers-a-showcase-of-excellence/"><u>[Updated] High-End Computers A Showcase of Excellence</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-journey-through-youtubes-spectacular-vr-realms/"><u>[Updated] In 2024, Journey Through YouTube's Spectacular VR Realms</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-tecno-phantom-v-fold-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Tecno Phantom V Fold Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversione-libera-online-da-file-wma-a-formato-ogg-con-movavi/"><u>Conversione Libera Online: Da File WMA a Formato Ogg Con Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-a25-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Samsung Galaxy A25 5G Easily?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-optimizing-testimonial-creation/"><u>In 2024, Mastering the Art Optimizing Testimonial Creation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mirth-mechanics-gratis-tools-to-amuse-and-entertain/"><u>In 2024, Mirth Mechanics Gratis Tools to Amuse and Entertain</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-voice-broadcasts-on-apple-devices-the-pros-guide/"><u>In 2024, Perfecting Voice Broadcasts on Apple Devices - The Pro's Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-selection-of-innovative-vr-cycling-games/"><u>In 2024, Prime Selection of Innovative VR Cycling Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-adding-tracks-to-premiere-pro-projects-for-2024/"><u>Step-by-Step Guide Adding Tracks to Premiere Pro Projects for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/watch-your-local-videos-on-tv-chromecast-streaming-tutorial-for-windows-mac-android-and-ios/"><u>Watch Your Local Videos on TV Chromecast Streaming Tutorial for Windows, Mac, Android, and iOS</u></a></li>
+</ul></div>
 

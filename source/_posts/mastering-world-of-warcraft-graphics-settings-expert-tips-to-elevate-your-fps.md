@@ -1,7 +1,7 @@
 ---
 title: Mastering World of Warcraft Graphics Settings - Expert Tips to Elevate Your FPS
-date: 2024-09-28T16:09:39.554Z
-updated: 2024-10-02T22:55:54.009Z
+date: 2024-09-30T19:35:06.614Z
+updated: 2024-10-08T08:03:58.504Z
 tags:
   - win11
   - win10
@@ -52,10 +52,10 @@ To keep your graphics driver up-to-date, here are two options for you:
  After the driver update, relaunch the game to see how it works. If the problem persists, there are more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Optimize graphics settings
@@ -67,10 +67,16 @@ To keep your graphics driver up-to-date, here are two options for you:
 2. Click**Desktop app** from the drop-down list and click**Browse** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dedicated-gpu-3.jpg)
@@ -80,13 +86,20 @@ To keep your graphics driver up-to-date, here are two options for you:
 5. Select**High performance** and click**Save** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this method doesn’t work, try the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Verify integrity of game files
 
@@ -96,38 +109,19 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Elden Ring** from the game list and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Disable Steam overlay
 
@@ -144,13 +138,6 @@ If this method doesn’t work, try the next solution.
 
 Restart the game and test. Still no luck? Continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5 – Disable Microsoft Device Association Root Enumerator
 
  Some players also reported that disabling Microsoft Device Association Root Enumerator resolves the stuttering dramatically. Disabling this device may stop some part of the device driver from installing, but your computer will work normally for the most part.
@@ -158,18 +145,27 @@ Restart the game and test. Still no luck? Continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Software devices** to open the category.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-1.jpg)
 3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
 4. Click**Yes** to confirm.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
 
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
@@ -184,6 +180,13 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 3. Under the**Global Settings** tab, scroll through the list to find**Shader Cache Size** and set it to**Unlimited** .  
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
 
@@ -211,24 +214,17 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-efficient-downloads-transform-vimeo-videos-into-mp4/"><u>[New] 2024 Approved Efficient Downloads Transform Vimeo Videos Into MP4</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/teer-clear-of-obscurity-secure-a-top-spot-with-youtube-seo-tips-for-2024/"><u>[New] Steer Clear of Obscurity Secure a Top Spot with YouTube SEO Tips for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-cross-social-video-broadcasting-from-twitter-to-snapchat/"><u>[Updated] In 2024, Cross-Social Video Broadcasting From Twitter, To Snapchat</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-live-tv-is-vmix-or-wirecast-your-go-to-tool/"><u>[Updated] Mastering LIVE TV Is VMix or Wirecast Your Go-To Tool?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-permanent-tiktok-account-elimination-guide-for-2024/"><u>[Updated] Permanent TikTok Account Elimination Guide for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-professional-strategies-converting-xmlssattml-to-dynamic-srts/"><u>[Updated] Professional Strategies Converting XML/SSA/TTML to Dynamic SRTs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-science-of-light-in-hdr-photography/"><u>[Updated] The Science of Light in HDR Photography</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-easy-access-to-no-cost-music-for-video-makers/"><u>2024 Approved Easy Access to No-Cost Music for Video Makers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-spotifys-ad-landscape-a-beginners-guide/"><u>2024 Approved Navigating Spotify's Ad Landscape A Beginner's Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimal-solutions-for-webp-to-jpg-image-transformation/"><u>2024 Approved Optimal Solutions for WebP-to-JPG Image Transformation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-your-online-presence-with-these-18-elite-recording-systems/"><u>2024 Approved Perfect Your Online Presence with These 18 Elite Recording Systems</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-spectrum-mastery-in-depth-color-techniques/"><u>2024 Approved Spectrum Mastery In-Depth Color Techniques</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g42-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Nokia G42 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-photo-distortion-techniques-in-ps/"><u>In 2024, Mastering Photo Distortion Techniques in PS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-reviving-windows-photo-viewer-two-approaches-in-windows-10/"><u>In 2024, Reviving Windows Photo Viewer Two Approaches in Windows 10</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-communication-on-top-platforms-exploring-facebook-twitter-instagram-and-youtube/"><u>Mastering Communication on Top Platforms: Exploring Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pixels-perfection-elevate-your-picture-crafting-for-2024/"><u>Pixels Perfection Elevate Your Picture Crafting for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/strategies-for-downloading-twitter-video-content-to-mp3/"><u>Strategies for Downloading Twitter Video Content to MP3</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-resolving-issues-with-non-functional-apps-on-your-samsung-television/"><u>Troubleshooting Tips: Resolving Issues with Non-Functional Apps on Your Samsung Television</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-boosting-participation-tips-for-fb-giveaway-posts/"><u>[New] 2024 Approved Boosting Participation Tips for FB Giveaway Posts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-flash-fiction-directorial-map/"><u>[New] Flash Fiction Directorial Map</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-learn-to-toggle-picture-in-picture-on-your-ios-youtube-app/"><u>[New] Learn to Toggle Picture-in-Picture on Your iOS YouTube App</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-insightful-cloud-costs-price-comparison-and-recommendations/"><u>[Updated] Insightful Cloud Costs Price, Comparison & Recommendations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-guide-to-crafting-iphone-image-art/"><u>[Updated] Step-by-Step Guide to Crafting iPhone Image Art</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-stepwise-approach-to-exceptional-gopro-footage/"><u>2024 Approved Stepwise Approach to Exceptional GoPro Footage</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-itel-p55plus-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Itel P55+ to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-kinemasters-transition-playbook-for-cinematic-excellence/"><u>In 2024, Kinemaster’s Transition Playbook for Cinematic Excellence</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pristineai-designs-crafting-visuals-with-ai/"><u>PristineAI Designs Crafting Visuals with AI</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-companion-for-advanced-win10-users/"><u>The Essential Companion for Advanced Win10 Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transform-your-internet-experience-with-the-netgear-nighthawk-rax80-a-review-of-superior-speeds-in-a-striking-package/"><u>Transform Your Internet Experience with the Netgear Nighthawk RAX80 - A Review of Superior Speeds in a Striking Package</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Restore Sound on Your JBL G435 Wireless Headphones with These Simple Repairs
-date: 2024-09-30T21:35:38.867Z
-updated: 2024-10-03T02:38:29.752Z
+date: 2024-10-01T16:03:54.880Z
+updated: 2024-10-07T23:30:41.863Z
 tags:
   - win11
   - win10
@@ -30,16 +30,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
@@ -56,13 +50,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 2: Disable Exclusive Mode and change the sound format**
 
  Having **Exclusive Mode**   on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the **crackling or popping sound** in headphone  problem. To disable **Exclusive Mode** :
@@ -70,9 +57,35 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
@@ -104,14 +117,27 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -123,22 +149,8 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
@@ -172,15 +184,24 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-undead-uprising-your-essential-compilation-of-zombie-gaming/"><u>[New] In 2024, Undead Uprising Your Essential Compilation of Zombie Gaming</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-inside-look-magix-video-pro-x/"><u>[New] Inside Look Magix Video Pro X</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-standout-instagram-unboxings-a-comprehensive-checklist/"><u>[New] Standout Instagram Unboxings A Comprehensive Checklist</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-samsungs-guide-to-crafting-captivating-time-lapses-with-smartphones/"><u>[Updated] Samsung's Guide to Crafting Captivating Time-Lapses with Smartphones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamlined-approach-for-customizing-snapchat-video-rate/"><u>[Updated] Streamlined Approach for Customizing Snapchat Video Rate</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-impact-partnering-with-influencers-on-youtube/"><u>2024 Approved Maximizing Impact Partnering with Influencers on YouTube</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-sweep-viewers-off-their-feet-templates-that-work-wonders/"><u>2024 Approved Sweep Viewers Off Their Feet Templates That Work Wonders</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/escape-the-perpetual-attempting-data-recovery-spiraled-on-your-iphone-with-these-fixes/"><u>Escape the Perpetual 'Attempting Data Recovery' Spiraled on Your iPhone with These Fixes</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/global-conversations-in-spanish-dialects/"><u>Global Conversations in Spanish Dialects</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/unlock-pro-quality-videos-gopro-quik-editing-on-macbook-made-simple-for-2024/"><u>Unlock Pro-Quality Videos GoPro Quik Editing on MacBook Made Simple for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flawless-soundscapes-in-the-world-of-social-media-videos/"><u>[New] In 2024, Flawless Soundscapes in the World of Social Media Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-step-by-step-guide-for-using-zoom-via-gmail/"><u>[New] In 2024, Step-by-Step Guide for Using Zoom via Gmail</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-srt-output-from-adobe-premiere/"><u>[New] Mastering SRT Output From Adobe Premiere</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-master-image-security-with-best-watermarks-software-for-2024/"><u>[Updated] Master Image Security with Best Watermarks Software for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-masterful-asmr-methods-by-leading-talents/"><u>[Updated] Masterful ASMR Methods by Leading Talents</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-snapedit-a-beginners-guide-to-photo-mastery/"><u>[Updated] Snapedit A Beginner's Guide to Photo Mastery</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-jovial-jamboree-accessing-comic-crafts-for-free/"><u>2024 Approved Jovial Jamboree Accessing Comic Crafts for Free</u></a></li>
+<li><a href="https://fox-that.techidaily.com/home-button-hiccups-on-your-iphone-here-are-five-fixes-to-try-immediately/"><u>Home Button Hiccups on Your iPhone? Here Are Five Fixes to Try Immediately</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-reno-11-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo Reno 11 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-insights-the-highest-rated-vr-games/"><u>In 2024, Exclusive Insights The Highest-Rated VR Games</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-audio-ease-out-methods-in-premiere-pro/"><u>In 2024, Mastering Audio Ease-Out Methods in Premiere Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-must-have-top-8-wallpapers-and-themes-for-mbp-users/"><u>In 2024, Must-Have Top 8 Wallpapers & Themes for MBP Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-save-big-on-data-stash-with-these-30-no-cost-up-to-1tbplus-cloud-services/"><u>In 2024, Save Big on Data Stash with These 30 No-Cost, Up to 1TB+ Cloud Services</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/key-steps-to-ace-zoom-with-a-chromebook-for-2024/"><u>Key Steps to Ace Zoom with a Chromebook for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-your-music-collection-top-8-android-downloader-tools-for-2024/"><u>Master Your Music Collection - Top 8 Android Downloader Tools for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-fixes-for-privacy-concerns-in-piscart-images-for-2024/"><u>Quick Fixes for Privacy Concerns in PiscArt Images for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/smoothly-alter-color-grades-with-luts-abroad-for-2024/"><u>Smoothly Alter Color Grades with LUTs, Abroad for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/turn-off-cursor-speed-enhancement-on-your-mac-quick-tips/"><u>Turn Off Cursor Speed Enhancement on Your Mac – Quick Tips</u></a></li>
 </ul></div>
 

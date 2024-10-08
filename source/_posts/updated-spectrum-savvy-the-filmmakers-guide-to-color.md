@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Spectrum Savvy  The Filmmaker's Guide to Color\""
-date: 2024-09-27T23:29:16.628Z
-updated: 2024-10-03T02:28:37.457Z
+date: 2024-10-06T17:07:29.111Z
+updated: 2024-10-08T03:45:22.518Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,13 @@ Color grading and color correction are processes that happen throughout postprod
 
 To summarize, Color grading can be used to make both technical and creative changes. Colorists use color grading for artistic purposes to ensure that the film's carefully curated color palette conveys a specific atmosphere, style, or emotion.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why is Color Grading Important?
 
 **Color grading establish a picture's first impression**
@@ -49,13 +56,6 @@ The communication of emotion and story through the lens is one of the most power
 **Color grading encourage a style that can be completely your own**
 
 One of the most intimidating challenges a photographer or vlogger faces is creating a unique style that can result in a brand for their work. Making a visual style that viewers can recognize at a glance can tremendously impact the growth of a photographer's career. Color grading plays a vital part in that process. Customers will often come to you with a wide range of different photography outputs. By defining a consistent color grading work, you can tie it all into a dense brand that reflects strongly on you and construct a distinctive value that provides you something to sell that only you can offer to people.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to use Color Grading in Wondershare Filmora?
 
@@ -71,25 +71,11 @@ Then select the New Project to create a new project file and click Import to fin
 
 ![put video to filmora cd](https://images.wondershare.com/filmora/article-images/2022/08/put-video-to-filmora-cd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2There are 2 ways to color your video in Wondershare Filmora
 
 Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar to enter the advanced color tools window, where you can apply the preset templates or adjust the color coarsely. It is suggested to start with Presets for beginners, which will save you much time.
 
 ![advanced color tools filmora](https://images.wondershare.com/filmora/article-images/2022/08/advanced-color-tools-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
 
@@ -113,6 +99,13 @@ Here, there are two options to select: The Color correction. It offers different
 
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2Select the specific video portion
 
 #####
@@ -120,6 +113,19 @@ Here, there are two options to select: The Color correction. It offers different
 First, you need to select the specific video portion you want to change the color. Just click the scissor icon or what we call split tool. In this case, I split the 2nd video when I zoom in on the subject.
 
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * And I selected the end portion of the video. After that, choose the part of the video.
 
@@ -139,13 +145,6 @@ Once you've finished correcting the video color, press Play and go over the whol
 
 ![preview and save video filmora](https://images.wondershare.com/filmora/article-images/2022/08/preview-and-save-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Using the Color Panel Window**
 
 ##### Step1To perform color correction in Filmora, switch to the Color tab
@@ -159,6 +158,13 @@ You can modify the temperature, tint, white balance, contrast, saturation, and b
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
 
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Color Histogram**
 
@@ -228,17 +234,22 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-cutting-edge-drone-graphics-first-20-free-luts-on-dji-drones/"><u>[New] Cutting Edge Drone Graphics First 20 Free LUTS on DJI Drones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-newest-qanda-arsenal-for-captivating-listeners/"><u>[New] Newest Q&A Arsenal for Captivating Listeners</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unlocking-kinemasters-full-potential-in-zoomed-sections/"><u>[New] Unlocking Kinemaster's Full Potential in Zoomed Sections</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigating-fb-video-conversion-to-professional-quality-mp3s/"><u>[Updated] In 2024, Navigating FB Video Conversion to Professional-Quality MP3s</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-zoom-into-your-workspace-learn-screen-casting-via-ezvide/"><u>2024 Approved Zoom Into Your Workspace Learn Screen Casting via EZvide</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/1726227954884-mpemp4-movavi/"><u>在線無成本地改編MPE影片成MP4格式 - Movavi導航指南</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-11-pro-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On Apple iPhone 11 Pro Online</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-nubia-red-magic-8s-pro-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Nubia Red Magic 8S Pro to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-using-high-dynamic-range-auto-hdr-in-windows-11-for-2024/"><u>Mastering the Art of Using High Dynamic Range (Auto HDR) in Windows 11 for 2024</u></a></li>
-<li><a href="https://solve-help.techidaily.com/myriadcam-pro-cutting-edge-video-broadcasting-suite-with-digital-webcams/"><u>MyriadCam Pro: Cutting-Edge Video Broadcasting Suite with Digital Webcams</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/reimagine-your-space-with-windows-11-designs-for-2024/"><u>Reimagine Your Space with Windows 11 Designs for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/seeking-outno-cost-clip-art-deposits-for-2024/"><u>Seeking Outno-Cost Clip Art Deposits for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mastering-mov-file-capture-in-win10/"><u>[New] 2024 Approved Mastering MOV File Capture in Win10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimizing-your-browsing-mastering-firefoxs-pip/"><u>[New] Optimizing Your Browsing Mastering Firefox's PIP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-data-movement-best-ways-to-transition-files-to-pc/"><u>[New] Unlocking Data Movement Best Ways to Transition Files to PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-deciphering-the-variance-between-metaverse-and-multi-meva-environments/"><u>[Updated] Deciphering the Variance Between Metaverse and Multi-Meva Environments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-easy-guide-online-tools-to-save-your-youtube-videos/"><u>[Updated] In 2024, Easy Guide Online Tools to Save Your YouTube Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-ae-integrating-custom-typefaces/"><u>[Updated] Mastering AE Integrating Custom Typefaces</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-narrative-artistry-accolades-1-8-distinguished-academies/"><u>[Updated] Narrative Artistry Accolades #1-#8 Distinguished Academies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-segment-screen-showdown-recorders-leader-status/"><u>[Updated] Segment Screen Showdown Recorder's Leader Status</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sideways-instagram-videos-an-enigma-or-bug/"><u>[Updated] Sideways Instagram Videos An Enigma or Bug?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-shopping-spree-videography/"><u>2024 Approved Mastering the Art of Shopping Spree Videography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photo-refinement-essentials-expert-tips-for-efficient-background-clearance/"><u>2024 Approved Photo Refinement Essentials Expert Tips for Efficient Background Clearance</u></a></li>
+<li><a href="https://common-error.techidaily.com/beating-the-system-enabling-fortnite-gameplay-on-unsupported-windows-gpus/"><u>Beating the System: Enabling Fortnite Gameplay on Unsupported Windows GPUs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/discovering-content-iphones-and-podcasts/"><u>Discovering Content IPhones and Podcasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-stop-crusader-kings-iii-from-crashing-on-your-windows-computer/"><u>Fixing the Issue: How to Stop Crusader Kings III From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-masterful-mixing-video-and-melody-combinations-on-win11/"><u>In 2024, Masterful Mixing Video & Melody Combinations on Win11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-ranked-10-best-low-cost-user-friendly-passport-photo-services/"><u>In 2024, Ranked 10 Best Low-Cost, User-Friendly Passport Photo Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-potential-of-drone-footage-through-editing/"><u>In 2024, Unlocking the Potential of Drone Footage Through Editing</u></a></li>
 </ul></div>
 

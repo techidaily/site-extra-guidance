@@ -1,7 +1,7 @@
 ---
 title: "[New] Mobile Filming Tools for Tourists"
-date: 2024-09-26T17:08:24.743Z
-updated: 2024-09-27T16:59:23.623Z
+date: 2024-10-02T02:08:53.019Z
+updated: 2024-10-08T01:16:33.303Z
 tags: 
   - screen-recording
   - ai video
@@ -40,35 +40,9 @@ Sony a6400 is an APS-C mid-range compact camera that I use for vlogging and cine
 
 ![travel vlog camera](https://images.wondershare.com/filmora/article-images/2022/07/travel-vlog-camera.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Lenses
 
 Lenses are the most vital part of your camera; it brings light to a fixed object. Will it make a huge impact on your cinematic shot? For your montage? For your b-roll? Yes, yes, and also yes. The use of lenses has a greater and different impact because it has a contrasting effect, especially for sharpness, depth of field, details, and background blur. It is the most important parameter depending on the situation that you might have for traveling. For example, I used Sigma 16mm, a wide lens, which is good for landscape photography or montage. Another one is Sigma 30mm, this lens is good for mid-range shot portraits and it creates a dramatic effect while capturing a person or an object.
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Gimbal
 
@@ -77,10 +51,17 @@ Nowadays, many filmmakers and famous vloggers are using gimbals. We often use th
 ![vlog gimbal](https://images.wondershare.com/filmora/article-images/2022/07/vlog-gimbal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Action Camera
@@ -90,10 +71,10 @@ This is one of my favorite pieces of equipment and frequently used camera, the G
 ![action camera](https://images.wondershare.com/filmora/article-images/2022/07/action-camera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Batteries, External SSD, and Memory card
@@ -108,9 +89,23 @@ In my own experience, every time I go out and visit different places, I always h
 
 ![laptop devices](https://images.wondershare.com/filmora/article-images/2022/07/laptop-devices.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Stabilize the Video in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -121,10 +116,10 @@ click on new project
 ![new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step2IMPORT FILES
@@ -133,18 +128,18 @@ from there you can choose and select which video you would like to import
 
 ![import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3DRAG AND DROP
 
 just drag and drop simple as that
 
 ![drag and drop](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step4STABILIZING THE VIDEO
 
@@ -166,6 +161,13 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Stabilize the Video in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ##### Step1NEW PROJECT
@@ -174,31 +176,11 @@ click on new project
 
 ![new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step2IMPORT FILES
 
 from there you can choose and select which video you would like to import
 
 ![import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step3DRAG AND DROP
 
@@ -248,24 +230,16 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-discover-comprehensive-free-graphics-websites-today-for-2024/"><u>[New] Discover Comprehensive Free Graphics Websites Today for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-static-to-dynamic-traffic-youtube-backlinks-explained-for-2024/"><u>[New] From Static to Dynamic Traffic YouTube Backlinks Explained for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-through-the-world-of-ar-stickers-highlighting-google/"><u>[New] Navigating Through the World of AR Stickers, Highlighting Google</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-a-comprehensible-list-of-mac-snippers-ranked/"><u>[Updated] 2024 Approved A Comprehensible List of Mac Snippers Ranked</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-how-to-record-webcam-video-on-hp-laptops-and-chromebooks/"><u>[Updated] In 2024, How to Record Webcam Video on HP Laptops and Chromebooks?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-optimizing-your-in-stream-ad-strategy-on-facebooks-platform/"><u>[Updated] In 2024, Optimizing Your In-Stream Ad Strategy on Facebook's Platform</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-preview-premiere-pro-edition/"><u>[Updated] Mastering the Art of Preview Premiere Pro Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-insight-into-lgs-360-camera-updates-and-features-for-todays-photographers/"><u>2024 Approved Insight Into LG's 360 Camera Updates and Features for Today's Photographers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-telegram-web-a-beginners-walkthrough/"><u>2024 Approved Mastering Telegram Web A Beginner's Walkthrough</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pop-culture-with-a-click-using-kinemaster/"><u>2024 Approved Pop Culture with a Click Using KineMaster</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wmvgif-movavi/"><u>在線WMV至GIF自由轉換 - 以 Movavi提高效率</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guide-reducing-high-resource-demand-of-tiworkerexe-process-in-windows-11-systems/"><u>Guide: Reducing High Resource Demand of TiWorker.exe Process in Windows 11 Systems</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone 11? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-gt-5-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme GT 5 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-change-location-on-yik-yak-for-your-zte-blade-a73-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your ZTE Blade A73 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-layer-chords-over-ppt-slides/"><u>In 2024, Layer Chords over PPT Slides</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-skies-with-xiaomis-4k-drone/"><u>In 2024, Mastering the Skies with Xiaomi's 4K Drone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/making-shapes-pop-with-photoshop-tips-for-2024/"><u>Making Shapes Pop with Photoshop Tips for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/no-license-plenty-of-melodies-top-10-online-websites-for-2024/"><u>No License, Plenty of Melodies - Top 10 Online Websites for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-naming-gems-top-strategies-for-exceptional-podcast-titles/"><u>[New] Naming Gems Top Strategies for Exceptional Podcast Titles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-transition-adopting-windows-11/"><u>[New] Seamless Transition Adopting Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-secrets-to-improve-your-gopro-videos/"><u>[Updated] Top Secrets to Improve Your GoPro Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-proven-tactics-for-engaging-viewers-with-success-narratives-on-screen/"><u>2024 Approved Proven Tactics for Engaging Viewers with Success Narratives on Screen</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-world-of-audio-with-apods/"><u>In 2024, Navigating the World of Audio with APods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/melodic-matchmaking-music-that-resonates-with-scenes-for-2024/"><u>Melodic Matchmaking Music That Resonates with Scenes for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/prophetic-stability-prototype-reviewed/"><u>Prophetic Stability Prototype Reviewed</u></a></li>
+<li><a href="https://windows11.techidaily.com/stay-unplugged-avoiding-abrupt-updates-on-windows-11/"><u>Stay Unplugged: Avoiding Abrupt Updates on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-securing-new-features-with-effortless-ios-downloads-and-setup-processes/"><u>The Ultimate Guide to Securing New Features with Effortless iOS Downloads & Setup Processes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-performance-fixing-valheims-freezing-and-stuttering-issues/"><u>Troubleshooting PC Performance: Fixing Valheim's Freezing & Stuttering Issues</u></a></li>
 </ul></div>
 

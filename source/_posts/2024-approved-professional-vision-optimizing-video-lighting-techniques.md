@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Professional Vision  Optimizing Video Lighting Techniques\""
-date: 2024-07-31T19:37:54.145Z
-updated: 2024-08-01T19:37:54.145Z
+date: 2024-10-06T19:35:28.117Z
+updated: 2024-10-08T05:10:34.272Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ Many people are wondering how to set up lighting for video shooting. While there
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -61,9 +58,6 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -72,16 +66,10 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
@@ -92,16 +80,10 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 **Using Key Light + Fill + Backlight**
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 **_3) Pro Tips: The light setting_**
@@ -109,6 +91,13 @@ After setting up all the lighting above, you can take a look at the comparison b
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -142,7 +131,22 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/jestful-journeys-an-in-depth-goofy-movie-review-for-2024/"><u>'Jestful Journeys' An In-Depth Goofy Movie Review for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-script-innovation-place/"><u>[New] Best Script Innovation Place</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-ideas-to-action-how-to-transform-photos-into-engaging-mobile-videos/"><u>[New] In 2024, From Ideas to Action How to Transform Photos Into Engaging Mobile Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premier-funny-picture-tinker/"><u>[New] Premier Funny Picture Tinker</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-chuckle-o-meter-starts-with-zero-mememasters-kit/"><u>[Updated] 2024 Approved Chuckle-O-Meter Starts with Zero – MemeMasters Kit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tips-for-seamless-integration-of-supplementary-footage/"><u>2024 Approved Tips for Seamless Integration of Supplementary Footage</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-synology-rt2-groove-a-long-range-router-with-parental-control-features/"><u>Comprehensive Review of Synology RT2 Groove, a Long Range Router with Parental Control Features</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-maze-of-multi-service-playlist-transfer/"><u>In 2024, Navigating the Maze of Multi-Service Playlist Transfer</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-iphone-methods-for-spherical-footage/"><u>In 2024, Pro iPhone Methods for Spherical Footage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-recommended-set-17-apps-that-make-picture-fixing-easier/"><u>In 2024, Recommended Set 17 Apps That Make Picture Fixing Easier</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-the-ritual-of-independent-instagram-sound-creation-for-2024/"><u>Mastering the Ritual of Independent Instagram Sound Creation for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/samsung-ubd-k8500-review-2023-update-for-2024/"><u>Samsung UBD-K8500 Review - 2023 Update for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-v-purse-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor V Purse.</u></a></li>
+</ul></div>
 

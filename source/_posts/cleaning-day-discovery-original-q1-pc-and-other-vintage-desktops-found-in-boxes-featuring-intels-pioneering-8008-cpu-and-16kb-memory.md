@@ -1,7 +1,7 @@
 ---
 title: "Cleaning Day Discovery: Original Q1 PC and Other Vintage Desktops Found in Boxes, Featuring Intel's Pioneering 8008 CPU and 16KB Memory"
-date: 2024-10-06T00:58:59.624Z
-updated: 2024-10-08T03:16:18.280Z
+date: 2024-10-11T19:05:54.282Z
+updated: 2024-10-14T01:22:20.941Z
 tags:
   - desktop
 categories:
@@ -76,31 +76,25 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-ignite-interest-with-your-own-solo-podcast-series/"><u>[New] 2024 Approved Ignite Interest with Your Own Solo Podcast Series</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-formulating-impressive-online-media-introductions/"><u>[Updated] In 2024, Formulating Impressive Online Media Introductions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-master-photographers-techniques-for-onscreen-cutting/"><u>[Updated] Master Photographer's Techniques for Onscreen Cutting</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-premieres-export-woes-to-fix-srt-files/"><u>[Updated] Navigating Premiere's Export Woes to Fix SRT Files</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-preventing-discomfort-vives-motion-illness-tips/"><u>[Updated] Preventing Discomfort Vive's Motion Illness Tips</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-shattering-periscope-leading-video-alternatives-on-smartphones/"><u>[Updated] Shattering Periscope Leading Video Alternatives on Smartphones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-how-to-do-transitions-on-inshot-video-editor/"><u>2024 Approved How to Do Transitions on Inshot Video Editor?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-kinemasters-complete-guide-to-flawless-transitions/"><u>2024 Approved Kinemaster's Complete Guide to Flawless Transitions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/budget-masterclass-review-caixuns-stellar-performance-on-a-4k-75-inch-android-tv-set/"><u>Budget Masterclass Review: Caixun's Stellar Performance on a 4K, 75-Inch Android TV Set</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-startup-problems-successful-ways-to-get-starfield-running-on-pcxbox/"><u>Bypassing Startup Problems: Successful Ways to Get Starfield Running on PC/Xbox</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/craft-your-virtual-persona-with-our-metaverse-guide/"><u>Craft Your Virtual Persona with Our Metaverse Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/distinguishing-between-youtube-content-control-and-creative-commons-flexibility/"><u>Distinguishing Between YouTube Content Control and Creative Commons Flexibility</u></a></li>
-<li><a href="https://win-able.techidaily.com/elevate-your-play-experience-expert-strategies-to-tackle-pc-lag-in-the-sims-4-comprehensive-update-2024/"><u>Elevate Your Play Experience: Expert Strategies to Tackle PC Lag in The Sims 4 (Comprehensive Update 2024)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fast-connectivity-with-new-killer-e2500-drivers-secure-your-free-download-now/"><u>Fast Connectivity with New [Killer] E2500 Drivers - Secure Your Free Download Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-converter-convert-webm-videos-to-mp4-format-with-movavi/"><u>Free Online Converter: Convert WebM Videos to MP4 Format with Movavi</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-get-facetime-running-again-a-list-of-15-effective-fixes/"><u>How to Get FaceTime Running Again: A List of 15 Effective Fixes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-photobooth-lags-steadying-the-playback-journey/"><u>In 2024, Photobooth Lags Steadying the Playback Journey</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-components-for-next-gen-streaming/"><u>In 2024, Premium Components for Next-Gen Streaming</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-revel-in-the-wonders-of-asmrs-positive-effects/"><u>In 2024, Revel in the Wonders of ASMR's Positive Effects</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-multi-screen-browsing-effortlessly-in-google-chrome/"><u>[New] Navigating Multi-Screen Browsing Effortlessly in Google Chrome</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-preferred-craftsmen-exceptional-iphone-tones/"><u>[New] Preferred Craftsmen Exceptional iPhone Tones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-data-visualization-for-effective-communication/"><u>[Updated] Mastering the Art of Data Visualization for Effective Communication</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-nostalgia-unleashed-a-guide-to-fb-archives-for-2024/"><u>[Updated] Nostalgia Unleashed A Guide to FB Archives for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-seamless-snapshots-mobile-tripods-for-iphones-androids/"><u>[Updated] Seamless Snapshots Mobile Tripods for iPhones, Androids</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-success-secrets-maximizing-post-performance/"><u>2024 Approved Instagram Success Secrets Maximizing Post Performance</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-f23-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo F23 5G Fingerprint Lock</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-best-android-and-ios-wedding-timers-for-seamless-countdowns/"><u>In 2024, Exploring the Best Android & iOS Wedding Timers for Seamless Countdowns</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterclass-in-monochrome-magic-a-professionals-guide-for-2024/"><u>Masterclass in Monochrome Magic A Professional's Guide for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-through-telegram-web-easily-and-quickly-for-2024/"><u>Navigating Through Telegram Web Easily and Quickly for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-steps-to-download-the-latest-wacom-intuos-pro-driver-for-windows-10/"><u>Quick and Simple Steps to Download the Latest Wacom Intuos Pro Driver for Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-battle-of-streaming-devices-examining-the-differences-between-roku-express-and-stick/"><u>The Battle of Streaming Devices: Examining the Differences Between Roku Express and Stick</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-tips-and-techniques-for-captivating-youtube-video-intros-for-2024/"><u>Top Tips and Techniques for Captivating YouTube Video Intros for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

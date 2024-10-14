@@ -1,7 +1,7 @@
 ---
 title: "How to Overcome the Life Is Strange: True Colors Glitch - Solved!"
-date: 2024-10-05T19:02:40.475Z
-updated: 2024-10-08T10:05:30.987Z
+date: 2024-10-09T01:42:20.812Z
+updated: 2024-10-13T22:24:11.437Z
 tags:
   - win11
   - win10
@@ -30,10 +30,16 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 5. **[Check for damaged system files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Make sure your Windows 10 is up-to-date
@@ -45,6 +51,14 @@ Check for Windows update on your Windows 10:
 1. Type **update**  in your search box from Start. Then click **Check for updates**  from the result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e460326b771.png)
 2. Click **Check for updates** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e46083007b4.png)
 3. Install the available updates.
 4. Reboot your Windows and try to run your game on Steam to see if it works.
@@ -64,23 +78,9 @@ Check for Windows update on your Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)
 4. Reboot your Windows and try to run your game on Steam to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Verify your game cache files
 
@@ -93,18 +93,32 @@ Follow these to verify your game cache files:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e46fdf19866.jpg)
 3. Click **VERIFY INTEGRITY OF GAME FILES…**  in **LOCAL FILES** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e47001401be.png)
 4. It should then begin validating your Steam files and you will see this small window after several minutes:  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e4712ae8e78.png)
 5. Reboot your Windows and try to run your game on Steam to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Close unnecessary programs
 
@@ -122,13 +136,6 @@ Follow these to verify your game cache files:
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
@@ -154,20 +161,18 @@ Follow these to verify your game cache files:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-chip-synchrony-the-new-era-of-fluid-video-editing-experience-for-2024/"><u>[New] Chip Synchrony The New Era of Fluid Video Editing Experience for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-seamless-stories-from-the-past-accessing-older-fb-content-on-pcmobile/"><u>[New] In 2024, Seamless Stories From The Past Accessing Older FB Content on PC/Mobile</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ens-strategy-for-stellar-video-creations/"><u>[New] Lens Strategy for Stellar Video Creations</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-live-streaming-showdown-obs-vs-wirecast-faceoff/"><u>[New] Live Streaming Showdown OBS vs Wirecast Faceoff</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-directing-a-complete-review-and-tutorial-of-powerdirector-2024/"><u>[New] Mastering Directing A Complete Review & Tutorial of PowerDirector 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-optimizing-live-periscope-video-speed/"><u>[New] Optimizing Live Periscope Video Speed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-chroma-modifier/"><u>[New] Pinnacle Chroma Modifier</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-securely-attach-a-link-to-your-tiktok-profile/"><u>[New] Step-by-Step Securely Attach a Link to Your TikTok Profile</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-the-new-earnings-threshold-youtubes-500-rule/"><u>[New] The New Earnings Threshold YouTube's $500 Rule</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/outube-stardom-made-easy-essential-editing-strategies-explored-for-2024/"><u>[New] YouTube Stardom Made Easy Essential Editing Strategies Explored for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-prime-platforms-elevating-youtube-success/"><u>[Updated] Prime Platforms Elevating YouTube Success</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-rewiring-windows-photo-viewer-on-windows-10-two-methods-explored/"><u>[Updated] Rewiring Windows Photo Viewer on Windows 10 - Two Methods Explored</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/canons-rebel-t7-kit-a-sign-of-progress-in-photography/"><u>Canon's Rebel T7 Kit - A Sign of Progress in Photography</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-g22-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia G22 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unraveling-the-mystery-why-is-my-phones-wi-fi-connection-so-slow/"><u>Unraveling the Mystery: Why Is My Phone's Wi-Fi Connection So Slow?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-fixing-half-silenced-facebook-video-volume-for-2024/"><u>[New] Fixing Half-Silenced Facebook Video Volume for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimal-strategies-for-wellness-campaigns-online/"><u>[New] Optimal Strategies for Wellness Campaigns Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-secure-your-shots-in-the-cloud-unlimited-free-space-plus-charged-premium-solutions/"><u>[New] Secure Your Shots in the Cloud Unlimited Free Space + Charged Premium Solutions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unveiling-igtv-your-ultimate-tutorial/"><u>[New] Unveiling IGTV Your Ultimate Tutorial</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-audiences-choice-bandicam-or-camtasia-for-screen-capture/"><u>[Updated] In 2024, Audience's Choice? Bandicam or Camtasia for Screen Capture</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigate-office-tasks-with-voice-recognition-in-microsoft-word/"><u>[Updated] Navigate Office Tasks with Voice Recognition in Microsoft Word</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fix-and-improve-your-pcs-performance-with-the-latest-ralink-driver-updates-for-windows/"><u>Fix & Improve Your PC's Performance with the Latest Ralink Driver Updates for Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-speedy-visualizer-in-windows-for-2024/"><u>Leading Speedy Visualizer in Windows for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/peer-reviews-unpacking-vllo-experience-for-2024/"><u>Peer Reviews Unpacking VLLO Experience for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/privacy-preserving-photography-with-pixelated-faces-for-2024/"><u>Privacy-Preserving Photography with Pixelated Faces for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/reducing-decibels-smoothly-with-advanced-mixing-tools-for-2024/"><u>Reducing Decibels Smoothly with Advanced Mixing Tools for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-motorola-moto-e13-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Motorola Moto E13 Phone Hassle-Free</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-realme-narzo-60-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Realme Narzo 60 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
 

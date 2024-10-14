@@ -1,7 +1,7 @@
 ---
 title: "Expert Review of MMOCK's Powerhouse - A 10,000+ Amperes 18000mAh Car Resuscitator: The Market Leader"
-date: 2024-10-05T01:14:33.718Z
-updated: 2024-10-07T20:40:21.480Z
+date: 2024-10-13T03:10:20.129Z
+updated: 2024-10-13T19:33:01.204Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Review of MMOCK's Powerhouse - A 10,000+ Amperes 18000mAh Car Resuscitator: The Market Leader"
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/c00ebdb669edb0d10c9aaf3823af0f453bdf1555c
 
  Lifewire / Tony Mitera
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: A rugged unit, a generous accessory kit, and a sturdy case to keep it all in**
 
  As mentioned, the M MOOCK's case packs a lot of style, but it's not just flash—it also provides a convenient place to keep everything together. The jump starter unit itself is thin but long, so the case ends up being a relatively large square. You can stash it under a seat without any issue, but it won't fit in most glove boxes.
@@ -86,10 +79,16 @@ thumbnail: https://thmb.techidaily.com/c00ebdb669edb0d10c9aaf3823af0f453bdf1555c
  The accessory kit that comes with the unit is full-bodied. The main piece is the jump starter module which has the two jumper clamps coming off a plastic module that plugs into the unit. To charge the unit you can choose to use either a wall charger for home use or a power port charger for use within a running vehicle. Finally, a set of laptop port adapters and a short DC cable to use with them can be used to[charge your laptop](https://www.lifewire.com/overcharging-laptop-battery-causes-life-span-to-decrease-2378126) or similar device.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup Process: It takes time to find a spot just right to set up for a jump**
@@ -100,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/c00ebdb669edb0d10c9aaf3823af0f453bdf1555c
 
  To charge other devices there’s a lot less fuss involved. You simply need to plug the device into the USB or DC power port and turn the unit on. A Micro USB cable is provided, so if you have a device that uses a more modern charging port, you'll want to put an extra cable for it in the MOOCK case as well.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Performance: A nice jolt of power to start even the most drained of vehicles**
 
  Assuming you’ve carefully placed the M MOOCK in a spot where it can securely clamp onto the battery yet not fall out of the engine bay, you’ll find that the unit does a good job of jump starting a car. The test vehicle had a battery depleted down to 10V, and while the vehicle did momentarily struggle to start initially, it started just fine after double-checking the connections. It’s hard to say if that initial struggle was due to the unit’s relatively lower start and peak output currents, or if it truly just boiled down to a connectivity issue.
@@ -109,6 +115,13 @@ An inexpensive option considering what it can do.
  Plug a phone into the 5V/2A USB port and you’ll find that it delivers a charge rate of 1,200mAh, fast enough to rapidly top off even the thirstiest phones. For example, the Samsung Galaxy S10 would charge it from fully depleted to full in just over three hours. With the unit’s 18,000mAh capacity you could, in theory, do that repeatedly, but it's recommended to leave at least 50 percent of the unit’s battery for jump starts.
 
 Lifewire / Tony Mitera
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Key Features: A bright flashlight, but in a decidedly narrow band**
 
@@ -121,10 +134,16 @@ Lifewire / Tony Mitera
  Lifewire / Tony Mitera
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Competition: A good showing against close competition**
@@ -144,13 +163,6 @@ Lifewire / Tony Mitera
 A good choice with just a few nagging flaws.
 
  The M Moock 1000A Peak 18000mAh Car Jump Starter is a surprisingly solid choice in jump starters. It has few glaring flaws, and the ones that it does have (like the short cables) just make it marginally more difficult to use, as opposed to being true deal breakers. That said, there are other units available on the market that share some or all the same features but have fewer drawbacks. Overall, the unit's successful but flawed, yet very reliable when you need it most.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -182,21 +194,21 @@ A good choice with just a few nagging flaws.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-memetics-a-9gag-creators-manual/"><u>[New] Mastering the Art of Memetics A 9GAG Creator's Manual</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-professional-grade-8-filters-for-live-feeds-for-2024/"><u>[New] Professional-Grade 8 Filters for Live Feeds for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-secure-and-simple-photovideo-sharing-with-ios/"><u>[New] Secure and Simple Photo/Video Sharing with IOS</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-becoming-an-unboxing-star-strategies-for-viral-engaging-tiktok-videos/"><u>[Updated] 2024 Approved Becoming an Unboxing Star Strategies for Viral, Engaging TikTok Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-battleground-bliss-a-ranking-of-7-top-military-sims-for-2024/"><u>[Updated] Battleground Bliss A Ranking of 7 Top Military Sims for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-templates-for-dynamic-youtube-channel-closures/"><u>[Updated] In 2024, Free Templates for Dynamic YouTube Channel Closures</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-youtube-monetization-carryminati-ajey-nagar-youtube-income/"><u>[Updated] In 2024, YouTube Monetization CarryMinati (Ajey Nagar) YouTube Income</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-picshots-innovation-hassle-free-collages-made-simple/"><u>[Updated] Picshot's Innovation Hassle-Free Collages Made Simple</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-quick-and-easy-iphone-methods-to-download-podcasts-anywhere/"><u>[Updated] Quick and Easy iPhone Methods to Download Podcasts Anywhere</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-and-easy-nft-generation-a-beginners-playbook/"><u>2024 Approved Quick and Easy NFT Generation A Beginner's Playbook</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/exceptional-book-trailer-selections/"><u>Exceptional Book Trailer Selections</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/improving-loading-performance-of-facebook-alertsposts/"><u>Improving Loading Performance of Facebook Alerts/Posts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/max-360-vs-hero-11-the-decisive-battle-for-superior-gopro-action-footage-for-2024/"><u>Max 360 vs Hero 11 - The Decisive Battle for Superior GoPro Action Footage for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pioneering-usability-unearthed-strategies-for-amplified-windows-11-capabilities-for-2024/"><u>Pioneering Usability Unearthed Strategies for Amplified Windows 11 Capabilities for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-sony-xperia-1-v-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Sony Xperia 1 V Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-hilarity-in-hd-the-best-photo-editing-tools-online/"><u>[New] In 2024, Hilarity in HD The Best Photo Editing Tools Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-jump-start-your-journey-to-quality-video-edits-in-windows-10/"><u>[New] Jump-Start Your Journey to Quality Video Edits in Windows 10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-most-improved-10-elements-of-terraria-for-2024/"><u>[New] Most Improved 10 Elements of Terraria for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-proven-techniques-to-acquire-superior-hdr-cameras/"><u>[New] Proven Techniques to Acquire Superior HDR Cameras</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-select-top-6-slide-show-making-tools-on-latest-iphones/"><u>[New] Select Top 6 Slide Show Making Tools on Latest iPhones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-shield-your-snapshots-from-times-tide-explore-cost-effective-solutions/"><u>[New] Shield Your Snapshots From Time's Tide - Explore Cost-Effective Solutions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleash-your-ugc-making-memes-and-marks-on-fb-for-2024/"><u>[New] Unleash Your UGC Making Memes and Marks on FB for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prototypical-360-rotation-camera-study/"><u>2024 Approved Prototypical 360° Rotation Camera Study</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-how-on-device-ai-works-a-comprehensive-guide/"><u>Demystifying How On-Device AI Works: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-vlogger-to-earnest-by-year-end-following-sourav-joshis-examples-for-2024/"><u>From Vlogger to Earnest by Year End - Following Sourav Joshi's Examples for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-t2-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo T2 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-maze-of-tiktoks-bulk-video-transfer-for-2024/"><u>Navigating the Maze of TikTok's Bulk Video Transfer for 2024</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-honor-90-lite-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Honor 90 Lite</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-t2-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-up-your-income-game-with-these-13-unbeatable-reddit-tactics-for-2024/"><u>Step Up Your Income Game with These 13 Unbeatable Reddit Tactics for 2024</u></a></li>
 </ul></div>
 

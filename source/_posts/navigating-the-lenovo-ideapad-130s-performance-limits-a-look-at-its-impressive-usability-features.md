@@ -1,7 +1,7 @@
 ---
 title: Navigating the Lenovo IdeaPad 130S' Performance Limits - A Look at Its Impressive Usability Features
-date: 2024-10-06T10:11:24.022Z
-updated: 2024-10-08T08:29:30.070Z
+date: 2024-10-09T16:18:49.436Z
+updated: 2024-10-13T23:42:25.269Z
 categories:
   - BestProducts
 description: This Article Describes Navigating the Lenovo IdeaPad 130S' Performance Limits - A Look at Its Impressive Usability Features
@@ -41,6 +41,13 @@ Lifewire / Erika Rawes
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Garmin Vivosmart 4
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/ll2Uv9bgkmIddyfa-EOFiFCtsyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivosmart-4-Fitness-Tracker-1-0a7c6cef1af44b5c9acb1c657c292521.jpg)
@@ -68,10 +75,10 @@ Lifewire / Erika Rawes
  Fitness trackers have come a long way over the last few years, and you can find options in a variety of shapes, sizes, styles, and price ranges. The Garmin Vivosmart 4 is priced in about the mid-range, and it offers a few cool perks in addition to the standards like calorie counting and step counting. I tested the Garmin Vivosmart 4 for a month to see how it performs compared to other similarly priced fitness trackers on the market.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Design: You can’t remove the band**
@@ -83,10 +90,10 @@ Lifewire / Erika Rawes
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/JsDCEVwOi6EK7WLcs2WJ03jOZb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-3-ba9d18a527ae4b41a7242ffaccd1de30.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
@@ -117,13 +124,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Software: Garmin Connect App**
 
  The Vivosmart 4 doesn’t have any hard buttons, but rather a monotone touchscreen that you double-tap on the bottom portion to awaken. You scroll up and down to navigate through the various functions. I’m not in love with the interface, which isn’t particularly intuitive or feature-rich. Although companion apps are important to any good fitness tracker, the Vivosmart 4 relies too heavily on its app. It doesn’t have built-in GPS either, so it’s more tethered to your phone than some other fitness trackers on the market.
@@ -134,21 +134,7 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/XmHmMYvuaOGE3gAGIsa_vChmpas=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-4-22ab906932be467bb2e3309e30555ab4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Battery: May last a full seven days**
 
@@ -160,6 +146,13 @@ Lifewire / Erika Rawes
 
  The Vivosmart 4 retails for $130, which is slightly high for this unit. You can find a refurbished version on Amazon for around $80, which is a more reasonable price.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Garmin Vivosmart 4 vs. Fitbit Charge 3**
 
  I found the Garmin Vivosmart 4 much more comfortable than the Fitbit Charge 3\. I also like the body battery and stress monitoring features in the Vivosmart 4\. On the other hand, the[Fitbit Charge 3](https://www.lifewire.com/fitbit-charge-3-review-5072527) has a more accurate heart monitor (according to testing). The Fitbit Charge 3 (view on[Amazon](https://www.amazon.com/dp/B07FTN21JL/?tag=lifewire-onsite-prod-20&ascsubtag=5072535%7Cn5f18362fc97d487e830fd6d6cfaf2af211%7C) ) also offers a ton of workouts in its Fitbit app, and slightly more seamless activity tracking for weight training and high-intensity workouts. If you want a day-to-day fitness tracker to track your sleep, stress, and energy levels, the Vivosmart 4 is a great option. If you want a larger screen and easy tracking for activities like weight training and cycling, you may prefer the Fitbit Charge 3.
@@ -169,6 +162,13 @@ Lifewire / Erika Rawes
 **A comfortable band with unique perks.**
 
  The Garmin Vivosmart 4 is a great option for anyone who wants to track their sleep, stress, energy, and cardio, but there are better options out there for weight training.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -210,20 +210,18 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-educators-roadmap-to-effective-multimedia-use/"><u>[New] The Educator's Roadmap to Effective Multimedia Use</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-adding-divisions-to-vimeos-media-shows/"><u>[Updated] In 2024, Adding Divisions to Vimeo's Media Shows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-newbies-navigation-to-net-worth-on-periscope/"><u>[Updated] Newbie's Navigation to Net Worth on Periscope</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-5-windows-11-gaming-capture-techniques/"><u>[Updated] Top 5 Windows 11 Gaming Capture Techniques</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-ultimate-guide-to-exceptional-e-learning-sites-excluding-udemy-for-2024/"><u>[Updated] Ultimate Guide to Exceptional E-Learning Sites Excluding Udemy for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-proving-ground-8-outstanding-tablets-beyond-filmoras-borders/"><u>2024 Approved Proving Ground 8 Outstanding Tablets Beyond Filmora's Borders</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-realme-12-proplus-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Realme 12 Pro+ 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastery-in-motion-a-thorough-review-of-magix-vpxs-features/"><u>In 2024, Mastery in Motion A Thorough Review of Magix VPX's Features</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/mastering-gaming-nostalgia-discovering-the-most-acclaimed-gb-console-emulators-on-pc/"><u>Mastering Gaming Nostalgia Discovering The Most Acclaimed GB Console Emulators on PC</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-world-of-avis-to-gifs-with-help-from-filmora-for-2024/"><u>Navigating the World of AVIs to GIFs with Help From Filmora for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/preventing-motion-sickness-in-virtual-worlds-for-2024/"><u>Preventing Motion Sickness in Virtual Worlds for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-guide-brother-mfc-7360n-printer-drivers-for-windows-1187-download-and-update-process/"><u>Quick Guide: Brother MFC 7360N Printer Drivers for Windows 11/8/7 – Download & Update Process</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/quick-start-guide-to-engaging-with-ios-vr-content-for-2024/"><u>Quick Start Guide to Engaging with iOS VR Content for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhance-engagement-learn-to-dim-youtube-video-backgrounds/"><u>[New] In 2024, Enhance Engagement Learn to Dim YouTube Video Backgrounds</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-core-ideas-behind-online-story-crafting/"><u>[Updated] 2024 Approved Core Ideas Behind Online Story Crafting</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-ultimate-guide-for-effective-youtubers-game-sessions/"><u>[Updated] 2024 Approved The Ultimate Guide for Effective YouTubers' Game Sessions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revealing-the-rich-detail-of-your-roblox-journey/"><u>2024 Approved Revealing the Rich Detail of Your Roblox Journey</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-gameplay-decode-and-overcome-destiny-2-weasel-bug/"><u>Fix Your Gameplay: Decode and Overcome Destiny 2 Weasel Bug</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-innovators-in-virtual-reality-production/"><u>In 2024, Leading Innovators in Virtual Reality Production</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigate-the-art-of-film-with-xps-easy-tools/"><u>In 2024, Navigate the Art of Film with XP's Easy Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-precision-guide-for-webp-to-jpg-conversion/"><u>In 2024, Precision Guide for WebP to JPG Conversion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionized-action-recording-with-tomtoms-newest-bandit/"><u>In 2024, Revolutionized Action Recording with TomTom's Newest Bandit</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/instant-reddit-archives-retrieval-with-ease-for-2024/"><u>Instant Reddit Archives Retrieval with Ease for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/missing-alerts-on-your-ios-device-try-these-top-7-remedies-for-restored-notifications/"><u>Missing Alerts on Your iOS Device? Try These Top 7 Remedies for Restored Notifications</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-storytelling-screenplays-that-transcend-genres/"><u>Top Storytelling Screenplays that Transcend Genres</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-power-of-chatgpt-5-essential-command-techniques/"><u>Unlocking the Power of ChatGPT: 5 Essential Command Techniques</u></a></li>
 </ul></div>
 

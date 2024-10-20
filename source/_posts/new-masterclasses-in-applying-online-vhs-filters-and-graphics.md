@@ -1,7 +1,7 @@
 ---
 title: "[New] Masterclasses in Applying Online VHS Filters and Graphics"
-date: 2024-10-05T23:56:21.260Z
-updated: 2024-10-07T20:10:54.062Z
+date: 2024-10-12T16:22:35.392Z
+updated: 2024-10-20T02:15:09.936Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,13 @@ When it comes to video editing and other amazing effects, [Wondershare Filmora](
 
 ![wondershare filmora vhs](https://images.wondershare.com/filmora/article-images/2023/wondershare-filmora-vhs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Key Features**
 
 * It offers a comprehensive set of advanced color correction tools. This option includes color grading, curves, and matching. With this option, you can color professionally grade your video.
@@ -82,18 +89,18 @@ Apart from offline software and tools, there are many online solutions too to ap
 2. [CreatorKit](#2.2)
 3. [Fastreel](#2.3)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Veed.io
 
 [Veed.io](https://www.veed.io/tools/video-editor-effects/vhs-overlay) is a platform that offers many incredible solutions to the user. When it comes to video editing, this online tool provides some amazing editing features. This tool provides many effects and filters that you can apply and create an impressive video. You can even add subtitles, texts, and emoji to your videos. Additionally, you can even add photos to create an impressive video slideshow.
 
 ![veed.io vhs effects](https://images.wondershare.com/filmora/article-images/2023/veed-io-vhs-effects.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Key Features**
 
@@ -112,19 +119,6 @@ Apart from offline software and tools, there are many online solutions too to ap
 * This tool provides some basic features, including trimming and merging your video. You can trim multiple videos and merge them to create one long video.
 * Another unique feature of CreatorKit is that it makes your words live. This incredible tool can easily transform any written script into a professional-looking video.
 * CreatorKit provides many templates that you can use for content creation. Moreover, if you want to add your video's watermark, you can with this tool.
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Fastreel
 
@@ -162,6 +156,13 @@ Apply the **VHS photo filter** by finding the "Effects" option located in the to
 
 ![add vhs to video](https://images.wondershare.com/filmora/article-images/2023/add-vhs-to-video-on-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 3Change the Opacity of the Effect
 
 If you want to change the intensity of the applied effect, you can adjust its opacity. To do so, on the right side of the screen, you'll find the "Effects" tab. Further, modify the effect's "Opacity" by moving the slider. Finally, click "Export" at the top left of the screen to save your video with the applied effect.
@@ -183,22 +184,15 @@ When it comes to video editing and other amazing effects, [Wondershare Filmora](
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![wondershare filmora vhs](https://images.wondershare.com/filmora/article-images/2023/wondershare-filmora-vhs.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Key Features**
 
@@ -212,6 +206,13 @@ When it comes to video editing and other amazing effects, [Wondershare Filmora](
 
 ![adobe premiere pro vhs](https://images.wondershare.com/filmora/article-images/2023/adobe-premiere-pro-vhs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Key Features**
 
 * Adobe Premiere Pro allows you to precisely trim, cut, and arrange your video clips. You have full control over your edits with features like multi-cam editing and dynamic timeline.
@@ -223,13 +224,6 @@ When it comes to video editing and other amazing effects, [Wondershare Filmora](
 If you're an Apple user seeking a powerful video editing tool, you can't go better than [Final Cut Pro X](https://www.apple.com/final-cut-pro/trial/). It is designed specifically for macOS by offering some amazing editing options. Final Cut Pro X provides an effects library where you can choose from a vast range. Using this tool, you can download different **VHS photo filter** overlays to your Mac to apply them to your video.
 
 ![ fcpx vhs effects](https://images.wondershare.com/filmora/article-images/2023/fcpx-vhs-effects.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Key Features**
 
@@ -251,6 +245,19 @@ Apart from offline software and tools, there are many online solutions too to ap
 
 ![veed.io vhs effects](https://images.wondershare.com/filmora/article-images/2023/veed-io-vhs-effects.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Key Features**
 
 * This tool can convert your texts and transform your words into engaging videos. It uses the power of artificial intelligence to generate a video.
@@ -269,13 +276,6 @@ Apart from offline software and tools, there are many online solutions too to ap
 * Another unique feature of CreatorKit is that it makes your words live. This incredible tool can easily transform any written script into a professional-looking video.
 * CreatorKit provides many templates that you can use for content creation. Moreover, if you want to add your video's watermark, you can with this tool.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Fastreel
 
 [Fastreel](https://www.fastreel.com/video-filters.html) is a great video editor that lets you avoid the trouble of installation. This tool provides you with essential editing options, including adjustments and enhancements. You can edit your video and add text and music to it using this tool. Additionally, this tool allows you to add your favorite filter to your video, like a **glitch photo filter**.
@@ -289,10 +289,16 @@ Apart from offline software and tools, there are many online solutions too to ap
 * In addition, Fastreel allows you to play with its incredible features. You can add a bespoke watermark with this tool. Moreover, you can even compress your video using this online tool.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Wondershare Filmora: The Perfect Alternative For Professional and Quick Results
@@ -306,10 +312,10 @@ If you're looking for an alternative tool to add a **VHS filter photo effect**, 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -360,22 +366,24 @@ Content creation has opened many doors of creativity and artistic expression for
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-charting-a-course-essential-equipment-for-youtube-enthusiasts/"><u>[Updated] Charting a Course Essential Equipment for YouTube Enthusiasts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-reigning-over-micro-drones-the-dji-spark-breakdown-for-selfies/"><u>[Updated] Reigning Over Micro Drones The DJI Spark Breakdown for Selfies</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-melody-on-calls-the-complete-guide-to-downloading-and-editing-tamil-tracks/"><u>2024 Approved Melody on Calls The Complete Guide to Downloading & Editing Tamil Tracks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-rhythmic-revelations-songs-that-will-echo-yes/"><u>2024 Approved Rhythmic Revelations Songs That Will Echo 'Yes'</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-samsung-galaxy-s8-setting-new-standards-for-4k-video/"><u>2024 Approved Samsung Galaxy S8 Setting New Standards for 4K Video</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/1725285224482-windows-11/"><u>適用於 Windows 11 手機影片的最高視訊編碼：選擇正確格式</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-rog-zephyrus-g16-analysis-a-rollercoaster-of-performance-for-gamers/"><u>Asus ROG Zephyrus G16 Analysis: A Rollercoaster of Performance for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/ergonomic-victory-ideal-seating-solutions-for-tall-gamers/"><u>Ergonomic Victory: Ideal Seating Solutions for Tall Gamers</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-insta-wow-moments-7-must-follow-strategies-for-striking-reels/"><u>In 2024, Insta-Wow Moments 7 Must-Follow Strategies for Striking Reels</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-master-the-art-of-technological-advancement-with-this-guide/"><u>In 2024, Master the Art of Technological Advancement with This Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-windows-10s-audio-settings/"><u>In 2024, Navigating Windows 10'S Audio Settings</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-sketchsquad-full-scrutiny-and-step-by-step-guidebook-24/"><u>In 2024, SketchSquad Full Scrutiny & Step-by-Step Guidebook '24</u></a></li>
-<li><a href="https://video-capture.techidaily.com/itunes-recording-hacks-for-enhanced-videos-for-2024/"><u>ITunes Recording Hacks for Enhanced Videos for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-obs-and-streamlabs-mac-integration-for-2024/"><u>Mastering OBS & Streamlabs Mac Integration for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-honor-x9b-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Honor X9b Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-7-plus-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 7 Plus Location | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-updating-the-broadcom-gigabit-ethernet-driver-for-windows-10-users/"><u>Troubleshooting and Updating the Broadcom Gigabit Ethernet Driver for Windows 10 Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-secure-your-screen-captures-online/"><u>[New] 2024 Approved Secure Your Screen Captures Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-listenleaders-vision-beyond-dacast/"><u>[New] ListenLeaders Vision Beyond DaCast</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mirthful-melodies-where-to-find-hilarious-tunes/"><u>[New] Mirthful Melodies Where to Find Hilarious Tunes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-net-laugh-builder/"><u>[New] Net Laugh Builder</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-seize-the-moment-download-outro-samples-freepaid-for-2024/"><u>[New] Seize the Moment Download Outro Samples (Free/Paid) for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-reloading-the-dead-ranking-eminent-zombie-games/"><u>[Updated] 2024 Approved Reloading the Dead Ranking Eminent Zombie Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-musical-motifs-and-movie-magic-with-imovie/"><u>[Updated] Musical Motifs and Movie Magic with iMovie</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-quirky-creations-your-guide-to-no-cost-memes/"><u>[Updated] Quirky Creations – Your Guide to No-Cost Memes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sleek-and-shiny-the-route-to-pristine-tiktok-content/"><u>[Updated] Sleek and Shiny The Route to Pristine TikTok Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-rainbow-skills-for-cinematic-tinting/"><u>2024 Approved Navigating the Rainbow Skills for Cinematic Tinting</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-refining-screen-enlargement-for-clear-views/"><u>2024 Approved Refining Screen Enlargement for Clear Views</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oppo-reno-11-pro-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Oppo Reno 11 Pro 5G FRP</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-huawei-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Huawei</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/light-up-dull-iphone-videos-in-seconds-for-2024/"><u>Light Up Dull Iphone Videos in Seconds for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/macos-vs-windows-unraveling-common-errors-among-windows-aficionados-a-zdnet-analysis/"><u>MacOS Vs. Windows: Unraveling Common Errors Among Windows Aficionados – A ZDNet Analysis</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterful-dissection-the-complete-guide-to-bublcams-vision-for-2024/"><u>Masterful Dissection The Complete Guide to Bublcam's Vision for 2024</u></a></li>
+<li><a href="https://solve-info.techidaily.com/mastering-format-transformation-seamless-techniques-for-switching-videoaudio-files/"><u>Mastering Format Transformation: Seamless Techniques for Switching Video/Audio Files</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-guide-how-to-seamlessly-backup-phone-numbers-and-emails-from-your-androidiphone-device/"><u>Simple Guide: How to Seamlessly Backup Phone Numbers and Emails From Your Android/iPhone Device</u></a></li>
 </ul></div>
 

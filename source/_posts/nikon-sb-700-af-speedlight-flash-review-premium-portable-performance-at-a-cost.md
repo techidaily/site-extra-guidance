@@ -1,7 +1,7 @@
 ---
 title: "Nikon SB-700 AF Speedlight Flash Review: Premium Portable Performance, at a Cost"
-date: 2024-10-08T00:03:10.336Z
-updated: 2024-10-14T01:15:31.460Z
+date: 2024-10-18T02:17:43.506Z
+updated: 2024-10-19T22:12:30.419Z
 categories:
   - BestProducts
 description: "This Article Describes Nikon SB-700 AF Speedlight Flash Review: Premium Portable Performance, at a Cost"
@@ -44,10 +44,10 @@ Lifewire / Jonno Hill
 ![LG Gram 17](https://www.lifewire.com/thmb/Brkak7eYiULoHYDHouNlQuk3toQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_LG-Gram-17-Inch-Thin-Laptop-1-26891b187a0c4260bbbe391a08f0e413.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
@@ -81,13 +81,6 @@ Lifewire / Jonno Hill
 
 ![LG Gram 17](https://www.lifewire.com/thmb/bPwgN393oESXdTRdBMHH9_o-50k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-4-65036fddfdad4e9c904b1e4388426085.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
 
 ## **Design** :**A thoughtful approach to larger laptops**
@@ -104,20 +97,13 @@ Lifewire / Jonno Hill
 
 ![LG Gram 17](https://www.lifewire.com/thmb/NZFtzU5S2IX_YcC_7X7i2oB0j1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-2-d528eacd17e849099026bd1df6142200.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup** **Process** :**No help needed**
@@ -129,19 +115,6 @@ Lifewire / Jonno Hill
 ![LG Gram 17](https://www.lifewire.com/thmb/mt69Vhar3JM30uFdBWA58_wPdYg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-5-f2352e95cadc4e2b99d738b0238fb7bf.jpg)
 
  Lifewire / Jonno Hill
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Display** :**A joy to use**
 
@@ -156,10 +129,16 @@ Lifewire / Jonno Hill
  The IPS display also performs admirably by most other metrics that buyers will care about, such as a maximum brightness high enough to be usable outdoors. Additionally, the display looks great from off-angles, losing very little brightness when viewed from the sides, and showing no signs of color shift.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Performance** :**Ready to work (but not to game)**
@@ -172,16 +151,16 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Productivity** :**The Gram’s sweet spot**
 
  Having 16GB of Memory and a 512GB SSD makes the Gram a great choice for productivity purposes. We had no problem working with many browser windows open at the same time and switching back and forth between different applications. Shoppers looking to find a laptop with ample screen real estate and the specs necessary to deliver good performance now and into the future will be pleased with what the LG Gram 17 offers.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Audio** :**Sorry, what was that?**
 
@@ -193,13 +172,34 @@ Lifewire / Jonno Hill
 
  Wi-Fi on the LG Gram 17 gave us no trouble, offering a strong signal and speeds in any of the public and private environments we tested in. LG uses the Intel Wireless AC 9560 Wi-Fi adapter, the fastest of such chips currently on offer from Intel. This Wi-Fi adapter has a theoretical max speed of 1.73Gbps and offers a 2x2 antenna configuration, though you’re unlikely to ever hit such a high download speed.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Camera** :**Bare minimum**
 
  The 720p webcam on the LG Gram 17 is nothing to write home about, and probably won’t be the platform you use for taking your next headshot or dating profile picture. The camera has a tendency to blow out the background in an attempt to keep the subject in focus, and there is a plainly visible amount of noise in the image even in generous daylight conditions. Nonetheless, it will serve fine for teleconferencing purposes.
 
 ![LG Gram 17](https://www.lifewire.com/thmb/Q5UD3HDcQsoXbP-_uvKqYsR9J6w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-3-de338d995c0544ee8052e30def24ad5f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Battery** :**Beyond plentiful**
 
@@ -271,24 +271,16 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-affordable-video-grabbing-tools-tested-on-pcs/"><u>[New] Affordable Video Grabbing Tools Tested on PCs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-integrating-podcast-into-your-instagram-content-strategy/"><u>[New] Integrating Podcast Into Your Instagram Content Strategy</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-spotlight-on-distinguished-videographer-reputations/"><u>[New] Spotlight on Distinguished Videographer Reputations</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-enhancing-photos-with-cropping-tools/"><u>[New] Step-by-Step Enhancing Photos with Cropping Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sprint-showcase-short-track-22-glory/"><u>[Updated] Sprint Showcase Short Track '22 Glory</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-steps-to-form-a-fruitful-product-sponsor-linkup-on-youtube/"><u>[Updated] Steps to Form a Fruitful Product-Sponsor Linkup on Youtube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-age-information-in-tiktok-profiles/"><u>2024 Approved Optimizing Age Information in TikTok Profiles</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-humor-photoshop-studio/"><u>2024 Approved Premier Humor Photoshop Studio</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-video-content-delivery-a-curated-list-of-players/"><u>2024 Approved Streamline Video Content Delivery A Curated List of Players</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-8-authentic-youtube-boosting-platforms/"><u>2024 Approved Top 8 Authentic YouTube Boosting Platforms</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unleashing-full-screen-potential-of-your-facebook-videos/"><u>2024 Approved Unleashing Full-Screen Potential of Your Facebook Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-chatgpts-latest-feature-an-app-tailored-for-iphone-and-ipad-users/"><u>Discover ChatGPT's Latest Feature: An App Tailored for iPhone and iPad Users</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-y100i-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo Y100i Phones? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-3-camera-insight-mastering-video-on-the-go-with-ion/"><u>In 2024, Pro 3 Camera Insight Mastering Video on the Go with ION</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-shadows-and-subtleties-iphone-nocturnal-guides/"><u>In 2024, Shadows & Subtleties IPhone Nocturnal Guides</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/quick-guide-embedding-dates-into-photographs-for-2024/"><u>Quick Guide Embedding Dates Into Photographs for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/superior-satire-and-smile-mixer-for-2024/"><u>Superior Satire & Smile Mixer for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-heavy-duty-uavs-for-maximum-carry-capacity/"><u>[New] Leading Heavy-Duty UAVs for Maximum Carry Capacity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximize-your-digital-life-30-budget-friendly-cloud-solutions-1tbplus/"><u>[New] Maximize Your Digital Life 30 Budget-Friendly Cloud Solutions (1TB+)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unveiling-the-pathway-to-monetizing-your-instagram-content-for-2024/"><u>[New] Unveiling the Pathway to Monetizing Your Instagram Content for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-precise-obs-settings-for-inexpensive-hardware/"><u>[Updated] In 2024, Precise OBS Settings for Inexpensive Hardware</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastery-of-screen-recording-top-6-on-mac-systems/"><u>[Updated] Mastery of Screen Recording Top 6 on Mac Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-y78-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo Y78 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/journey-through-ipodverse-mastering-iphones-podcast-downloads-for-2024/"><u>Journey Through iPodverse Mastering iPhone's Podcast Downloads for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-your-gameplay-fixing-latency-problems-in-chivalry-ii-latest-techniques/"><u>Master Your Gameplay: Fixing Latency Problems in Chivalry II (Latest Techniques)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimal-power-solutions-for-gopro-hero5-official-and-third-party-brands-for-2024/"><u>Optimal Power Solutions for GoPro Hero5 Official & Third-Party Brands for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/power-packed-film-titles-for-inner-growth-and-strength-for-2024/"><u>Power-Packed Film Titles for Inner Growth & Strength for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/score-selection-service-enhancing-media-pieces-for-2024/"><u>Score Selection Service Enhancing Media Pieces for 2024</u></a></li>
 </ul></div>
 

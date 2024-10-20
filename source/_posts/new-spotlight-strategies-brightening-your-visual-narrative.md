@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Spotlight Strategies  Brightening Your Visual Narrative\""
-date: 2024-07-31T19:20:28.137Z
-updated: 2024-08-01T19:20:28.137Z
+date: 2024-10-16T18:59:53.248Z
+updated: 2024-10-19T16:51:19.384Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ Many people are wondering how to set up lighting for video shooting. While there
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -49,27 +46,18 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -82,16 +70,10 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 After setting up all the lighting above, you can take a look at the comparison below:
@@ -109,6 +91,13 @@ After setting up all the lighting above, you can take a look at the comparison b
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -142,7 +131,21 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-high-definition-hardware-unveiled-by-gamers/"><u>[New] 2024 Approved High-Definition Hardware Unveiled by Gamers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-essentials-for-transforming-your-google-meet-into-youtube-live/"><u>[New] In 2024, The Essentials for Transforming Your Google Meet Into Youtube Live</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-spinning-stories-across-a-whole-cone/"><u>[New] Spinning Stories Across a Whole Cone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-intellectual-property-rules-for-instagram-beats/"><u>[Updated] 2024 Approved Intellectual Property Rules for Instagram Beats</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smart-strategies-to-modify-user-numbers-on-tiktok/"><u>[Updated] Smart Strategies to Modify User Numbers on TikTok</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-integrated-camera-use-photos-and-videos-on-one-phone/"><u>2024 Approved Integrated Camera Use Photos and Videos on One Phone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-absence-of-d3dx926dll-tips-and-techniques/"><u>Fixing the Absence of d3dx9_26.dll: Tips and Techniques</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-14-plus-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 14 Plus iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-steps-to-capture-ios-audio-files/"><u>In 2024, Quick Steps to Capture iOS Audio Files</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-ranked-5-ios-podcast-applications-you-must-download/"><u>In 2024, Ranked 5 iOS Podcast Applications You Must Download</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-ditch-pinnacle-studio-here-are-the-best-mac-video-editing-alternatives/"><u>New 2024 Approved Ditch Pinnacle Studio? Here Are the Best Mac Video Editing Alternatives</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/smart-tech-unveiled-moto-z2-deep-dive-for-2024/"><u>Smart Tech Unveiled Moto Z2 Deep Dive for 2024</u></a></li>
+</ul></div>
 

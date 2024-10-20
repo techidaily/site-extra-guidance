@@ -1,7 +1,7 @@
 ---
 title: Eliminating Lag and Stutter During Playthroughs of Age of Empires IV
-date: 2024-10-09T18:47:19.413Z
-updated: 2024-10-13T22:16:18.238Z
+date: 2024-10-12T19:32:21.999Z
+updated: 2024-10-19T21:59:13.238Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Splitgate-how-to-boost-FPS-and-fix-stuttering-1200x675.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Close unnecessary programs
 
  Programs like browsers, game launchers, anti-virus software are CPU intensive. So if you have them running in the background when playing Splitgate, you’re most likely to suffer from game stutters. To fix that, you should end programs that you don’t need to be running when in-game. But be cautious that you should not end processes that are essential for running Windows, otherwise your computer may fail to work properly.
@@ -48,10 +41,10 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 3. Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Splitgate and select **End task** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
@@ -65,10 +58,10 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
  After you’ve done these, play Splitgate. If your problems persist, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Delete temp files
@@ -83,30 +76,24 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 4. Press**Ctrl + A** at the same time to select all the files inside the folder. Then right-click and select**Delete** .  
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 5. If the following prompt appears, simply check**Do this for all current items** and click**Skip** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 6. After the files are deleted, go to your desktop and right-click on the **Recycling Bin**  and select **Empty Recycle Bin** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)  
 
@@ -134,22 +121,15 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and then test the gameplay. If you’re still getting low FPS and stutters, don’t worry. Below are some other fixes you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Enable hardware-accelerated GPU scheduling
@@ -167,6 +147,19 @@ Here’s how to update drivers with Driver Easy:
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/change-default-graphics-settings.jpg)
 4. Turn on**Hardware-accelerated GPU scheduling** .  
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
@@ -186,6 +179,13 @@ Here’s how to update drivers with Driver Easy:
 **VSYNC:** turn it off  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/fullscreen-and-disable-vsync.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then apply the changes and test your gameplay.
 
@@ -208,24 +208,24 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-curriculum-capturers-selection-defining-the-most-effective-recorders/"><u>[New] 2024 Approved Curriculum Capturer's Selection Defining the Most Effective Recorders</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-from-capture-to-share-precision-cropping-and-export-tips-for-instagram/"><u>[New] From Capture to Share Precision Cropping & Export Tips for Instagram</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dive-into-digital-fandom-top-6-interactive-questionnaires-to-identify-your-youtube-spirituality/"><u>[New] In 2024, Dive Into Digital Fandom Top 6 Interactive Questionnaires to Identify Your YouTube Spirituality</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-seamless-transition-into-the-world-of-zoom-meetings-for-your-android-device/"><u>[New] Seamless Transition Into the World of Zoom Meetings for Your Android Device</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-instagram-snapshot-of-an-enlightening-episode/"><u>[Updated] Instagram Snapshot of an Enlightening Episode</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-key-techniques-for-a-thorough-review-of-youtube-stats/"><u>[Updated] Key Techniques for a Thorough Review of YouTube Stats</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-a-world-of-videos-made-easy-with-vidas-aid/"><u>[Updated] Navigating a World of Videos Made Easy with Vida's Aid</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-reviving-your-windows-photo-viewer-approaches-for-w10-enthusiasts/"><u>[Updated] Reviving Your Windows Photo Viewer Approaches for W10 Enthusiasts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sculpting-subtleties-with-title-texts/"><u>[Updated] Sculpting Subtleties with Title Texts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-blend-into-the-crowd-watching-instagram-live-anonymously/"><u>2024 Approved How to Blend Into the Crowd Watching Instagram Live Anonymously</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-srt-breakdown-core-concepts-and-applications/"><u>2024 Approved SRT Breakdown Core Concepts and Applications</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/from-streaming-to-shiny-discs-embracing-the-resurgence-of-compact-disc-listening/"><u>From Streaming to Shiny Discs: Embracing the Resurgence of Compact Disc Listening</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-language-liberation-discover-the-top-25-apps-for-flawless-video-conversion/"><u>In 2024, Language Liberation Discover the Top 25 Apps for Flawless Video Conversion</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-limitless-time-tracker-apps/"><u>In 2024, Leading Limitless Time Tracker Apps</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-masterclass-refining-youtube-videos-through-imovie/"><u>In 2024, Masterclass Refining YouTube Videos Through iMovie</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-migration-from-older-windows-to-11/"><u>In 2024, Mastering the Migration From Older Windows to 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-screening-gems/"><u>In 2024, Premier Screening Gems</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-13-mini-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 13 mini Properly</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/macs-prime-screen-seize-collection-max-156/"><u>Mac's Prime Screen Seize Collection (Max 156)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-inauguration-setting-up-a-twitter-profile/"><u>[New] 2024 Approved Inauguration Setting Up a Twitter Profile</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-navigating-content-savings-top-5-techniques-to-download-igtv-videos/"><u>[New] In 2024, Navigating Content Savings Top 5 Techniques to Download IGTV Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unleashing-your-creative-potential-in-making-fb-reels/"><u>[New] In 2024, Unleashing Your Creative Potential in Making FB Reels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-picart-tips-effortless-face-blurring-trick/"><u>[New] PicArt Tips Effortless Face Blurring Trick</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/urbocharge-your-youtube-videos-swift-render-and-transfer-strategies/"><u>[New] Turbocharge Your YouTube Videos Swift Render & Transfer Strategies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-clubbing-essentials-top-rated-dj-template-vids/"><u>[Updated] 2024 Approved Clubbing Essentials Top-Rated DJ Template Vids</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-proactive-preservation-ios-photos-to-your-snap-story/"><u>[Updated] 2024 Approved Proactive Preservation IOS Photos to Your Snap Story</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-innovative-windows-media-cutting-tools/"><u>[Updated] Innovative Windows Media Cutting Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-easy-nft-creation-a-novices-manual/"><u>[Updated] Mastering Easy NFT Creation A Novice's Manual</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pinnacle-avi-player-mobile-and-desktop-excellence/"><u>[Updated] Pinnacle Avi Player Mobile & Desktop Excellence</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-quelling-unsteady-motion-effects/"><u>[Updated] Quelling Unsteady Motion Effects</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-rank-the-best-gopro-cases-with-our-guide/"><u>2024 Approved Rank the Best GoPro Cases with Our Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionize-your-recording-experience-top-18-cam-tools-showcase/"><u>2024 Approved Revolutionize Your Recording Experience - Top 18 Cam Tools Showcase</u></a></li>
+<li><a href="https://article-tips.techidaily.com/fixing-disconnected-headphone-unit-for-2024/"><u>Fixing Disconnected Headphone Unit for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-finding-cost-effective-graphics-for-2024/"><u>Mastering the Art of Finding Cost-Effective Graphics for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/novices-pathway-top-essential-gopro-supplementary-gear-for-2024/"><u>Novice's Pathway Top Essential GoPro Supplementary Gear for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-minecraft-performance-woes-ultimate-guide-to-eliminating-lag/"><u>Resolve Your Minecraft Performance Woes: Ultimate Guide to Eliminating Lag</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/bing-upstarts-the-ideal-gadgets-list-for-2024/"><u>YouTubing Upstarts The Ideal Gadgets List for 2024</u></a></li>
 </ul></div>
 

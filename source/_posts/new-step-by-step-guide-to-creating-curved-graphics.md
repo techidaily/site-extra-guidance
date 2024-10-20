@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide to Creating Curved Graphics\""
-date: 2024-07-31T19:19:43.496Z
-updated: 2024-08-01T19:19:43.496Z
+date: 2024-10-13T21:18:29.252Z
+updated: 2024-10-19T18:51:32.482Z
 tags: 
   - screen-recording
   - ai video
@@ -32,9 +32,6 @@ To keep things simple, let's start with a white canvas. Let's open a new documen
 
 After creating the new document, open the image that you want to curve. You may do so by going to File > Open in the menu bar or pressing Ctrl+O or Command+O on your keyboard. Once the image is open, go to Edit in the menu bar and select Place Embedded from the drop-down menu that appears. Select your image and click Place. The image will be placed on the canvas. If the document's size does not match that of the image, you will see a transformation box surrounding the image.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
 ##### Step3Warp the Image
@@ -47,20 +44,10 @@ With the Warp Tool selected, hover your cursor over the image. You'll see a grid
 
 Play around with the settings in the options bar. There are quite a few different looks you can achieve just by adjusting these.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
 **Vertical Distortion** makes the image look as if it's leaning backward.
@@ -69,26 +56,24 @@ No advertising on the website.
 
 The **Bend Direction** option rotates the angle of the bend.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
 
 ##### Step4Save the Image
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -122,5 +107,20 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-comprehensive-techniques-for-iphones-in-virtual-space-for-2024/"><u>[New] Comprehensive Techniques for iPhones in Virtual Space for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-slow-motion-photography-in-phantom-cameras-for-2024/"><u>[New] Mastering Slow-Motion Photography in Phantom Cameras for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimal-drone-options-for-gopro-hd-imaging/"><u>[New] Optimal Drone Options for GoPro HD Imaging</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-water-filters-for-underwater-video/"><u>[New] Premium Water Filters For Underwater Video</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-leap-into-the-tiktok-live-crowd-a-quick-guide/"><u>[Updated] 2024 Approved Leap Into the TikTok Live Crowd A Quick Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-streaming-programs-for-live-content/"><u>[Updated] Leading Streaming Programs for Live Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-nurturing-discussions-strategies-to-connect-with-followers/"><u>[Updated] Nurturing Discussions Strategies to Connect With Followers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-preventing-sickness-while-engaging-with-vr/"><u>[Updated] Preventing Sickness While Engaging with VR</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-incorporating-melodies-into-youtube-repertoire/"><u>2024 Approved Incorporating Melodies Into Youtube Repertoire</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-insider-look-at-microsofts-revolutionary-copilot-tool/"><u>An Insider Look at Microsoft's Revolutionary Copilot Tool</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-xs-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone XS Max Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-c32-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia C32</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/leveraging-libraries-improving-efficiency-in-your-javascript-projects-for-2024/"><u>Leveraging Libraries Improving Efficiency in Your JavaScript Projects for 2024</u></a></li>
+</ul></div>
 

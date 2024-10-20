@@ -1,7 +1,7 @@
 ---
 title: Mastering World of Warcraft Graphics Settings - Expert Tips to Elevate Your FPS
-date: 2024-10-08T21:07:05.167Z
-updated: 2024-10-13T22:26:55.381Z
+date: 2024-10-16T01:05:27.153Z
+updated: 2024-10-19T23:18:44.098Z
 tags:
   - win11
   - win10
@@ -46,16 +46,23 @@ To keep your graphics driver up-to-date, here are two options for you:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the driver update, relaunch the game to see how it works. If the problem persists, there are more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Optimize graphics settings
@@ -67,10 +74,10 @@ To keep your graphics driver up-to-date, here are two options for you:
 2. Click**Desktop app** from the drop-down list and click**Browse** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dedicated-gpu-3.jpg)
@@ -80,13 +87,6 @@ To keep your graphics driver up-to-date, here are two options for you:
 5. Select**High performance** and click**Save** .
 
 If this method doesn’t work, try the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Verify integrity of game files
 
@@ -98,6 +98,19 @@ If this method doesn’t work, try the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
@@ -112,38 +125,25 @@ If this method doesn’t work, try the next solution.
 2. From the game list, right-click Elden Ring and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Restart the game and test. Still no luck? Continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Disable Microsoft Device Association Root Enumerator
 
@@ -159,27 +159,7 @@ Restart the game and test. Still no luck? Continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
 4. Click**Yes** to confirm.  
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
 
@@ -191,10 +171,36 @@ Restart the game and test. Still no luck? Continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-1.jpg)
 2. Click **3D settings** \> **Manage 3D settings** in the left pane.  
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 3. Under the**Global Settings** tab, scroll through the list to find**Shader Cache Size** and set it to**Unlimited** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Apply the changes and see if you’re able to play the game as expected.
 
@@ -220,21 +226,22 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-inside-look-how-dell-p2715q-delivers-on-4k-quality/"><u>[New] Inside Look How Dell P2715Q Delivers on 4K Quality</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-speaking-stories-writing-lyrical-film-scripts/"><u>[New] Speaking Stories Writing Lyrical Film Scripts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-science-behind-auto-hdr-and-cameras-ai-powered-shooting-modes/"><u>[Updated] In 2024, The Science Behind Auto HDR and Camera's AI-Powered Shooting Modes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-science-of-social-media-optimizing-post-performance-on-instagram/"><u>[Updated] In 2024, The Science of Social Media Optimizing Post Performance on Instagram</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-insights-on-the-recent-upgrades-of-sonys-s6500-player/"><u>[Updated] Insights on the Recent Upgrades of Sony’s S6500 Player</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-editing-movie-maker-on-w11-in-detail/"><u>[Updated] Mastering the Art of Editing Movie Maker on W11 in Detail</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-nikon-j5-and-its-breakthrough-in-4k-video-technology/"><u>[Updated] Nikon J5 and Its Breakthrough in 4K Video Technology</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-script-extraordinary-showcase/"><u>[Updated] Script Extraordinary Showcase</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-powering-up-your-action-footage-one-gadget-at-a-time/"><u>2024 Approved Powering Up Your Action Footage, One Gadget at a Time</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/capture-natures-wonders-innovative-smart-feeder-photographs-hummingbirds-up-close-insights-from-zdnet/"><u>Capture Nature's Wonders: Innovative Smart Feeder Photographs Hummingbirds Up Close - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722896783939-electric-vehicle-efficiency-during-extreme-climates-a-comprehensive-analysis/"><u>Electric Vehicle Efficiency During Extreme Climates: A Comprehensive Analysis</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/highest-watched-online-clips-list-for-2024/"><u>Highest-Watched Online Clips List for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-asus-rog-phone-7-ultimate-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Asus ROG Phone 7 Ultimate Phone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-cognitive-conclave-selective-general-knowledge-channels/"><u>In 2024, Cognitive Conclave Selective General Knowledge Channels</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/innovative-ideas-in-immersive-realms-30plus-quotes-to-motivate-you-for-2024/"><u>Innovative Ideas in Immersive Realms 30+ Quotes to Motivate You for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/seamless-setup-swift-sharing-the-essential-guide-to-ifunny-apps/"><u>Seamless Setup, Swift Sharing The Essential Guide to iFunny Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitters-hilarious-highlights/"><u>[New] In 2024, Twitter's Hilarious Highlights</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-add-ons-to-improve-sea-camera-shots/"><u>[New] Leading Add-Ons to Improve Sea Camera Shots</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-quick-guide-best-free-instagram-to-mp4-tools-windowsmac-for-2024/"><u>[New] Quick Guide Best Free Instagram-to-MP4 Tools (Windows/Mac) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-youtube-hacked-mastery-over-skipping-video-startup-techniques/"><u>[New] YouTube Hacked Mastery Over Skipping Video Startup Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-a-list-of-the-best-marriage-videos-celebrations-captured-online-8/"><u>[Updated] 2024 Approved A List of the Best Marriage Videos - Celebrations Captured Online (8)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-5-best-finger-tech-for-virtual-reality-mastery/"><u>[Updated] 5 Best Finger Tech for Virtual Reality Mastery</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-media-non-xsplit-options-revealed/"><u>[Updated] Mastering Media Non-Xsplit Options Revealed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-scrutinizing-googles-ar-embellishments-and-others/"><u>[Updated] Scrutinizing Google's AR Embellishments & Others</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mixing-masterclass-for-dji-miniair-2-owners-no-cost-here/"><u>2024 Approved Mixing Masterclass for DJI Mini/Air 2 Owners - No Cost Here</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-techniques-shifting-bulk-video-data-from-iphone-to-mac/"><u>2024 Approved Precision Techniques Shifting Bulk Video Data From iPhone to Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-reddits-golden-threads-a-commendable-collection-top-10/"><u>2024 Approved Reddit's Golden Threads A Commendable Collection (Top 10)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-nokia-c12-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-sd-card-selections-for-optimal-gopro-hero-78-performance/"><u>In 2024, Prime SD Card Selections for Optimal GoPro Hero 7/8 Performance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spearheading-groundbre-folks-in-vr-space-for-2024/"><u>Spearheading Groundbre Folks In VR Space for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-higher-youtube-viewership-for-2024/"><u>The Ultimate Guide to Higher YouTube Viewership for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ultimate-guide-to-online-education-access-the-best-sites-with-comprehensive-video-tutorials/"><u>Ultimate Guide to Online Education: Access the Best Sites with Comprehensive Video Tutorials</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-pros-and-cons-making-an-informed-decision-on-using-a-local-llm/"><u>Understanding The Pro's and Con's: Making an Informed Decision on Using a Local LLM</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Script Zip-Up  Creating SRT From Video Archives Fastly\""
-date: 2024-10-04T00:03:22.280Z
-updated: 2024-10-08T01:07:28.705Z
+date: 2024-10-13T18:42:04.127Z
+updated: 2024-10-20T01:47:24.788Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,13 @@ Step2 Right-click on the ZIP file and select ‘Extract All’ from the pop-up l
 
 ![select extract all](https://images.wondershare.com/filmora/article-images/2022/07/extract-srt-from-zip-file-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Now, click on ‘Browse’ and select the location where you want to save the folder. Then, hit the ‘Extract’ button to unzip the archive and save the file to the folder you select.
 
 ![click on browse](https://images.wondershare.com/filmora/article-images/2022/07/extract-srt-from-zip-file-2.jpg)
@@ -80,6 +87,13 @@ Step3 Tap on the ZIP file to preview its content. Then tap ‘Extract’ to extr
 
 ![tap extract to extract srt files](https://images.wondershare.com/filmora/article-images/2022/07/extract-srt-from-zip-file-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Finally, tap on ‘Done’ to complete the process.
 
 **For iPhone**
@@ -93,10 +107,10 @@ Step2 Hold down the ZIP file and select ‘Quick Look’ from the pop-up list > 
 ![select quick look](https://images.wondershare.com/filmora/article-images/2022/07/extract-srt-from-zip-file-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Now, locate the SRT file and use the Share icon at the bottom left corner of your screen to save it to your device. You can open the SRT file afterward!
@@ -130,13 +144,6 @@ Step2 Use the ‘Import’ button to upload fbe SRT file on your computer or jus
 
 ![use import button](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-with-filmora-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Move the SRT file to the Timeline and right-click it > select ‘Advanced Edit’.
 
 ![select advanced edit](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-with-filmora-2.jpg)
@@ -145,36 +152,9 @@ Step4 Edit the SRT file according to your requirements. You can edit time.code, 
 
 ![edit srt file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-with-filmora-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step5 After you've completed the editing process, right-click on the ‘SRT’ file from the timeline. Then, choose ‘Export Subtitle File’ from the pop-up list and save it the SRT file to a preferred location on your computer.
 
 ![right click on srt file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-with-filmora-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -201,10 +181,10 @@ Step2 Right-click on the ZIP file and select ‘Extract All’ from the pop-up l
 ![select extract all](https://images.wondershare.com/filmora/article-images/2022/07/extract-srt-from-zip-file-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Now, click on ‘Browse’ and select the location where you want to save the folder. Then, hit the ‘Extract’ button to unzip the archive and save the file to the folder you select.
@@ -228,6 +208,19 @@ Step3 Once you upload the ZIP, the tool will instantly list all SRT files in the
 Step4 Finally, hit the ‘Save’ button right in front of the SRT file to save the individual SRT to your local drive or you can just use the ‘Save All’ button to save the files as a folder.
 
 ![hit save button](https://images.wondershare.com/filmora/article-images/2022/07/extract-srt-from-zip-file-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to Extract SRT file in a Zip File on Android or Ios
 
@@ -289,10 +282,10 @@ Step2 Use the ‘Import’ button to upload fbe SRT file on your computer or jus
 ![use import button](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-with-filmora-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Move the SRT file to the Timeline and right-click it > select ‘Advanced Edit’.
@@ -303,15 +296,28 @@ Step4 Edit the SRT file according to your requirements. You can edit time.code, 
 
 ![edit srt file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-with-filmora-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 After you've completed the editing process, right-click on the ‘SRT’ file from the timeline. Then, choose ‘Export Subtitle File’ from the pop-up list and save it the SRT file to a preferred location on your computer.
 
 ![right click on srt file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-with-filmora-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -344,24 +350,20 @@ The article above has covered everything about converting zip to srt with or wit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-the-strategic-approach-to-changing-your-tiktok-handle-seamlessly/"><u>[New] 2024 Approved The Strategic Approach to Changing Your TikTok Handle Seamlessly</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ultimate-combat-arcade-nintendo-switch-edition-max-156/"><u>[New] 2024 Approved Ultimate Combat Arcade Nintendo Switch Edition (Max 156)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-experience-ultra-clarity-in-xiaomis-screen-capture-technology-for-2024/"><u>[New] Experience Ultra Clarity in Xiaomi's Screen Capture Technology for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-magix-video-pro-x-analysis/"><u>[New] Magix Video Pro X Analysis</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mix-like-a-pro-with-20-no-cost-luts-from-dji-devices/"><u>[New] Mix Like a Pro with 20 No-Cost LUTs From DJI Devices</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-process-for-gradual-audio-fading-in-premiere/"><u>[New] Step-by-Step Process for Gradual Audio Fading In Premiere</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-is-insta360-x3-superior-to-dji-and-gopro-in-capturing-lifes-moments/"><u>[Updated] Is Insta360 X3 Superior to DJI and GoPro in Capturing Life’s Moments?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-pinpointing-video-picks-s-social-landscape-facebook/"><u>[Updated] Pinpointing Video Picks 'S Social Landscape (Facebook)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-recovering-the-solitary-sound-device/"><u>[Updated] Recovering the Solitary Sound Device</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/beware-of-fake-norton-360-reimbursement-offers-by-malwarefox-stay-protected-online/"><u>Beware of Fake Norton 360 Reimbursement Offers by MalwareFox - Stay Protected Online!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/discover-free-software-for-saving-your-desktop-display-for-2024/"><u>Discover Free Software for Saving Your Desktop Display for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-one-frame-at-a-time-how-to-extract-images-from-windows-10-movie-files/"><u>In 2024, One Frame at a Time How To Extract Images From Windows 10 Movie Files</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionizing-presentation-content-with-automated-transcription/"><u>In 2024, Revolutionizing Presentation Content with Automated Transcription</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-realme-narzo-60x-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Realme Narzo 60x 5G</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-guide-to-applying-a-realistic-motion-blur-in-photoshop/"><u>In 2024, Step-by-Step Guide to Applying a Realistic Motion Blur in Photoshop</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/overcome-the-hurdle-effective-solutions-to-prevent-subnautica-below-zero-pc-game-crashes/"><u>Overcome the Hurdle - Effective Solutions to Prevent Subnautica: Below Zero PC Game Crashes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-setup-get-your-intel-nvme-drivers-installed-now/"><u>Quick Setup: Get Your Intel NVMe Drivers Installed Now</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-up-your-game-advanced-video-trimming-techniques-in-windows-11-for-2024/"><u>Step Up Your Game Advanced Video Trimming Techniques in Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-tales-leading-academies-for-aspiring-narrators/"><u>[New] Mastering Tales Leading Academies for Aspiring Narrators</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leveraging-luminaries-for-greater-exposure/"><u>[Updated] Leveraging Luminaries for Greater Exposure</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-image-merging-techniques/"><u>[Updated] Mastering Image Merging Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-volume-curves-in-ableton-live-for-2024/"><u>[Updated] Mastering Volume Curves in Ableton Live for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-secrets-unveiled-creating-professional-srt-files/"><u>[Updated] Secrets Unveiled Creating Professional SRT Files</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-how-to-download-gif-images-from-twitter/"><u>2024 Approved How to Download GIF Images From Twitter</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-instant-photographic-display-in-11-os/"><u>2024 Approved Instant Photographic Display in 11 OS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-iphone-11-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off iPhone 11 without Password</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/come-ottimizzare-il-formato-del-tuo-video-per-diversi-obiettivi/"><u>Come Ottimizzare Il Formato Del Tuo Video per Diversi Obiettivi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/deciding-on-your-first-ev-here-are-9-important-qandas-for-a-smart-choice/"><u>Deciding on Your First EV? Here Are 9 Important Q&As for a Smart Choice</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-motorola-edge-2023-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Motorola Edge 2023 to iPod | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-10-best-websites-for-copyright-free-gaming-music/"><u>In 2024, 10 Best Websites for Copyright-Free Gaming Music</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From iPhone 15 Plus?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-maze-of-multi-service-playlist-transfer-for-2024/"><u>Navigating the Maze of Multi-Service Playlist Transfer for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/professionals-insight-into-morphvox-techniques-for-precise-audio-alteration-for-2024/"><u>Professional's Insight Into MorphVOX Techniques for Precise Audio Alteration for 2024</u></a></li>
 </ul></div>
 

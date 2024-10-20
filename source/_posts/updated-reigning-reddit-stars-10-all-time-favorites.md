@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Reigning Reddit Stars  10 All-Time Favorites\""
-date: 2024-10-13T03:48:23.143Z
-updated: 2024-10-13T17:41:44.190Z
+date: 2024-10-13T02:34:24.113Z
+updated: 2024-10-20T02:32:43.574Z
 tags: 
   - screen-recording
   - ai video
@@ -45,6 +45,13 @@ Here they are!
 
 ![chancellor palpatine the senate](https://images.wondershare.com/filmora/article-images/2023/01/the-senate.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When writing the article (Nov., 2022), this Reddit post features over 400k votes. 97% of those users Upvoted. This percentage made it the most upvoted Reddit post until another overtook it.
 
 (r/wallstreetbets)
@@ -70,6 +77,13 @@ $GME stands for GameStop's stock name. BRR represents printing money. The idea b
 Posted in 2020, this one currently has 438k votes with 99% Upvotes. It was posted by a famous user known on Reddit as [/u/ReallyRickAstley](https://www.reddit.com/user/ReallyRickAstley/).
 
 If you know the famous song "Never Gonna Give You Up, " you know who this is. Well, this is the Reddit account of the artist Rick Astley himself, taking over the platform with a photo of himself he found in 1989.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. NYC Taxi Drivers Calendar (/r/funny)
 
@@ -97,13 +111,6 @@ You understand the pain if you've gone through something like this.
 
 ![all news anchors say the same thing reddit](https://images.wondershare.com/filmora/article-images/2023/01/news-anchors.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 293k users voted on this post, revealing what it looks like when a single company owns dozens of local news stations.
 
 The phrase "this is extremely dangerous to our democracy" is repeated repeatedly in every news broadcast from these news stations.
@@ -124,20 +131,27 @@ That's all there is to it. No politics, no serious issues, and so on. Just a fro
 
 ![battle for net neutrality reddit post](https://images.wondershare.com/filmora/article-images/2023/01/battle-for-net-neutrality.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This is another most upvoted Reddit post that encouraged over 180k users to join the battle for net neutrality. Again, 86% of these users are upvoters who agree with the statements in the post.
 
 It's a post with a title and a link to a site where anyone can join the battle. The goal - prevent Internet Service Providers from blocking apps and websites.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 9\. Deangelo Juggles Balls for Real(/r/DunderMifflin)
 
 ![reddit post of deangelo juggling balls the office](https://images.wondershare.com/filmora/article-images/2023/01/deangelo-juggling-balls-on-the-office.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Millions of fans worldwide loved The Office with Steve Carell, a.k.a Michael Scott. One of the funniest moments was when Will Ferrell juggled imaginary balls in the Dunder Mifflin office.
 
@@ -179,19 +193,6 @@ Whatever you decide to do, feel free to reflect on these posts and enjoy reading
 
 ![chancellor palpatine the senate](https://images.wondershare.com/filmora/article-images/2023/01/the-senate.png)
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 When writing the article (Nov., 2022), this Reddit post features over 400k votes. 97% of those users Upvoted. This percentage made it the most upvoted Reddit post until another overtook it.
 
 (r/wallstreetbets)
@@ -201,6 +202,13 @@ When writing the article (Nov., 2022), this Reddit post features over 400k votes
 Its purpose is quite ironic. The point was to make this image of Chancellor Palpatine from Star Wars the first result on Google whenever someone searched for "The Senate."
 
 Sadly, the attempt failed but still received a lot of attention.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. $GME GO BRRR (r/wallstreetbets)
 
@@ -228,6 +236,13 @@ The image depicts the New York spirit as an excited cab driver shows off his cab
 
 What's even more interesting is that the driver commented on this Reddit post, letting everyone know that he also got the title "Mr. December" that year.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Showing a Game You Mastered to Someone You Care About (/r/gaming)
 
 ![showing a game you mastered reddit post](https://images.wondershare.com/filmora/article-images/2023/01/angry-gamer.png)
@@ -250,23 +265,9 @@ The phrase "this is extremely dangerous to our democracy" is repeated repeatedly
 
 97% of these 293k users upvoted and agreed that all news anchors say the same thing.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Thirsty Frog Takes a Bath (r/aww)
 
 ![thirsty frog takes a bath reddit](https://images.wondershare.com/filmora/article-images/2023/01/frog-taking-a-bath.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Some things on Reddit don't have to make sense to get a lot of attention.
 
@@ -275,10 +276,16 @@ Like this frog, for example. 99% out of the 313k voters on this post upvoted and
 That's all there is to it. No politics, no serious issues, and so on. Just a frog trying to cool off in a bottle cup.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8\. Battle for Net Neutrality (/r/books)
@@ -286,10 +293,10 @@ That's all there is to it. No politics, no serious issues, and so on. Just a fro
 ![battle for net neutrality reddit post](https://images.wondershare.com/filmora/article-images/2023/01/battle-for-net-neutrality.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This is another most upvoted Reddit post that encouraged over 180k users to join the battle for net neutrality. Again, 86% of these users are upvoters who agree with the statements in the post.
@@ -305,13 +312,6 @@ Millions of fans worldwide loved The Office with Steve Carell, a.k.a Michael Sco
 Well, a Reddit user made an edit of this clip and now it looks as if Will juggled four balls... then five.
 
 The post has a 98% upvote rate with 170k voters in total. The reason it's so popular is that The Office fans can't get enough of this show. Many say they never stop watching short clips of the show on Youtube and Reddit after finishing the entire series.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 10\. Brave Soldier Buried Amongst His Devoted Troops (/r/todayilearned)
 
@@ -365,24 +365,22 @@ Whatever you decide to do, feel free to reflect on these posts and enjoy reading
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-digital-brushstrokes-unearthing-the-best-8-artist-apps-for-iphones/"><u>[New] In 2024, Digital Brushstrokes Unearthing the Best 8 Artist Apps for iPhones</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-polishing-your-channels-auditory-appeal-on-youtube/"><u>[New] In 2024, Polishing Your Channel's Auditory Appeal on YouTube</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-step-by-step-vimeo-recording-process/"><u>[New] In 2024, Step-by-Step Vimeo Recording Process</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-gif-creation-step-by-step-guide/"><u>[New] Mastering GIF Creation Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-maximizing-creativity-find-your-next-project-on-these-top-12-photo-websites/"><u>[New] Maximizing Creativity - Find Your Next Project on These Top 12 Photo Websites</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-power-your-day-with-essential-windows-10-hacks/"><u>[New] Power Your Day with Essential Windows 10 Hacks</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-essential-android-update-for-vr-video-watchers/"><u>[New] The Essential Android Update for VR Video Watchers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-optimal-remote-voice-recorders/"><u>[Updated] Optimal Remote Voice Recorders</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-power-of-personal-branding-in-making-money-on-snapchat-for-2024/"><u>[Updated] The Power of Personal Branding in Making Money on Snapchat for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-digital-artistry-top-6-nft-makers-reviewed/"><u>2024 Approved Harnessing Digital Artistry - Top 6 NFT Makers Reviewed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-drone-footage-a-step-by-step-guide/"><u>2024 Approved Mastering Drone Footage A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pickus-impact-on-mobile-photography-a-comparative-study/"><u>2024 Approved PickU's Impact on Mobile Photography – A Comparative Study</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-satirical-space-the-ultimate-guide-to-20plus-humorous-metaverse-imagery/"><u>2024 Approved Satirical Space The Ultimate Guide to 20+ Humorous Metaverse Imagery</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-skys-the-limit-for-your-shots-blend-free-space-and-premium-subscriptions/"><u>2024 Approved Sky's the Limit for Your Shots Blend Free Space and Premium Subscriptions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1726227281982-avi-mjpeg/"><u>AVI를 MJPEG로 간단한 방식으로 온라인이 자연스럽게 가동: 무료 변환 서비스</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-15-pro-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 15 Pro</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-is-financial-compensation-behind-product-evaluations/"><u>In 2024, Is Financial Compensation Behind Product Evaluations?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-complete-guide-to-creating-a-vr-ready-environment/"><u>In 2024, The Complete Guide to Creating a VR-Ready Environment</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/laughing-lane-the-no-10-guide-to-memelore-for-2024/"><u>Laughing Lane - The No. 10 Guide to Memelore for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-crystal-clear-play-premium-cards-for-4k/"><u>[New] In 2024, Crystal Clear Play Premium Cards for 4K</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-streamlining-your-social-video-logs-on-facebook/"><u>[New] Streamlining Your Social Video Logs on Facebook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-lightrooms-artistic-control-creating-and-merging-hdr-images/"><u>[Updated] Master Lightroom's Artistic Control Creating & Merging HDR Images</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-on-air-innovations-code-or-circuitry-prevails/"><u>[Updated] On-Air Innovations Code or Circuitry Prevails?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-magixs-acid-pro-and-its-competitors/"><u>2024 Approved Inside Magix's ACID Pro and Its Competitors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-match-found-the-top-6-hdmi-21-monitors-reviewed/"><u>2024 Approved Perfect Match Found The Top 6 HDMI 2.1 Monitors Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/encompassing-details-inside-googles-podcast-application/"><u>Encompassing Details Inside Google's Podcast Application</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-psa-securitys-transition-to-paperless-ap-revolutionizes-corporate-efficiency/"><u>How PSA Security's Transition to Paperless AP Revolutionizes Corporate Efficiency</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-innovative-ways-to-capture-authenticity-in-customer-reviews/"><u>In 2024, Innovative Ways to Capture Authenticity in Customer Reviews</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-android-listeners-choice-for-2024/"><u>Leading Android Listeners' Choice for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/precision-speed-control-for-elite-pc-users-for-2024/"><u>Precision Speed Control for Elite PC Users for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/smartphone-showcase-the-very-best-for-artistic-endeavors-for-2024/"><u>Smartphone Showcase The Very Best for Artistic Endeavors for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-avoid-high-cpu-load-during-gameplay-on-pc/"><u>Strategies to Avoid High CPU Load During Gameplay on PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-art-of-perfection-in-depth-tutorial-on-utilizing-photoshops-background-eraser-tool/"><u>The Art of Perfection In-Depth Tutorial on Utilizing Photoshop's Background Eraser Tool</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-15-stabilizing-tools-and-accessories-for-gopro/"><u>Top 15 Stabilizing Tools & Accessories for GoPro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/verizon-takes-the-lead-in-enhancing-5g-connectivity-current-insights-revealed/"><u>Verizon Takes the Lead in Enhancing 5G Connectivity: Current Insights Revealed</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/xbox-one-x-review/"><u>Xbox One X Review</u></a></li>
 </ul></div>
 

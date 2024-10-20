@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering In-Video Narrations  A Step-by-Step Guide\""
-date: 2024-10-09T19:53:44.026Z
-updated: 2024-10-13T17:29:27.978Z
+date: 2024-10-14T16:26:08.484Z
+updated: 2024-10-19T23:59:34.839Z
 tags: 
   - screen-recording
   - ai video
@@ -44,31 +44,24 @@ But here's the good news: the way you add either option is the same in Filmora.
 
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to add narration
 
 So the easiest way to add narration is directly to a project. The benefit of this is that you can record your narration inside Filmora while you watch the preview of your edited video.
 
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
 
 You put the playhead where you want to start recording and hit the microphone icon under the preview window.
 
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 A 3-second countdown will pop up and start recording immediately after this countdown.
 
@@ -77,10 +70,10 @@ You can record your narration and click stop.
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Some Tips for Recording Narration
@@ -94,10 +87,10 @@ You can edit pauses or weak parts out of the voiceover to trim it up. But if it 
 Fortunately, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) comes equipped with video b-roll which is another great option. When using b-roll, it's better to use multiple shorter clips than one longer clip in most cases. But adding the same b-roll clip near the beginning and another section of the same b-roll clip, later on, should help you match the length of your narration to the video timeline.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Narration is a great storytelling device
@@ -113,6 +106,13 @@ It can also help make a connection with your audience because you can be relatin
 When adding voiceover or narration to your project, be sure to use a good USB microphone. A good quality sound will elevate your entire project and just requires a little planning.
 
 ![use good microphone](https://images.wondershare.com/filmora/article-images/2022/11/use-good-microphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
 
@@ -154,21 +154,20 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-macos-11-big-sur-compatibility-guide/"><u>[New] MacOS 11 Big Sur Compatibility Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-master-image-editing-with-these-top-8-tablets-beyond-filmoras-reach/"><u>[New] Master Image Editing with These Top 8 Tablets Beyond Filmora's Reach</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-a-guide-to-elevating-your-obs-video-projects/"><u>[Updated] A Guide to Elevating Your OBS Video Projects</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-master-audio-fusion-a-stepwise-approach-to-incorporating-srt-into-mp4s/"><u>[Updated] Master Audio Fusion A Stepwise Approach to Incorporating SRT Into MP4s</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-self-created-soundtracks-for-your-instagram-alerts/"><u>2024 Approved Self-Created Soundtracks for Your Instagram Alerts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/best-mp4-to-facebook-converter/"><u>Best MP4 to Facebook Converter</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-advanced-settings-a-beginners-guide-to-google-photos/"><u>In 2024, Navigating Advanced Settings A Beginner's Guide to Google Photos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-navigating-through-the-top-5-new-facebook-shifts/"><u>In 2024, Navigating Through the Top 5 New Facebook Shifts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-online-image-enhancement-with-audio/"><u>In 2024, Online Image Enhancement with Audio</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-x-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone X You Should Try Out</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-the-art-of-audio-alteration-in-sony-games-for-2024/"><u>Master the Art of Audio Alteration in Sony Games for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-discover-the-best-video-dubbing-software-for-pc-free-trials/"><u>New In 2024, Discover the Best Video Dubbing Software for PC - Free Trials</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-xiaomi-13t-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Xiaomi 13T Phone Now with These Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-update-processes-context-menu-update-option-for-win11-users/"><u>Streamlining Update Processes: Context Menu Update Option for Win11 Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-honor-90-gt-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Honor 90 GT Phone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-poco-m6-pro-4g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Poco M6 Pro 4G for Parents | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-trim-perfect-clearing-thin-lines-on-youtube/"><u>[New] 2024 Approved Trim Perfect Clearing Thin Lines on YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/re-there-legal-restrictions-to-recording-youtube-videos-for-2024/"><u>[New] Are There Legal Restrictions to Recording YouTube Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-minds-on-fire-best-gk-quiz-videos-online/"><u>[New] Minds on Fire Best GK Quiz Videos Online</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-inside-a-virtual-reality-device-a-basic-overview/"><u>[Updated] 2024 Approved Inside a Virtual Reality Device A Basic Overview</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-a-deep-dive-into-the-world-of-youtubes-minis-for-2024/"><u>[Updated] A Deep Dive Into the World of Youtube's Minis for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-latest-trends-in-360-cameras-a-shoppers-companion/"><u>[Updated] Latest Trends in 360 Cameras – A Shopper's Companion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-slumber-solutions-through-asmr-advisors-choice/"><u>[Updated] Slumber Solutions Through ASMR Advisors' Choice</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pushing-boundaries-with-enhanced-exposure-controls/"><u>2024 Approved Pushing Boundaries with Enhanced Exposure Controls</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamlessly-change-backdrops-explore-our-top-10-image-replace-tools/"><u>2024 Approved Seamlessly Change Backdrops Explore Our Top 10 Image Replace Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-review-slomo-video-app-2024-edition/"><u>Comprehensive Review SloMo Video App - 2024 Edition</u></a></li>
+<li><a href="https://win-online.techidaily.com/conversion-rapida-y-gratuita-cambia-tu-archivo-mp4-por-un-formato-swf-con-facilidad/"><u>Conversión Rápida Y Gratuita: Cambia Tu Archivo MP4 Por Un Formato SWF Con Facilidad</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lens-legends-choice-the-finest-6-4k-dslr-cameras/"><u>In 2024, Lens Legends Choice The Finest 6 4K DSLR Cameras</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/navigating-your-way-out-of-blue-screen-panic/"><u>Navigating Your Way Out of Blue Screen Panic</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pro-tips-for-shooting-quality-gopro-time-lapse-videos-for-2024/"><u>Pro Tips for Shooting Quality GoPro Time-Lapse Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/secure-your-files-at-no-cost-the-best-free-1tbplus-cloud-storages-for-2024/"><u>Secure Your Files at No Cost The Best Free 1TB+ Cloud Storages for 2024</u></a></li>
 </ul></div>
 

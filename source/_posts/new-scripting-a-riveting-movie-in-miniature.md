@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Scripting a Riveting Movie-in-Miniature\""
-date: 2024-10-09T01:07:19.304Z
-updated: 2024-10-14T00:35:48.952Z
+date: 2024-10-18T01:57:40.615Z
+updated: 2024-10-19T20:24:19.003Z
 tags: 
   - screen-recording
   - ai video
@@ -51,10 +51,16 @@ It would help if you also kept an eye on the main character of your movie, the s
 It's the thing you've seen in almost every trailer, and you know why? Because it is a crucial breaking point of the whole movie. Moreover, it's a great way to attract the viewer's attention. So, you should also add the Director awards while editing the trailer. Widely regarded producers and directors have a special allure and selling point based on the "golden symbol" gathered by the producer's or director's work. The example trailer contains the Director's most successful works as a reference.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Structural Design
@@ -64,13 +70,6 @@ One of the main tips is structural design. While making a trailer, it's not the 
 The traditional trailer typically follows a three-act structure: the first act introduces the setting and main characters. The second act introduces the most exciting parts of the movie (such as jaw-dropping special effects scenes, intense action sequences, etc.). And the third act moves the second act's elements toward the climax (such as an intense confrontation plot or suspenseful stagnation). It's vital to keep in mind that the climax scene from the trailer is not always the same as the movie's climactic scene—in fact, it almost isn't. That explains why so many movies are terrible, but the trailers edit them to look good.
 
 A well-structured trailer is more interesting to watch than one that's not. Look at a well-structured trailer below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Subtitles
 
@@ -94,27 +93,27 @@ Interpreting subtitles, explain the content of the footage.
 
 Promotional subtitles, using advertising-style words and phrases to get viewers' attention.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Sound editing
 
 Sound editing also impacts the quality of the trailer. It is generally expressed in the form of background music, plus a combination of character language (dialogue, monologue, narration) and sound effects. Among these, the selection of background music is an important step in the editing process since it helps to create the mood of the movie, portray the characters' feelings, and improve the pace of the movie. One may say that the background music selection makes up more than 70% of a successful trailer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to make a movie trailer?
 
 Now it's time to give your trailer a fantastic touch using the advanced features of [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Auto Beat Sync](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -122,18 +121,18 @@ Using Filmora's Auto Beat Sync feature, you can easily match the background musi
 
 ![auto beat sync](https://images.wondershare.com/filmora/article-images/2022/08/movie-trailer-completed-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Video Effects](https://tools.techidaily.com/wondershare/filmora/download/)
 
 You can use the advanced video effect of Wondershare Filmora to make your movie trailer more cinematic and fantastic. You can use LUTs to enhance the trailer with unbelievable filters. Just **choose** any effect from the vast library of Filmora and then **drag** and **drop** to apply.
 
 ![video effects](https://images.wondershare.com/filmora/article-images/2022/08/movie-trailer-completed-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -165,13 +164,6 @@ The traditional trailer typically follows a three-act structure: the first act i
 
 A well-structured trailer is more interesting to watch than one that's not. Look at a well-structured trailer below.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Subtitles
 
 Subtitles are a great add-on to your trailer and can help broaden your audience as they help in more precise understanding and catch audiences from all over the world, not only from your region. If you don't know how to handle it, we recommend using the simplest white text on a black background to set the subtitles apart from the background; if you want to add some of your own personality, start with elements like fonts, strokes, and shadows. You should set the appropriate subtitle style according to the style of the film. The most common types of subtitles used in trailers are closed caption and open caption.
@@ -202,6 +194,13 @@ Sound editing also impacts the quality of the trailer. It is generally expressed
 
 Now it's time to give your trailer a fantastic touch using the advanced features of [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Auto Beat Sync](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Using Filmora's Auto Beat Sync feature, you can easily match the background music of your movie trailer with the video footage. When you choose both of the inputs and pick Auto Synchronization in Filmora, it will automatically synchronize the video of the person speaking with the audio that was recorded using a lapel microphone and a separate file. All you have to do is **choose** the function and **tap** the analyze button. Auto Beat Sync can also add effects and delete the lousy footage clips to enhance your trailer.
@@ -209,10 +208,10 @@ Using Filmora's Auto Beat Sync feature, you can easily match the background musi
 ![auto beat sync](https://images.wondershare.com/filmora/article-images/2022/08/movie-trailer-completed-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Video Effects](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -220,6 +219,13 @@ Using Filmora's Auto Beat Sync feature, you can easily match the background musi
 You can use the advanced video effect of Wondershare Filmora to make your movie trailer more cinematic and fantastic. You can use LUTs to enhance the trailer with unbelievable filters. Just **choose** any effect from the vast library of Filmora and then **drag** and **drop** to apply.
 
 ![video effects](https://images.wondershare.com/filmora/article-images/2022/08/movie-trailer-completed-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -253,21 +259,24 @@ The conclusion is that the trailer is undoubtedly an integral part of any movie 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-definitive-guide-to-android-mobas-10-winners/"><u>[New] 2024 Approved The Definitive Guide to Android MOBAs #10 Winners</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mastering-the-art-of-social-media-videos-for-maximum-reach/"><u>[New] In 2024, Mastering the Art of Social Media Videos for Maximum Reach</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-precision-flight-matching-cameras-to-ideal-gimbal-models/"><u>[New] Precision Flight Matching Cameras to Ideal Gimbal Models</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-refined-retakes-how-to-crop-and-perfect-iphone-shots/"><u>[New] Refined Retakes How to Crop and Perfect iPhone Shots</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-secure-and-unshakable-direct-url-addition-on-your-tiktok-profile/"><u>[New] Secure & Unshakable Direct URL Addition on Your TikTok Profile</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-cutting-edge-livestreaming-options-outside-of-obs/"><u>[Updated] 2024 Approved Cutting Edge Livestreaming Options Outside of OBS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-grid-layout-geniuses-for-photo-perfection/"><u>[Updated] Grid Layout Geniuses for Photo Perfection</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-techniques-for-deciphering-meaning-in-youtube-snippets/"><u>2024 Approved Expert Techniques for Deciphering Meaning in YouTube Snippets</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-key-frames-per-second-in-superior-slow-motion-imaging/"><u>2024 Approved Key Frames per Second in Superior Slow Motion Imaging</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-soft-shots-with-top-blur-mobile-tools/"><u>2024 Approved Master Soft Shots with Top Blur Mobile Tools</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/4-proven-methods-for-perfect-instagram-video-loops-for-2024/"><u>4 Proven Methods for Perfect Instagram Video Loops for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/guia-paso-a-paso-para-configurar-el-backup-automatico-en-windows-11-cuatro-soluciones-especializadas/"><u>Guía Paso a Paso Para Configurar El Backup Automático en Windows 11: Cuatro Soluciones Especializadas</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-select-your-dreams-best-vr-bike-trails/"><u>In 2024, Select Your Dreams Best VR Bike Trails</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/interactive-image-merging-for-desktop-enthusiasts-for-2024/"><u>Interactive Image Merging for Desktop Enthusiasts for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-mobile-image-personalization-iphoneandroids-best-10-apps/"><u>[New] Mastering Mobile Image Personalization IPhone/Android's Best 10 Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-soaring-through-style-the-new-age-of-bebop-parrot/"><u>[New] Soaring Through Style – The New Age of Bebop Parrot</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-utilizing-smartphones-for-effective-home-based-filming/"><u>[New] Utilizing Smartphones for Effective Home-Based Filming</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-slow-it-down-a-comprehen/"><u>[Updated] 2024 Approved Slow It Down A Comprehen</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-iphone-multitasking-how-to-toggle-pip-on-youtube-app/"><u>[Updated] Master iPhone Multitasking How to Toggle PIP on YouTube App</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prepping-for-progress-a-technological-lifesaver/"><u>[Updated] Prepping for Progress A Technological Lifesaver</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-windows-11-photo-customization-audio-plus-visuals/"><u>[Updated] The Ultimate Guide to Windows 11 Photo Customization Audio + Visuals</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-nokia-c12-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Nokia C12 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-on-the-pioneer-bdr-xs06-assessing-blu-ray-burning-power-and-portability-features/"><u>Expert Review on the Pioneer BDR-XS06: Assessing Blu-Ray Burning Power & Portability Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-issues-troubleshooting-your-nonfunctional-logitech-c920-camera/"><u>Fixing Issues: Troubleshooting Your Nonfunctional Logitech C920 Camera</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-nubia-red-magic-9-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Nubia Red Magic 9 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 mini With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pricing-your-way-to-higher-youtube-traffic/"><u>In 2024, Pricing Your Way to Higher YouTube Traffic</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-renowned-20-free-public-domain-pubg-sets/"><u>In 2024, Renowned 20 Free, Public Domain PUBG Sets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-scouring-the-internet-for-superior-pixel-ringtone-sources/"><u>In 2024, Scouring the Internet for Superior Pixel Ringtone Sources</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-oneplus-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock OnePlus Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/melody-matters-10-must-hear-sources-for-podcast-beginnings-for-2024/"><u>Melody Matters 10 Must-Hear Sources for Podcast Beginnings for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-know-which-are-the-best-wondershare-filmora-luts-to-use-there-are-many-luts-that-you-can-download-each-with-a-different-ton/"><u>New 2024 Approved Do You Want to Know Which Are the Best Wondershare Filmora LUTs to Use? There Are Many LUTs that You Can Download, Each with a Different Tone and Style</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pro-free-photo-workspace-discover-the-best-editing-suites-for-2024/"><u>Pro Free Photo Workspace Discover the Best Editing Suites for 2024</u></a></li>
 </ul></div>
 

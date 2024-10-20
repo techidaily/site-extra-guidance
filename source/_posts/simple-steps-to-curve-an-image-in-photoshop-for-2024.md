@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps to Curve an Image in Photoshop for 2024"
-date: 2024-07-31T19:18:55.247Z
-updated: 2024-08-01T19:18:55.247Z
+date: 2024-10-15T17:52:04.996Z
+updated: 2024-10-19T19:00:07.742Z
 tags: 
   - screen-recording
   - ai video
@@ -20,14 +20,8 @@ thumbnail: https://thmb.techidaily.com/2667ea34d1175640376556500cfb9591d15bfce3d
 
 In this Photoshop tutorial, we're going to carve an image using four simple steps. Curving an image can be a great way to add some extra visual interest and dimension, and it's a technique that can be used with a wide range of images. So, let's get started!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -38,9 +32,6 @@ To keep things simple, let's start with a white canvas. Let's open a new documen
 
 After creating the new document, open the image that you want to curve. You may do so by going to File > Open in the menu bar or pressing Ctrl+O or Command+O on your keyboard. Once the image is open, go to Edit in the menu bar and select Place Embedded from the drop-down menu that appears. Select your image and click Place. The image will be placed on the canvas. If the document's size does not match that of the image, you will see a transformation box surrounding the image.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
 ##### Step3Warp the Image
@@ -57,9 +48,6 @@ Play around with the settings in the options bar. There are quite a few differen
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
 **Vertical Distortion** makes the image look as if it's leaning backward.
@@ -72,20 +60,26 @@ The **Bend Direction** option rotates the angle of the bend.
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
 
 ##### Step4Save the Image
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -119,5 +113,20 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-hands-free-motion-an-overview/"><u>[New] Mastering Hands-Free Motion An Overview</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-world-of-digital-gifs/"><u>[New] Navigating the World of Digital GIFs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-how-to-effortlessly-run-apps-and-videos-together-in-chrome/"><u>[Updated] How to Effortlessly Run Apps & Videos Together In Chrome</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/beginning-your-second-tongue-get-95-off-and-start-now/"><u>Beginning Your Second Tongue? Get 95% Off and Start Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-solutions-for-thawing-out-a-stuck-computer-screen/"><u>Complete Solutions for Thawing Out a Stuck Computer Screen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exquisite-solution-for-vr-adventures/"><u>Exquisite Solution for VR Adventures</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-a23-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy A23 5G FRP</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-srt-file-sharing-on-social-platforms/"><u>In 2024, Mastering SRT File Sharing on Social Platforms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-skybound-creativity-essential-editing-skills-for-drone-films/"><u>In 2024, Skybound Creativity Essential Editing Skills for Drone Films</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premier-images-backup-portals-for-2024/"><u>Premier Images Backup Portals for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/swfmp4movavi/"><u>SWF至MP4無架限遷移：使用Movavi的完美免費解決方案</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-frame-drops-and-playback-glitches-in-naraka-bladepoint/"><u>Troubleshooting Frame Drops & Playback Glitches in Naraka: Bladepoint</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-resolving-fortnite-error-code-84-cannot-connect-to-parties/"><u>Troubleshooting Steps for Resolving Fortnite Error Code #84: Cannot Connect to Parties</u></a></li>
+</ul></div>
 

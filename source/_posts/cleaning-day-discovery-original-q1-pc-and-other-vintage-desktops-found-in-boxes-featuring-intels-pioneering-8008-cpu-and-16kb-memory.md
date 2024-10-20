@@ -1,7 +1,7 @@
 ---
 title: "Cleaning Day Discovery: Original Q1 PC and Other Vintage Desktops Found in Boxes, Featuring Intel's Pioneering 8008 CPU and 16KB Memory"
-date: 2024-10-11T19:05:54.282Z
-updated: 2024-10-14T01:22:20.941Z
+date: 2024-10-14T20:31:17.730Z
+updated: 2024-10-19T16:01:07.760Z
 tags:
   - desktop
 categories:
@@ -76,25 +76,23 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-multi-screen-browsing-effortlessly-in-google-chrome/"><u>[New] Navigating Multi-Screen Browsing Effortlessly in Google Chrome</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-preferred-craftsmen-exceptional-iphone-tones/"><u>[New] Preferred Craftsmen Exceptional iPhone Tones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-data-visualization-for-effective-communication/"><u>[Updated] Mastering the Art of Data Visualization for Effective Communication</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-nostalgia-unleashed-a-guide-to-fb-archives-for-2024/"><u>[Updated] Nostalgia Unleashed A Guide to FB Archives for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-seamless-snapshots-mobile-tripods-for-iphones-androids/"><u>[Updated] Seamless Snapshots Mobile Tripods for iPhones, Androids</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-success-secrets-maximizing-post-performance/"><u>2024 Approved Instagram Success Secrets Maximizing Post Performance</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-f23-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo F23 5G Fingerprint Lock</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-best-android-and-ios-wedding-timers-for-seamless-countdowns/"><u>In 2024, Exploring the Best Android & iOS Wedding Timers for Seamless Countdowns</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/masterclass-in-monochrome-magic-a-professionals-guide-for-2024/"><u>Masterclass in Monochrome Magic A Professional's Guide for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-through-telegram-web-easily-and-quickly-for-2024/"><u>Navigating Through Telegram Web Easily and Quickly for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-simple-steps-to-download-the-latest-wacom-intuos-pro-driver-for-windows-10/"><u>Quick and Simple Steps to Download the Latest Wacom Intuos Pro Driver for Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-battle-of-streaming-devices-examining-the-differences-between-roku-express-and-stick/"><u>The Battle of Streaming Devices: Examining the Differences Between Roku Express and Stick</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/top-tips-and-techniques-for-captivating-youtube-video-intros-for-2024/"><u>Top Tips and Techniques for Captivating YouTube Video Intros for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-engagement-hook-generator/"><u>2024 Approved Prime Engagement Hook Generator</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-side-by-side-hero4-vs-hero5-analysis/"><u>2024 Approved Side by Side Hero4 vs Hero5 Analysis</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 with/without SIM Card</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-noteworthy-14-dynamic-text-artworks/"><u>In 2024, Noteworthy 14 Dynamic Text Artworks</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-stepwise-approach-affordable-creation-of-engaging-youtube-intros/"><u>In 2024, Stepwise Approach Affordable Creation of Engaging YouTube Intros</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-honor-magic-5-pro-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Honor Magic 5 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-large-video-transfer-ios-to-macos-device-harmony-for-2024/"><u>Mastering Large Video Transfer IOS to macOS Device Harmony for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-decreasing-decibents-a-guide-to-fading-out-sounds-for-2024/"><u>Mastering the Art of Decreasing Decibents A Guide to Fading Out Sounds for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-through-bendy-brilliance-and-shortcomings-an-in-depth-look-at-the-lenovo-thinkpad-x1-fold/"><u>Navigating Through Bendy Brilliance and Shortcomings: An In-Depth Look at the Lenovo ThinkPad X1 Fold</u></a></li>
+<li><a href="https://win-web3.techidaily.com/quick-guide-to-clonezilla-system-restore-tutorials-a-complete-step-by-step-process/"><u>Quick Guide to Clonezilla System Restore Tutorials – A Complete Step-by-Step Process</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

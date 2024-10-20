@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Lighting Setup to Make Your Videos Stand Out"
-date: 2024-07-31T19:21:26.683Z
-updated: 2024-08-01T19:21:26.683Z
+date: 2024-10-15T17:07:37.564Z
+updated: 2024-10-19T17:42:50.389Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ Many people are wondering how to set up lighting for video shooting. While there
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -61,9 +58,6 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -72,25 +66,10 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
@@ -101,9 +80,6 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 **Using Key Light + Fill + Backlight**
@@ -117,8 +93,12 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -151,5 +131,24 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-5-excellent-gaming-keyboards-within-a-100-budget/"><u>[New] 2024 Approved 5 Excellent Gaming Keyboards Within a $100 Budget</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-humor-haven-in-virtual-realms-mastering-20plus-funny-metaverse-imagery/"><u>[New] Humor Haven in Virtual Realms Mastering 20+ Funny Metaverse Imagery</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-record-and-relish-the-art-of-live-discord-streams/"><u>[New] In 2024, Record and Relish The Art of Live Discord Streams</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prioritize-savings-with-the-best-6-affordable-camera-brands/"><u>[New] Prioritize Savings with the Best 6 Affordable Camera Brands</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unmatched-access-the-finest-5-browser-tools-for-fb-videos/"><u>[New] Unmatched Access The Finest 5 Browser Tools for FB Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-photoplusvideo-integration-with-iphone/"><u>[Updated] Navigating Photo+Video Integration with iPhone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premiere-your-stories-with-free-templates/"><u>[Updated] Premiere Your Stories with Free Templates</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-understanding-the-mechanics-behind-altering-gender-in-snapchatfacebook-images/"><u>[Updated] Understanding the Mechanics Behind Altering Gender in Snapchat/Facebook Images</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-full-review-for-bublcam-360-camera/"><u>2024 Approved Full Review for Bublcam 360 Camera</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-free-graphic-havens-a-comprehensive-guide-to-top-art-portals/"><u>2024 Approved Premium-Free Graphic Havens A Comprehensive Guide to Top Art Portals</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-powerful-strategies-for-optimizing-gratuitous-timer-use/"><u>In 2024, Powerful Strategies for Optimizing Gratuitous Timer Use</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-prime-youtube-mp4-encoding-steps/"><u>In 2024, Prime YouTube MP4 Encoding Steps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-strategic-planning-of-podcast-drop-times/"><u>In 2024, Strategic Planning of Podcast Drop Times</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-swiftpodcasts-guide-for-iphone-users-download-made-simple/"><u>In 2024, SwiftPodcasts Guide for iPhone Users - Download Made Simple</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/interactive-lessons-expert-video-editing-for-classroom-for-2024/"><u>Interactive Lessons Expert Video Editing for Classroom for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/space-optimization-mastery-premium-storage-reviews-for-2024/"><u>Space Optimization Mastery Premium Storage Reviews for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-end-task-control-capabilities-in-windows-11-ui-environment/"><u>Unveiling End Task Control Capabilities in Windows 11 UI Environment</u></a></li>
+</ul></div>
 

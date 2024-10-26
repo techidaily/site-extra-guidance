@@ -1,7 +1,7 @@
 ---
 title: Mastering World of Warcraft Graphics Settings - Expert Tips to Elevate Your FPS
-date: 2024-10-16T01:05:27.153Z
-updated: 2024-10-19T23:18:44.098Z
+date: 2024-10-19T19:27:20.576Z
+updated: 2024-10-25T23:14:40.347Z
 tags:
   - win11
   - win10
@@ -46,24 +46,10 @@ To keep your graphics driver up-to-date, here are two options for you:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the driver update, relaunch the game to see how it works. If the problem persists, there are more fixes to try.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Optimize graphics settings
 
@@ -74,14 +60,22 @@ To keep your graphics driver up-to-date, here are two options for you:
 2. Click**Desktop app** from the drop-down list and click**Browse** .  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dedicated-gpu-3.jpg)
 3. Go to the game’s installation folder and add the**eldenring.exe file** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Once it’s added, click it and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/graphics-settings-1.jpg)
 5. Select**High performance** and click**Save** .
@@ -96,25 +90,39 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Elden Ring** from the game list and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
  It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Disable Steam overlay
 
@@ -125,10 +133,10 @@ If this method doesn’t work, try the next solution.
 2. From the game list, right-click Elden Ring and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
@@ -138,13 +146,6 @@ If this method doesn’t work, try the next solution.
 
 Restart the game and test. Still no luck? Continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5 – Disable Microsoft Device Association Root Enumerator
 
  Some players also reported that disabling Microsoft Device Association Root Enumerator resolves the stuttering dramatically. Disabling this device may stop some part of the device driver from installing, but your computer will work normally for the most part.
@@ -152,6 +153,13 @@ Restart the game and test. Still no luck? Continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Software devices** to open the category.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-1.jpg)
 3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
@@ -172,35 +180,16 @@ Restart the game and test. Still no luck? Continue to the next fix.
 2. Click **3D settings** \> **Manage 3D settings** in the left pane.  
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 3. Under the**Global Settings** tab, scroll through the list to find**Shader Cache Size** and set it to**Unlimited** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Apply the changes and see if you’re able to play the game as expected.
 
@@ -226,22 +215,15 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitters-hilarious-highlights/"><u>[New] In 2024, Twitter's Hilarious Highlights</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-leading-add-ons-to-improve-sea-camera-shots/"><u>[New] Leading Add-Ons to Improve Sea Camera Shots</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-quick-guide-best-free-instagram-to-mp4-tools-windowsmac-for-2024/"><u>[New] Quick Guide Best Free Instagram-to-MP4 Tools (Windows/Mac) for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-youtube-hacked-mastery-over-skipping-video-startup-techniques/"><u>[New] YouTube Hacked Mastery Over Skipping Video Startup Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-a-list-of-the-best-marriage-videos-celebrations-captured-online-8/"><u>[Updated] 2024 Approved A List of the Best Marriage Videos - Celebrations Captured Online (8)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-5-best-finger-tech-for-virtual-reality-mastery/"><u>[Updated] 5 Best Finger Tech for Virtual Reality Mastery</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-media-non-xsplit-options-revealed/"><u>[Updated] Mastering Media Non-Xsplit Options Revealed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-scrutinizing-googles-ar-embellishments-and-others/"><u>[Updated] Scrutinizing Google's AR Embellishments & Others</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mixing-masterclass-for-dji-miniair-2-owners-no-cost-here/"><u>2024 Approved Mixing Masterclass for DJI Mini/Air 2 Owners - No Cost Here</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-techniques-shifting-bulk-video-data-from-iphone-to-mac/"><u>2024 Approved Precision Techniques Shifting Bulk Video Data From iPhone to Mac</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-reddits-golden-threads-a-commendable-collection-top-10/"><u>2024 Approved Reddit's Golden Threads A Commendable Collection (Top 10)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-nokia-c12-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-sd-card-selections-for-optimal-gopro-hero-78-performance/"><u>In 2024, Prime SD Card Selections for Optimal GoPro Hero 7/8 Performance</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/spearheading-groundbre-folks-in-vr-space-for-2024/"><u>Spearheading Groundbre Folks In VR Space for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-higher-youtube-viewership-for-2024/"><u>The Ultimate Guide to Higher YouTube Viewership for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/ultimate-guide-to-online-education-access-the-best-sites-with-comprehensive-video-tutorials/"><u>Ultimate Guide to Online Education: Access the Best Sites with Comprehensive Video Tutorials</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-pros-and-cons-making-an-informed-decision-on-using-a-local-llm/"><u>Understanding The Pro's and Con's: Making an Informed Decision on Using a Local LLM</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-simple-procedure-modify-clownfish-tones-on-pc/"><u>[New] Simple Procedure Modify Clownfish Tones on PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-stepwise-process-of-animated-image-crafting-gif/"><u>[New] Stepwise Process of Animated Image Crafting (GIF)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-sites-for-extracting-text-aesthetics-packs/"><u>[Updated] Leading Sites for Extracting Text Aesthetics Packs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-time-lapse-photography-on-samsung-phones/"><u>[Updated] Mastering Time-Lapse Photography on Samsung Phones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-list-mac-video-editors-for-macos-big-sur-11-users-for-2024/"><u>[Updated] Ultimate List Mac Video Editors for macOS Big Sur 11 Users for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029337508-windows7/"><u>「長時間にわたり Windows7 画面動画化のステップ」</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-the-art-of-text-sculpting-for-an-astonishing-photos-effect-for-2024/"><u>Master the Art of Text Sculpting for an Astonishing PHOTOS Effect for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-your-android-a-step-by-step-guide-to-navigating-the-quick-settings-menu/"><u>Mastering Your Android: A Step-by-Step Guide to Navigating the Quick Settings Menu</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-realme-gt-5-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Realme GT 5 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/unleash-social-potential-transitioning-from-twitter-videos-to-whatsapp/"><u>Unleash Social Potential Transitioning From Twitter Videos to WhatsApp</u></a></li>
 </ul></div>
 

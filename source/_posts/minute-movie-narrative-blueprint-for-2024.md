@@ -1,7 +1,7 @@
 ---
 title: "Minute Movie Narrative Blueprint for 2024"
-date: 2024-10-06T04:58:35.089Z
-updated: 2024-10-08T08:04:40.212Z
+date: 2024-10-22T18:43:57.115Z
+updated: 2024-10-25T19:37:24.094Z
 tags: 
   - screen-recording
   - ai video
@@ -45,10 +45,10 @@ It's also a useful way to think of the script as an energy system, as William Gi
 ![an independent story](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Conflict
@@ -73,6 +73,13 @@ Scenes are the **"church of drama"**, as William Gibson also brilliantly says. S
 
 I got it, really got it, as a young playwright when the Actors Theater of Louisville commissioned me to write a ten-minute play. And I did—in six scenes that I hit late and left early, each with a small but significant moment of change that moved the story into the next scene. “A tender and effortless glissando that gracefully stretches from moment to wistful moment,” as The Los Angeles Times put it in my all-time favorite review.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. Ending
 
 The end of a script is often more important than the 90 pages that preceded it. Because of the magnitude of its importance, many writers struggle to close their scripts with the right resolution. But don't worry, we'll show you everything you need to know about how to end a storyboard with examples of basic storyboard formats from Star Wars: **_The Force Awakens_** and [**_The Big Short_**](https://www.imdb.com/title/tt1596363/). We will discuss the technical aspects of writing THE END into scripts. By the end, you'll have a good understanding of the formatting requirements for how to end the script.
@@ -94,6 +101,13 @@ Below, we will show you have to use this easy movie maker to create a video with
 Open Wondershare Filmora, click the "Import" button, and use the navigation import panel to load media files. You can also directly drag and drop your media files into the program. Then, trim or cut the video clips in the timeline with options in the Toolbox
 
 ![import files and arrange order](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Making stunning short films with various Effects & Filters
 
@@ -123,41 +137,22 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
 
 </article
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Characterization
 
 Writing compelling short scripts requires what Thornton Wilder called "shortcuts to the imagination." And knowing what your main character wants in your story is the most important shortcut to understanding and discovering who your main character is. So, give your main character a desire or yearning for something that matters deeply to her. Then let your story flow from your character's efforts to achieve that wish. The best stories, short or long, are about the human heart.
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. An independent story
 
 It's also a useful way to think of the script as an energy system, as William Gibson brilliantly says in Shakespeare's play. An energy system begins with an Inciting Incident - a significant event/discovery that unleashes the energy system - and ends with a Climax - the moment when the story's outcome is known, and the energy system ends. Given the limited number of pages available in your short script, it's essential that your inciting incident appears on the first page.
 
 ![an independent story](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Conflict
 
@@ -168,13 +163,6 @@ Screenwriters can't convey conflict with background and inner thoughts or explan
 Instead, screenwriters are tasked with presenting the conflict on screen through scene descriptions, character actions and reactions, and dialogue. While the dialogue is something we hear and could certainly—in smaller print—be used to replace literary prose to describe background information, backstory, and inner thoughts, the best screenplays and movies show rather than tell.
 
 ![conflict](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Turning Point
 
@@ -197,17 +185,10 @@ The end of a script is often more important than the 90 pages that preceded it. 
 ![example script defining](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to edit your short film?
@@ -218,24 +199,18 @@ Have you ever stored various videos and photos on a memory card or on a computer
 
 Below, we will show you have to use this easy movie maker to create a video with Filmora in clicks.
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Import your files and arrange the order
 
 Open Wondershare Filmora, click the "Import" button, and use the navigation import panel to load media files. You can also directly drag and drop your media files into the program. Then, trim or cut the video clips in the timeline with options in the Toolbox
 
 ![import files and arrange order](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Making stunning short films with various Effects & Filters
 
@@ -245,22 +220,29 @@ Select the ones you want to add by clicking "Transition" and dragging them betwe
 
 ![apply to all](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To add text to the video, click the "Text" button, choose a text type, and drag the icon to the Text track. You can stretch the icon across the entire track to have the titles appear throughout the movie, or just over a portion of it. In the editing window, you can change the font, size, color, and effect.
 
 * More features to discover can be found by clicking [**Extraordinary Features of Filmora**](https://tools.techidaily.com/wondershare/filmora/download/).
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3.Save the video in the format of your choice
 
 When everything is done, hit the “Create” button, and you'll see several options: save it as a video file, convert it for viewing on your mobile phone or tablet, directly upload to your YouTube or Facebook account and burn to DVD. Choose an output method as you like and click “Create”. After a few seconds, a folder with the newly reformatted video will open automatically.
 
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -294,21 +276,22 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-to-maximizing-adobe-storages-and-exploring-more/"><u>[New] Step-by-Step to Maximizing Adobe Storages and Exploring More</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unraveling-filmora-editing-inquiries/"><u>[New] Unraveling Filmora Editing Inquiries</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-a-step-by-step-guide-for-meet-custom-filters-and-effects/"><u>[Updated] A Step-by-Step Guide for Meet Custom Filters & Effects</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-instabeats-intellectual-property-overview/"><u>[Updated] InstaBeats Intellectual Property Overview</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-prime-additions-for-newbie-gopro-photographers/"><u>[Updated] Prime Additions for Newbie GoPro Photographers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-5-excellent-video-conference-devices-for-professionals/"><u>2024 Approved 5 Excellent Video Conference Devices for Professionals</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-enhanced-interaction-through-effective-zoom-screenshares/"><u>2024 Approved Enhanced Interaction Through Effective Zoom Screenshares</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-overlooked-masterpieces-unique-free-speech-to-text-apps-for-mac/"><u>2024 Approved Overlooked Masterpieces Unique Free Speech-to-Text Apps for Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-rapid-execution-instant-clearance-of-signature-bg/"><u>2024 Approved Rapid Execution Instant Clearance of Signature Bg</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-3d-text-effects-in-psx/"><u>2024 Approved Step-by-Step Guide to 3D Text Effects in PSX</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-iphone-11-pro-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or iPhone 11 Pro without iCloud Password or Apple ID?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-oppo-reno-11f-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Oppo Reno 11F 5G Easily?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-cloud-prices-your-guide-to-cheapest/"><u>In 2024, Navigating Cloud Prices - Your Guide to Cheapest</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-unsupported-iphone-accessory-issues-a-step-by-step-guide/"><u>Resolving Unsupported iPhone Accessory Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/safeguard-your-favorite-indian-tiktoks-steps-for-saving-content-after-ban/"><u>Safeguard Your Favorite Indian TikToks: Steps for Saving Content After Ban</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/serenade-selections-romantic-anthems-for-the-big-decision-for-2024/"><u>Serenade Selections Romantic Anthems for The Big Decision for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-tech-savvy-show-saviors-advanced-tv-capture-tips-for-2024/"><u>[New] Tech-Savvy Show Saviors Advanced TV Capture Tips for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-10-most-shared-tiktoks-in-social-media-circles-for-2024/"><u>[Updated] 10 Most Shared TikToks in Social Media Circles for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimal-zoom-techniques-for-efficient-skype-communication/"><u>[Updated] Optimal Zoom Techniques for Efficient Skype Communication</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smart-editing-tricks-how-to-embed-dates-in-photo-albums/"><u>[Updated] Smart Editing Tricks How to Embed Dates in Photo Albums</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-add-motion-blur-to-face-with-picsart/"><u>2024 Approved How to Add Motion Blur to Face with Picsart</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-integrating-creative-filters-into-your-mobile-and-pc-videos/"><u>2024 Approved Integrating Creative Filters Into Your Mobile and PC Videos</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-redmi-a2plus-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975023271-get-faster-performance-update-targus-displaylink-drivers-for-windows-1187-now/"><u>Get Faster Performance: Update Targus DisplayLink Drivers for Windows 11/8/7 Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-successfully-upgrade-and-install-new-display-drivers-on-your-pc/"><u>How to Successfully Upgrade and Install New Display Drivers on Your PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hidden-elements-the-photoshop-anonymity-guide/"><u>In 2024, Hidden Elements The Photoshop Anonymity Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-invisible-broadcasts-anonymous-instagram-live-tips/"><u>In 2024, Invisible Broadcasts Anonymous Instagram Live Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-your-pcs-sound-with-these-5-windows-11-recording-tips/"><u>In 2024, Perfect Your PC's Sound with These 5 Windows 11 Recording Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/make-any-tiktok-song-a-perfect-fit-for-your-mobile-device-for-2024/"><u>Make Any TikTok Song a Perfect Fit for Your Mobile Device for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-instagram-simplified-techniques-for-perfect-collages-for-2024/"><u>Mastering Instagram Simplified Techniques for Perfect Collages for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/steady-yourself-against-oculus-nausea-for-2024/"><u>Steady Yourself Against Oculus Nausea for 2024</u></a></li>
 </ul></div>
 

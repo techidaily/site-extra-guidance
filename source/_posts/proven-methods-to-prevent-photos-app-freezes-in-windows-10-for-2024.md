@@ -1,7 +1,7 @@
 ---
 title: "Proven Methods to Prevent Photos App Freezes in Windows 10 for 2024"
-date: 2024-10-18T20:04:44.218Z
-updated: 2024-10-19T16:45:52.841Z
+date: 2024-10-19T17:57:29.563Z
+updated: 2024-10-25T17:03:35.912Z
 tags: 
   - screen-recording
   - ai video
@@ -43,10 +43,10 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 ## How to fix Windows 10 Photos app crashes
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 1: Use the Troubleshooter
@@ -63,6 +63,13 @@ Here is how to troubleshoot –
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 2: Restore Default Libraries
 
 Restoring the default libraries would resolve the Windows 10 Photos App crash issues. Resetting the Photo App to its default source to a valid network, path fixes the case.
@@ -75,13 +82,6 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 3: Reset it
 
@@ -104,6 +104,13 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 5: Reinstall Windows 10 Photos app
 
 Alternatively, if nothing works out in your favor, you can always fix Windows 10 Photos App crash issue by reinstalling Windows 10 Photos App. A corrupted Photos App might create disturbance for you, so reinstalling would get a fresh and bug free version on your system from the Microsoft Store.
@@ -115,27 +122,20 @@ Here is how to reinstall the Windows 10 Photos App –
 2. Now, visit the ‘Microsoft Store on your computer and find ‘Microsoft Photos.’
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
 
@@ -152,18 +152,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-top-9-free-youtube-logo-makers/"><u>[New] 2024 Approved Top 9 Free YouTube Logo Makers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-androidiphone-instruction-adding-music-files-to-fb-profile/"><u>[New] Android/iPhone Instruction Adding Music Files to FB Profile</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-no-budget-no-problem-here-are-the-best-vfx-pages/"><u>[New] No Budget? No Problem! Here Are the Best VFX Pages</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-versions-of-windows-movie-maker/"><u>[New] Versions of Windows Movie Maker</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-m1-mastery-seamless-editing-with-video-tools/"><u>[Updated] M1 Mastery Seamless Editing with Video Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-ultimate-guide-to-high-speed-pc-controller-extensions-for-2024/"><u>[Updated] Ultimate Guide to High-Speed PC Controller Extensions for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-photo-editing-incorporating-text-onto-images-on-pcs-and-macs/"><u>2024 Approved Seamless Photo Editing Incorporating Text Onto Images on PCs & Macs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-showcase-spectacatives-the-best-ice-artistry-22/"><u>2024 Approved Showcase Spectacatives The Best Ice Artistry '22</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Oppo A79 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-year-updated-lg-360-full-review-insights-for-2024/"><u>New Year, Updated LG 360 Full Review Insights for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/online-gratis-konverteren-van-ogg-naar-wmv-efficientheid-zonder-naptijd-met-movavi/"><u>Online Gratis Konverteren Van Ogg Naar Wmv: Efficiëntheid Zonder Naptijd Met Movavi</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/razer-blade-stealth-cu13-insights-and-analysis-pushing-the-boundaries-of-ultralight-laptop-innovation-and-performance/"><u>Razer Blade Stealth Cu13 Insights & Analysis: Pushing the Boundaries of Ultralight Laptop Innovation and Performance</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/simplified-guide-to-switching-clownfish-voices-on-win-for-2024/"><u>Simplified Guide to Switching Clownfish Voices on Win for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-innovate-laughter-through-adobe-creation/"><u>[New] Innovate Laughter, Through Adobe Creation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-future-vrs-role-in-business-strategy/"><u>[New] Navigating the Future VR's Role in Business Strategy</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-plating-aesthetics-capturing-delectable-dishes-on-screen/"><u>[New] Plating Aesthetics Capturing Delectable Dishes on Screen</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-windows-users-take-note-camcorders-guide-ahead/"><u>[New] Windows Users, Take Note Camcorders Guide Ahead</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfect-pixels-a-guide-to-the-11-best-edits-for-color-balance/"><u>[Updated] Perfect Pixels A Guide to the 11 Best Edits for Color Balance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pursuing-passion-professionally-a-guide-for-aspiring-designers/"><u>[Updated] Pursuing Passion Professionally A Guide for Aspiring Designers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-essential-tips-for-pinning-friends-on-snapchat/"><u>2024 Approved Essential Tips for Pinning Friends on Snapchat</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastery-in-multichannel-instagram-to-tiktok-connector/"><u>2024 Approved Mastery in Multichannel Instagram to TikTok Connector</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimal-choice-of-drones-for-buyers/"><u>2024 Approved Optimal Choice of Drones for Buyers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-13-pro-max-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 13 Pro Max to iPad? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/modern-mobile-maximizing-vr360-video-on-android-update-2023-for-2024/"><u>Modern Mobile Maximizing VR/360 Video on Android (Update 2023) for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/significant-aspects-in-techno-narrative-design-for-2024/"><u>Significant Aspects in Techno Narrative Design for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/smart-shopping-strategy-top-7-affordable-4k-mirrorless-for-2024/"><u>Smart Shopping Strategy Top 7 Affordable 4K Mirrorless for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-shrouded-in-ambiguity-understanding-vague-posting/"><u>Social Media Shrouded in Ambiguity: Understanding Vague Posting</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-trio-of-dread-from-metas-social-clout/"><u>The Trio of Dread From Meta’s Social Clout</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/k-video-insights-top-7-free-easy-to-use-tag-extraction-software-reviewed/"><u>Unlock Video Insights Top 7 Free, Easy-to-Use Tag Extraction Software Reviewed</u></a></li>
 </ul></div>
 

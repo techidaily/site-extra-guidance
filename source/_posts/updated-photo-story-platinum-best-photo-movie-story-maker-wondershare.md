@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Photo Story Platinum - Best Photo Movie Story Maker | Wondershare\""
-date: 2024-10-14T01:01:42.781Z
-updated: 2024-10-19T22:48:36.338Z
+date: 2024-10-20T20:16:10.947Z
+updated: 2024-10-25T22:07:07.306Z
 tags: 
   - screen-recording
   - ai video
@@ -40,13 +40,6 @@ Wondershare Photo Story Platinum is an intuitive photo slideshow maker which you
 * Able to burn your photo story to DVD.
 * Directly share on YouTube, Facebook & virtually anywhere.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Use Wondershare Photo Story Platinum for Windows and Mac
 
 #### Step 1\. Add photos and videos
@@ -60,19 +53,6 @@ After the mode selection, click the Add Files button to import your photos and v
 
 ![photo story](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 2\. Personalize your photo story
 
 Click the Personalize tab. Then you can add transitions, effects, background music and more t create your own gorgeous photo story.
@@ -80,6 +60,13 @@ Click the Personalize tab. Then you can add transitions, effects, background mus
 You can import your photos and videos at one time and arrange the order by dragging. To tell your own photo story, you can add captions to each photo or record your own voice by click the Voice Over button.
 
 ![Photo Story Platinum](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 3\. Publish your photo story
 
@@ -90,10 +77,10 @@ The photo story maker provides sorts of methods for you. For example, if you wan
 ![photo dvd](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Learn more: [user guide of Photo Story Platinum for Windows](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) here.
@@ -110,13 +97,20 @@ Learn about the detailed [technical specifications](https://tools.techidaily.com
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -133,21 +127,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-capturing-conversations-on-messenger-a-comprehensive-how-to-for-2024/"><u>[New] Capturing Conversations on Messenger A Comprehensive How-To for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-iphone-creating-and-editing-low-speed-video-clips/"><u>[New] Mastering iPhone Creating & Editing Low-Speed Video Clips</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-safeguard-your-memories-saving-instagram-on-iphone/"><u>[Updated] 2024 Approved Safeguard Your Memories Saving Instagram on iPhone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-snappy-movement-capturing-blur-with-iphone-photos/"><u>[Updated] Snappy Movement Capturing Blur with iPhone Photos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-interactive-vs-passive-content-consumption-twitch-vs-youtube/"><u>2024 Approved Interactive vs Passive Content Consumption Twitch Vs YouTube</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effective-solutions-for-when-programs-refuse-to-open-on-your-personal-computer/"><u>Effective Solutions for When Programs Refuse to Open on Your Personal Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-recognition-issues-with-your-blue-yeti-mic-easy-steps-inside/"><u>Fixing Recognition Issues with Your Blue Yeti Mic – Easy Steps Inside</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-building-direct-subscribe-urls-for-your-channel-market/"><u>In 2024, Building Direct Subscribe URLs for Your Channel' Market</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-motorola-razr-40-ultra-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Motorola Razr 40 Ultra</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-pinterest-videos-to-mp3s-essential-strategies/"><u>In 2024, Mastering Pinterest Videos to MP3s Essential Strategies</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-narrating-real-life-how-to-write-engaging-docu-scripts/"><u>In 2024, Narrating Real Life How to Write Engaging Docu-Scripts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-professional-moving-less-imagery-tips/"><u>In 2024, Professional Moving-Less Imagery Tips</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-itel-p55plus-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Itel P55+ FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/perfecting-bio-linking-a-complete-system-on-tiktok-for-2024/"><u>Perfecting Bio Linking A Complete System on TikTok for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-definitive-method-for-auto-elevation-always-opening-apps-as-an-admin-on-windows-11/"><u>The Definitive Method for Auto-Elevation: Always Opening Apps as an Admin on Windows 11</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/ultimate-tutorial-on-how-to-change-srt-to-vtt-captions-at-no-cost/"><u>Ultimate Tutorial on How to Change SRT to VTT Captions at No Cost</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-enriching-your-projects-look-by-adding-unique-fonts/"><u>[New] Enriching Your Project's Look by Adding Unique Fonts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionize-your-mac-streaming-experience/"><u>[New] Revolutionize Your Mac Streaming Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-play-every-game-at-home-nba-streaming-made-simple-top-15/"><u>[Updated] Play Every Game at Home NBA Streaming Made Simple (Top 15)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-dissecting-insta-video-selfie-validation-necessary-or-not/"><u>2024 Approved Dissecting Insta Video Selfie Validation – Necessary or Not?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-your-linkedin-summary-statement/"><u>2024 Approved Perfecting Your LinkedIn Summary Statement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-chatgpt-navigating-the-realm-of-ai-generated-content/"><u>Exploring ChatGPT: Navigating the Realm of AI-Generated Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immediate-access-best-5-convertors-no-download-required-for-2024/"><u>Immediate Access Best 5 Convertors, No Download Required for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfected-techniques-for-high-quality-webp-to-jpg-conversion-for-2024/"><u>Perfected Techniques for High-Quality WebP to JPG Conversion for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/portable-picture-pixels-windows-mac-best-photo-to-cartoon-converter-for-2024/"><u>Portable Picture Pixels Windows, Mac - Best Photo-to-Cartoon Converter for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/rtx-2060-super-graphics-card-driver-download-for-windows-11/"><u>RTX 2060 Super Graphics Card Driver Download for Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-moto-g-play-powerful-battery-and-competent-device-efficiency/"><u>Unveiling the Moto G Play: Powerful Battery and Competent Device Efficiency</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Radiant Renderings  Perfecting Video Light Quality\""
-date: 2024-07-31T19:10:03.650Z
-updated: 2024-08-01T19:10:03.650Z
+date: 2024-10-19T16:09:22.396Z
+updated: 2024-10-25T17:38:57.461Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ Many people are wondering how to set up lighting for video shooting. While there
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -55,9 +52,6 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
@@ -72,9 +66,6 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
@@ -83,18 +74,12 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 **Using Key Light + Fill + Backlight**
@@ -108,8 +93,12 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -142,5 +131,20 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-short-segment-screenplay-snippet/"><u>[New] Short Segment Screenplay Snippet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-perfectiphone-podcast-guide-seamlessly-download-from-anywhere/"><u>[Updated] In 2024, PerfectiPhone Podcast Guide – Seamlessly Download From Anywhere</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-trimming-tamil-melodies-best-practices/"><u>[Updated] Mastering the Art of Trimming Tamil Melodies Best Practices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-social-media-magic-viral-trends-in-youtube-hashing/"><u>[Updated] Social Media Magic Viral Trends in YouTube Hashing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-night-photography-perfection-with-iphones/"><u>2024 Approved Night Photography Perfection with iPhones</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-apple-iphone-13-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from Apple iPhone 13 Safe and Legal</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004149140-free-solution-to-call-of-duty-vanguard-freezing-learn-how-today/"><u>Free Solution to Call of Duty: Vanguard Freezing – Learn How Today!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-video-vibes-for-top-tier-unpacked-videos/"><u>In 2024, Mastering Video Vibes for Top-Tier Unpacked Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-path-to-professionalism-morphvox-transformation-guide/"><u>In 2024, Path to Professionalism MorphVOX Transformation Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/melodic-mastery-mac-studio-tips-for-2024/"><u>Melodic Mastery Mac Studio Tips for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pro-audio-software-win-edition-for-2024/"><u>Pro Audio Software Win Edition for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-choosing-a-twelve-south-bookbook-v2-protective-case-for-your-macbook/"><u>The Ultimate Guide to Choosing a Twelve South BookBook V2 Protective Case for Your MacBook</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-asus-rog-phone-8-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Asus ROG Phone 8?</u></a></li>
+</ul></div>
 

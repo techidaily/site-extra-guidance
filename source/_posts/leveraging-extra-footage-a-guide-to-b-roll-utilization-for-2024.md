@@ -1,7 +1,7 @@
 ---
 title: "\"Leveraging Extra Footage  A Guide to B Roll Utilization for 2024\""
-date: 2024-07-31T19:12:59.882Z
-updated: 2024-08-01T19:12:59.882Z
+date: 2024-10-22T20:54:18.922Z
+updated: 2024-10-25T17:36:42.649Z
 tags: 
   - screen-recording
   - ai video
@@ -32,9 +32,6 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -43,19 +40,33 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Visual detail b roll footage
 
@@ -65,9 +76,23 @@ Including archival material in your video allows your audience to experience a p
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Atmospheric b roll footage
 
@@ -75,25 +100,16 @@ When you are sharing a narrative that has been told in the past or that has hist
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 We sincerely hope that this post will be of use to you in making your films more cinematic. You not only know how to film and edit your videos utilizing B rolls, you also have an extremely effective hack that allows you to generate amazing videos using stock footage. This is both impressive and unique.
@@ -126,5 +142,26 @@ We sincerely hope that this post will be of use to you in making your films more
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-memes-for-iphone/"><u>[New] Memes for iPhone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-most-advanced-iphone-videography-apps/"><u>[New] Most Advanced iPhone Videography Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-graphic-rigs-mastering-4k-titles/"><u>[New] Pro Graphic Rigs Mastering 4K Titles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-panasonic-hx-a1-actioncam-in-depth-review/"><u>[Updated] Panasonic HX-A1 ActionCam In-Depth Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-tailoring-humor-personalize-with-kinemaster-for-2024/"><u>[Updated] Tailoring Humor Personalize with KineMaster for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-selecting-the-ultimate-gear-for-stellar-4k-production/"><u>2024 Approved Selecting the Ultimate Gear for Stellar 4K Production</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-why-picshot-makes-photo-collage-easier/"><u>2024 Approved Why Picshot Makes Photo Collage Easier?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beyond-likes-and-hearts-uncover-these-10-intriguing-emoji-secrets/"><u>Beyond Likes and Hearts: Uncover These 10 Intriguing Emoji Secrets</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compact-docking-station-revolutionizes-portable-computer-setups-techradar/"><u>Compact Docking Station Revolutionizes Portable Computer Setups | TechRadar</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/detecting-false-connection-bids-on-your-profile-top-tips/"><u>Detecting False Connection Bids on Your Profile - Top Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-guide-converting-mp4-files-to-vob-format-using-your-windows-10-machine/"><u>Easy Guide: Converting MP4 Files To VOB Format Using Your Windows 10 Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-malfunctioning-laptop-keyboard-on-pc-tips-for-win7win8win10-users/"><u>How to Repair a Malfunctioning Laptop Keyboard on PC: Tips for Win7/Win8/Win10 Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s23-tactical-edition-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S23 Tactical Edition to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-podcast-name-selection-step-by-step-guide-plus-50plus-top-ideas-list/"><u>In 2024, Mastering Podcast Name Selection Step-by-Step Guide + 50+ Top Ideas List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-enterprise-sky-saver-guide/"><u>In 2024, Premium Enterprise Sky Saver Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/lighten-up-your-digital-presence-kapwing-maker-for-2024/"><u>Lighten Up Your Digital Presence - Kapwing Maker for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-through-and-resolving-class-not-found-hiccups-on-windows/"><u>Navigating Through and Resolving 'Class Not Found' Hiccups on Windows</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-effortlessly-blurring-images-and-portions-on-your-iphone/"><u>Quick Guide: Effortlessly Blurring Images & Portions on Your iPhone</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-s18-pro-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo S18 Pro</u></a></li>
+</ul></div>
 

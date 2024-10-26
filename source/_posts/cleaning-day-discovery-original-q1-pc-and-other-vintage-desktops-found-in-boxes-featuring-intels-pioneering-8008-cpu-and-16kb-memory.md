@@ -1,7 +1,7 @@
 ---
 title: "Cleaning Day Discovery: Original Q1 PC and Other Vintage Desktops Found in Boxes, Featuring Intel's Pioneering 8008 CPU and 16KB Memory"
-date: 2024-10-14T20:31:17.730Z
-updated: 2024-10-19T16:01:07.760Z
+date: 2024-10-20T16:43:14.350Z
+updated: 2024-10-25T16:18:43.307Z
 tags:
   - desktop
 categories:
@@ -76,23 +76,22 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-engagement-hook-generator/"><u>2024 Approved Prime Engagement Hook Generator</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-side-by-side-hero4-vs-hero5-analysis/"><u>2024 Approved Side by Side Hero4 vs Hero5 Analysis</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 with/without SIM Card</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-noteworthy-14-dynamic-text-artworks/"><u>In 2024, Noteworthy 14 Dynamic Text Artworks</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-stepwise-approach-affordable-creation-of-engaging-youtube-intros/"><u>In 2024, Stepwise Approach Affordable Creation of Engaging YouTube Intros</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-honor-magic-5-pro-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Honor Magic 5 Pro Android SIM Unlock APK</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-large-video-transfer-ios-to-macos-device-harmony-for-2024/"><u>Mastering Large Video Transfer IOS to macOS Device Harmony for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-decreasing-decibents-a-guide-to-fading-out-sounds-for-2024/"><u>Mastering the Art of Decreasing Decibents A Guide to Fading Out Sounds for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-through-bendy-brilliance-and-shortcomings-an-in-depth-look-at-the-lenovo-thinkpad-x1-fold/"><u>Navigating Through Bendy Brilliance and Shortcomings: An In-Depth Look at the Lenovo ThinkPad X1 Fold</u></a></li>
-<li><a href="https://win-web3.techidaily.com/quick-guide-to-clonezilla-system-restore-tutorials-a-complete-step-by-step-process/"><u>Quick Guide to Clonezilla System Restore Tutorials – A Complete Step-by-Step Process</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-making-simple-text-pop-in-videos-without-costs/"><u>[New] Making Simple Text Pop in Videos without Costs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-level-tiktok-edits-techniques-that-increase-viewership/"><u>[New] Pro-Level TikTok Edits Techniques That Increase Viewership</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-securing-your-games-in-motion-top-5-for-windows-10/"><u>[New] Securing Your Games in Motion Top 5 for Windows 10</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-ultimate-compilation-of-top-tier-free-iphone-composition-software/"><u>[New] The Ultimate Compilation of Top-Tier Free iPhone Composition Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-perfect-placement-for-instagrams-audio-emojis-a-quick-guide/"><u>2024 Approved Perfect Placement for Instagram’s Audio Emojis – A Quick Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-and-easy-the-top-ten-for-youtube-mpeg-transformation/"><u>2024 Approved Quick and Easy The Top Ten for YouTube MPEG Transformation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-motorola-moto-g84-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Motorola Moto G84 5G?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-note-30-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-the-art-of-video-with-these-html5-platforms-for-2024/"><u>Master the Art of Video with These HTML5 Platforms for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

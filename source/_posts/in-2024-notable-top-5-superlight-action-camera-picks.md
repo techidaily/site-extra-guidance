@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Notable Top 5 Superlight Action Camera Picks"
-date: 2024-07-31T19:12:54.304Z
-updated: 2024-08-01T19:12:54.304Z
+date: 2024-10-21T22:11:59.440Z
+updated: 2024-10-25T17:08:52.961Z
 tags: 
   - screen-recording
   - ai video
@@ -67,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/b9c87935bcb636b8006c11267defd1b13d4f0a546
 
 #### 3\. [Olympus TG-Tracker](https://tools.techidaily.com/wondershare/filmora/download/) ($299.99)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![Backpacking/Hiking Cameras - Olympus TG-Tracker](https://images.wondershare.com/filmora/article-images/olympus-tg-tracker.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01ERLMTSI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ERLMTSI&linkId=34d5c0e389cef67e7a6b9e5d754a12fc
@@ -79,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/b9c87935bcb636b8006c11267defd1b13d4f0a546
 
 #### 4\. [Sony FDR-X1000V](https://tools.techidaily.com/wondershare/filmora/download/) ($399.99)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Backpacking/Hiking Cameras - Sony FDR x1000v](https://images.wondershare.com/filmora/article-images/sony-fdr-1000.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00R1COCT0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R1COCT0&linkId=eb0771cffd16191ae77ad0a5c6df67b1
@@ -91,9 +85,6 @@ thumbnail: https://thmb.techidaily.com/b9c87935bcb636b8006c11267defd1b13d4f0a546
 
 #### 5\. Ricoh WG-M2 ($196.99)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![Backpacking/Hiking Cameras - Ricoh WG M-2](https://images.wondershare.com/filmora/article-images/ricoh-wg-m2.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01C395NWU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C395NWU&linkId=6090fffac05d4c82ef9e790492fd38f8
@@ -101,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/b9c87935bcb636b8006c11267defd1b13d4f0a546
 
  This camera is equipped with ultra wide lenses of 204 degree coverage capacity and its compact and attractive construction make it action ready device. The 4K resolution can be obtained with 30 frames per second rate and you can even record at rough locations with this shock resistant camera. It can go under water up to 65’ and can stay there up to two hours without any trouble whereas freezing temperature is adjusted to its maximum value of 14 degrees.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -166,10 +154,14 @@ Follow @Max Wales
 
 #### 4\. [Sony FDR-X1000V](https://tools.techidaily.com/wondershare/filmora/download/) ($399.99)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Backpacking/Hiking Cameras - Sony FDR x1000v](https://images.wondershare.com/filmora/article-images/sony-fdr-1000.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00R1COCT0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R1COCT0&linkId=eb0771cffd16191ae77ad0a5c6df67b1
 )
@@ -178,9 +170,6 @@ Follow @Max Wales
 
 #### 5\. Ricoh WG-M2 ($196.99)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Backpacking/Hiking Cameras - Ricoh WG M-2](https://images.wondershare.com/filmora/article-images/ricoh-wg-m2.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01C395NWU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C395NWU&linkId=6090fffac05d4c82ef9e790492fd38f8
@@ -212,8 +201,12 @@ Follow @Max Wales
 6. Lightweight design so that users can carry it anywhere easily.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Top 5 Best Action Cameras For Backpacking and Hiking
 
  There are so many action cameras available in market but not all of them are suitable for hiking applications. The article below contains information about 5 best hiking camera units that possess all features discussed above.
@@ -236,9 +229,6 @@ Follow @Max Wales
 
 #### 2\. Garmin Virb Elite ($159.95)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![Backpacking/Hiking Cameras - Garmin Virb Elite](https://images.wondershare.com/filmora/article-images/garmin_virb.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01HP4PMG0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HP4PMG0&linkId=d4c86edc07888f1a73f2696e417da1e1)
@@ -247,10 +237,14 @@ Follow @Max Wales
 
 #### 3\. [Olympus TG-Tracker](https://tools.techidaily.com/wondershare/filmora/download/) ($299.99)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Backpacking/Hiking Cameras - Olympus TG-Tracker](https://images.wondershare.com/filmora/article-images/olympus-tg-tracker.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01ERLMTSI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ERLMTSI&linkId=34d5c0e389cef67e7a6b9e5d754a12fc
 )
@@ -261,6 +255,13 @@ Follow @Max Wales
 
 ![Backpacking/Hiking Cameras - Sony FDR x1000v](https://images.wondershare.com/filmora/article-images/sony-fdr-1000.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Check at Amazon](https://www.amazon.com/gp/product/B00R1COCT0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R1COCT0&linkId=eb0771cffd16191ae77ad0a5c6df67b1
 )
 
@@ -268,10 +269,14 @@ Follow @Max Wales
 
 #### 5\. Ricoh WG-M2 ($196.99)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Backpacking/Hiking Cameras - Ricoh WG M-2](https://images.wondershare.com/filmora/article-images/ricoh-wg-m2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01C395NWU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C395NWU&linkId=6090fffac05d4c82ef9e790492fd38f8
 )
@@ -323,9 +328,6 @@ Follow @Max Wales
 
 #### 2\. Garmin Virb Elite ($159.95)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Backpacking/Hiking Cameras - Garmin Virb Elite](https://images.wondershare.com/filmora/article-images/garmin_virb.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01HP4PMG0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HP4PMG0&linkId=d4c86edc07888f1a73f2696e417da1e1)
@@ -354,14 +356,24 @@ Follow @Max Wales
 
 ![Backpacking/Hiking Cameras - Ricoh WG M-2](https://images.wondershare.com/filmora/article-images/ricoh-wg-m2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Check at Amazon](https://www.amazon.com/gp/product/B01C395NWU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C395NWU&linkId=6090fffac05d4c82ef9e790492fd38f8
 )
 
  This camera is equipped with ultra wide lenses of 204 degree coverage capacity and its compact and attractive construction make it action ready device. The 4K resolution can be obtained with 30 frames per second rate and you can even record at rough locations with this shock resistant camera. It can go under water up to 65’ and can stay there up to two hours without any trouble whereas freezing temperature is adjusted to its maximum value of 14 degrees.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -392,5 +404,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-comparing-the-giants-an-in-depth-guide-to-tiktok-vs-snapchats-functionality/"><u>[New] 2024 Approved Comparing the Giants An In-Depth Guide to TikTok vs Snapchat's Functionality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-leading-edge-techniques-for-video-based-seminars/"><u>[New] 2024 Approved Leading Edge Techniques for Video-Based Seminars</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-instagram-reels-incorporating-tracks-seamlessly/"><u>[New] Mastering Instagram Reels Incorporating Tracks Seamlessly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-battle-of-the-lenses-sj6-vs-yi-4k-prodigy/"><u>[Updated] Battle of the Lenses SJ6 Vs. Yi 4K Prodigy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-foundations-first-what-to-invest-in-for-youtubing/"><u>[Updated] Foundations First What To Invest In for YouTubing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-instantaneous-inspector-of-images-on-windows/"><u>[Updated] Instantaneous Inspector of Images on Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-investigating-best-fps-for-outstanding-slow-motion-cinematography/"><u>[Updated] Investigating Best FPS for Outstanding Slow-Motion Cinematography</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-iphone-lens-magic-perfecting-close-up-and-macro-shots-for-2024/"><u>[Updated] IPhone Lens Magic Perfecting Close-Up and Macro Shots for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-circuit-conquerors-ranking-your-top-5-speed-driven-games/"><u>2024 Approved Circuit Conquerors Ranking Your Top 5 Speed-Driven Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-music-tools-for-pcs/"><u>2024 Approved Exclusive Music Tools for PCs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-radiant-renderings-perfecting-video-light-quality/"><u>2024 Approved Radiant Renderings Perfecting Video Light Quality</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-mastering-quantum-hdr/"><u>2024 Approved Step by Step Guide to Mastering Quantum HDR</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unleash-your-social-media-potential-find-the-best-8-instagram-timers/"><u>2024 Approved Unleash Your Social Media Potential Find the Best 8 Instagram Timers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sonic-storytelling-instagrams-musical-tale-unfolding/"><u>In 2024, Sonic Storytelling Instagram's Musical Tale Unfolding</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-nokia-g310-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Nokia G310? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-close-ups-quick-minecraft-enhancements-for-2024/"><u>Mastering Close-Ups Quick Minecraft Enhancements for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfected-meme-design-suite-for-2024/"><u>Perfected Meme Design Suite for 2024</u></a></li>
+</ul></div>
 

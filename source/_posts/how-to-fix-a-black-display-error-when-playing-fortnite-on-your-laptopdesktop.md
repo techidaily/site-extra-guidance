@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Black Display Error When Playing Fortnite on Your Laptop/Desktop
-date: 2024-10-14T20:47:46.852Z
-updated: 2024-10-20T00:50:44.443Z
+date: 2024-10-23T17:08:27.683Z
+updated: 2024-10-25T22:54:34.970Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 5. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlay](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run Deathloop as an administrator
 
  By default, Windows runs a program as a regular user, but this may prevent it from accessing necessary permissions. To make sure Deathloop works properly, you should run it as an administrator.
@@ -43,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-the-game-as-an-administrator.jpg)
 
  Restart the game to test. If the crashes reoccur, continue to the second fix.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Use the dedicated GPU
 
@@ -63,31 +63,17 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 3. Navigate to the game’s installation folder and add the Deathloop.exe file.  
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card.jpg)
 4. Click**Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-3.jpg)
 5. Select**High performance** and click**Save** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-4.jpg)
 
@@ -104,21 +90,14 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Reboot your computer after the driver update completes, and check if Deathloop still crashes. If so, try the next solution.
@@ -134,13 +113,26 @@ You can also close all unnecessary apps in the background. Here is how:
 2. Under the Process tab, right-click a program you’d like to close and click **End task** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-unnecessary-programs-running-in-the-background.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
@@ -172,7 +164,21 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-1.jpg)
 3. Select**In-Game** from the left. Then untick**Enable the Steam Overlay while in-game** , and click **OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### On Discord
 
@@ -184,10 +190,10 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Deathloop should be back to normal after you applied the settings as above.
@@ -211,24 +217,21 @@ You can also close all unnecessary apps in the background. Here is how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-shoot-igtv-videos-with-smartphonedlsr-cameras/"><u>[New] How to Shoot IGTV Videos With Smartphone/DLSR Cameras?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-prime-low-cost-full-hd-cameras-for-stunts/"><u>[New] Prime Low-Cost Full HD Cameras for Stunts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-video-annotations-mastery-cutting-with-precision-and-style/"><u>[Updated] 2024 Approved Video Annotations Mastery Cutting with Precision & Style</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-cinematic-expertise-top-15-innovative-gopro-action-cam-look-ups/"><u>[Updated] Cinematic Expertise Top 15 Innovative GoPro Action Cam Look-Ups</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-survivals-tightrope-ranking-the-top-8-zombie-adventures/"><u>[Updated] In 2024, Survival's Tightrope Ranking the Top 8 Zombie Adventures</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-complete-drone-racing-playbook-plus-5-elite-fpv-brands/"><u>[Updated] In 2024, The Complete Drone Racing Playbook + 5 Elite FPV Brands</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-is-broadcasting-facebook-videos-a-reality-yet-for-2024/"><u>[Updated] Is Broadcasting Facebook Videos a Reality Yet for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-iphone-images-in-dim-light/"><u>2024 Approved Perfecting iPhone Images in Dim Light</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-no-cost-vectors-and-graphic-hubs-roundup/"><u>2024 Approved Premium No-Cost Vectors & Graphic Hubs Roundup</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-secrets-to-enjoying-authentic-cricket-games-in-real-time/"><u>2024 Approved Secrets to Enjoying Authentic Cricket Games in Real-Time</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-complete-guide-to-crafting-captivating-snapchat-boomers/"><u>2024 Approved The Complete Guide to Crafting Captivating Snapchat Boomers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-realme-12-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Realme 12 5G Phone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-audio-file-transformation-srt-to-xmlssattml/"><u>In 2024, Mastering Audio File Transformation SRT to XML/SSA/TTML</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-sketch-up-your-ideas-an-essential-guide-to-the-top-8-drawing-tools-on-ios/"><u>In 2024, Sketch Up Your Ideas An Essential Guide to the Top 8 Drawing Tools on iOS</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-thinkpad-driver-update-guide-windows-10/"><u>Lenovo Thinkpad Driver Update Guide - Windows 10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/maximizing-tiktok-engagement-in-unboxing-videos-for-2024/"><u>Maximizing TikTok Engagement in Unboxing Videos for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/photo-editing-mastery-leveraging-photoshops-background-eraser-tool-to-perfection-for-2024/"><u>Photo Editing Mastery Leveraging Photoshop's Background Eraser Tool to Perfection for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-12-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi 12 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-up-your-game-expert-tips-for-tiktok-editing-for-2024/"><u>Step Up Your Game Expert Tips for TikTok Editing for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1716069582272-new-in-2024-xbox-game-memories-save-them-with-screenshots/"><u>[New] In 2024, Xbox Game Memories, Save Them with Screenshots!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-investigating-the-practical-usefulness-of-photo-stabilization/"><u>[Updated] Investigating the Practical Usefulness of Photo Stabilization</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-live-media-masters-choice-vmix-vs-wirecast-for-professionals/"><u>[Updated] Live Media Masters Choice VMix Vs. Wirecast for Professionals</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-audio-best-practices-for-ipodcasting-interviews-on-ios-devices/"><u>[Updated] Mastering Audio Best Practices for iPodcasting Interviews on iOS Devices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-mastering-the-art-of-iphones-detailed-photography/"><u>[Updated] Mastering the Art of iPhone's Detailed Photography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-photo-quality-for-commercial-use/"><u>2024 Approved Maximizing Photo Quality for Commercial Use</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-insights-for-accelerating-editing-tasks-efficiently/"><u>2024 Approved Quick Insights for Accelerating Editing Tasks Efficiently</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-converting-photographs-into-cinematic-videography-with-pixiz/"><u>2024 Approved The Art of Converting Photographs Into Cinematic Videography with Pixiz</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazon-fire-hd-8-8th-gen-assessment-delivering-value-for-money-in-an-entry-level-device/"><u>Amazon Fire HD 8 (8Th Gen) Assessment: Delivering Value for Money in an Entry-Level Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-windows-gpo-a-complete-guide-for-users/"><u>Deciphering Windows GPO: A Complete Guide for Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-rhythmic-resonance-incor-written-by-assistant/"><u>In 2024, Rhythmic Resonance Incor Written by Assistant</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-selective-slow-speed-video-capture-apps-androidiphone/"><u>In 2024, Selective Slow-Speed Video Capture Apps Android/iPhone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-slumber-screen-shows-story-insights-reviewed/"><u>In 2024, Slumber Screen Shows Story Insights Reviewed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-technology-with-tom-the-ultimate-hardware-review-site/"><u>Mastering Technology with Tom: The Ultimate Hardware Review Site</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ize-youtube-traction-affordable-audience-expansion-for-2024/"><u>Maximize YouTube Traction Affordable Audience Expansion for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/solving-issues-with-the-lenovo-one-key-recovery-when-your-partition-is-damaged/"><u>Solving Issues with the Lenovo One Key Recovery: When Your Partition Is Damaged</u></a></li>
 </ul></div>
 

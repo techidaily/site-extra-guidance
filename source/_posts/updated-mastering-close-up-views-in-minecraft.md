@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Close-Up Views in Minecraft\""
-date: 2024-10-16T19:49:21.999Z
-updated: 2024-10-20T01:49:57.590Z
+date: 2024-10-24T19:25:53.736Z
+updated: 2024-10-25T19:39:29.544Z
 tags: 
   - screen-recording
   - ai video
@@ -73,13 +73,20 @@ Step1 Install the Minecraft OptiFine Mod on your PC in the first step. Visit the
 ![install minecraft optifine mod](https://images.wondershare.com/filmora/article-images/2022/07/install-minecraft-optifine-mod.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** For your most recent version of Minecraft, go to optifine.net and select the Downloads page to get the most recent version of OptiFine. By selecting the Show all versions option, you may download the OptiFine compatible version of Minecraft if your current version is out of date.
 
@@ -88,10 +95,10 @@ Step2 Double-click the downloaded OptiFine file to open it and finish the instal
 ![install optifine file](https://images.wondershare.com/filmora/article-images/2022/07/install-optifine-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Start the launcher in Minecraft in the next step. If OptiFine does not appear in the drop-down menu, click Installations at the top of the launcher. Then click New in the top-left corner of the screen. Write OptiFine to install. From the Version menu, choose the version that has OptiFine in the title.
@@ -106,20 +113,6 @@ Step5 In the Minecraft launch, choose the Play option and click to load a game. 
 
 ![click load minecraft game](https://images.wondershare.com/filmora/article-images/2022/07/click-load-minecraft-game.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Way 4\. Using a Spyglass
 
 In Minecraft, the spyglass is used to zoom in so that a player may see well at a greater distance than is typically feasible. This is incredibly helpful while exploring diverse biomes since it enhances your eyesight and makes it simple to find monsters or precious materials that are hidden from view. Players may now create a zooming item in Minecraft. The new Spyglass item that enables users to zoom in on certain places was introduced to Minecraft in the 1.17 release. The spyglass is a creatable item in Minecraft that enables users to alter their Field of Vision anytime they want to without visiting the settings page. On your Minecraft crafting table, you may create a spyglass.
@@ -132,6 +125,13 @@ Step2 After that, put the Spyglass you just created in your menu bar and take a 
 
 ![spyglass options panel](https://images.wondershare.com/filmora/article-images/2022/07/spyglass-options-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 However, you will always zoom in to 10% of your current Field of View while using your Spyglass. When using a spyglass, for instance, your zoom level will be 6 if your field of view is set to 60\. As a result, a Spyglass will allow you to see objects considerably further away.
 
 ![spyglass settings](https://images.wondershare.com/filmora/article-images/2022/07/spyglass-settings.jpg)
@@ -139,6 +139,13 @@ Step3 However, you will always zoom in to 10% of your current Field of View whil
 Step4 On the crafting table, arrange 2 copper ingots and 1 amethyst shard in the exact same configuration as in the illustration below to create a spyglass.
 
 ![crafting table spyglass](https://images.wondershare.com/filmora/article-images/2022/07/crafting-table-spyglass.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Way 5\. Use Zoomed-Out Maps
 
@@ -151,6 +158,13 @@ Step1 Gather the materials needed to make a map in the first step. These include
 Step2 Nine sheets of paper will be made from the sugar cane. Open the crafting table, and then put three pieces of sugar cane on each of the bottom squares to make them. To add paper to your inventory, click and drag it to the right-hand box's paper icon.
 
 ![add paper to inventory](https://images.wondershare.com/filmora/article-images/2022/07/add-paper-to-inventory.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 At this point, we may start drawing a map. Put the compass in the center square of the handicraft grid, then fill up all the other squares with paper. Now that the crafts grid is open, fill each square with paper and set a compass in the center. To add the yellow piece of paper to the inventory, click and drag it over to the right.
 
@@ -176,6 +190,13 @@ Step3 Start the launcher in Minecraft in the next step. If OptiFine does not app
 
 ![start launcher in minecraft](https://images.wondershare.com/filmora/article-images/2022/07/start-launcher-in-minecraft.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Verify that OptiFine Mod is loaded into the program by checking this box. You may now see OptiFine on the bottom left of the Play option. If you can't see that, pick OptiFine by tapping the box next to the play choice; it is often the most recent release.
 
 ![optifine controls zoom](https://images.wondershare.com/filmora/article-images/2022/07/optifine-controls-zoom.jpg)
@@ -197,10 +218,10 @@ Step2 After that, put the Spyglass you just created in your menu bar and take a 
 ![spyglass options panel](https://images.wondershare.com/filmora/article-images/2022/07/spyglass-options-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 However, you will always zoom in to 10% of your current Field of View while using your Spyglass. When using a spyglass, for instance, your zoom level will be 6 if your field of view is set to 60\. As a result, a Spyglass will allow you to see objects considerably further away.
@@ -223,38 +244,11 @@ Step2 Nine sheets of paper will be made from the sugar cane. Open the crafting t
 
 ![add paper to inventory](https://images.wondershare.com/filmora/article-images/2022/07/add-paper-to-inventory.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 At this point, we may start drawing a map. Put the compass in the center square of the handicraft grid, then fill up all the other squares with paper. Now that the crafts grid is open, fill each square with paper and set a compass in the center. To add the yellow piece of paper to the inventory, click and drag it over to the right.
 
 Step4 In order to utilize the map, choose it from the Equip bar at the bottom of the game screen, then right-click (or press and hold on a mobile device). After the first time, repeat the instructions to build 2048 x 2048 blocks, which will give you the greatest magnification. You may stroll about your planet while wearing the map to record all of its features and landmarks as shown below:
 
 ![utilize the map](https://images.wondershare.com/filmora/article-images/2022/07/utilize-the-map.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -288,18 +282,18 @@ With the above 5 ways, the finest video game, Minecraft, has now the accessibili
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-definitive-guide-for-choosing-best-youtube-visual-elements/"><u>[New] 2024 Approved The Definitive Guide for Choosing Best YouTube Visual Elements</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-essential-techniques-for-soundless-video/"><u>[New] Essential Techniques for Soundless Video</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-startup-strategies-for-making-money-on-periscope/"><u>[New] Startup Strategies for Making Money on Periscope</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-steady-shot-enhancer-for-traveling-filmmakers/"><u>[New] Steady Shot Enhancer for Traveling Filmmakers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-no-more-interrupted-instagram-videos-heres-how/"><u>[Updated] In 2024, No More Interrupted Instagram Videos - Here's How</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-step-by-step-converting-webp-to-jpeg/"><u>[Updated] In 2024, Step-by-Step Converting WebP to JPEG</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-augment-pixel-tiles-with-concentric-blur-magic-ps/"><u>2024 Approved Augment Pixel Tiles with Concentric Blur Magic PS</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-cutting-and-compositing-for-youtube-videos-using-premiere-pro/"><u>2024 Approved Cutting and Compositing for YouTube Videos Using Premiere Pro</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-save-big-top-6-inexpensive-action-cams-under-100-deals/"><u>2024 Approved Save Big Top 6 Inexpensive Action Cams Under $100 Deals</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhancing-image-quality-in-far-cry-6-console-edition/"><u>Enhancing Image Quality in Far Cry 6 Console Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-beyond-wirecast-for-broadcast-solutions/"><u>In 2024, Navigating Beyond WireCast for Broadcast Solutions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-spotlight-on-5-captivating-book-viddies/"><u>In 2024, Spotlight on 5 Captivating Book Viddies</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-honor-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Honor Phone Pattern Lock</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterful-iphone-videography-top-8-expert-filmmaking-advice/"><u>[New] Masterful iPhone Videography Top 8 Expert Filmmaking Advice</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-return-creator-toolkit/"><u>[New] Return Creator Toolkit</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unleashing-video-potential-the-imovie-blueprint-for-youtube-editors/"><u>[Updated] 2024 Approved Unleashing Video Potential The iMovie Blueprint for YouTube Editors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-viral-jokes-whos-winning-on-the-meme-front/"><u>[Updated] Viral Jokes Who's Winning on the Meme Front?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-everything-amazfit-helio-ring-specs-release-date-and-more/"><u>Discover Everything: Amazfit Helio Ring Specs, Release Date & More</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/experience-enhanced-digital-presence-with-cookiebot-integration-bespoke-online-growth-tools/"><u>Experience Enhanced Digital Presence with Cookiebot Integration | Bespoke Online Growth Tools</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-v29-pro-by-drfone-android/"><u>How to Bypass FRP from Vivo V29 Pro?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-8-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 8</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-tools-and-techniques-image-to-video-conversion/"><u>In 2024, Prime Tools and Techniques Image-to-Video Conversion</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mod-to-mp4-conversion-guide-top-7-tools-for-quick-and-easy-cross-platform-ripping-on-mac-and-pc/"><u>MOD to MP4 Conversion Guide: Top 7 Tools for Quick and Easy Cross-Platform Ripping on Mac & PC</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/next-level-gaming-experience-with-ps4-pro-and-4k-visuals-explored/"><u>Next-Level Gaming Experience with PS4 Pro and 4K Visuals Explored</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/ps5xbox-gaming-monitors-the-5-most-exciting-choices-for-2024/"><u>PS5/Xbox Gaming Monitors The 5 Most Exciting Choices for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-compatible-keyboard-software-for-windows-7-systems/"><u>Quick Download: Compatible Keyboard Software for Windows 7 Systems</u></a></li>
 </ul></div>
 

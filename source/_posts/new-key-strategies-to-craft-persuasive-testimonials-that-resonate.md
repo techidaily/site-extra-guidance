@@ -1,7 +1,7 @@
 ---
 title: "[New] Key Strategies to Craft Persuasive Testimonials That Resonate"
-date: 2024-07-31T19:17:03.381Z
-updated: 2024-08-01T19:17:03.381Z
+date: 2024-10-19T17:20:59.994Z
+updated: 2024-10-25T22:55:19.045Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ If you want to learn how to create video testimonials that convert, then this po
 
 ## Identify Your Perfect Customer
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![identify your perfect customer](https://images.wondershare.com/filmora/article-images/2022/07/identify-your-perfect-customer.jpg)
 
 The first key tactic to creating a perfect testimonial video is identifying your perfect customer. The more you know about the type of person who will benefit the most from using your product or service, the better you can tailor your video content to speak directly to them.
@@ -43,18 +40,29 @@ It may seem like a daunting task, but there are several ways you can go about de
 * The more specific you can be with these questions, the better. For example, if you're selling pet products online, ask about their pets' names, breed, and color (if applicable).
 * If there's no good reason for asking a question then don't! For example: "How was your experience with our website?"
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Include Strong Opinions
 
 ![include strong opinion](https://images.wondershare.com/filmora/article-images/2022/07/include-strong-opinion.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Use the word “I”.
 * Use the word “we”.
 * Use the word “you”.
 * You can also use the word "they" for an authoritative tone, or "them", which is more casual and vaguer, depending on what you want to convey.
 * Please avoid saying the word "me" because this makes it sound like you're speaking in the third person—which can come across as unnatural and pretentious.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Keep it All Short and Sweet
 
@@ -67,40 +75,50 @@ When asking someone for their thoughts on a topic or issue, there's always going
 Asking open-ended questions allows people greater freedom when responding—and while this may sound like an ideal situation when creating content, it often results in less-than-ideal responses when creating content at scale since you won't always get exactly what you want out of every shot.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Lighting, Sound, and Video Quality Matter
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![lighting sound video quality](https://images.wondershare.com/filmora/article-images/2022/07/lighting-sound-video-quality.jpg)
 
 Lighting, sound, and video quality matter.
 
 This is a given. If you want your testimonial videos to be effective and believable, they need to be properly lit, recorded with good audio quality, and captured in high resolution. While these may seem like obvious must-haves for any video production project—and they are—it's important to remember that there are many factors at play when it comes to how your audience will perceive the final product.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Really Listen to Your Prospects
 
 ![listen to your prospects](https://images.wondershare.com/filmora/article-images/2022/07/listen-to-your-prospects.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When you're listening to your customers, don't just take notes on what they say. Also, look at their body language and eye movement. This can tell you a lot about whether they are telling the truth or not, and it will give you an idea of what may be going on in their head.
 
 If someone says "I love this product," but then shows their eyes darting around nervously, that could mean that they're worried about saying something nice about the product because it's not really meeting their needs. If someone says "It's okay," but he or she is nodding along with enthusiasm when talking about it, that probably means he or she really does like it!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Beware of Skeptics and Negative Nellies
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![beware skeptics](https://images.wondershare.com/filmora/article-images/2022/07/beware-skeptics.jpg)
 
 You might have skeptics and negative nellies in your audience. They're the ones who are less likely to buy, but more likely to be negative about everything.
@@ -141,5 +159,24 @@ If you're looking to boost your sales with testimonial videos, then you need to 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-monetary-milestones-a-look-at-pewdiepies-yearly-income/"><u>[New] Monetary Milestones A Look at PewDiePie's Yearly Income</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-photography-tutorial-how-to-shoot-and-create-impressive-hdr-portraits/"><u>[New] Photography Tutorial How to Shoot and Create Impressive HDR Portraits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigate-zoom-with-precision-on-windows-10-devices/"><u>[Updated] Navigate Zoom with Precision on Windows 10 Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sharing-the-spotlight-involving-viewers-in-your-journey/"><u>[Updated] Sharing the Spotlight Involving Viewers in Your Journey</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-laughterlink-join-now-and-start-your-journey/"><u>2024 Approved LaughterLink Join Now & Start Your Journey</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-unraveling-video-dimensions-a-complete-approach-for-yt-content/"><u>2024 Approved Unraveling Video Dimensions A Complete Approach for YT Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dayz-frame-rate-woes-speedily-resolve-with-easy-to-follow-tips/"><u>DayZ Frame Rate Woes? Speedily Resolve with Easy-to-Follow Tips</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exceptional-audio-quality-of-a35/"><u>Exceptional Audio Quality of A35</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-top-tier-cpu-cooling-with-this-ai-crafted-3d-printed-liquid-n2-container-achieve-up-to-triple-the-speed/"><u>Experience Top-Tier CPU Cooling with This AI-Crafted, 3D-Printed Liquid N2 Container – Achieve Up to Triple the Speed!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leaders-list-of-gps-drones-with-precision-tracking/"><u>In 2024, Leader's List of GPS Drones with Precision Tracking</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-needle-speed-of-videos-in-snapchat/"><u>In 2024, Navigating the Needle-Speed of Videos in Snapchat</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastery-in-correcting-error-0x887a0006-speedy-fixes-unveiled-here/"><u>Mastery in Correcting Error 0X887A0006 - Speedy Fixes Unveiled Here</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/professional-insights-on-stabilized-gimbals-for-iphoneandroiddslrs-for-2024/"><u>Professional Insights on Stabilized Gimbals for iPhone/Android/DSLRs for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-click-quests-top-10-agile-gaming-platforms-for-2024/"><u>Quick Click Quests Top 10 Agile Gaming Platforms for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/streamline-your-screens-youtube-video-resizing-tricks/"><u>Streamline Your Screens YouTube Video Resizing Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+</ul></div>
 

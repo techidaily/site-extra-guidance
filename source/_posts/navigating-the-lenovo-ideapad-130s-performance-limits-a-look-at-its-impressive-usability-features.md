@@ -1,7 +1,7 @@
 ---
 title: Navigating the Lenovo IdeaPad 130S' Performance Limits - A Look at Its Impressive Usability Features
-date: 2024-10-15T17:17:41.395Z
-updated: 2024-10-19T20:14:57.638Z
+date: 2024-10-20T17:41:00.881Z
+updated: 2024-10-25T17:01:13.638Z
 categories:
   - BestProducts
 description: This Article Describes Navigating the Lenovo IdeaPad 130S' Performance Limits - A Look at Its Impressive Usability Features
@@ -41,22 +41,16 @@ Lifewire / Erika Rawes
 
 4.2
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Garmin Vivosmart 4
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/ll2Uv9bgkmIddyfa-EOFiFCtsyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivosmart-4-Fitness-Tracker-1-0a7c6cef1af44b5c9acb1c657c292521.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -81,10 +75,16 @@ Lifewire / Erika Rawes
  Fitness trackers have come a long way over the last few years, and you can find options in a variety of shapes, sizes, styles, and price ranges. The Garmin Vivosmart 4 is priced in about the mid-range, and it offers a few cool perks in addition to the standards like calorie counting and step counting. I tested the Garmin Vivosmart 4 for a month to see how it performs compared to other similarly priced fitness trackers on the market.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Design: You can’t remove the band**
@@ -97,18 +97,18 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Comfort: You’ll forget you’re wearing it**
 
  The Vivosmart 4 is one of the more comfortable fitness trackers I’ve tested. Most of the time, I’d forget I was even wearing the tracker until it vibrated. The band’s side edges are rounded off, making it feel more comfortable against the skin.
 
  The buckle doesn’t press into the skin or cause irritation, but the sides of the silicone band do leave indents on the wrist after long periods of wear. The Vivosmart 4 is waterproof, and you can wear it in the pool, wear it while showering, and in the rain without damaging the device. You really only have to take off the Vivosmart to charge the battery.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performance: Body battery and stress monitoring**
 
@@ -128,21 +128,7 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/Fu0WY5D4aslVxU_cls1YqWYQBeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-2-67ea15321c9541f1b57d5528302152fe.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Software: Garmin Connect App**
 
@@ -153,6 +139,13 @@ Lifewire / Erika Rawes
  The Garmin Connect app allows you to dive as deep into your fitness tracking as you want. If you’re a runner, it can track everything from your cadence to your max pace. It provides charts and graphs of your long term activity level, heart rate, stress, body battery, and more. You can also use insights to compare that data with the averages in your age and gender category.
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/XmHmMYvuaOGE3gAGIsa_vChmpas=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-4-22ab906932be467bb2e3309e30555ab4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -165,6 +158,13 @@ Lifewire / Erika Rawes
 ## **Price: Reasonable**
 
  The Vivosmart 4 retails for $130, which is slightly high for this unit. You can find a refurbished version on Amazon for around $80, which is a more reasonable price.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Garmin Vivosmart 4 vs. Fitbit Charge 3**
 
@@ -216,22 +216,18 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-top-12-capture-providers-never-stop-in-2024/"><u>[New] Top 12 Capture Providers, Never Stop, In 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-techniques-for-enhanced-youtube-long-form-videos-for-2024/"><u>[Updated] Essential Techniques for Enhanced YouTube Long-Form Videos for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-purifypicture-premium-bg-eraser-and-editor/"><u>[Updated] PurifyPicture Premium BG Eraser & Editor</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-remove-youtube-sneak-peeks-for-uninterrupted-views/"><u>[Updated] Remove YouTube Sneak Peeks for Uninterrupted Views</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-silent-insights-into-improving-visual-elements/"><u>[Updated] Silent Insights Into Improving Visual Elements</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-iphones-podcast-downloads-made-easy/"><u>2024 Approved Mastering iPhones Podcast Downloads Made Easy</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-notrace-remover-ultimate-background-cleanse/"><u>2024 Approved NoTrace Remover Ultimate Background Cleanse</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-12-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 12 with iTunes | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Xiaomi Redmi A2+? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-loop-mechanics-collection/"><u>In 2024, Loop Mechanics Collection</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-secure-and-updated-altering-numbers-in-tiktok-profiles/"><u>In 2024, Secure and Updated Altering Numbers in TikTok Profiles</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-your-photos-a-comprehensive-guide-to-facetune-for-2024/"><u>Mastering Your Photos A Comprehensive Guide to Facetune for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-failed-validation-with-credit-card-issues/"><u>Overcoming Failed Validation with Credit Card Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/preserving-conversations-a-guide-to-saving-chatgpt-interactions/"><u>Preserving Conversations: A Guide to Saving ChatGPT Interactions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/rebooting-your-windows-photo-viewer-two-procedures-for-w10-for-2024/"><u>Rebooting Your Windows Photo Viewer Two Procedures for W10 for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/restoring-unintentionally-removed-files-by-mcafee-security-a-step-by-step-guide/"><u>Restoring Unintentionally Removed Files by McAfee Security: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-old-school-champion-revisited-in-depth-look-at-the-nulaxy-km18-bluetooth-car-receiver/"><u>The Old School Champion Revisited: In-Depth Look at the Nulaxy KM18 Bluetooth Car Receiver</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reclaim-original-vibrance-in-photographs-with-these-top-apps/"><u>[New] Reclaim Original Vibrance in Photographs with These Top Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-youtube-success-top-10-keyword-research-utilities-listed/"><u>[New] Unlocking YouTube Success Top 10 Keyword Research Utilities Listed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leveraging-spotifys-advertising-mechanisms/"><u>[Updated] Leveraging Spotify's Advertising Mechanisms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-peeling-back-the-curtain-on-youtubes-content-popularity-index/"><u>[Updated] Peeling Back the Curtain on YouTube's Content Popularity Index</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-gopro-enhancements-guide/"><u>[Updated] Premium Gopro Enhancements Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-metaverse-vs-omniverse-showdown-a-comprehensive-overview/"><u>2024 Approved The Metaverse Vs. Omniverse Showdown A Comprehensive Overview</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-and-prevent-slow-response-in-valheim-for-a-smoother-gaming-session-on-windows-computers/"><u>Fix and Prevent Slow Response in Valheim for a Smoother Gaming Session on Windows Computers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-realme-gt-5-frp-by-drfone-android/"><u>Full Guide to Bypass Realme GT 5 FRP</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-asmr-for-restful-slumber/"><u>In 2024, Mastering ASMR for Restful Slumber</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-camera-drones-10-filmmakers-dream-fleet/"><u>In 2024, Premier Camera Drones #10 Filmmakers' Dream Fleet</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/insiders-guide-to-efficient-phone-recording-for-2024/"><u>Insider's Guide to Efficient Phone Recording for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nsiders-guide-to-frame-by-frame-video-examination-free/"><u>The Insider's Guide to Frame-by-Frame Video Examination (Free)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-7-streaming-tools-for-mac-os-x-for-2024/"><u>Top 7 Streaming Tools for Mac OS X for 2024</u></a></li>
 </ul></div>
 

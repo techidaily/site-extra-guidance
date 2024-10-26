@@ -1,7 +1,7 @@
 ---
 title: "Mastering Smooth Screens: Effective Guide to Resolve Chrome Flicker Issues in Windows"
-date: 2024-10-15T20:38:52.926Z
-updated: 2024-10-19T20:05:44.819Z
+date: 2024-10-20T17:30:28.865Z
+updated: 2024-10-25T23:46:30.239Z
 tags:
   - win11
   - win10
@@ -35,6 +35,14 @@ thumbnail: https://thmb.techidaily.com/6cb6ce252b0ad11ed755d646e5f628bce76854128
 1. Right-click the**Minecraft Launcher** icon, then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-properties.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, check the box next to**Run this program in compatibility mode for** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 
@@ -65,28 +73,21 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Minecraft to see if the issue is resolved.
 
  If updating the graphics driver doesn’t solve your problem, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Set the anti-aliasing to default
 
@@ -99,21 +100,28 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/file-explorer.jpg)
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Relaunch Minecraft to see if the problem is solved.
 
  Alternatively, you can delete the options.txt file, and then relaunch Minecraft, and a new one will be generated with default settings for all options.
 
 If this method doesn’t do the trick, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Close unnecessary programs
 
@@ -122,13 +130,6 @@ If this method doesn’t do the trick, continue to the next fix.
 1. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open Task Manager.
 2. One at a time, select the resource-hogging program and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
@@ -144,35 +145,29 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
 
@@ -198,14 +193,22 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-from-virality-to-value-ajays-playbook-for-profitable-content-creation/"><u>[Updated] 2024 Approved From Virality to Value Ajay’s Playbook for Profitable Content Creation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-radiant-renderings-perfecting-video-light-quality/"><u>[Updated] Radiant Renderings Perfecting Video Light Quality</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-secure-and-save-periscope-videos-with-these-tips/"><u>[Updated] Secure & Save Periscope Videos with These Tips</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-reimagine-your-screen-mastery-of-win11-backdrops/"><u>2024 Approved Reimagine Your Screen Mastery of Win11 Backdrops</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y28-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y28 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-system-event-notification-service-connection-failure-on-windows-machines/"><u>Fixing 'System Event Notification Service Connection Failure' On Windows Machines</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-y100-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo Y100 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-xiaomi-redmi-a2-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Xiaomi Redmi A2 Phone that is Locked?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-optimize-viewing-the-finest-html5-video-solutions/"><u>In 2024, Optimize Viewing The Finest HTML5 Video Solutions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leveraging-powerdirector-2024-full-guide-to-its-capabilities/"><u>[New] Leveraging PowerDirector 2024 - Full Guide to Its Capabilities</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-minefield-of-instasongs-and-rights/"><u>[New] Navigating the Minefield of InstaSongs and Rights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlock-the-secrets-to-social-media-success-with-igtv-hashtag-techniques-for-2024/"><u>[New] Unlock the Secrets to Social Media Success with IGTV Hashtag Techniques for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-uploading-maximum-length-videos-successfully-on-instagram/"><u>[Updated] 2024 Approved Uploading Maximum-Length Videos Successfully on Instagram</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-make-a-splash-on-social-media-adding-animated-text-to-instagram-stories/"><u>[Updated] Make a Splash on Social Media Adding Animated Text to Instagram Stories</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mobile-magic-unleashed-funimate-pro-apk-exploration/"><u>[Updated] Mobile Magic Unleashed Funimate Pro APK Exploration</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-lgs-lg-360-camera-update-unveiled-and-analyzed/"><u>2024 Approved LG's LG 360 Camera Update Unveiled & Analyzed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-aerial-imagery-crews-the-10-drones/"><u>2024 Approved Premium Aerial Imagery Crews The #10 Drones</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/boosting-efficiency-creating-speed-driven-google-collages/"><u>Boosting Efficiency Creating Speed-Driven Google Collages</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/constructing-a-daily-sanctuary-through-ai-guided-reflection/"><u>Constructing a Daily Sanctuary Through AI-Guided Reflection</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hear-the-buzz-of-affordability-beetalk-headset/"><u>Hear the Buzz of Affordability: BeeTalk Headset</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-secrets-to-mastering-canva-10-insider-tips-for-editors/"><u>In 2024, Secrets to Mastering Canva 10 Insider Tips for Editors</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/inspire-humorous-graphics-for-online-platform-for-2024/"><u>Inspire Humorous Graphics for Online Platform for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximizing-b-roll-creative-uses-and-integration-for-2024/"><u>Maximizing B-Roll Creative Uses and Integration for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-wlanapidll-error-a-comprehensive-guide/"><u>Solving wlanapi.dll Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/superior-visuals-leading-hdmi-21-monitors-for-ps5-gaming-for-2024/"><u>Superior Visuals Leading HDMI 2.1 Monitors for PS5 Gaming for 2024</u></a></li>
 </ul></div>
 

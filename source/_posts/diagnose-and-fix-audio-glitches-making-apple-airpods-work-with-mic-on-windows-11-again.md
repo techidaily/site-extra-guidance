@@ -1,7 +1,7 @@
 ---
 title: "Diagnose and Fix Audio Glitches: Making Apple AirPods Work with Mic on Windows 11 Again"
-date: 2024-10-15T20:04:29.067Z
-updated: 2024-10-20T01:36:41.689Z
+date: 2024-10-19T23:31:24.642Z
+updated: 2024-10-25T17:51:05.325Z
 tags:
   - win11
   - win10
@@ -38,17 +38,17 @@ Before you start, make sure your headset is working properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound1.jpg)
 3. Scroll down to find**Enhance audio** . Turn Enhance audio on and then back off.  
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound2.jpg)
 4. Check your PC sound, it should be back to normal.
 
 If this trick doesn’t work for you, please move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your audio driver
 
@@ -62,10 +62,10 @@ If this trick doesn’t work for you, please move to the next fix.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
@@ -94,33 +94,19 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound6.jpg)
 5. Check**Show compatible hardware** . Then click**High Definition Audio Device** \>**Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound7.jpg)
 6. Click**Yes** in the pop-up window.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound8.jpg)
 7. Restart your PC for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Check the sound on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Update your Windows system
@@ -132,13 +118,20 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound9.jpg)
 3. Windows will check the latest available updates for you. If you have available updates, Windows 11 will download and install them automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. After the whole process, restart your PC and check the effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Repair system files
@@ -153,17 +146,30 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -185,22 +191,22 @@ If this fix doesn’t help, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-designing-eye-catching-instagram-post-previews/"><u>[New] In 2024, Designing Eye-Catching Instagram Post Previews</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-simple-tale-creation-guide/"><u>[New] Simple Tale Creation Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-six-quick-tips-for-efficient-beginner-edits-in-ps/"><u>[New] Six Quick Tips for Efficient Beginner Edits in PS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-blueprint-to-establishing-an-online-review-community-for-toys/"><u>[New] The Blueprint to Establishing an Online Review Community for Toys</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-affordable-video-editors-in-the-market-2023-edition/"><u>[Updated] 2024 Approved Best Affordable Video Editors in the Market - 2023 Edition</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-introductory-handbook-on-video-quality-and-size/"><u>[Updated] 2024 Approved Introductory Handbook on Video Quality and Size</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-iphones-quintet-of-best-podcast-aides/"><u>[Updated] IPhone's Quintet of Best Podcast Aides</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-photo-to-motion-the-musical-layer/"><u>2024 Approved Photo to Motion The Musical Layer</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-secrets-of-successful-recording-3-approaches-for-discos-broadcast/"><u>2024 Approved Secrets of Successful Recording 3 Approaches for Disco's Broadcast</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-ingenious-ways-to-modify-voices-for-free-for-2024/"><u>Explore Ingenious Ways to Modify Voices for FREE for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-round-the-clock-insight-detailed-look-at-google-podcast/"><u>In 2024, Round-the-Clock Insight Detailed Look at Google Podcast</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-speed-up-photobooks-instructions-for-faster-google-collage-creation/"><u>In 2024, Speed Up Photobooks Instructions for Faster Google Collage Creation</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-setting-up-videoleap-on-macbook-download-install-and-start-editing/"><u>New 2024 Approved Setting Up Videoleap on MacBook Download, Install, and Start Editing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/ps5xbox-x-visuals-the-top-5-game-tvs-for-2024/"><u>PS5/Xbox X Visuals The Top 5 Game TVs for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/reducing-loudness-gradually-techniques-for-logic-pro-users-for-2024/"><u>Reducing Loudness Gradually Techniques for Logic Pro Users for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tracking-down-your-apple-facetime-images-a-comprehensive-guide/"><u>Tracking Down Your Apple FaceTime Images - A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1726029752583-vimeo/"><u>Vimeoファイルが開けない時におすすめのワザ</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-budget-friendly-recording-software-for-windows-users-for-2024/"><u>[New] Budget-Friendly Recording Software for Windows Users for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-essential-tools-to-replay-ps3-classics-on-pc/"><u>[New] In 2024, Essential Tools to Replay PS3 Classics on PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optic-zenith-premier-choices-in-the-realm-of-8k/"><u>[New] Optic Zenith Premier Choices in the Realm of 8K</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revelations-on-identifying-outstanding-film-making-talents/"><u>[New] Revelations on Identifying Outstanding Film Making Talents</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-radiance-reimagined-top-video-tools-list/"><u>2024 Approved Radiance Reimagined Top Video Tools List</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-smooth-watchers-guide-to-pacing-down-videos-on-youtube-60-chars-minor-exception-due-to-title-length-but-provides-rich-context/"><u>2024 Approved The Smooth Watcher's Guide to Pacing Down Videos on YouTube (60 Chars, Minor Exception Due to Title Length but Provides Rich Context)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-magic-understanding-how-these-7-apps-utilize-gpt-narratives-of-cutting-edge-ai-technology/"><u>Decoding the Magic: Understanding How These 7 Apps Utilize GPT-Narratives of Cutting-Edge AI Technology</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-11-pro-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone 11 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-realme-12plus-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Realme 12+ 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-laughlineart-memogallery/"><u>In 2024, LaughLineArt MemoGallery</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-majestic-celestial-images-at-your-command/"><u>In 2024, Majestic Celestial Images at Your Command</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-penetrating-the-veil-of-undisclosed-commentary-in-videos/"><u>In 2024, Penetrating the Veil of Undisclosed Commentary in Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-listing-sierras-best-video-maker-apps/"><u>In 2024, Premier Listing Sierra's Best Video Maker Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/should-past-facebook-actions-follow-you-today-investigate-for-2024/"><u>Should Past Facebook Actions Follow You Today? Investigate for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-lava-storm-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Lava Storm 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Motorola Moto G13? | Dr.fone</u></a></li>
 </ul></div>
 

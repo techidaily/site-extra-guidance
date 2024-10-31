@@ -1,7 +1,7 @@
 ---
 title: "\"[New] SRT File  How to Open SRT File on Windows or Mac\""
-date: 2024-07-31T19:06:25.366Z
-updated: 2024-08-01T19:06:25.366Z
+date: 2024-10-26T16:07:03.208Z
+updated: 2024-10-31T18:01:12.375Z
 tags: 
   - screen-recording
   - ai video
@@ -24,9 +24,6 @@ Standing for SubRip Subtitle, an SRT file is a plain text file that contains all
 
 So, if you too have videos and movies with SRT and looks for ways on **how to open SRT file**, this article will be a good read. The content below will help you learn about the platforms that support the SRT files, and several tools and programs that help to open the SRT files on Windows and Mac systems.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![open srt file](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-01.jpg)
 
 ## Part 1: Which Platforms support SRT files?
@@ -44,10 +41,6 @@ The table below lists the best suitable subtitle format for different sites, too
 | Windows Media Player                   | SRT                         |
 | Wondershare Filmora Video Editing Tool | SRT                         |
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## Part 2: How to Open SRT Files in Windows 10/11?
 
 Subtitles files are displayed while the video is played using a video player. To open the SRT files on your Windows 10/11 systems, any text editor will be good. Using the editor, you can read as well as edit the subtitles as needed.
@@ -62,25 +55,10 @@ Steps to **open subtitles SRT** files in Windows 10/11
 
 1. Select Word or Notepad in the Open with window. You can choose the option- “Always use the selected program to open this type of file” so that all the srt files are opened using this selected program.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open srt on windows 2](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-03.jpg)
 
 1. Next click on the OK button and then double click on the file that will open in Notepad or WordPad as selected.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![open srt on windows 3](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-04.jpg)
 
 1. The SRT file will open in the text editor and you can even edit it if required.
@@ -93,10 +71,6 @@ We recently covered some concrete methods in detail of **how to open SRT file on
 
 ![text edit for mac](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Part 4: Open the File with Online SRT Viewers \[Mac & Windows\]
 
 In addition to the desktop programs, there are several online tools available as well that allow opening the SRT subtitle files on your Windows and Mac systems. These online programs are simple tools that need no software download or installation and work straight from the browser. Though these online tools are simple to use, they are internet dependent and the features supported are also limited.
@@ -116,8 +90,12 @@ Step3 The tool will render the file and you can easily view it.
 Step4 You can easily navigate between the pages and even zoom in and zoom out.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 5: Open the File with Video Editing Software \[Mac & Windows\]
 
 Another way to open as well as edit your SRT files is by using video editing software and one such Windows and Mac-compatible professional tool is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). This feature-packed software can let you perform all basic as well as advanced editing functions including adding as well as editing the SRT subtitle files.
@@ -136,6 +114,13 @@ Mac system. In the Media resource area, import the SRT subtitle files directly.
 
 ![open srt using wondershare filmora 1](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Next, double-click on the selected SRT file or right-click on the timeline and then choose the Advanced Edit option.
 
 ![open srt using wondershare filmora 2](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-08.jpg)
@@ -146,9 +131,6 @@ Step4 Once the subtitle file is edited, right-click and then choose the Export S
 
 ![open srt using wondershare filmora 3](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-09.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Final Words
 
 The above listed are several ways by which an SRT subtitle file can be opened on your Windows and Mac systems. Choose the method that is suitable for your device and fulfils your requirements. Out of the listed methods, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) works as a great choice if you are looking for a tool that not only opens the subtitle files but also lets you perform a wide range of video editing tasks.
@@ -169,6 +151,13 @@ Steps to **open subtitles SRT** files in Windows 10/11
 
 ![open srt on windows 2](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Next click on the OK button and then double click on the file that will open in Notepad or WordPad as selected.
 
 ![open srt on windows 3](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-04.jpg)
@@ -176,8 +165,12 @@ Steps to **open subtitles SRT** files in Windows 10/11
 1. The SRT file will open in the text editor and you can even edit it if required.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to Open SRT Files on Mac
 
 A multimedia player supporting the SRT feature will enable watching the videos with these subtitles. On the Mac system, there are several programs available that can be used for opening the SRT files like ObjectifMac, VLC Media Player, SubCleaner, and more. Also, you can even use the text editor-TextEdit for Mac. Simply find the desired SRT file and choose to open it using the TextEdit program. **QuickTime SRT** can also be used for opening and playing the SRT files.
@@ -186,15 +179,19 @@ We recently covered some concrete methods in detail of **how to open SRT file on
 
 ![text edit for mac](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Open the File with Online SRT Viewers \[Mac & Windows\]
 
 In addition to the desktop programs, there are several online tools available as well that allow opening the SRT subtitle files on your Windows and Mac systems. These online programs are simple tools that need no software download or installation and work straight from the browser. Though these online tools are simple to use, they are internet dependent and the features supported are also limited.
 
 One of the online tools that can be used for opening SRT subtitle files on your Windows, Mac, and other platform is Aspose. Using this program, you can view the SRT document pages as the images from your device. Since the SRT files are opened as images, they are protected from being edited or copied. You can open, navigate, zoom, and preview the original document as an image. The local file, as well as online ones using a URL, can be added to the interface to **read srt file.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![open srt using aspose](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-06.jpg)
 
 Steps to **open SRT file online** using Aspose
@@ -208,8 +205,12 @@ Step3 The tool will render the file and you can easily view it.
 Step4 You can easily navigate between the pages and even zoom in and zoom out.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 5: Open the File with Video Editing Software \[Mac & Windows\]
 
 Another way to open as well as edit your SRT files is by using video editing software and one such Windows and Mac-compatible professional tool is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). This feature-packed software can let you perform all basic as well as advanced editing functions including adding as well as editing the SRT subtitle files.
@@ -226,31 +227,42 @@ Step1 Download, install, and run the Wondershare Filmora software on your Window
 
 Mac system. In the Media resource area, import the SRT subtitle files directly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![open srt using wondershare filmora 1](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-07.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Next, double-click on the selected SRT file or right-click on the timeline and then choose the Advanced Edit option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![open srt using wondershare filmora 2](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-08.jpg)
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Now, the software can be used for performing an array of SRT editing functions like editing the time code, changing the subtitles, adding, removing, and merging the subtitle strips, changing the subtitle style, and more.
 
 Step4 Once the subtitle file is edited, right-click and then choose the Export Subtitle File option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![open srt using wondershare filmora 3](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-09.jpg)
 
 ## Final Words
@@ -279,5 +291,22 @@ The above listed are several ways by which an SRT subtitle file can be opened on
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ultimate-selection-of-non-bandicamp-cam-apps-for-mac/"><u>[New] 2024 Approved Ultimate Selection of Non-Bandicamp Cam Apps for Mac</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-hero-session-vs-hero-session-duel/"><u>[Updated] Hero Session Vs Hero Session Duel</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-insights-into-the-world-of-touch-and-movement-detection/"><u>[Updated] Insights Into the World of Touch and Movement Detection</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-combat-colossus-leading-10-royale-titles/"><u>2024 Approved Combat Colossus Leading 10 Royale Titles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-masterclass-15-color-grading-look-ups-for-camcorder/"><u>2024 Approved Masterclass 15 Color Grading Look-Ups for Camcorder</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photographic-pastime-iphone-x-retro-clicks/"><u>2024 Approved Photographic Pastime IPhone X Retro Clicks</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/create-interactive-slideshows-with-simple-flip-transitions-try-flipbuildercom/"><u>Create Interactive Slideshows with Simple Flip Transitions - Try FlipBuilder.com!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-13-pro-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-seas-of-sponsorships-a-youtubers-playbook/"><u>In 2024, Navigating the Seas of Sponsorships A Youtuber's Playbook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-apps-for-perfectly-altered-videos-on-ios-and-desktop/"><u>In 2024, Premium Apps for Perfectly Altered Videos on iOS & Desktop</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-canon-mg2800-series-drivers-for-windows-operating-systems-windows-10-8-7/"><u>Latest Canon MG2800 Series Drivers for Windows Operating Systems (Windows 10, 8, 7)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leveraging-luts-for-rich-color-grading-in-ar-apps-for-2024/"><u>Leveraging LUTs for Rich Color Grading in AR Apps for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-video-and-photography-mobile-apps-for-iphoneandroid-users/"><u>Top 5 Video & Photography Mobile Apps for iPhone/Android Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/unable-to-play-verify-your-installation-for-seamless-gaming-experience/"><u>Unable to Play? Verify Your Installation for Seamless Gaming Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862783431-unleash-the-ultimate-gaming-experience-incredible-value-of-innocns-high-definition-27-240hz-ips-monitor-for-199/"><u>Unleash the Ultimate Gaming Experience: Incredible Value of Innocn's High-Definition 27 240Hz IPS Monitor for $199!</u></a></li>
+</ul></div>
 

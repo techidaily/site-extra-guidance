@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Spearheading Immersive Worlds  Top VR Minds\""
-date: 2024-07-31T19:06:41.729Z
-updated: 2024-08-01T19:06:41.729Z
+date: 2024-10-30T16:34:59.066Z
+updated: 2024-10-31T18:46:36.040Z
 tags: 
   - screen-recording
   - ai video
@@ -20,18 +20,6 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 
 # Top VR content developers you should know
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -48,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 ![nextvr](https://images.wondershare.com/filmora/resource/nextvr.jpg
   )
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## 2.Linden lab company:-
 
  Linen lab, an American internet company, developed the biggest ever 3D environment by the name “Second life” in 2013\. Now it is working on its new project “Sansar” to be released in 2017\. With the help of this new platform, people can easily share their VR experiences. This will also support newly built VR headsets i.e. Head-mounted displays so that the players can explore the realistic environment.
@@ -81,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 ![wevr](https://images.wondershare.com/filmora/resource/wevr.jpg
   )
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 5.High Fidelity company:-
 
  This San- Francisco based VR content develop company allows its users to utilize various tools and formats so as to create most exciting VR experiences and sharing those experiences in all over the world. The experts of this company have made special efforts in developing software and peer-based recognition systems that can support virtual reality devices like HTC vive, Oculus Rift etc.
@@ -105,8 +87,12 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
  )
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7.CCP Company:-
 
  CCP stands for Crowd Control Productions. This company became popular in 2003 by launching EVE online, the first video game made by CCP. CCP has also won many awards by developing cutting edge games. This company has developed best products like EVE Valkyrie, EVE Gunjack, Project Nova etc. They have many innovative ideas by which they are able to create unique games.
@@ -116,6 +102,250 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 
 ![crowd-control-productions](https://images.wondershare.com/filmora/resource/crowd-control-productions.jpg
   )
+
+## 8.Improbable company:-
+
+ This company, having headquarters at Wellington is famous for developing simulation world that can be operated in real time mode. SpatialOS is the first operating system made by this company which is able to generate many simulations at remarkable scale. Many players can enjoy the game in VR mode at the same time. This company makes complicated simulations for defense, infrastructure, economics etc. The head quarters of this company is located at London, England.
+
+* **Investors:**  \- Conversion Capital, Local Globe, Andreessen Horowitz and Chris Dixon
+* **Money raised:**  \- $22M in series A funding
+
+![improbable-company](https://images.wondershare.com/filmora/resource/improbable-company.jpg
+  )
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 9.8i:-
+
+ This technology helps people to interact with each other by transforming video of many cameras into human holograms that can be seen from every angle. People can easily develop and share the 3D videos of real humans on the web. 8i allow its users to roam about real humans in virtual reality so that they can feel as if they are in the same room by providing a true 3D view. This company is also developing VR software that will bring a great change in the VR world.
+
+* **Investors:**  \- Kevin Wall, John S. Hendricks, Inevitable Ventures, Jeremy Stoppelman, Right Click Capital, Freelands Ventures, Frontier Tech Ventures, BDMI, Dolby Family Ventures etc.
+* **Money raised:**  \- $13.5M in series A funding
+
+![8i](https://images.wondershare.com/filmora/resource/8i.jpg)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+## 1.Next VR company:-
+
+ This company helps you in enjoying your most special music and sports events live with a 3D view. The Next VR has done partnership with many big companies so that you can have a lot of fun while playing games. The formation 8 is the first investor to invest in this company. Recently this company has done partnership with Live Nation so as to telecast concerts in virtual reality.
+
+* **Investors:**  \- Comcast Ventures, Softbank Capital, Iron fire Ventures, Vectr Ventures, Net Ease Capital CMC Holdings etc.
+* **Money Raised:**  \- $80M in series B funding
+
+![nextvr](https://images.wondershare.com/filmora/resource/nextvr.jpg
+  )
+
+## 2.Linden lab company:-
+
+ Linen lab, an American internet company, developed the biggest ever 3D environment by the name “Second life” in 2013\. Now it is working on its new project “Sansar” to be released in 2017\. With the help of this new platform, people can easily share their VR experiences. This will also support newly built VR headsets i.e. Head-mounted displays so that the players can explore the realistic environment.
+
+* **Investors:**  \- Kapor Capital, Jeff Bezos, Benchmark Capital, Omidyar Network, Catamount Ventures etc.
+* **Money Raised:**  \-$19M
+
+![linden-lab]( https://images.wondershare.com/filmora/resource/linden-lab.jpg
+ )
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 3.JauntVR company:-
+
+ Jaunt VR company, based on silicon valley is the most famous VR content developer company with the initial investment of $65 million in series C funding. It has developed a new platform by introducing a new camera having an excellent 360 degree view and a distribution system. It is also becoming a choice of advertisers, filmmakers etc.
+
+* **Investors:**  \- China Media Capital (CMC), InnoSpring Seed Fund, ProSiebenSat.1 Media SE, Sky company, Walt Disney company etc
+* **Money Raised:**  \- Additional $27.8M in series B funding
+
+![jauntvr](https://images.wondershare.com/filmora/resource/jauntvr.jpg
+  )
+
+## 4.Wevr Company:-
+
+ This company, earlier known as Wemo lab makes VR playback software of high performance for VR creators so that they can develop and present the stories on all the electronic equipments that are used for VR. This company also provides VR media player to cinema creators which can be run on all VR devices. The headquarters of this company is located in Venice, California.
+
+* **Investors:**  \- AME Cloud Ventures, Dragoneer Investment Group, Palantir Capital, Plus Capital, Spiegel Capital Management, Scott McNealy, Orange Digital Ventures, HTC etc
+* **Money Raised:**  \-$25M
+
+![wevr](https://images.wondershare.com/filmora/resource/wevr.jpg
+  )
+
+## 5.High Fidelity company:-
+
+ This San- Francisco based VR content develop company allows its users to utilize various tools and formats so as to create most exciting VR experiences and sharing those experiences in all over the world. The experts of this company have made special efforts in developing software and peer-based recognition systems that can support virtual reality devices like HTC vive, Oculus Rift etc.
+
+* **Investors:**  \-GV, True Ventures, Kapor Capital, Linden Lab, Vulcan capital etc
+* **Money Raised:**  \- $11M
+
+![high-fidelity](https://images.wondershare.com/filmora/resource/high-fidelity.jpg
+  )
+
+## 6.Legend3D Company:-
+
+ This company provides many services to its customers like visual effects (VFX) services, 3D virtual reality (VR) services etc. You can also do on-set consultation, camera rig removal, 2D and 3D fine stitching, digital makeup with the help of these services. Recently this company has also introduced a Virtual Reality division that provides a full-service solution to the customers in 2D and 3D formats.
+
+* **Investors:**  \- North water Capital, PAR Capital Management and Augustus Ventures Limited.
+* **Money raised:**  \- $8M in series B funding
+
+![legend3d]( https://images.wondershare.com/filmora/resource/legend3d.jpg
+ )
+
+## 7.CCP Company:-
+
+ CCP stands for Crowd Control Productions. This company became popular in 2003 by launching EVE online, the first video game made by CCP. CCP has also won many awards by developing cutting edge games. This company has developed best products like EVE Valkyrie, EVE Gunjack, Project Nova etc. They have many innovative ideas by which they are able to create unique games.
+
+* **Investors:**  \- Novator Partners, General Catalyst Partners and New Enterprise Associates
+* **Money raised:**  \- $30M
+
+![crowd-control-productions](https://images.wondershare.com/filmora/resource/crowd-control-productions.jpg
+  )
+
+## 8.Improbable company:-
+
+ This company, having headquarters at Wellington is famous for developing simulation world that can be operated in real time mode. SpatialOS is the first operating system made by this company which is able to generate many simulations at remarkable scale. Many players can enjoy the game in VR mode at the same time. This company makes complicated simulations for defense, infrastructure, economics etc. The head quarters of this company is located at London, England.
+
+* **Investors:**  \- Conversion Capital, Local Globe, Andreessen Horowitz and Chris Dixon
+* **Money raised:**  \- $22M in series A funding
+
+![improbable-company](https://images.wondershare.com/filmora/resource/improbable-company.jpg
+  )
+
+## 9.8i:-
+
+ This technology helps people to interact with each other by transforming video of many cameras into human holograms that can be seen from every angle. People can easily develop and share the 3D videos of real humans on the web. 8i allow its users to roam about real humans in virtual reality so that they can feel as if they are in the same room by providing a true 3D view. This company is also developing VR software that will bring a great change in the VR world.
+
+* **Investors:**  \- Kevin Wall, John S. Hendricks, Inevitable Ventures, Jeremy Stoppelman, Right Click Capital, Freelands Ventures, Frontier Tech Ventures, BDMI, Dolby Family Ventures etc.
+* **Money raised:**  \- $13.5M in series A funding
+
+![8i](https://images.wondershare.com/filmora/resource/8i.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+## 1.Next VR company:-
+
+ This company helps you in enjoying your most special music and sports events live with a 3D view. The Next VR has done partnership with many big companies so that you can have a lot of fun while playing games. The formation 8 is the first investor to invest in this company. Recently this company has done partnership with Live Nation so as to telecast concerts in virtual reality.
+
+* **Investors:**  \- Comcast Ventures, Softbank Capital, Iron fire Ventures, Vectr Ventures, Net Ease Capital CMC Holdings etc.
+* **Money Raised:**  \- $80M in series B funding
+
+![nextvr](https://images.wondershare.com/filmora/resource/nextvr.jpg
+  )
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 2.Linden lab company:-
+
+ Linen lab, an American internet company, developed the biggest ever 3D environment by the name “Second life” in 2013\. Now it is working on its new project “Sansar” to be released in 2017\. With the help of this new platform, people can easily share their VR experiences. This will also support newly built VR headsets i.e. Head-mounted displays so that the players can explore the realistic environment.
+
+* **Investors:**  \- Kapor Capital, Jeff Bezos, Benchmark Capital, Omidyar Network, Catamount Ventures etc.
+* **Money Raised:**  \-$19M
+
+![linden-lab]( https://images.wondershare.com/filmora/resource/linden-lab.jpg
+ )
+
+## 3.JauntVR company:-
+
+ Jaunt VR company, based on silicon valley is the most famous VR content developer company with the initial investment of $65 million in series C funding. It has developed a new platform by introducing a new camera having an excellent 360 degree view and a distribution system. It is also becoming a choice of advertisers, filmmakers etc.
+
+* **Investors:**  \- China Media Capital (CMC), InnoSpring Seed Fund, ProSiebenSat.1 Media SE, Sky company, Walt Disney company etc
+* **Money Raised:**  \- Additional $27.8M in series B funding
+
+![jauntvr](https://images.wondershare.com/filmora/resource/jauntvr.jpg
+  )
+
+## 4.Wevr Company:-
+
+ This company, earlier known as Wemo lab makes VR playback software of high performance for VR creators so that they can develop and present the stories on all the electronic equipments that are used for VR. This company also provides VR media player to cinema creators which can be run on all VR devices. The headquarters of this company is located in Venice, California.
+
+* **Investors:**  \- AME Cloud Ventures, Dragoneer Investment Group, Palantir Capital, Plus Capital, Spiegel Capital Management, Scott McNealy, Orange Digital Ventures, HTC etc
+* **Money Raised:**  \-$25M
+
+![wevr](https://images.wondershare.com/filmora/resource/wevr.jpg
+  )
+
+## 5.High Fidelity company:-
+
+ This San- Francisco based VR content develop company allows its users to utilize various tools and formats so as to create most exciting VR experiences and sharing those experiences in all over the world. The experts of this company have made special efforts in developing software and peer-based recognition systems that can support virtual reality devices like HTC vive, Oculus Rift etc.
+
+* **Investors:**  \-GV, True Ventures, Kapor Capital, Linden Lab, Vulcan capital etc
+* **Money Raised:**  \- $11M
+
+![high-fidelity](https://images.wondershare.com/filmora/resource/high-fidelity.jpg
+  )
+
+## 6.Legend3D Company:-
+
+ This company provides many services to its customers like visual effects (VFX) services, 3D virtual reality (VR) services etc. You can also do on-set consultation, camera rig removal, 2D and 3D fine stitching, digital makeup with the help of these services. Recently this company has also introduced a Virtual Reality division that provides a full-service solution to the customers in 2D and 3D formats.
+
+* **Investors:**  \- North water Capital, PAR Capital Management and Augustus Ventures Limited.
+* **Money raised:**  \- $8M in series B funding
+
+![legend3d]( https://images.wondershare.com/filmora/resource/legend3d.jpg
+ )
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 7.CCP Company:-
+
+ CCP stands for Crowd Control Productions. This company became popular in 2003 by launching EVE online, the first video game made by CCP. CCP has also won many awards by developing cutting edge games. This company has developed best products like EVE Valkyrie, EVE Gunjack, Project Nova etc. They have many innovative ideas by which they are able to create unique games.
+
+* **Investors:**  \- Novator Partners, General Catalyst Partners and New Enterprise Associates
+* **Money raised:**  \- $30M
+
+![crowd-control-productions](https://images.wondershare.com/filmora/resource/crowd-control-productions.jpg
+  )
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8.Improbable company:-
 
@@ -179,255 +409,11 @@ Follow @Benjamin Arango
   )
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-## 4.Wevr Company:-
-
- This company, earlier known as Wemo lab makes VR playback software of high performance for VR creators so that they can develop and present the stories on all the electronic equipments that are used for VR. This company also provides VR media player to cinema creators which can be run on all VR devices. The headquarters of this company is located in Venice, California.
-
-* **Investors:**  \- AME Cloud Ventures, Dragoneer Investment Group, Palantir Capital, Plus Capital, Spiegel Capital Management, Scott McNealy, Orange Digital Ventures, HTC etc
-* **Money Raised:**  \-$25M
-
-![wevr](https://images.wondershare.com/filmora/resource/wevr.jpg
-  )
-
-## 5.High Fidelity company:-
-
- This San- Francisco based VR content develop company allows its users to utilize various tools and formats so as to create most exciting VR experiences and sharing those experiences in all over the world. The experts of this company have made special efforts in developing software and peer-based recognition systems that can support virtual reality devices like HTC vive, Oculus Rift etc.
-
-* **Investors:**  \-GV, True Ventures, Kapor Capital, Linden Lab, Vulcan capital etc
-* **Money Raised:**  \- $11M
-
-![high-fidelity](https://images.wondershare.com/filmora/resource/high-fidelity.jpg
-  )
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-## 6.Legend3D Company:-
-
- This company provides many services to its customers like visual effects (VFX) services, 3D virtual reality (VR) services etc. You can also do on-set consultation, camera rig removal, 2D and 3D fine stitching, digital makeup with the help of these services. Recently this company has also introduced a Virtual Reality division that provides a full-service solution to the customers in 2D and 3D formats.
-
-* **Investors:**  \- North water Capital, PAR Capital Management and Augustus Ventures Limited.
-* **Money raised:**  \- $8M in series B funding
-
-![legend3d]( https://images.wondershare.com/filmora/resource/legend3d.jpg
- )
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
-## 7.CCP Company:-
-
- CCP stands for Crowd Control Productions. This company became popular in 2003 by launching EVE online, the first video game made by CCP. CCP has also won many awards by developing cutting edge games. This company has developed best products like EVE Valkyrie, EVE Gunjack, Project Nova etc. They have many innovative ideas by which they are able to create unique games.
-
-* **Investors:**  \- Novator Partners, General Catalyst Partners and New Enterprise Associates
-* **Money raised:**  \- $30M
-
-![crowd-control-productions](https://images.wondershare.com/filmora/resource/crowd-control-productions.jpg
-  )
-
-## 8.Improbable company:-
-
- This company, having headquarters at Wellington is famous for developing simulation world that can be operated in real time mode. SpatialOS is the first operating system made by this company which is able to generate many simulations at remarkable scale. Many players can enjoy the game in VR mode at the same time. This company makes complicated simulations for defense, infrastructure, economics etc. The head quarters of this company is located at London, England.
-
-* **Investors:**  \- Conversion Capital, Local Globe, Andreessen Horowitz and Chris Dixon
-* **Money raised:**  \- $22M in series A funding
-
-![improbable-company](https://images.wondershare.com/filmora/resource/improbable-company.jpg
-  )
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 9.8i:-
-
- This technology helps people to interact with each other by transforming video of many cameras into human holograms that can be seen from every angle. People can easily develop and share the 3D videos of real humans on the web. 8i allow its users to roam about real humans in virtual reality so that they can feel as if they are in the same room by providing a true 3D view. This company is also developing VR software that will bring a great change in the VR world.
-
-* **Investors:**  \- Kevin Wall, John S. Hendricks, Inevitable Ventures, Jeremy Stoppelman, Right Click Capital, Freelands Ventures, Frontier Tech Ventures, BDMI, Dolby Family Ventures etc.
-* **Money raised:**  \- $13.5M in series A funding
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![8i](https://images.wondershare.com/filmora/resource/8i.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 1.Next VR company:-
-
- This company helps you in enjoying your most special music and sports events live with a 3D view. The Next VR has done partnership with many big companies so that you can have a lot of fun while playing games. The formation 8 is the first investor to invest in this company. Recently this company has done partnership with Live Nation so as to telecast concerts in virtual reality.
-
-* **Investors:**  \- Comcast Ventures, Softbank Capital, Iron fire Ventures, Vectr Ventures, Net Ease Capital CMC Holdings etc.
-* **Money Raised:**  \- $80M in series B funding
-
-![nextvr](https://images.wondershare.com/filmora/resource/nextvr.jpg
-  )
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 2.Linden lab company:-
-
- Linen lab, an American internet company, developed the biggest ever 3D environment by the name “Second life” in 2013\. Now it is working on its new project “Sansar” to be released in 2017\. With the help of this new platform, people can easily share their VR experiences. This will also support newly built VR headsets i.e. Head-mounted displays so that the players can explore the realistic environment.
-
-* **Investors:**  \- Kapor Capital, Jeff Bezos, Benchmark Capital, Omidyar Network, Catamount Ventures etc.
-* **Money Raised:**  \-$19M
-
-![linden-lab]( https://images.wondershare.com/filmora/resource/linden-lab.jpg
- )
-
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 3.JauntVR company:-
-
- Jaunt VR company, based on silicon valley is the most famous VR content developer company with the initial investment of $65 million in series C funding. It has developed a new platform by introducing a new camera having an excellent 360 degree view and a distribution system. It is also becoming a choice of advertisers, filmmakers etc.
-
-* **Investors:**  \- China Media Capital (CMC), InnoSpring Seed Fund, ProSiebenSat.1 Media SE, Sky company, Walt Disney company etc
-* **Money Raised:**  \- Additional $27.8M in series B funding
-
-![jauntvr](https://images.wondershare.com/filmora/resource/jauntvr.jpg
-  )
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
-## 4.Wevr Company:-
-
- This company, earlier known as Wemo lab makes VR playback software of high performance for VR creators so that they can develop and present the stories on all the electronic equipments that are used for VR. This company also provides VR media player to cinema creators which can be run on all VR devices. The headquarters of this company is located in Venice, California.
-
-* **Investors:**  \- AME Cloud Ventures, Dragoneer Investment Group, Palantir Capital, Plus Capital, Spiegel Capital Management, Scott McNealy, Orange Digital Ventures, HTC etc
-* **Money Raised:**  \-$25M
-
-![wevr](https://images.wondershare.com/filmora/resource/wevr.jpg
-  )
-
-## 5.High Fidelity company:-
-
- This San- Francisco based VR content develop company allows its users to utilize various tools and formats so as to create most exciting VR experiences and sharing those experiences in all over the world. The experts of this company have made special efforts in developing software and peer-based recognition systems that can support virtual reality devices like HTC vive, Oculus Rift etc.
-
-* **Investors:**  \-GV, True Ventures, Kapor Capital, Linden Lab, Vulcan capital etc
-* **Money Raised:**  \- $11M
-
-![high-fidelity](https://images.wondershare.com/filmora/resource/high-fidelity.jpg
-  )
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 6.Legend3D Company:-
-
- This company provides many services to its customers like visual effects (VFX) services, 3D virtual reality (VR) services etc. You can also do on-set consultation, camera rig removal, 2D and 3D fine stitching, digital makeup with the help of these services. Recently this company has also introduced a Virtual Reality division that provides a full-service solution to the customers in 2D and 3D formats.
-
-* **Investors:**  \- North water Capital, PAR Capital Management and Augustus Ventures Limited.
-* **Money raised:**  \- $8M in series B funding
-
-![legend3d]( https://images.wondershare.com/filmora/resource/legend3d.jpg
- )
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
-## 7.CCP Company:-
-
- CCP stands for Crowd Control Productions. This company became popular in 2003 by launching EVE online, the first video game made by CCP. CCP has also won many awards by developing cutting edge games. This company has developed best products like EVE Valkyrie, EVE Gunjack, Project Nova etc. They have many innovative ideas by which they are able to create unique games.
-
-* **Investors:**  \- Novator Partners, General Catalyst Partners and New Enterprise Associates
-* **Money raised:**  \- $30M
-
-![crowd-control-productions](https://images.wondershare.com/filmora/resource/crowd-control-productions.jpg
-  )
-
-## 8.Improbable company:-
-
- This company, having headquarters at Wellington is famous for developing simulation world that can be operated in real time mode. SpatialOS is the first operating system made by this company which is able to generate many simulations at remarkable scale. Many players can enjoy the game in VR mode at the same time. This company makes complicated simulations for defense, infrastructure, economics etc. The head quarters of this company is located at London, England.
-
-* **Investors:**  \- Conversion Capital, Local Globe, Andreessen Horowitz and Chris Dixon
-* **Money raised:**  \- $22M in series A funding
-
-![improbable-company](https://images.wondershare.com/filmora/resource/improbable-company.jpg
-  )
-
-## 9.8i:-
-
- This technology helps people to interact with each other by transforming video of many cameras into human holograms that can be seen from every angle. People can easily develop and share the 3D videos of real humans on the web. 8i allow its users to roam about real humans in virtual reality so that they can feel as if they are in the same room by providing a true 3D view. This company is also developing VR software that will bring a great change in the VR world.
-
-* **Investors:**  \- Kevin Wall, John S. Hendricks, Inevitable Ventures, Jeremy Stoppelman, Right Click Capital, Freelands Ventures, Frontier Tech Ventures, BDMI, Dolby Family Ventures etc.
-* **Money raised:**  \- $13.5M in series A funding
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
-![8i](https://images.wondershare.com/filmora/resource/8i.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
-## 1.Next VR company:-
-
- This company helps you in enjoying your most special music and sports events live with a 3D view. The Next VR has done partnership with many big companies so that you can have a lot of fun while playing games. The formation 8 is the first investor to invest in this company. Recently this company has done partnership with Live Nation so as to telecast concerts in virtual reality.
-
-* **Investors:**  \- Comcast Ventures, Softbank Capital, Iron fire Ventures, Vectr Ventures, Net Ease Capital CMC Holdings etc.
-* **Money Raised:**  \- $80M in series B funding
-
-![nextvr](https://images.wondershare.com/filmora/resource/nextvr.jpg
-  )
-
-## 2.Linden lab company:-
-
- Linen lab, an American internet company, developed the biggest ever 3D environment by the name “Second life” in 2013\. Now it is working on its new project “Sansar” to be released in 2017\. With the help of this new platform, people can easily share their VR experiences. This will also support newly built VR headsets i.e. Head-mounted displays so that the players can explore the realistic environment.
-
-* **Investors:**  \- Kapor Capital, Jeff Bezos, Benchmark Capital, Omidyar Network, Catamount Ventures etc.
-* **Money Raised:**  \-$19M
-
-![linden-lab]( https://images.wondershare.com/filmora/resource/linden-lab.jpg
- )
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 3.JauntVR company:-
-
- Jaunt VR company, based on silicon valley is the most famous VR content developer company with the initial investment of $65 million in series C funding. It has developed a new platform by introducing a new camera having an excellent 360 degree view and a distribution system. It is also becoming a choice of advertisers, filmmakers etc.
-
-* **Investors:**  \- China Media Capital (CMC), InnoSpring Seed Fund, ProSiebenSat.1 Media SE, Sky company, Walt Disney company etc
-* **Money Raised:**  \- Additional $27.8M in series B funding
-
-![jauntvr](https://images.wondershare.com/filmora/resource/jauntvr.jpg
-  )
 
 ## 4.Wevr Company:-
 
@@ -459,10 +445,6 @@ Follow @Benjamin Arango
 ![legend3d]( https://images.wondershare.com/filmora/resource/legend3d.jpg
  )
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 7.CCP Company:-
 
  CCP stands for Crowd Control Productions. This company became popular in 2003 by launching EVE online, the first video game made by CCP. CCP has also won many awards by developing cutting edge games. This company has developed best products like EVE Valkyrie, EVE Gunjack, Project Nova etc. They have many innovative ideas by which they are able to create unique games.
@@ -522,5 +504,24 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-new-depths-capturing-stunning-slow-motion-with-gopro-hero-10/"><u>[New] Navigating New Depths Capturing Stunning Slow Motion with GoPro Hero 10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-podcast-dominance-through-powerful-seo-tactics/"><u>[New] Podcast Dominance Through Powerful SEO Tactics</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-expressive-echoes-mastering-snapchats-cartoon-face-effects/"><u>[Updated] Expressive Echoes Mastering Snapchat's Cartoon Face Effects</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-secrets-of-successfully-posting-imovie-videos-on-vimeo/"><u>[Updated] The Secrets of Successfully Posting iMovie Videos on Vimeo</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-micro-post-your-next-audio-adventure/"><u>2024 Approved Micro-Post Your Next Audio Adventure</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-skyward-elite-unified-ultra-hd-multi-touch-panels/"><u>2024 Approved Skyward Elite Unified, Ultra HD Multi-Touch Panels</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-threefold-mastery-in-copy-for-social-media-campaigns-increasing-impact-with-every-word/"><u>2024 Approved Threefold Mastery in Copy for Social Media Campaigns – Increasing Impact with Every Word</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-picks-hd-cameras-under-100-for-extreme-sports/"><u>2024 Approved Top Picks HD Cameras Under $100 for Extreme Sports</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-bass-brilliance-new-device-overview/"><u>In 2024, Bass Brilliance New Device Overview</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/key-steps-for-flawless-audio-segmentation-for-2024/"><u>Key Steps for Flawless Audio Segmentation for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/m1-explored-apples-leap-in-computational-innovation-for-2024/"><u>M1 Explored Apple's Leap in Computational Innovation for 2024</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/mehrstufiger-transferprozess-fur-ihre-daten-von-windows-81-auf-die-neueste-version-windows-11/"><u>Mehrstufiger Transferprozess Für Ihre Daten: Von Windows 8.1 Auf Die Neueste Version, Windows 11!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pickup-or-something-else-unveiling-best-android-photo-editor-for-2024/"><u>PickUp or Something Else? Unveiling Best Android Photo Editor for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/redefine-your-viewing-experience-without-xplit-for-2024/"><u>Redefine Your Viewing Experience Without Xplit for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-to-overcome-windows-update-error-0x802n4401c-on-pcs-with-win10-and-win11/"><u>Step-by-Step Solution to Overcome Windows Update Error 0X802n4401C on PCs with Win10 and Win11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-for-when-farming-simulator-22-wont-start/"><u>Step-by-Step Solutions for When Farming Simulator 22 Won't Start</u></a></li>
+</ul></div>
 

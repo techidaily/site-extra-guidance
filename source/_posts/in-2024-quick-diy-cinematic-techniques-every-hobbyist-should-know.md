@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Quick DIY Cinematic Techniques Every Hobbyist Should Know"
-date: 2024-07-31T19:07:04.479Z
-updated: 2024-08-01T19:07:04.479Z
+date: 2024-10-30T17:48:24.176Z
+updated: 2024-10-31T17:48:25.693Z
 tags: 
   - screen-recording
   - ai video
@@ -33,8 +33,12 @@ You can buy it from a nearby stationery store. Ensure the cardboard is not too b
 ![cardboard used for diy flag](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. A Black T-shirt
 
 For the black t-shirt, you can use an old t-shirt that you don't wear anymore. You can also find these shirts at your local thrift shop.
@@ -43,9 +47,6 @@ For the black t-shirt, you can use an old t-shirt that you don't wear anymore. Y
 
 After managing all the required things, you must wrap and secure the t-shirt around the board. If the size of the t-shirt is larger than cardboard, tie the sleeves to secure the t-shirt. Or you can also use tape to secure the t-shirt and fasten it on the backside.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![process for making diy flag](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-3.png)
 
 With this DIY flag, you can now easily give shape and block the light while filming at home. **Warnings:** Some fabrics are not fireproof, so always keep an eye on the flag.
@@ -56,32 +57,37 @@ After filming the video, see the precise results before using the flag, when the
 
 ![results after using diy flag for lighting control](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. Hack. DIY Black Wrap or Cinewrap
 
 The black wrap is used in professional studios and set up to block and shape light. You can block light by directly giving shape to LED lightbulbs. The black wrap is made mainly of aluminum, so it's easy to provide forms for different lights.
 
 The aluminum foils used in households have the same characteristics as a black wrap, so that you can use it as an alternative. Look at the following requirement to make it! To make a black wrap, you need two household tools. There is no need to get pricey things from the market. For this, follow the below outlines of the tools!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. A Light Bulb
 
 You can take any LED bulb present at our home. Ensure that the bulb size is manageable to avoid any issues handling it.
 
 ![lightbulb used for cinewrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Foil Paper
 
 The foil paper used to cover the lightbulb should be aluminum because foils usually absorb the light and get fired. In contrast, aluminum foil is resistant and doesn't produce too much heat.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![foil paper used in the black wrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now, all the tools are ready and waiting for further processing. For this, follow the processing step to make it work. To proceed further, you have to follow the below step-by-step process as shown:
 
@@ -89,9 +95,6 @@ Step1 First, carefully wrap the bulb with the foil paper to shape the light.
 
 Step2 Then, you need to install the bulb on the lamp.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** During wrapping, you don't have to allow the foil to touch the bottom part of the bulb.
@@ -100,27 +103,45 @@ Step3 Leave a small part of the bulb open from the top and cover the part from t
 
 Step4 Ensure the lamp switch is off, and install the light bulb.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![process of creating a black wrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-7.png)
 
 When you turn on the lamp, the light has been shaped into a smaller light source.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Final Results for the Black Wrap or Cinewrap
 
 You can observe that the light is only at the required place, with no dispersion observed and no scattering. You can create more shapes to foil and then wrap them on the bulb for a different look.
 
 ![results after using cinewrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-8.png)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After experimenting with light shaping and blocking hacks, we will move toward the light reflector hack!
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3\. Hack. DIY Light Reflector
 
 A reflector is a spontaneous or specialized reflective surface that diverts the light to our subject or object. Professional filming setups usually use a large reflector to get a glowing effect on a subject or even more than two.
@@ -129,12 +150,29 @@ A reflector is a spontaneous or specialized reflective surface that diverts the 
 
 When applied to flat surfaces, the foil has a reflective surface. It makes it the best alternative to a professional reflector. To make your one, you will need
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-enhancing-your-cover-videos-pull/"><u>[New] In 2024, Enhancing Your Cover Video's Pull</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfect-pages-with-premieres-fade-techniques/"><u>[New] Perfect Pages with Premiere's Fade Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-picabuze-funny-image-creation-for-free/"><u>[New] Picabuze Funny Image Creation for Free</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-refining-shots-with-gopros-advanced-color-tools/"><u>[New] Refining Shots with GoPro's Advanced Color Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-samsungs-latest-bd-edition-k850-update/"><u>[New] Samsung's Latest BD Edition - K850 Update</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-explore-and-review-free-powerful-and-user-friendly-ios-edits/"><u>[Updated] Explore & Review Free, Powerful, and User-Friendly iOS Edits</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-master-picks-for-commercial-cloud-space/"><u>In 2024, Master Picks for Commercial Cloud Space</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/jumpstart-your-journey-learning-snapseed-techniques-for-2024/"><u>Jumpstart Your Journey Learning Snapseed Techniques for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/photo-hdr-excellence-tips-from-the-pros/"><u>Photo-HDR Excellence Tips From the Pros</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pictorial-mosaic-construction-with-digital-photography-for-2024/"><u>Pictorial Mosaic Construction with Digital Photography for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/radiance-studios-review-pinnacle-suite-deep-dive-into-studio-25-2023-for-2024/"><u>Radiance Studios Review Pinnacle Suite Deep Dive Into Studio 25, 2023 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/tricks-of-the-trade-saving-slides-in-high-definition-for-2024/"><u>Tricks of the Trade Saving Slides in High Definition for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unlocking-slidecast-potential-the-webcam-revolution-for-2024/"><u>Unlocking Slidecast Potential The Webcam Revolution for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unveiling-technology-secrets-with-tom-in-depth-gadget-analysis/"><u>Unveiling Technology Secrets with Tom - In-Depth Gadget Analysis</u></a></li>
+<li><a href="https://blog-min.techidaily.com/3gp-mov-movavi/"><u>오피니 시스템 내에서 자원이 비록해져도 두 가지 형식(3GP, MOV)까지 전환하기 - Movavi</u></a></li>
+</ul></div>
 

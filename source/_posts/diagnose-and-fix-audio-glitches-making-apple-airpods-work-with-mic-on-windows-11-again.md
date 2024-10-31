@@ -1,7 +1,7 @@
 ---
 title: "Diagnose and Fix Audio Glitches: Making Apple AirPods Work with Mic on Windows 11 Again"
-date: 2024-10-19T23:31:24.642Z
-updated: 2024-10-25T17:51:05.325Z
+date: 2024-10-30T18:35:03.666Z
+updated: 2024-10-31T16:30:40.566Z
 tags:
   - win11
   - win10
@@ -39,10 +39,10 @@ Before you start, make sure your headset is working properly.
 3. Scroll down to find**Enhance audio** . Turn Enhance audio on and then back off.  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound2.jpg)
@@ -61,13 +61,6 @@ If this trick doesn’t work for you, please move to the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
@@ -77,6 +70,13 @@ If this trick doesn’t work for you, please move to the next fix.
 
 If this fix doesn’t help, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Realtek driver issue
 
  If you have Realtek audio on your PC, this fix might be the right one for you. Realtek driver is sometimes corrupted on Windows 11 and it can lead to Windows 11 no sound or other audio issues. Here’s how to fix it.
@@ -85,8 +85,22 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound3.jpg)
 2. Expand**Sound, video and game controllers** . Find**Realtek audio** and right-click on it. Choose**Update driver** .  
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound4.jpg)
 3. Click**Browse my computer for drivers** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound5.jpg)
 4. Click**Let me pick from a list of available drivers on my computer** .  
@@ -97,17 +111,24 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound7.jpg)
 6. Click**Yes** in the pop-up window.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound8.jpg)
 7. Restart your PC for the changes to take effect.
 
-8. Check the sound on your PC.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+8. Check the sound on your PC.
 
 ## Fix 4: Update your Windows system
 
@@ -118,21 +139,7 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound9.jpg)
 3. Windows will check the latest available updates for you. If you have available updates, Windows 11 will download and install them automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. After the whole process, restart your PC and check the effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Repair system files
 
@@ -146,30 +153,17 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -191,22 +185,19 @@ If this fix doesn’t help, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-budget-friendly-recording-software-for-windows-users-for-2024/"><u>[New] Budget-Friendly Recording Software for Windows Users for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-essential-tools-to-replay-ps3-classics-on-pc/"><u>[New] In 2024, Essential Tools to Replay PS3 Classics on PC</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-optic-zenith-premier-choices-in-the-realm-of-8k/"><u>[New] Optic Zenith Premier Choices in the Realm of 8K</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-revelations-on-identifying-outstanding-film-making-talents/"><u>[New] Revelations on Identifying Outstanding Film Making Talents</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-radiance-reimagined-top-video-tools-list/"><u>2024 Approved Radiance Reimagined Top Video Tools List</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-the-smooth-watchers-guide-to-pacing-down-videos-on-youtube-60-chars-minor-exception-due-to-title-length-but-provides-rich-context/"><u>2024 Approved The Smooth Watcher's Guide to Pacing Down Videos on YouTube (60 Chars, Minor Exception Due to Title Length but Provides Rich Context)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-magic-understanding-how-these-7-apps-utilize-gpt-narratives-of-cutting-edge-ai-technology/"><u>Decoding the Magic: Understanding How These 7 Apps Utilize GPT-Narratives of Cutting-Edge AI Technology</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-11-pro-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone 11 Pro Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-realme-12plus-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Realme 12+ 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-laughlineart-memogallery/"><u>In 2024, LaughLineArt MemoGallery</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-majestic-celestial-images-at-your-command/"><u>In 2024, Majestic Celestial Images at Your Command</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-penetrating-the-veil-of-undisclosed-commentary-in-videos/"><u>In 2024, Penetrating the Veil of Undisclosed Commentary in Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-listing-sierras-best-video-maker-apps/"><u>In 2024, Premier Listing Sierra's Best Video Maker Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/should-past-facebook-actions-follow-you-today-investigate-for-2024/"><u>Should Past Facebook Actions Follow You Today? Investigate for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-lava-storm-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Lava Storm 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/fficient-ways-to-delete-previewed-content-from-youtubes-queue-for-2024/"><u>[New] Efficient Ways to Delete Previewed Content From YouTube's Queue for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-secretive-approach-to-watching-insta-stories/"><u>[New] Secretive Approach to Watching Insta-Stories</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-steps-to-skip-the-water-stained-stock-photos/"><u>[New] Steps to Skip the Water-Stained Stock Photos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-shoot-in-slow-motion-essential-gopro-hero-10-techniques/"><u>[Updated] Shoot in Slow Motion Essential GoPro Hero 10 Techniques</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-brightening-videos-android-tips/"><u>2024 Approved Brightening Videos Android Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-listenlogic-evaluating-alternatives-to-dacast/"><u>2024 Approved ListenLogic Evaluating Alternatives to DaCast</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-pixels-in-a-tap-iphone-and-androids-best-skin-editors/"><u>2024 Approved Perfect Pixels in a Tap IPhone & Android's Best Skin Editors</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-sapphire-graphics-card-drivers-compatible-with-windows-os/"><u>Download the Latest Sapphire Graphics Card Drivers: Compatible with Windows OS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/flv-a-mov-en-un-click-movil-convertidor-sin-complicaciones-para-ambos-tipos-de-archivo/"><u>Flv a Mov en Un Click - Móvil Convertidor Sin Complicaciones Para Ambos Tipos De Archivo</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-ios-device-back-online-8-proven-fixes-for-wi-fi-connectivity-problems/"><u>Get Your iOS Device Back Online: 8 Proven Fixes for Wi-Fi Connectivity Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/minecraft-glitches-demystified-fixing-the-notorious-error-code-crossbow-problems/"><u>Minecraft Glitches Demystified: Fixing the Notorious Error Code - Crossbow Problems</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/navigating-youtube-income-insights-from-sourav-joshi-2024-edition/"><u>Navigating YouTube Income Insights From Sourav Joshi, 2024 Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/plot-craft-guild-bestowed-batch-for-2024/"><u>Plot Craft Guild - Bestowed Batch for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/securing-profile-identities-no-extremist-viewpoints-allowed/"><u>Securing Profile Identities: No Extremist Viewpoints Allowed</u></a></li>
 </ul></div>
 

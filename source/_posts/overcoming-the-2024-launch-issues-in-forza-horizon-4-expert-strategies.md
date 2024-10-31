@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the 2024 Launch Issues in Forza Horizon 4: Expert Strategies"
-date: 2024-10-23T22:22:09.912Z
-updated: 2024-10-25T16:18:33.622Z
+date: 2024-10-24T18:35:13.159Z
+updated: 2024-10-31T17:40:45.191Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3
 
  Before we dive into anything advanced, make sure you check the server status first by checking the[Forza Support Twitter](https://twitter.com/forza%5Fsupport) . If everything seems fine on the server end, you can proceed to the troubleshooting steps on your end.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Shut down bandwidth-hogging programs
 
  The first thing you can do is to make sure you’re not loading videos or running bandwidth-hogging programs in the background. You can check the bandwidth usage via Task Manager, and shut down the programs that seem to hog your network and slow down your game. Here’s how:
@@ -59,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3
  Hopefully the lagging issue doesn’t return after you close the bandwidth-hogging programs. If that’s the case, we’d suggest you play FH5 with the least programs running in the background according to your internet service capacity. Or, consult your internet service provider and consider upgrading your plan.
 
 If the lagging issue persists, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Test your internet connection
 
@@ -101,13 +87,6 @@ If the lagging issue persists, try the next fix.
 
  Restart your PC for the new driver to take effect. If updating the network driver doesn’t solve your problem, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Allow Forza Horizon 5 through the firewall
 
  Your firewall may block Forza Horizon 5’s connection to the server, and thus trigger the in-game lags. You can check if the game is allowed through the firewall, and configure the settings if needed. Here’s how:
@@ -119,8 +98,22 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-control-panel.jpg)
 3. Switch to **View by: small icons** , then click **Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Forza Horizon 5 is on the exception list. If so, that means the game is allowed through your firewall, and you can [jump to the next fix](https://tools.techidaily.com/drivereasy/download/) . If you can’t find Forza Horizon 5 in the exception list, follow the steps below to unblock the game.
@@ -137,6 +130,19 @@ If the lagging issue persists, try the next fix.
 4. Find Forza Horizon 5 on the list,**tick the checkbox of Private network** , and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block Forza Horizon 5 when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If the lagging issue persists, try the next fix.
 
@@ -158,6 +164,13 @@ If this fix doesn’t help with your problem, try the next fix.
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1: Flush your DNS
 
  Flushing DNS will clear the DNS cache from your PC. When the DNS cache is removed, your PC will need to obtain the data from the DNS server every time it needs to access a new website. This may solve the lagging issue in Forza Horizon 5 if it’s triggered by invalid or corrupt DNS cache data
@@ -171,21 +184,15 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
 
@@ -195,21 +202,20 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
@@ -218,16 +224,29 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this fix doesn’t solve your problem, no worries, there’s one more fix you can try.
@@ -260,22 +279,17 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-filmmakers-dilemma-picking-between-filmora-and-democracy-creator/"><u>[New] Filmmaker's Dilemma Picking Between Filmora & Democracy Creator</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-learning-the-art-of-softly-amplifying-audio-tracks-for-2024/"><u>[New] Learning the Art of Softly Amplifying Audio Tracks for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-prime-6-web-spaces-for-corporate-social-connections/"><u>[New] Prime 6 Web Spaces for Corporate Social Connections</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-shoes-for-virtual-ground-leading-treadmill-insights/"><u>[New] Shoes for Virtual Ground Leading Treadmill Insights</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-connected-world-sharing-twitter-media-in-whatsapp-chat/"><u>[New] The Connected World Sharing Twitter Media in WhatsApp Chat</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leaders-of-the-digital-age-videoaudio-innovators-index/"><u>[Updated] Leaders of the Digital Age Video/Audio Innovators Index</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-mobile-frontier-of-animation-storage-and-viewing-iphone/"><u>[Updated] Mastering the Mobile Frontier of Animation Storage & Viewing (iPhone)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quintessential-5-filters-for-depth-video/"><u>2024 Approved Quintessential 5 Filters for Depth Video</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-reflex-toolbox-bundle/"><u>2024 Approved Reflex Toolbox Bundle</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-samsung-secrets-crafting-compelling-time-lapses/"><u>2024 Approved Samsung Secrets Crafting Compelling Time Lapses</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-6-plus-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/finding-equilibrium-between-professional-life-and-youtubing-for-2024/"><u>Finding Equilibrium Between Professional Life and YouTubing for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-hobbyist-to-pro-the-audacity-journey/"><u>From Hobbyist to Pro The Audacity Journey</u></a></li>
-<li><a href="https://facebook.techidaily.com/interactive-intimacy-facebooks-embrace-by-instagram/"><u>Interactive Intimacy: Facebook's Embrace by Instagram</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/spotlight-techniques-for-android-videography-for-2024/"><u>Spotlight Techniques for Android Videography for 2024</u></a></li>
-<li><a href="https://win-trending.techidaily.com/ubersetzen-von-iphone-bildern-auf-deinen-computer-mit-hilfe-von-itunes-schritt-fur-schritt-anleitung/"><u>Übersetzen Von iPhone-Bildern Auf Deinen Computer Mit Hilfe Von iTunes - Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-free-video-watermark-remover-and-adder-software-top-5/"><u>Updated In 2024, Free Video Watermark Remover and Adder Software Top 5</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-making-your-mark-strategies-for-monthly-growth-on-instagram/"><u>[New] 2024 Approved Making Your Mark Strategies for Monthly Growth on Instagram</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sci-fi-virtual-voyages-the-most-immersive-movies-in-the-metaverse-space/"><u>[New] Sci-Fi Virtual Voyages The Most Immersive Movies in the Metaverse Space</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-quick-tips-screen-record-and-camera-integration-on-android/"><u>[Updated] 2024 Approved Quick Tips Screen Record & Camera Integration on Android</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-optimizing-content-sharing-from-twitters-to-snaps/"><u>[Updated] In 2024, Optimizing Content Sharing From Twitters to Snaps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-instagrams-unique-video-display-a-deep-dive/"><u>[Updated] Instagram’s Unique Video Display A Deep Dive</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-noshadowedit-advanced-background-shadow-elimination/"><u>[Updated] NoShadowEdit Advanced Background Shadow Elimination</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revisiting-video-broadcast-choices-post-wirecast/"><u>[Updated] Revisiting Video Broadcast Choices Post-Wirecast</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-11-secrets-to-increasing-your-facebook-video-reach/"><u>2024 Approved 11 Secrets to Increasing Your Facebook Video Reach</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-free-diy-approaches-to-design-your-own-youtube-cards/"><u>2024 Approved Free DIY Approaches to Design Your Own YouTube Cards</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oneplus-ace-3-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass OnePlus Ace 3 FRP</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-wins-control-in-windows-11-easy-steps/"><u>Master Wins Control in Windows 11: Easy Steps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-resource-where-to-get-updated-mbox-2-driver-software-for-windows-pcs/"><u>The Ultimate Resource: Where to Get Updated MBox 2 Driver Software for Windows PCs</u></a></li>
 </ul></div>
 

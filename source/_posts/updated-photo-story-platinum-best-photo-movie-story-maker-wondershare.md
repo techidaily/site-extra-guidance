@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Photo Story Platinum - Best Photo Movie Story Maker | Wondershare\""
-date: 2024-10-20T20:16:10.947Z
-updated: 2024-10-25T22:07:07.306Z
+date: 2024-10-29T17:39:00.160Z
+updated: 2024-10-31T18:52:12.704Z
 tags: 
   - screen-recording
   - ai video
@@ -53,6 +53,13 @@ After the mode selection, click the Add Files button to import your photos and v
 
 ![photo story](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2\. Personalize your photo story
 
 Click the Personalize tab. Then you can add transitions, effects, background music and more t create your own gorgeous photo story.
@@ -62,10 +69,10 @@ You can import your photos and videos at one time and arrange the order by dragg
 ![Photo Story Platinum](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 3\. Publish your photo story
@@ -77,10 +84,10 @@ The photo story maker provides sorts of methods for you. For example, if you wan
 ![photo dvd](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Learn more: [user guide of Photo Story Platinum for Windows](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) here.
@@ -96,20 +103,13 @@ Learn about the detailed [technical specifications](https://tools.techidaily.com
 
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -127,16 +127,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-enriching-your-projects-look-by-adding-unique-fonts/"><u>[New] Enriching Your Project's Look by Adding Unique Fonts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-revolutionize-your-mac-streaming-experience/"><u>[New] Revolutionize Your Mac Streaming Experience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-play-every-game-at-home-nba-streaming-made-simple-top-15/"><u>[Updated] Play Every Game at Home NBA Streaming Made Simple (Top 15)</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-dissecting-insta-video-selfie-validation-necessary-or-not/"><u>2024 Approved Dissecting Insta Video Selfie Validation – Necessary or Not?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-your-linkedin-summary-statement/"><u>2024 Approved Perfecting Your LinkedIn Summary Statement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-chatgpt-navigating-the-realm-of-ai-generated-content/"><u>Exploring ChatGPT: Navigating the Realm of AI-Generated Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immediate-access-best-5-convertors-no-download-required-for-2024/"><u>Immediate Access Best 5 Convertors, No Download Required for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/perfected-techniques-for-high-quality-webp-to-jpg-conversion-for-2024/"><u>Perfected Techniques for High-Quality WebP to JPG Conversion for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/portable-picture-pixels-windows-mac-best-photo-to-cartoon-converter-for-2024/"><u>Portable Picture Pixels Windows, Mac - Best Photo-to-Cartoon Converter for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/rtx-2060-super-graphics-card-driver-download-for-windows-11/"><u>RTX 2060 Super Graphics Card Driver Download for Windows 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-moto-g-play-powerful-battery-and-competent-device-efficiency/"><u>Unveiling the Moto G Play: Powerful Battery and Competent Device Efficiency</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-5-mac-alternatives-to-bandicam-for-video-capture/"><u>[New] 2024 Approved Top 5 Mac Alternatives to Bandicam for Video Capture</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-exploring-the-disparities-between-youtube-and-dailymention/"><u>[New] In 2024, Exploring the Disparities Between YouTube and DailyMention</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-integrate-twitter-and-snapchat-posting-tweets-as-snaps/"><u>[New] Integrate Twitter & Snapchat Posting Tweets as Snaps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-ultimate-guide-to-choosing-between-free-and-paid-zoom-transcribers/"><u>[Updated] 2024 Approved The Ultimate Guide to Choosing Between Free & Paid Zoom Transcribers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-engage-audiences-on-all-sides-live-360-degree-video-broadcasting-for-youtube/"><u>[Updated] Engage Audiences on All Sides Live 360-Degree Video Broadcasting for YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-foremost-top-5-lightweight-video-capturers-guide/"><u>[Updated] Foremost Top 5 Lightweight Video Capturers Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-level-techniques-for-attaching-srt-to-mp4-clips/"><u>[Updated] Master Level Techniques for Attaching SRT to MP4 Clips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-cross-service-playlist-migration-step-by-step-guide/"><u>[Updated] Mastering Cross-Service Playlist Migration Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-preventing-htc-vive-disorientation-and-nausea/"><u>[Updated] Preventing HTC Vive Disorientation and Nausea</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-secret-tips-for-stunning-sketches-and-scans/"><u>[Updated] Secret Tips for Stunning Sketches & Scans</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-misting-mistake-gopro-clarity-tips/"><u>2024 Approved Misting Mistake? GoPro Clarity Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-converters-top-8-streamline-your-subtitles-to-srt/"><u>2024 Approved Premier Converters Top 8 Streamline Your Subtitles to SRT</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-motorola-edge-40-neo-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-jokes-to-laughter-waves-how-to-craft-memes-on-9gag/"><u>From Jokes to Laughter Waves How to Craft Memes on 9GAG</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-privacy-unveil-faces-less-clearly/"><u>In 2024, Master Privacy Unveil Faces Less Clearly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-through-vlc-features-settings-and-troubleshooting-mac/"><u>In 2024, Navigating Through VLC Features, Settings & Troubleshooting (Mac)</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-make-memoji-talk-make-memoji-video-on-your-own/"><u>Updated How to Make Memoji Talk-Make Memoji Video On Your Own</u></a></li>
 </ul></div>
 

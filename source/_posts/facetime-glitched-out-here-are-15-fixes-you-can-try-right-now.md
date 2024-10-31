@@ -1,7 +1,7 @@
 ---
 title: FaceTime Glitched Out? Here Are 15 Fixes You Can Try Right Now
-date: 2024-10-22T18:44:54.763Z
-updated: 2024-10-25T17:12:26.026Z
+date: 2024-10-25T17:12:40.508Z
+updated: 2024-10-31T18:01:27.800Z
 tags:
   - iphone
   - apple
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 
  Similarly, if you can't see or hear the other person on FaceTime but they can see you, it's best to ask them to confirm if they have video and mic enabled on their end.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Test the Internet Connection on Your Device
 
  Unlike regular phone calls, FaceTime needs an internet connection to work. If FaceTime isn't connecting, load a webpage on your iPhone, iPad, or Mac to test the internet connection.
@@ -70,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 ![iphone main settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7705.JPEG)
 
 ![iphone mobile service settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-mobile-service-settings.JPEG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![iphone mobile service settings for apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-mobile-service-settings-for-apps.JPEG)
 
@@ -92,29 +78,9 @@ Close
 
 ![apple system status webpage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/apple-system-status-webpage.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Apple services sometimes experience technical issues, which means FaceTime won't connect or be available for anyone. When this happens, there's nothing you can do but wait for Apple to implement a solution.
 
  Take a look at the current status of every Apple service on [Apple's System Status page](https://www.apple.com/support/systemstatus/) . If the status indicator next to FaceTime isn't green, it means the service is experiencing an outage and you'll need to wait.
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Check if FaceTime Works in Your Country
 
@@ -130,18 +96,18 @@ Close
 
 ![iphone facetime settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  To check your details on a Mac, open the**FaceTime** app. From the menu bar, go to**FaceTime > Settings** . Your contact details will appear in the**General** tab.
 
 ![facetime settings on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-settings-on-mac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Confirm That Your Device Works With Group FaceTime
 
@@ -170,6 +136,13 @@ For Group FaceTime chats, you need one of the following devices:
 
  On an iPhone or iPad, go to**Settings > General > Software Update** . On a Mac, go to**System Settings > General > Software Update** to check for a newer version.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 11\. Set the Date and Time Automatically
 
  Apple suggests you set the date and time automatically if FaceTime isn't working on your iPhone, iPad, or Mac. Most of us do this anyway, but you should ensure it's enabled in the settings on your device.
@@ -178,16 +151,16 @@ For Group FaceTime chats, you need one of the following devices:
 
 ![iphone main settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7705.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
 ![iphone date and time settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-date-and-time-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -205,6 +178,13 @@ Close
 
 ![iphone facetime settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iphone facetime toggled off in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-toggled-off-in-settings.JPEG)
 
 Close
@@ -221,16 +201,16 @@ Close
 
 ![sign out of facetime popup on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sign-out-of-facetime-popup-on-iphone.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  On a Mac, open the FaceTime app and go to**FaceTime > Settings** from the menu bar. Click**Sign Out** at the top of the window, then confirm you want to**Sign Out** . After signing out, enter your Apple ID details in the main FaceTime window to sign in again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 14\. Disable Content Restrictions for FaceTime
 
@@ -244,6 +224,13 @@ Close
 
 ![allowed apps in iphone content and privacy restriction settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/allowed-apps-in-iphone-content-and-privacy-restriction-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  On a Mac, go to**System Settings > Screen Time** **\>** **Content & Privacy > App Restrictions** . Ensure that**Camera** and**FaceTime** are enabled.
@@ -251,19 +238,20 @@ Close
 ![app restrictions on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/app-restrictions-on-mac.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If prompted on either device, enter your Screen Time passcode, which usually differs from your device passcode.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 15\. Enable Certain Ports in Your Firewall
 
@@ -290,19 +278,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-leveraging-zoom-in-email-chats-a-guide-to-gmail-users/"><u>[New] Leveraging Zoom in Email Chats – A Guide to Gmail Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-share-the-laughter-mastering-kinemaster/"><u>2024 Approved Share the Laughter Mastering KineMaster</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-download-and-personalize-whatsapp-ringtones-on-mobile/"><u>2024 Approved Step-by-Step Download & Personalize WhatsApp Ringtones on Mobile</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/aprovechando-la-pronunciacion-para-colores/"><u>Aprovechando La Pronunciación Para Colores</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/descargar-y-convertir-archivos-de-video-rmvb-a-formatos-flv-sin-costo-con-conversor-on-line-rapido/"><u>Descargar Y Convertir Archivos De Video RMVB a Formatos FLV Sin Costo Con Conversor On-Line Rápido</u></a></li>
-<li><a href="https://article-posts.techidaily.com/expert-review-of-powerdirector-features-and-tips-for-2024/"><u>Expert Review of PowerDirector - Features & Tips for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-oppo-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Oppo</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-peak-business-sky-storage-for-firms/"><u>In 2024, Peak Business Sky-Storage for Firms</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pixelpop-complete-examination-and-manual-24/"><u>In 2024, PixelPop Complete Examination & Manual '24</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-softening-volume-windowsmac-audio-tips/"><u>In 2024, Softening Volume Windows/Mac Audio Tips</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-the-zoom-tool-on-snapchat-for-better-photos-and-videos-for-2024/"><u>Mastering the Zoom Tool on Snapchat for Better Photos & Videos for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y100a-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y100A Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-exploring-the-eminent-on-niche-focused-instagram-groups/"><u>[New] 2024 Approved Exploring the Eminent on Niche-Focused Instagram Groups</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-elevating-live-play-with-professional-gear-lists/"><u>[Updated] In 2024, Elevating Live Play with Professional Gear Lists</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-kinemaster-elevating-your-game-play-experience-on-android-devices/"><u>[Updated] KineMaster Elevating Your Game Play Experience on Android Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premier-mobile-cloud-storage-apps-2024-rankings/"><u>[Updated] Premier Mobile Cloud Storage Apps - 2024 Rankings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-professional-8-stream-enhancers-for-video-sharpening/"><u>2024 Approved Professional 8 Stream Enhancers for Video Sharpening</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplify-coordination-blending-zoom-into-your-gmail-schedule/"><u>2024 Approved Simplify Coordination Blending Zoom Into Your Gmail Schedule</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-itel-s23-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Itel S23 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-guide-to-choosing-win-compatible-drawing-software/"><u>A Guide to Choosing Win-Compatible Drawing Software</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-efficiently-transfer-music-the-best-mp3-downloading-techniques-from-rhapsody-for-pc-users/"><u>How to Efficiently Transfer Music: The Best MP3 Downloading Techniques From Rhapsody for PC Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-14-plus-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 14 Plus System? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-best-video-maker-with-music-and-pictures/"><u>In 2024, Best Video Maker with Music and Pictures</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pioneering-video-editing-techniques-for-windows-10-aficionados/"><u>In 2024, Pioneering Video Editing Techniques for Windows 10 Aficionados</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essence-of-shareable-humorous-content/"><u>In 2024, The Essence of Shareable Humorous Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/iphone-lens-magic-the-ultimate-10-composition-techniques-for-2024/"><u>IPhone Lens Magic The Ultimate 10 Composition Techniques for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-previewed-fb-activity-is-it-safe-or-not-for-2024/"><u>Navigating Previewed FB Activity Is It Safe or Not for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cleaning Day Discovery: Original Q1 PC and Other Vintage Desktops Found in Boxes, Featuring Intel's Pioneering 8008 CPU and 16KB Memory"
-date: 2024-10-20T16:43:14.350Z
-updated: 2024-10-25T16:18:43.307Z
+date: 2024-10-29T16:16:33.685Z
+updated: 2024-10-31T16:46:41.380Z
 tags:
   - desktop
 categories:
@@ -76,22 +76,26 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-making-simple-text-pop-in-videos-without-costs/"><u>[New] Making Simple Text Pop in Videos without Costs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pro-level-tiktok-edits-techniques-that-increase-viewership/"><u>[New] Pro-Level TikTok Edits Techniques That Increase Viewership</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-securing-your-games-in-motion-top-5-for-windows-10/"><u>[New] Securing Your Games in Motion Top 5 for Windows 10</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-ultimate-compilation-of-top-tier-free-iphone-composition-software/"><u>[New] The Ultimate Compilation of Top-Tier Free iPhone Composition Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-perfect-placement-for-instagrams-audio-emojis-a-quick-guide/"><u>2024 Approved Perfect Placement for Instagram’s Audio Emojis – A Quick Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-and-easy-the-top-ten-for-youtube-mpeg-transformation/"><u>2024 Approved Quick and Easy The Top Ten for YouTube MPEG Transformation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-motorola-moto-g84-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Motorola Moto G84 5G?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-note-30-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-the-art-of-video-with-these-html5-platforms-for-2024/"><u>Master the Art of Video with These HTML5 Platforms for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-discovering-tiktoks-most-popular-gamers-for-2024/"><u>[New] Discovering TikTok's Most Popular Gamers for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-free-camera-apps-for-high-quality-slo-mo-photos/"><u>[New] Leading Free Camera Apps for High-Quality Slo-Mo Photos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-seamless-inshot-edits/"><u>[New] Mastering the Art of Seamless Inshot Edits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-minute-movie-narrative-blueprint/"><u>[New] Minute Movie Narrative Blueprint</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-perfect-presence-how-to-blur-background-on-zoom-for-2024/"><u>[New] Perfect Presence How to Blur Background on Zoom for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-best-full-screen-recorder-for-pc-and-mac-for-2024/"><u>[Updated] Best Full Screen Recorder for PC and Mac for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-your-visuals-the-ultrawide-vs-uhd-4k-debate/"><u>2024 Approved Maximizing Your Visuals The UltraWide vs UHD 4K Debate</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-15-pro-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 15 Pro to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oppo-f23-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Oppo F23 5G Is Unlocked</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-8-plus-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 8 Plus In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastered-listings-top-8-free-uhd-video-players-cross-platform-for-windows-pcandmac/"><u>In 2024, Mastered Listings - Top 8 FREE UHD Video Players (Cross-Platform) for Windows PC&Mac</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-simplify-slide-sharing-at-work-webcam-assisted-tips/"><u>In 2024, Simplify Slide Sharing at Work Webcam-Assisted Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/magix-acid-pro-review-a-look-at-similar-programs-for-2024/"><u>Magix ACID Pro Review A Look at Similar Programs for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/streamline-your-workflow-expert-advice-on-managing-fcpx-storage/"><u>Streamline Your Workflow Expert Advice on Managing FCPX Storage</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

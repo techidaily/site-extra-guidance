@@ -1,7 +1,7 @@
 ---
 title: Eliminating Lag and Stutter During Playthroughs of Age of Empires IV
-date: 2024-10-19T19:56:01.566Z
-updated: 2024-10-25T22:55:17.199Z
+date: 2024-10-24T17:38:43.666Z
+updated: 2024-10-31T17:15:11.778Z
 tags:
   - win11
   - win10
@@ -42,11 +42,25 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Also, too many startup apps can be a drag on your computer’s performance. Therefore, you should prevent these apps from automatically starting when you sign into Windows:
 
 1. Select the **Startup**  tab. Right-click the apps that you want to stop from running automatically at startup and select **Disable** .  
 
 ![disable apps from running automatically at startup](https://images.drivereasy.com/wp-content/uploads/2021/04/startup-disable.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you’ve done these, play Splitgate. If your problems persist, proceed to the next fix.
 
@@ -62,10 +76,10 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 4. Press**Ctrl + A** at the same time to select all the files inside the folder. Then right-click and select**Delete** .  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
@@ -77,10 +91,10 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you should be able to play your game smoothly. But if it doesn’t work for you, proceed to the next fix.
@@ -88,6 +102,19 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 ## 3\. Stop overclocking
 
  Some players might use overclocking applications such as MSI Afterburner to hopefully get a performance increase. But the truth is that these applications can cause crashes, stutters and other performance issues for some titles. If you suffer from sudden frame rate drops and stutters during Splitgate gameplay, you should stop overclocking.
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update your graphics driver
 
@@ -107,13 +134,6 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and then test the gameplay. If you’re still getting low FPS and stutters, don’t worry. Below are some other fixes you can try.
@@ -131,32 +151,25 @@ Here’s how to update drivers with Driver Easy:
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/grahics-settings-1.png)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/change-default-graphics-settings.jpg)
 4. Turn on**Hardware-accelerated GPU scheduling** .  
 
-![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
  After applying the changes, restart your PC and you should be able to gain a certain amount of FPS boost. However, if this doesn’t do the trick, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Optimize in-game settings
@@ -167,13 +180,6 @@ Here’s how to update drivers with Driver Easy:
 
 ![adjust in-game settings Splitgate](https://images.drivereasy.com/wp-content/uploads/2021/08/Settings-in-game.png)
 2. Under the**VIDEO** tab, adjust the following settings:  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **DISPLAY MODE:** Fullscreen  
 **RESOLUTION:** your native resolution (If you have no idea what your screen resolution is, refer to [this post](https://tools.techidaily.com/drivereasy/download/) . )  
@@ -202,16 +208,17 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-skyrocket-your-channel-navigating-through-youtube-stats/"><u>[Updated] In 2024, Skyrocket Your Channel Navigating Through YouTube Stats</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-ram-management-in-minecraft/"><u>[Updated] Mastering RAM Management in Minecraft</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-professionals-picks-selecting-the-best-software-for-live-streamsvmix-or-wirecast/"><u>[Updated] Professionals' Picks Selecting the Best Software for Live Streams—VMix or Wirecast?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pushing-boundaries-with-film-color-grading-these-7/"><u>[Updated] Pushing Boundaries with Film Color Grading (These 7)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-lightweight-travel-bags-with-camera-integration/"><u>2024 Approved Lightweight Travel Bags with Camera Integration</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-clashes-in-windows-desktop-ordering/"><u>Avoid Clashes in Windows Desktop Ordering</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-solution-to-correct-d3dx941dll-errors-on-your-pc/"><u>Comprehensive Solution to Correct 'd3dx9_41.dll' Errors on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminating-the-fatal-error-bug-from-your-halo-4-ue4-experience/"><u>Eliminating the 'Fatal Error' Bug From Your Halo 4 UE4 Experience</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/iphones-secret-to-time-extended-videography/"><u>IPhone's Secret to Time-Extended Videography</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-echo-reduction-techniques-in-audacity-for-2024/"><u>Navigating Echo Reduction Techniques in Audacity for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/opening-and-playing-srt-files-in-different-oses-for-2024/"><u>Opening and Playing SRT Files in Different OSes for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-melodious-memes-crafting-choreographed-reels-with-sound/"><u>[New] In 2024, Melodious Memes Crafting Choreographed Reels with Sound</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-photo-editing-inserting-dates-in-images/"><u>[New] Mastering Photo Editing Inserting Dates in Images</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-crafting-silent-pauses-in-music-tracks/"><u>[Updated] 2024 Approved Crafting Silent Pauses in Music Tracks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-virtual-reality-gamers-wealth/"><u>[Updated] In 2024, Virtual Reality Gamers' Wealth</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/downloading-the-latest-drivers-for-your-gigabyte-wb867d-motherboard-expansion-card/"><u>Downloading the Latest Drivers for Your Gigabyte WB867D Motherboard Expansion Card</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dubai-expo-2020-shaping-global-polyglots/"><u>Dubai Expo 2020: Shaping Global Polyglots</u></a></li>
+<li><a href="https://facebook.techidaily.com/explaining-the-hidden-meaning-behind-fb-messenger-symbols/"><u>Explaining the Hidden Meaning Behind FB Messenger Symbols</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-rhythmic-resonance-harmony-for-visuals/"><u>In 2024, Rhythmic Resonance Harmony for Visuals</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-secrets-to-captivating-audiences-in-real-time-broadcasting/"><u>In 2024, Secrets to Captivating Audiences in Real-Time Broadcasting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mobile-savings-and-decoding-digital-threats/"><u>Mobile Savings & Decoding Digital Threats</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/muzik-pathway-tamil-music-to-your-phones-chime-for-2024/"><u>Muzik Pathway Tamil Music to Your Phone's Chime for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/push-beyond-the-limits-yuzu-emulator-speed/"><u>Push Beyond the Limits: Yuzu Emulator Speed</u></a></li>
 </ul></div>
 

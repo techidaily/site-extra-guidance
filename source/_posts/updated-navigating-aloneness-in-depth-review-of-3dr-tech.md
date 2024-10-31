@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Navigating Aloneness  In-Depth Review of '3DR' Tech\""
-date: 2024-07-31T19:04:47.766Z
-updated: 2024-08-01T19:04:47.766Z
+date: 2024-10-24T17:12:04.455Z
+updated: 2024-10-31T17:33:25.115Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 
 # 3DR Solo Review
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -51,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Complete Review
 
 #### 1\. Basic Specs Info
@@ -71,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 
 #### 2\.  Design
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
@@ -91,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 #### 5\. Control Range
 
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
 
@@ -119,8 +117,12 @@ Follow @Max Wales
  The 3DR solo is one of the best examples of the excellent industrial product; it can record footage with amazing results in the air. It possesses so many simple yet powerful controls and users whether they are [professionals](https://tools.techidaily.com/wondershare/filmora/download/) or [beginners](https://tools.techidaily.com/wondershare/filmora/download/) can take full advantage of its incredible features. 3DR solo is one of the best product for [cinematographers](https://tools.techidaily.com/wondershare/filmora/download/) as it can work on aerial shoot with breathtaking clarity.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Pros and Cons of 3DR Solo
 
 **Pros:**
@@ -141,39 +143,37 @@ Follow @Max Wales
 
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
+## Complete Review
+
+#### 1\. Basic Specs Info
+
+| Item name            | 3DR Solo                                    |                       |                                  |
+| -------------------- | ------------------------------------------- | --------------------- | -------------------------------- |
+| Manufacture          | 3DR Robotics                                |                       |                                  |
+| Price:               | Official: $1099                             |                       |                                  |
+| Basic Specifications |                                             |                       |                                  |
+| Weight               | 3.35 lbs                                    | Dimensions            | 18.5x1.8x0.7 feet                |
+| Application          | Android and iOS compatible                  | Flight Time           | 22 minutes                       |
+| FAA Registration     | Yes                                         | Smartphone Controlled | Yes                              |
+| Camera               | GoPro 3+/4                                  | Battery Life          | 20/22 minutes (5200 mAh, Li-ion) |
+| Video Resolution     | 4K/60P (as per GoPro Camera Specifications) | Rotors                | 4 replaceable (10 inch diameter) |
+
+#### 2\.  Design
+
+![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-## Complete Review
-
-#### 1\. Basic Specs Info
-
-| Item name            | 3DR Solo                                    |                       |                                  |
-| -------------------- | ------------------------------------------- | --------------------- | -------------------------------- |
-| Manufacture          | 3DR Robotics                                |                       |                                  |
-| Price:               | Official: $1099                             |                       |                                  |
-| Basic Specifications |                                             |                       |                                  |
-| Weight               | 3.35 lbs                                    | Dimensions            | 18.5x1.8x0.7 feet                |
-| Application          | Android and iOS compatible                  | Flight Time           | 22 minutes                       |
-| FAA Registration     | Yes                                         | Smartphone Controlled | Yes                              |
-| Camera               | GoPro 3+/4                                  | Battery Life          | 20/22 minutes (5200 mAh, Li-ion) |
-| Video Resolution     | 4K/60P (as per GoPro Camera Specifications) | Rotors                | 4 replaceable (10 inch diameter) |
-
-#### 2\.  Design
-
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
-![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
 
@@ -189,10 +189,14 @@ Follow @Max Wales
 
 #### 5\. Control Range
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
 
@@ -221,8 +225,12 @@ Follow @Max Wales
  The 3DR solo is one of the best examples of the excellent industrial product; it can record footage with amazing results in the air. It possesses so many simple yet powerful controls and users whether they are [professionals](https://tools.techidaily.com/wondershare/filmora/download/) or [beginners](https://tools.techidaily.com/wondershare/filmora/download/) can take full advantage of its incredible features. 3DR solo is one of the best product for [cinematographers](https://tools.techidaily.com/wondershare/filmora/download/) as it can work on aerial shoot with breathtaking clarity.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Pros and Cons of 3DR Solo
 
 **Pros:**
@@ -304,6 +312,13 @@ Follow @Max Wales
 
  The 3DR solo is one of the best examples of the excellent industrial product; it can record footage with amazing results in the air. It possesses so many simple yet powerful controls and users whether they are [professionals](https://tools.techidaily.com/wondershare/filmora/download/) or [beginners](https://tools.techidaily.com/wondershare/filmora/download/) can take full advantage of its incredible features. 3DR solo is one of the best product for [cinematographers](https://tools.techidaily.com/wondershare/filmora/download/) as it can work on aerial shoot with breathtaking clarity.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pros and Cons of 3DR Solo
 
 **Pros:**
@@ -341,9 +356,6 @@ Follow @Max Wales
 
 #### 2\.  Design
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
@@ -362,6 +374,13 @@ Follow @Max Wales
 
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
 
 #### 6\. Camera
@@ -374,9 +393,6 @@ Follow @Max Wales
 
 **You may also like:** [10 Must Have drone accessories and parts](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -407,5 +423,20 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-lift-run-dance-select-the-most-motivating-exercise-tracks/"><u>[New] Lift, Run, Dance - Select the Most Motivating Exercise Tracks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-android-latest-tips-for-immersive-360-content/"><u>[New] Navigating Android Latest Tips for Immersive 360 Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-essential-anime-openers-revisited/"><u>[Updated] 2024 Approved Essential Anime Openers Revisited</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-smooth-slide-advanced-techniques-for-inshot-transitions/"><u>[Updated] In 2024, The Smooth Slide Advanced Techniques for Inshot Transitions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-shock-free-footage-leading-smartphones-with-superior-ois-features/"><u>[Updated] Shock-Free Footage Leading Smartphones with Superior OIS Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-the-art-of-editing-on-sierra-with-1-5-tools/"><u>2024 Approved Master the Art of Editing on Sierra with #1-#5 Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prelude-to-cinematic-dialogue/"><u>2024 Approved Prelude to Cinematic Dialogue</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/key-approaches-to-convert-youtube-videos-to-mp4-for-2024/"><u>Key Approaches to Convert YouTube Videos to MP4 for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpts-power-to-design-compelling-presentations/"><u>Leveraging ChatGPT's Power to Design Compelling Presentations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-imo-messenger-user-experience-and-quality-check/"><u>Navigating Through Imo Messenger: User Experience & Quality Check</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pureimagezone-premium-tool-to-remove-backgrounds-for-2024/"><u>PureImageZone Premium Tool to Remove Backgrounds for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-in-depth-reviews-and-guides/"><u>Tom's Tech Hub: In-Depth Reviews and Guides</u></a></li>
+<li><a href="https://win-superb.techidaily.com/pdf-11/"><u>이 분야에서 가장 뛰어난 PDF 조정기를 위해 11개의 신중한 선택 - 무료 토포</u></a></li>
+</ul></div>
 

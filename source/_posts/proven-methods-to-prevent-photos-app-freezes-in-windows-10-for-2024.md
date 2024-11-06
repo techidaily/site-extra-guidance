@@ -1,7 +1,7 @@
 ---
 title: "Proven Methods to Prevent Photos App Freezes in Windows 10 for 2024"
-date: 2024-10-28T17:46:23.083Z
-updated: 2024-10-31T17:05:31.682Z
+date: 2024-10-30T00:02:26.189Z
+updated: 2024-11-05T18:26:07.669Z
 tags: 
   - screen-recording
   - ai video
@@ -42,13 +42,6 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 ## How to fix Windows 10 Photos app crashes
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 1: Use the Troubleshooter
 
 The Windows Troubleshooter is an inbuilt troubleshooting feature embedded with Windows 10 computers. It allows a simple interface to help you choose any application for troubleshooting. Windows Troubleshooter resolves basic issues with the Windows computer so that users can seamlessly use all Windows 10 system features and functionalities.
@@ -64,10 +57,10 @@ Here is how to troubleshoot –
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
@@ -81,7 +74,21 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 3: Reset it
 
@@ -94,16 +101,10 @@ Here is how can you reset it –
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
@@ -128,13 +129,6 @@ Here is how to reinstall the Windows 10 Photos App –
 2. Now, visit the ‘Microsoft Store on your computer and find ‘Microsoft Photos.’
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
@@ -158,17 +152,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-iphone-ringtones-a-guide-to-personalized-sound-choices/"><u>[New] IPhone Ringtones A Guide to Personalized Sound Choices</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-mastering-editing-skills-for-professional-facebook-reels-for-2024/"><u>[New] Mastering Editing Skills for Professional Facebook Reels for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-mirthful-selfies-step-by-step-for-the-cartoon-face-lens/"><u>[New] Mastering Mirthful Selfies Step-by-Step for the Cartoon Face Lens</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-no-caps-lock-required-android-and-ios-downloader-hacks/"><u>[Updated] 2024 Approved No Caps Lock Required Android and iOS Downloader Hacks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-layering-yt-music-with-visual-expressions/"><u>[Updated] Layering YT Music with Visual Expressions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-12-pro-max-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 12 Pro Max and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-deep-discount-on-apple-watch-series-9-lingers-beyond-amazon-prime-day-gadgetguru-reveals-deal-details/"><u>Exclusive: Deep Discount on Apple Watch Series 9 Lingers Beyond Amazon Prime Day | GadgetGuru Reveals Deal Details</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-smart-7-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Smart 7 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-parrot-bebop-2-review/"><u>In 2024, Parrot Bebop 2 Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-start-shooting-smart-top-15-shot-techniques-for-beginners/"><u>In 2024, Start Shooting Smart Top 15 Shot Techniques for Beginners</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-systems-uncovering-5-prime-performance-strategies/"><u>Swift Systems: Uncovering 5 Prime Performance Strategies</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unlock-the-secrets-of-swashbuckling-terminology/"><u>Unlock the Secrets of Swashbuckling Terminology</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-proven-strategies-for-saving-your-digital-discussions-google-meets/"><u>[New] 2024 Approved Proven Strategies for Saving Your Digital Discussions (Google Meets)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterclass-in-minimal-photoshop-alterations/"><u>[New] Masterclass in Minimal Photoshop Alterations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-inside-the-speech-of-cyberspace-must-know-vr-terms/"><u>[Updated] Inside the Speech of Cyberspace Must-Know VR Terms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-masterful-recordings-the-elite-handsets-with-advanced-ois-capabilities/"><u>[Updated] Masterful Recordings The Elite Handsets with Advanced OIS Capabilities</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-photographic-mastery-a-critical-look-at-magix-for-2024/"><u>[Updated] Photographic Mastery A Critical Look at MAGIX for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-snicker-schematics-androids-with-sarcasm/"><u>[Updated] Snicker Schematics Androids with Sarcasm</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-camera-test-hero5-meets-sjcam/"><u>[Updated] Ultimate Camera Test Hero5 Meets SJCAM</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unlock-the-magic-of-stories-in-fb-free-cross-platform-tools/"><u>[Updated] Unlock the Magic of Stories in FB – Free, Cross-Platform Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-video-production-a-compreey-guide-to-powerdirector/"><u>2024 Approved Mastering Video Production A Compreey Guide to PowerDirector</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-securing-privacy-efficient-blur-techniques-in-images/"><u>2024 Approved Securing Privacy Efficient Blur Techniques in Images</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-realme-gt-neo-5-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Realme GT Neo 5 Pattern Lock Screen</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-hp-network-adapter-driver-downloads-compatible-with-windows-10-7-and-8/"><u>Free HP Network Adapter Driver Downloads Compatible with Windows 10, 7 & 8</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reviewing-the-action-realm-with-t5s-thievery/"><u>In 2024, Reviewing the Action Realm with T5's Thievery</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-ringtone-manipulation-from-default-sounds-to-custom-beat-selections/"><u>In 2024, Ringtone Manipulation From Default Sounds to Custom Beat Selections</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-dimensions-online-aspect-tweaking-for-2024/"><u>Mastering Dimensions Online Aspect Tweaking for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-instagrams-new-trends-reels-and-stories/"><u>Mastering Instagram’s New Trends Reels and Stories</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximize-your-digital-life-30-budget-friendly-cloud-solutions-1tbplus-for-2024/"><u>Maximize Your Digital Life 30 Budget-Friendly Cloud Solutions (1TB+) for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/unveiling-the-distinct-features-of-dvd-r-dl-vs-single-layer-dvds/"><u>Unveiling the Distinct Features of DVD-R DL Vs. Single Layer DVDs</u></a></li>
 </ul></div>
 

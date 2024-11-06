@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shoot Higher  Your Mobile for Vertical Panoramas\""
-date: 2024-10-24T17:52:00.941Z
-updated: 2024-10-31T19:07:44.022Z
+date: 2024-10-30T06:41:33.191Z
+updated: 2024-11-06T00:33:01.553Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,19 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 * [Part 1: For iPhone Users](#part1)
 * [Part 2: For Android Users](#part2)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### For iPhone users
 
  The iPhone users can follow the steps given below to execute vertorama.
@@ -48,23 +61,16 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image source: mac-fusion
 
 * Begin to go along with the upward arrow on the screen to capture the desired vertorama.
 * Once finished and satisfied, just tap on "Done" option.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For Android users
@@ -76,18 +82,18 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * To shoot picture, keep holding the target circle on the gray dot until it vanishes.
 * Repeat the same with other dots as well. In other words, move camera towards the gray dots one by one until they get disappear.
 * Tap on "Done" when completed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Some Beneficial Tips for shooting vertical panorama photo
 
@@ -99,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -120,18 +126,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-clearing-your-browsers-watched-videos/"><u>[Updated] Clearing Your Browser's Watched Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-perfecting-your-snapchat-story-cinematography/"><u>[Updated] In 2024, Perfecting Your Snapchat Story Cinematography</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-strategies-for-designing-youtube-video-flow/"><u>[Updated] In 2024, Strategies for Designing YouTube Video Flow</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-5-time-lapse-screen-recorder/"><u>[Updated] In 2024, Top 5 Time-Lapse Screen Recorder</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-key-strategies-to-craft-persuasive-testimonials-that-resonate/"><u>[Updated] Key Strategies to Craft Persuasive Testimonials That Resonate</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-live-photos-to-videos-a-cinematic-experience/"><u>[Updated] Live Photos to Videos A Cinematic Experience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-shades-and-tones-elevating-your-visuals/"><u>[Updated] Shades and Tones Elevating Your Visuals</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pro-window-11-users-guide-to-photovideo-imports/"><u>2024 Approved Pro Window 11 Users' Guide to Photo/Video Imports</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-guide-step-by-step-process-of-permanently-closing-your-yahoo-email/"><u>Complete Guide: Step-by-Step Process of Permanently Closing Your Yahoo Email</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-10-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 10 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-nuances-of-spotify-advertising-for-2024/"><u>Navigating the Nuances of Spotify Advertising for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premier-pro-templates-of-the-year-free-version-for-2024/"><u>Premier Pro Templates of the Year - Free Version for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tailoring-texts-professionally-four-things-to-dodge-using-chatgpt/"><u>Tailoring Texts Professionally: Four Things to Dodge Using ChatGPT</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-professional-4k-at-your-fingertips-benq-bl2711u-uncovered/"><u>[New] 2024 Approved Professional 4K at Your Fingertips BenQ BL2711U Uncovered</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-crafting-coolest-mini-houses-in-mc-world/"><u>[New] Crafting Coolest Mini-Houses in MC World</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionized-action-recording-with-tomtoms-newest-bandit/"><u>[Updated] Revolutionized Action Recording with TomTom's Newest Bandit</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-insightful-evaluation-of-the-latest-lg-360-cam-model/"><u>2024 Approved Insightful Evaluation of the Latest LG 360 Cam Model</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-fisheye-camera-capabilities/"><u>2024 Approved The Ultimate Guide to Fisheye Camera Capabilities</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/efficiently-creating-full-disk-images-guidance-for-windows-server-2011-users/"><u>Efficiently Creating Full Disk Images: Guidance for Windows Server 2011 Users</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-microsofts-hololens-demo-the-next-leap-in-tech-experience/"><u>In 2024, Microsoft’s HoloLens Demo The Next Leap in Tech Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-ps5-gaming-setup-top-5-display-recommendations/"><u>In 2024, PS5 Gaming Setup Top 5 Display Recommendations</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oppo-find-n3-flip-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Oppo Find N3 Flip FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-honor-90-gt-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Honor 90 GT for Streaming | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/snap-to-success-top-pixlr-editing-methods-unveiled-for-2024/"><u>Snap to Success Top Pixlr Editing Methods Unveiled for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-override-windows-antivirusfirewall-blocking-chrome/"><u>Steps to Override Windows Antivirus/Firewall Blocking Chrome</u></a></li>
 </ul></div>
 

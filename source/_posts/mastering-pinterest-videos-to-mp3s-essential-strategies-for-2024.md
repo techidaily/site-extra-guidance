@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Pinterest Videos to MP3s  Essential Strategies for 2024\""
-date: 2024-07-31T18:57:02.632Z
-updated: 2024-08-01T18:57:02.632Z
+date: 2024-10-31T18:17:53.267Z
+updated: 2024-11-06T07:00:09.007Z
 tags: 
   - screen-recording
   - ai video
@@ -25,13 +25,30 @@ Pinterest is notable for publishing videos and images among diverse photo-sharin
 There are many free online converters you can use to download Pinterest videos as MP3 files, you'd want to know which online tools are the reliable one so that you can use for the process. Here, after full-scale testing, we have compiled three of the best options we found online.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. [Offeo Pinterest Video Downloader](https://offeo.com/download/pinterest-video-downloader/)
 
 Offeo's Pinterest Video Downloader is a high-quality online tool that users can try out to download top-notch Pinterest videos in MP3 format. The tool is accessible through different browsers and works on diverse operating systems like Android, iOS, Mac, Windows, and Linux devices. However, it is a web-based tool.
 
 ![offeo pinterest video download](https://images.wondershare.com/filmora/article-images/2022/07/get-pinterest-video-to-mp3-downloaded-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Main Features:**
 
@@ -65,9 +82,6 @@ Step4Choose a format for conversion. It will save in device memory.
 
 Another usable tool for **Pinterest video to mp3 download** and conversion is the KeepSaveIt site. You can keep the final files you add in many formats and HD resolutions. You can also use this converter to access and download files from 35 more websites besides Pinterest.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![keepsaveit](https://images.wondershare.com/filmora/article-images/2022/07/get-pinterest-video-to-mp3-downloaded-2.jpg)
 
 **Main Features:**
@@ -98,14 +112,24 @@ Step3Paste the Pinterest video URL.
 
 Step4Click on Download twice, the second time based on the format type.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. [ExpertsPHP](https://www.expertsphp.com/pinterest-video-downloader.html)
 
 ExpertsPHP, as a **Pinterest video to mp3 download** and conversion tool, is accessible through varying browsers, whether you are using a desktop or mobile phone. The online converter allows quick and smooth conversion of files into MP3 or MP4 folders. So, you can use it to convert the Pinterest video in which format is necessary.
 
 ![expertsphp](https://images.wondershare.com/filmora/article-images/2022/07/get-pinterest-video-to-mp3-downloaded-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Main Features:**
 
@@ -153,10 +177,6 @@ After learning the features of the **mp3 Pinterest** conversion tool settings an
 | **Converter Supported Output File Formats** | MP3, MP4                                                       | MP4, MP3                                                                                                                                        | MP3, MP4                       |
 | **Quality of Software**                     | High-quality                                                   | Mid-Quality                                                                                                                                     | High-Quality                   |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Convert Pinterest Video to MP3 using a Professional Video-Editing Tool
 
 Certainly, the online converters for **the Pinterest video to mp3 download** and storage are useful for quick and simple conversions. However, professional-level video editors like [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) assure more benefits. **This desktop-based video to mp3 converter** has diverse editing skills, advanced effects, and multi-format audio/video input and output support.
@@ -197,9 +217,6 @@ Step3Add the Pinterest video you downloaded using online converter tools in MP4 
 
 Step4Drag the video to the editor timeline below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![drag video to the editor](https://images.wondershare.com/filmora/article-images/2022/07/get-pinterest-video-to-mp3-downloaded-6.jpg)
 
 Step5Do adjustments like cutting the file, adding audio effects, adjusting volume, speeding/slowing playback, etc.
@@ -213,6 +230,13 @@ Step7Open the Local tab and click on MP3, add the new name, save location on the
 ![open the local tab](https://images.wondershare.com/filmora/article-images/2022/07/get-pinterest-video-to-mp3-downloaded-8.jpg)
 
 Step8Press Export then it's done.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Download Pinterest Video as MP3 File to iPhone or Android
 
@@ -245,6 +269,13 @@ Step2Copy the Pinterest URL > Paste.
 Step3Click the Download button and choose format to MP3.
 
 Step4The file is downloaded.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can You Download Pinterest Video in MP3 Format or Not?
 
@@ -274,16 +305,10 @@ Step3Click on the “Download” option next.
 
 Step4Choose a format for conversion. It will save in device memory.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### 2\. KeepSaveIt
 
 Another usable tool for **Pinterest video to mp3 download** and conversion is the KeepSaveIt site. You can keep the final files you add in many formats and HD resolutions. You can also use this converter to access and download files from 35 more websites besides Pinterest.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![keepsaveit](https://images.wondershare.com/filmora/article-images/2022/07/get-pinterest-video-to-mp3-downloaded-2.jpg)
 
 **Main Features:**
@@ -314,17 +339,24 @@ Step3Paste the Pinterest video URL.
 
 Step4Click on Download twice, the second time based on the format type.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. [ExpertsPHP](https://www.expertsphp.com/pinterest-video-downloader.html)
 
 ExpertsPHP, as a **Pinterest video to mp3 download** and conversion tool, is accessible through varying browsers, whether you are using a desktop or mobile phone. The online converter allows quick and smooth conversion of files into MP3 or MP4 folders. So, you can use it to convert the Pinterest video in which format is necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![expertsphp](https://images.wondershare.com/filmora/article-images/2022/07/get-pinterest-video-to-mp3-downloaded-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Main Features:**
 
@@ -357,6 +389,13 @@ Step4Press on the Download icon.
 Step5Click the format to MP3 and tap the download link that generates.
 
 Step6Press “Save as” to store your file.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Comparison Table for the Top 3 Online Pinterest Video Downloaders
 
@@ -404,9 +443,6 @@ Step1Download and launch the Filmora 11 software on your Windows/Mac device.
 
 Step2Press the “New Project” button.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![press the new project button](https://images.wondershare.com/filmora/article-images/2022/07/get-pinterest-video-to-mp3-downloaded-4.jpg)
 
 Step3Add the Pinterest video you downloaded using online converter tools in MP4 file format by tapping the “Click here to import files” button.
@@ -419,19 +455,19 @@ Step4Drag the video to the editor timeline below.
 
 Step5Do adjustments like cutting the file, adding audio effects, adjusting volume, speeding/slowing playback, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![cutting the file](https://images.wondershare.com/filmora/article-images/2022/07/get-pinterest-video-to-mp3-downloaded-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step6After all customizations, click on the Export button on the top taskbar on the home screen.
 
 Step7Open the Local tab and click on MP3, add the new name, save location on the device, and other settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![open the local tab](https://images.wondershare.com/filmora/article-images/2022/07/get-pinterest-video-to-mp3-downloaded-8.jpg)
 
 Step8Press Export then it's done.
@@ -468,26 +504,16 @@ Step3Click the Download button and choose format to MP3.
 
 Step4The file is downloaded.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Can You Download Pinterest Video in MP3 Format or Not?
 
 As an app on Android and iOS devices, Pinterest supports different types of content, like images and videos. In terms of videos, the allowed formats include MP4 and MOV, and the time limit for each video is around 30 minutes' maximum. There are tools available online that users can **download video Pinterest mp3 format.** However, they are not officially authorized by Pinterest, so it is important to use a reliable converter tool in the market.
 
 Disclaimer: This guide is for educational purposes or to extract copyright free audios from Pinterest videos. Extracting someone else's audio without authorization of use is against copyright rule of Pinterest.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## Where are your videos saved from the free online Pinterest Video Downloader?
 
 When you use the Pinterest Video Downloader online tool to convert and download the Pinterest video to Mp3, the file saves automatically into device memory. So, users downloading through the online tool on the desktop can find the file in the Downloads section. Similarly, iOS and Android device users would also see it in their device download folders.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Final Words
 
 You can use the online Pinterest video to mp3 downloader tools across different browsers and devices for free. ExpertsPHP is highly usable in terms of performance quality, and Pinterest Video Downloader is another simple tool for MP4/MP3 conversion. Make your final choice as per your personal needs and the tool that would assure the best usage.
@@ -518,5 +544,24 @@ You can use the online Pinterest video to mp3 downloader tools across different 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-platforms-modeling-animating-unite/"><u>[New] Leading Platforms Modeling, Animating Unite</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revisiting-erased-reddit-topics-fast-and-efficient-ways/"><u>[New] Revisiting Erased Reddit Topics Fast & Efficient Ways</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionize-your-movie-experience-with-free-apps/"><u>[New] Revolutionize Your Movie Experience with Free Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-audio-prime-websites-for-turning-video-melodies-into-sound-effects/"><u>[New] Seamless Audio Prime Websites for Turning Video Melodies Into Sound Effects</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-youtube-editors-handbook-a-step-by-step-journey/"><u>[New] The Ultimate YouTube Editor's Handbook A Step-by-Step Journey</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieve-financial-success-with-youtube-ad-profit-techniques/"><u>[Updated] In 2024, Achieve Financial Success with YouTube Ad Profit Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-video-lessons-to-vivid-engaging-gifs-no-download-needed/"><u>[Updated] In 2024, From Video Lessons to Vivid, Engaging GIFs – No Download Needed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-bring-life-to-your-instagram-posts-with-branded-graphics-and-icons/"><u>2024 Approved Bring Life to Your Instagram Posts with Branded Graphics & Icons</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-os-bridging-virtualmix-pro/"><u>2024 Approved OS-Bridging VirtualMix Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-white-motherboards-2023s-budget-hits/"><u>Affordable White Motherboards: 2023'S Budget Hits</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-tecno-camon-20-premier-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Tecno Camon 20 Premier 5G Phone that is Locked?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-one-earbud-woes-restoration-tips/"><u>In 2024, One Earbud Woes Restoration Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-selection-your-guide-to-best-tv-streaming-choices/"><u>In 2024, Prime Selection Your Guide to Best TV Streaming Choices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-safeguarding-sound-quality-while-speeding-up-tracks/"><u>In 2024, Safeguarding Sound Quality While Speeding Up Tracks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-13-mini-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone 13 mini WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Xiaomi 13T | Dr.fone</u></a></li>
+</ul></div>
 

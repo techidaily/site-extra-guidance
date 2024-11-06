@@ -1,7 +1,7 @@
 ---
 title: "Cleaning Day Discovery: Original Q1 PC and Other Vintage Desktops Found in Boxes, Featuring Intel's Pioneering 8008 CPU and 16KB Memory"
-date: 2024-10-29T16:16:33.685Z
-updated: 2024-10-31T16:46:41.380Z
+date: 2024-10-30T01:26:16.319Z
+updated: 2024-11-06T08:27:09.659Z
 tags:
   - desktop
 categories:
@@ -76,26 +76,31 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-discovering-tiktoks-most-popular-gamers-for-2024/"><u>[New] Discovering TikTok's Most Popular Gamers for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-leading-free-camera-apps-for-high-quality-slo-mo-photos/"><u>[New] Leading Free Camera Apps for High-Quality Slo-Mo Photos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-seamless-inshot-edits/"><u>[New] Mastering the Art of Seamless Inshot Edits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-minute-movie-narrative-blueprint/"><u>[New] Minute Movie Narrative Blueprint</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-perfect-presence-how-to-blur-background-on-zoom-for-2024/"><u>[New] Perfect Presence How to Blur Background on Zoom for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-best-full-screen-recorder-for-pc-and-mac-for-2024/"><u>[Updated] Best Full Screen Recorder for PC and Mac for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-your-visuals-the-ultrawide-vs-uhd-4k-debate/"><u>2024 Approved Maximizing Your Visuals The UltraWide vs UHD 4K Debate</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-15-pro-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 15 Pro to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oppo-f23-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Oppo F23 5G Is Unlocked</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-8-plus-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 8 Plus In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastered-listings-top-8-free-uhd-video-players-cross-platform-for-windows-pcandmac/"><u>In 2024, Mastered Listings - Top 8 FREE UHD Video Players (Cross-Platform) for Windows PC&Mac</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-simplify-slide-sharing-at-work-webcam-assisted-tips/"><u>In 2024, Simplify Slide Sharing at Work Webcam-Assisted Tips</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/magix-acid-pro-review-a-look-at-similar-programs-for-2024/"><u>Magix ACID Pro Review A Look at Similar Programs for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/streamline-your-workflow-expert-advice-on-managing-fcpx-storage/"><u>Streamline Your Workflow Expert Advice on Managing FCPX Storage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterclass-in-visual-enhancement-from-muted-sdr-to-stunning-hdri/"><u>[New] Masterclass in Visual Enhancement From Muted SDR to Stunning HDRI</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfecting-hdr-photos-techniques-for-blending-in-lightroom/"><u>[New] Perfecting HDR Photos Techniques for Blending in Lightroom</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-checklist-for-instagram-selfies-for-2024/"><u>[New] The Ultimate Checklist for Instagram Selfies for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-elite-streaming-methods-for-real-time-cricket-viewing/"><u>[Updated] 2024 Approved Elite Streaming Methods for Real-Time Cricket Viewing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-av1-your-initial-journey/"><u>[Updated] Navigating AV1 Your Initial Journey</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-syncing-youtube-with-facebooks-sharing-mechanism-for-2024/"><u>[Updated] Syncing YouTube With Facebook's Sharing Mechanism for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-overlay-techniques-for-video-and-image-enhancement-with-windows-10/"><u>2024 Approved Mastering Overlay Techniques for Video and Image Enhancement with Windows 10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-podcast-world-with-your-iphone/"><u>2024 Approved Navigating Podcast World with Your iPhone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apc-back-ups-pro-ebr)-1500-va-unit-review-excellent-capacity-extensive-port-availability-and-hot-swappable-batteries-feature/"><u>APC Back-UPS Pro Ebr> 1500 VA Unit Review: Excellent Capacity, Extensive Port Availability and Hot Swappable Batteries Feature</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/delineating-artificial-intelligence-categories-comparing-strong-vs-weak-ai-concepts/"><u>Delineating Artificial Intelligence Categories: Comparing Strong Vs. Weak AI Concepts</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ibeatpro-tips-for-mobile-music-video-filmmaking/"><u>IBeatPro Tips for Mobile Music Video Filmmaking</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-brief-basslines-and-rhythms-video-soundscapes/"><u>In 2024, Brief Basslines & Rhythms Video Soundscapes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-iphone-photography-simplified-adopt-these-10-easy-rules/"><u>In 2024, IPhone Photography Simplified Adopt These 10 Easy Rules</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-proven-film-edits-that-enhance-visual-storytelling/"><u>In 2024, Proven Film Edits That Enhance Visual Storytelling</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sound-of-funny-ringtones-recommended-websites/"><u>In 2024, Sound of Funny Ringtones' Recommended Websites</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-15-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 15</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-into-a-world-of-eye-catching-imagery-at-pexels-for-2024/"><u>Step Into a World of Eye-Catching Imagery at Pexels for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/symphony-in-softness-playback-reduction-guide/"><u>Symphony in Softness Playback Reduction Guide</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

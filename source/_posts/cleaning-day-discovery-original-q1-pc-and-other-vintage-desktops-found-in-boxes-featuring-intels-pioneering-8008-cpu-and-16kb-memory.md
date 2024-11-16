@@ -1,7 +1,7 @@
 ---
 title: "Cleaning Day Discovery: Original Q1 PC and Other Vintage Desktops Found in Boxes, Featuring Intel's Pioneering 8008 CPU and 16KB Memory"
-date: 2024-10-30T01:26:16.319Z
-updated: 2024-11-06T08:27:09.659Z
+date: 2024-11-09T17:18:25.433Z
+updated: 2024-11-16T16:25:15.182Z
 tags:
   - desktop
 categories:
@@ -76,31 +76,26 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-masterclass-in-visual-enhancement-from-muted-sdr-to-stunning-hdri/"><u>[New] Masterclass in Visual Enhancement From Muted SDR to Stunning HDRI</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-perfecting-hdr-photos-techniques-for-blending-in-lightroom/"><u>[New] Perfecting HDR Photos Techniques for Blending in Lightroom</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-checklist-for-instagram-selfies-for-2024/"><u>[New] The Ultimate Checklist for Instagram Selfies for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-elite-streaming-methods-for-real-time-cricket-viewing/"><u>[Updated] 2024 Approved Elite Streaming Methods for Real-Time Cricket Viewing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-av1-your-initial-journey/"><u>[Updated] Navigating AV1 Your Initial Journey</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-syncing-youtube-with-facebooks-sharing-mechanism-for-2024/"><u>[Updated] Syncing YouTube With Facebook's Sharing Mechanism for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-overlay-techniques-for-video-and-image-enhancement-with-windows-10/"><u>2024 Approved Mastering Overlay Techniques for Video and Image Enhancement with Windows 10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-podcast-world-with-your-iphone/"><u>2024 Approved Navigating Podcast World with Your iPhone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/apc-back-ups-pro-ebr)-1500-va-unit-review-excellent-capacity-extensive-port-availability-and-hot-swappable-batteries-feature/"><u>APC Back-UPS Pro Ebr> 1500 VA Unit Review: Excellent Capacity, Extensive Port Availability and Hot Swappable Batteries Feature</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/delineating-artificial-intelligence-categories-comparing-strong-vs-weak-ai-concepts/"><u>Delineating Artificial Intelligence Categories: Comparing Strong Vs. Weak AI Concepts</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ibeatpro-tips-for-mobile-music-video-filmmaking/"><u>IBeatPro Tips for Mobile Music Video Filmmaking</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-brief-basslines-and-rhythms-video-soundscapes/"><u>In 2024, Brief Basslines & Rhythms Video Soundscapes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-iphone-photography-simplified-adopt-these-10-easy-rules/"><u>In 2024, IPhone Photography Simplified Adopt These 10 Easy Rules</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-proven-film-edits-that-enhance-visual-storytelling/"><u>In 2024, Proven Film Edits That Enhance Visual Storytelling</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-sound-of-funny-ringtones-recommended-websites/"><u>In 2024, Sound of Funny Ringtones' Recommended Websites</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-15-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 15</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-into-a-world-of-eye-catching-imagery-at-pexels-for-2024/"><u>Step Into a World of Eye-Catching Imagery at Pexels for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/symphony-in-softness-playback-reduction-guide/"><u>Symphony in Softness Playback Reduction Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-embark-on-a-funimate-adventure-for-2024/"><u>[New] Embark on a Funimate Adventure for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-small-scale-streaming-mastery-on-youtube-without-big-subscriber-base/"><u>[New] Small-Scale Streaming Mastery on YouTube Without Big Subscriber Base</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-essential-photographers-toolkit-polarr-edition/"><u>[New] The Essential Photographer's Toolkit - Polarr Edition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-discreet-viewers-guide-best-hidden-apps-for-stories-for-2024/"><u>[Updated] Discreet Viewer's Guide Best Hidden Apps for Stories for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-introductory-insights-crafting-listener-love/"><u>[Updated] Introductory Insights Crafting Listener-Love</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-iphone-photo-blurring-4-techniques-explored/"><u>[Updated] Mastering iPhone Photo Blurring 4 Techniques Explored</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-videography-and-storage-assessing-a-high-capacity-memorys-video-limits/"><u>[Updated] Videography & Storage Assessing a High-Capacity Memory's Video Limits</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-from-start-to-finish-a-complete-guide-to-editing-mp4-videos-on-mac-and-windows/"><u>In 2024, From Start to Finish A Complete Guide to Editing MP4 Videos on Mac and Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-fidelity-transformation-choosing-the-best-video-converters/"><u>In 2024, High Fidelity Transformation Choosing the Best Video Converters</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pinnacle-windows-instant-image-viewer-for-2024/"><u>Pinnacle Window's Instant Image Viewer for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/save-1058-on-lenovos-top-of-the-line-rtx-4080-gpu-equipped-legion-desktop-priced-at-just-2091/"><u>Save $1,058 on Lenovo's Top-of-the-Line RTX 4080 GPU-Equipped Legion Desktop Priced at Just $2,091</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/setup-guide-connect-obs-and-streamlabs-on-your-mac-for-2024/"><u>Setup Guide Connect OBS and Streamlabs on Your Mac for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/stitching-photographs-into-an-eye-catching-canvas-for-2024/"><u>Stitching Photographs Into an Eye-Catching Canvas for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering In-Video Narrations  A Step-by-Step Guide\""
-date: 2024-11-05T00:09:43.059Z
-updated: 2024-11-05T19:36:58.934Z
+date: 2024-11-12T17:52:58.915Z
+updated: 2024-11-16T17:23:25.349Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,13 @@ But here's the good news: the way you add either option is the same in Filmora.
 
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to add narration
 
 So the easiest way to add narration is directly to a project. The benefit of this is that you can record your narration inside Filmora while you watch the preview of your edited video.
@@ -51,16 +58,10 @@ So the easiest way to add narration is directly to a project. The benefit of thi
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
@@ -76,10 +77,10 @@ You can record your narration and click stop.
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Some Tips for Recording Narration
@@ -101,10 +102,10 @@ Practice adding it to your videos to see how it adds depth and dimension to your
 It can also help make a connection with your audience because you can be relating to the images on the screen as they watch them. This is effective in building your YouTube audience.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Always use a good mic
@@ -114,13 +115,6 @@ When adding voiceover or narration to your project, be sure to use a good USB mi
 ![use good microphone](https://images.wondershare.com/filmora/article-images/2022/11/use-good-microphone.jpg)
 
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should you use narration in your next project?
 
@@ -160,22 +154,14 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-seamless-scenes-crafting-smooth-transitions-using-kinemaster/"><u>[New] Seamless Scenes Crafting Smooth Transitions Using Kinemaster</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-troubleshooting-common-obs-issues/"><u>[New] Troubleshooting Common OBS Issues</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-creating-perfect-instagram-grids-top-10-vendors-ranked/"><u>[Updated] Creating Perfect Instagram Grids Top 10 Vendors Ranked</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-monetary-milestones-pewdiepies-income-summary/"><u>[Updated] Monetary Milestones PewDiePie’s Income Summary</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-education-beyond-video-lessons/"><u>[Updated] Navigating Education Beyond Video Lessons</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-next-gen-cameras-unearthing-the-top-of-2024-listings/"><u>[Updated] Next-Gen Cameras Unearthing the Top of 2024 Listings</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-turn-your-ios-images-into-accessible-pdfs/"><u>[Updated] Step by Step Turn Your IOS Images Into Accessible PDFs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-sites-boosting-youtube-viewership/"><u>2024 Approved Leading Sites Boosting YouTube Viewership</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-navigation-in-telegram-web-app/"><u>2024 Approved Step-by-Step Navigation in Telegram Web App</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-8-subtitle-converters-speed-up-your-video-production-from-sub-to-quickly-released-srtr-format/"><u>2024 Approved Top 8 Subtitle Converters Speed Up Your Video Production - From SUB to Quickly-Released SRTR Format</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/empire-at-stake-an-in-depth-review-of-the-strategy-game-imperator-rome/"><u>Empire at Stake: An In-Depth Review of the Strategy Game Imperator: Rome</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-elevating-the-chilly-selecting-five-warm-video-backgrounds/"><u>In 2024, Elevating the Chilly Selecting Five Warm Video Backgrounds</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-hd-disruptions-clear-screening-challenges-in-fir-safari-chrome/"><u>In 2024, Navigating HD Disruptions Clear Screening Challenges in Fir, Safari, Chrome</u></a></li>
-<li><a href="https://win-community.techidaily.com/perfect-dvd-conversion-methods-preserving-full-quality-and-size-in-digital-formats/"><u>Perfect DVD Conversion Methods: Preserving Full Quality & Size in Digital Formats</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pros-choice-high-quality-4k-dslr-mounting-systems-for-2024/"><u>Pro's Choice High-Quality 4K DSLR Mounting Systems for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prove-your-worth-in-the-world-of-photography-essential-pixlr-skills-for-2024/"><u>Prove Your Worth in the World of Photography Essential Pixlr Skills for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/put-an-end-to-unwanted-sms-blocking-spam-messages-on-your-iphone-with-simple-tips/"><u>Put an End to Unwanted SMS: Blocking Spam Messages on Your iPhone with Simple Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fresh-ideas-to-talk-about-in-daily-vlogging/"><u>[New] In 2024, Fresh Ideas to Talk About in Daily Vlogging</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-trendsetters-pictures-origins-explored/"><u>[Updated] 2024 Approved Trendsetters' Pictures Origins Explored</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-creating-a-safe-mc-habitat-plan-6/"><u>[Updated] Creating a Safe MC Habitat Plan #6</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-rank-the-best-comparative-study-of-6-hdmi-21-monitors/"><u>[Updated] Rank the Best Comparative Study of 6 HDMI 2.1 Monitors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sleeksky-saver-the-frugal-file-nest/"><u>[Updated] SleekSky Saver - The Frugal File Nest</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quietude-creation-garageband-volume-control-methods/"><u>2024 Approved Quietude Creation Garageband Volume Control Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimizing-your-creative-process-windows-movie-maker-on-windows-8-unveiled/"><u>In 2024, Optimizing Your Creative Process Windows Movie Maker on Windows 8 Unveiled</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/magix-video-pro-x-review-for-2024/"><u>Magix Video Pro X Review for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-best-time-to-post-on-ig-for-maximum-reach-for-2024/"><u>The Best Time to Post on IG for Maximum Reach for 2024</u></a></li>
 </ul></div>
 

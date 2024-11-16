@@ -1,7 +1,7 @@
 ---
 title: "Steps for Gradual Audio Dimming with Lumafusion for 2024"
-date: 2024-07-31T18:47:03.153Z
-updated: 2024-08-01T18:47:03.153Z
+date: 2024-11-09T17:49:46.557Z
+updated: 2024-11-16T18:19:37.185Z
 tags: 
   - screen-recording
   - ai video
@@ -32,9 +32,6 @@ Step1 LumaFusion's default structure is comparable to that of many desktops edit
 
 Step2 LumaFusion allows for the automated synchronization of up to 12 camera sources and several audio tracks. When a clip is loaded into LumaFusion, touch on it to open it in the viewer and then adjust the start and finish points.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![edit sources luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/edit-sources-luma-fusion.jpg)
 
 Step3 From the choices, choose the Cross Dissolve (Fade) transition. The transition should be placed at the very end of your music channel timeline. Tap on the Help & Settings menu to do this action. Look for Transition under the Settings menu and edit it to the appropriate duration. If you do this, your transition won't take effect until you add it again.
@@ -63,9 +60,6 @@ Now that you've downloaded the software's executable file, the next step is to i
 
 Drag and drop your sound recordings from the media library to the timeline at the bottom of the program when they have been successfully imported. You may now see your audio files inside the timeline, where you can easily crop the video or reduce the audio of the relevant audio file. You may utilize basic to sophisticated editing techniques inside the program. To choose the basic editor, just click on the video file within the timeline as shown below:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 ##### Step3 Apply Fade Effects
@@ -80,20 +74,37 @@ After finishing the method for editing audio in Filmora, click the Export button
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. Related FAQs about LumaFusion
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### 3\. How to you split audio and video in LumaFusion?
 
 Within the timeline, tap anywhere and move the mouse left or right to divide a clip in half. The audio from your clip may then be separated in the timeline. To do so, choose the audio channel and then click the pencil-shaped edit button at the bottom of the screen. This will display a variety of choices, including tools for pan, distortion, and volume. The audio editing features in LumaFusion are virtually as spectacular as the visual options—and just as intimidating.
@@ -110,9 +121,6 @@ Now that you've downloaded the software's executable file, the next step is to i
 
 Drag and drop your sound recordings from the media library to the timeline at the bottom of the program when they have been successfully imported. You may now see your audio files inside the timeline, where you can easily crop the video or reduce the audio of the relevant audio file. You may utilize basic to sophisticated editing techniques inside the program. To choose the basic editor, just click on the video file within the timeline as shown below:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 ##### Step3 Apply Fade Effects
@@ -121,34 +129,42 @@ The fade-in audio button inside your audio file may be seen when you just hover 
 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4 Share and export
 
 After finishing the method for editing audio in Filmora, click the Export button in the top menu corner as shown here:
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3\. Related FAQs about LumaFusion
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. How to you split audio and video in LumaFusion?
 
 Within the timeline, tap anywhere and move the mouse left or right to divide a clip in half. The audio from your clip may then be separated in the timeline. To do so, choose the audio channel and then click the pencil-shaped edit button at the bottom of the screen. This will display a variety of choices, including tools for pan, distortion, and volume. The audio editing features in LumaFusion are virtually as spectacular as the visual options—and just as intimidating.
@@ -175,5 +191,24 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-achieve-perfect-proportions-in-your-fb-videos-through-ratio-knowledge/"><u>[New] 2024 Approved Achieve Perfect Proportions in Your FB Videos Through Ratio Knowledge</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterful-imagevideo-correction-using-smartphone-apps/"><u>[New] Masterful Image/Video Correction Using Smartphone Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-music-infused-videos-perfecting-sound-with-inshot/"><u>[New] Music-Infused Videos Perfecting Sound with InShot</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-periscope-prodigy-from-beginner-to-expert/"><u>[New] Periscope Prodigy From Beginner to Expert</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-film-with-vr-experience/"><u>[Updated] Transforming Film with VR Experience</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-curated-index-of-leading-vector-art-and-illustration-pages/"><u>2024 Approved Curated Index of Leading Vector Art and Illustration Pages</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premiere-pro-power-tools-your-ultimate-2023-samples-free/"><u>2024 Approved Premiere Pro Power Tools - Your Ultimate 2023 Samples (FREE)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-purestream-app-audit-report/"><u>2024 Approved PureStream App Audit Report</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-free-screen-cast-options-on-windows-ranked-1-to-5-for-2024/"><u>Best Free Screen Cast Options on Windows, Ranked #1 to #5 for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-mp3-sites-for-free-anime-soundtracks-the-ultimate-guide/"><u>Best MP3 Sites for Free Anime Soundtracks: The Ultimate Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-samsung-ue590-unveiled-ultra-hd-4k-and-freesync-edition/"><u>In 2024, Samsung UE590 Unveiled Ultra HD 4K & FreeSync Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-apple-support-a-complete-walkthrough-to-schedule-a-guru-session/"><u>Navigating Apple Support: A Complete Walkthrough to Schedule a Guru Session</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/navigating-through-endless-streams-of-data-how-companies-can-tackle-the-challenge-lessons-by-abbyy-experts/"><u>Navigating Through Endless Streams of Data: How Companies Can Tackle the Challenge - Lessons by ABBYY Experts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfect-wave-linker-the-podcastists-choice-for-2024/"><u>Perfect Wave Linker The Podcastist's Choice for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/samsungs-rival-the-leading-cameras-to-match-your-gear-360-needs-for-2024/"><u>Samsung’s Rival The Leading Cameras to Match Your Gear 360 Needs for 2024</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-13-pro-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 13 Pro Message Recovery Software | Stellar</u></a></li>
+</ul></div>
 

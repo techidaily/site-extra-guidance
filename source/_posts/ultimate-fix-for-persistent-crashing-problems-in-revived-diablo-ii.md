@@ -1,7 +1,7 @@
 ---
 title: Ultimate Fix for Persistent Crashing Problems in Revived Diablo II
-date: 2024-10-31T04:15:01.334Z
-updated: 2024-11-06T04:09:06.193Z
+date: 2024-11-11T18:21:54.260Z
+updated: 2024-11-16T16:31:24.593Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
  If your computer isn’t powerful enough to run a demanding game like Diablo 2 Resurrected, you may run into the crashes constantly. That’s why you should always check the game’s minimum system requirements before you proceed to the more advanced steps.
@@ -44,16 +51,10 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Stop overclocking
@@ -83,6 +84,13 @@ If this method doesn’t help, check out your graphics driver.
 
  Restart your computer for the changes to take effect and test if the issue persists. If yes, don’t frustrate, and move on to the following fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4 – Run the game as an administrator
 
  Some games may require an administrator-level to run, or else it will crash at startup or during the gameplay. If that’s the cause, running Diablo 2 Resurrected as an administrator should resolve the permission issue. Here is how:
@@ -92,17 +100,24 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
 
@@ -115,14 +130,14 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
 
@@ -136,34 +151,13 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **On GeForce Experience**
 
 1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
@@ -191,18 +185,22 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-quick-fix-valorant-thumbnails-professionally-done-now-for-2024/"><u>[Updated] Quick-Fix Valorant Thumbnails Professionally Done Now for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-streamlining-zoom-a-chromebook-guide-for-2024/"><u>[Updated] Streamlining Zoom A Chromebook Guide for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-photographic-prowess-proven-strategies-for-captivating-edits/"><u>2024 Approved Photographic Prowess Proven Strategies for Captivating Edits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pioneers-of-immersion-history-in-vr/"><u>In 2024, Pioneers of Immersion History in VR</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-smartphone-identity-iphone-x-and-galaxy-phones-through-the-lens-of-faces/"><u>In 2024, Smartphone Identity IPhone X and Galaxy Phones Through the Lens of Faces</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-top-8-facebook-movie-downloaders/"><u>In 2024, Top 8 Facebook Movie Downloaders</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-and-evaluation-xp-pen-artist-16-pro-graphic-tablet-unveiled/"><u>In-Depth Analysis and Evaluation: XP-Pen Artist 16 Pro Graphic Tablet Unveiled</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722975276576-linksys-ae1200-driver-download-made-simple-do-it-today/"><u>Linksys AE1200 Driver Download Made Simple: Do It Today!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/no-cost-mp3-encoder-transform-speech-and-ambient-sounds-with-movavis-web-tool/"><u>No-Cost MP3 Encoder: Transform Speech and Ambient Sounds with Movavi's Web Tool</u></a></li>
-<li><a href="https://fox-access.techidaily.com/non-competitive-front-row-fun-ranking-the-top-ten/"><u>Non-Competitive Front Row Fun Ranking the Top Ten</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pinnacle-screenplays-reviewed-for-2024/"><u>Pinnacle Screenplays Reviewed for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Honor 90 Pro? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oneplus-open-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For OnePlus Open</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-engaging-visuals-meet-smooth-play-with-lgs-4k-freesync-tv/"><u>[New] Engaging Visuals Meet Smooth Play with LG's 4K FreeSync TV</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-stepwise-approach-implementing-luts-in-adobes-premiere-suite/"><u>[New] In 2024, Stepwise Approach Implementing LUTs in Adobe's Premiere Suite</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterclasses-in-applying-online-vhs-filters-and-graphics/"><u>[New] Masterclasses in Applying Online VHS Filters and Graphics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-online-meetings-tips-for-chromebook-users/"><u>[New] Mastering Online Meetings Tips for Chromebook Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-metaverse-promotion-essentials/"><u>[New] Metaverse Promotion Essentials</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-archive-aesthetics-merge-infinite-gratis-storage-with-elite-subscriptions/"><u>[Updated] Archive Aesthetics Merge Infinite, Gratis Storage with Elite Subscriptions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-the-scoring-of-toolwizs-photography-software/"><u>2024 Approved Inside the Scoring of Toolwiz's Photography Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-to-the-best-images-at-pexels/"><u>2024 Approved Navigating to the Best Images at Pexels</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-new-horizons-with-chatgpt-enabling-beta-browsing-and-plugin-functions-for-an-upgraded-online-journey/"><u>Exploring New Horizons with ChatGPT: Enabling Beta Browsing and Plugin Functions for an Upgraded Online Journey</u></a></li>
+<li><a href="https://win11.techidaily.com/first-steps-in-windows-understanding-aids-and-assists/"><u>First Steps in Windows: Understanding Aids and Assists</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-connectivity-issues-a-users-manual-for-corsair-icue-and-windows-11-integration/"><u>Fixing Connectivity Issues: A User's Manual for Corsair iCUE and Windows 11 Integration</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-metacosm-musings-the-best-quotations-for-virtual-inhabitants/"><u>In 2024, Metacosm Musings The Best Quotations for Virtual Inhabitants</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-pursuit-of-dreamscapes-vr-travel-unleashed/"><u>In Pursuit of Dreamscapes VR Travel Unleashed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/instantly-personalize-your-phones-from-tiktok-sounds-to-ringtones-for-2024/"><u>Instantly Personalize Your Phones From TikTok Sounds to Ringtones for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/selecting-optimal-gopro-protection-top-10-selections-for-2024/"><u>Selecting Optimal GoPro Protection - Top 10 Selections for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/splave-sets-unprecedented-clock-records-with-asrocks-latest-lightning-wifi-mobo-the-z790i/"><u>Splave Sets Unprecedented Clock Records with ASRock’s Latest Lightning WiFi Mobo, the Z790I</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-microsofts-hidden-gems-essential-surface-accessories-now-available-for-professionals-techinsights/"><u>Unveiling Microsoft's Hidden Gems: Essential Surface Accessories Now Available for Professionals | TechInsights</u></a></li>
 </ul></div>
 

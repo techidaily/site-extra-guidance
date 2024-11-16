@@ -1,7 +1,7 @@
 ---
 title: Eliminating Lag and Stutter During Playthroughs of Age of Empires IV
-date: 2024-11-04T19:36:08.428Z
-updated: 2024-11-06T11:39:43.373Z
+date: 2024-11-14T18:31:45.728Z
+updated: 2024-11-16T18:16:28.446Z
 tags:
   - win11
   - win10
@@ -41,13 +41,26 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 3. Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Splitgate and select **End task** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Also, too many startup apps can be a drag on your computer’s performance. Therefore, you should prevent these apps from automatically starting when you sign into Windows:
 
@@ -55,27 +68,7 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 
 ![disable apps from running automatically at startup](https://images.drivereasy.com/wp-content/uploads/2021/04/startup-disable.png)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you’ve done these, play Splitgate. If your problems persist, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Delete temp files
 
@@ -88,13 +81,6 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-1.jpg)
 4. Press**Ctrl + A** at the same time to select all the files inside the folder. Then right-click and select**Delete** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 5. If the following prompt appears, simply check**Do this for all current items** and click**Skip** .  
 
@@ -102,16 +88,10 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 6. After the files are deleted, go to your desktop and right-click on the **Recycling Bin**  and select **Empty Recycle Bin** .  
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)  
@@ -123,10 +103,10 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
  Some players might use overclocking applications such as MSI Afterburner to hopefully get a performance increase. But the truth is that these applications can cause crashes, stutters and other performance issues for some titles. If you suffer from sudden frame rate drops and stutters during Splitgate gameplay, you should stop overclocking.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Update your graphics driver
@@ -147,9 +127,23 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and then test the gameplay. If you’re still getting low FPS and stutters, don’t worry. Below are some other fixes you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Enable hardware-accelerated GPU scheduling
 
@@ -169,6 +163,13 @@ Here’s how to update drivers with Driver Easy:
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After applying the changes, restart your PC and you should be able to gain a certain amount of FPS boost. However, if this doesn’t do the trick, try the next fix below.
 
 ## 6\. Optimize in-game settings
@@ -185,13 +186,6 @@ Here’s how to update drivers with Driver Easy:
 **VSYNC:** turn it off  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/fullscreen-and-disable-vsync.png)  
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then apply the changes and test your gameplay.
 
@@ -214,21 +208,16 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-3-simple-ways-to-color-grading-in-adobe-photoshop/"><u>[New] 3 Simple Ways to Color Grading in Adobe Photoshop</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-kinemaster-app-for-android-a-comprehensive-insight-review/"><u>[New] KineMaster App for Android A Comprehensive Insight Review</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-picture-in-picture-mode-with-ease-in-microsoft-edge/"><u>[Updated] Navigating Picture-In-Picture Mode with Ease in Microsoft Edge</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-professional-post-processing-how-to-erase-image-borders-easily/"><u>2024 Approved Professional Post-Processing How to Erase Image Borders Easily</u></a></li>
-<li><a href="https://extra-information.techidaily.com/accuracy-audit-a-vll-driven-review/"><u>Accuracy Audit A VLL-Driven Review</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/create-professional-cds-and-dvds-with-winx-dvd-author-a-free-reliable-solution-for-windows-11-users/"><u>Create Professional CDs & DVDs with WinX DVD Author - A Free, Reliable Solution for Windows 11 Users</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-infinix-hot-30-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Infinix Hot 30 5G Without PUK Codes</u></a></li>
-<li><a href="https://win-able.techidaily.com/improving-warzone-performance-solutions-for-smoother-gameplay-and-higher-fps/"><u>Improving Warzone Performance: Solutions for Smoother Gameplay & Higher FPS</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-from-basic-to-breathtaking-elevating-your-instagram-edits/"><u>In 2024, From Basic to Breathtaking Elevating Your Instagram Edits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-melodious-modulation-techniques-in-free-fire/"><u>In 2024, Melodious Modulation Techniques in Free Fire</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-selective-movie-tease-treasury/"><u>In 2024, Selective Movie Tease Treasury</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-start-saving-with-reddit-today-13-easy-and-effective-strategies-no-experience/"><u>In 2024, Start Saving with Reddit Today - 13 Easy & Effective Strategies (No Experience)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ios-18-overview-premium-updates-for-free-discover-top-functionality-improvements-and-latest-industry-buzz/"><u>IOS 18 Overview: Premium Updates for Free – Discover Top Functionality Improvements and Latest Industry Buzz</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/lose-yourself-to-laughter-best-10-jokes/"><u>Lose Yourself to Laughter Best 10 Jokes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/scriptwriting-essentials-for-realistic-chatter-for-2024/"><u>Scriptwriting Essentials for Realistic Chatter for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-input-device-driver-xbox-to-windows/"><u>Streamlined Input Device Driver, Xbox to Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-m1-processor-a-leap-forward-in-video-production-technology/"><u>[New] M1 Processor A Leap Forward in Video Production Technology?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-metaviews-analyzing-6-in-depth-metaverse-scenarios/"><u>[New] Metaviews Analyzing 6 In-Depth Metaverse Scenarios</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/illions-watch-but-how-much-do-they-earn-for-2024/"><u>[New] Millions Watch, But How Much Do They Earn for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-spectral-showcase-curating-the-best-4k-displays-on-screen/"><u>[New] Spectral Showcase Curating the Best 4K Displays on Screen</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-instant-viral-potential-learn-kinemaster-memes/"><u>[Updated] Instant Viral Potential Learn KineMaster Memes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/asus-vg2n803-series-the-ultimate-choice-for-console-gamers/"><u>Asus VG2n803 Series: The Ultimate Choice for Console Gamers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/secure-re-entry-resuming-fb-usage-post-hack/"><u>Secure Re-Entry Resuming Fb Usage Post Hack</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/smiling-photos-and-videos-iphones-for-2024/"><u>Smiling Photos & Videos (iPhones) for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-guide-to-finding-a-quality-microphone-for-every-yt-style/"><u>The Ultimate Guide to Finding a Quality Microphone for Every YT Style</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-most-accessible-high-quality-video-modification-sites-for-2024/"><u>Unveiling the Most Accessible, High-Quality Video Modification Sites for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Restore Your Creative Pebble Speaker's Functionality
-date: 2024-11-01T03:52:09.602Z
-updated: 2024-11-05T16:34:32.898Z
+date: 2024-11-14T18:55:51.891Z
+updated: 2024-11-16T16:03:58.443Z
 tags:
   - win11
   - win10
@@ -37,20 +37,27 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Select **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
@@ -60,26 +67,32 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Right click it again and select **Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)** Right click**Headset Microphone** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
@@ -91,19 +104,6 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -119,16 +119,16 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
 
@@ -164,24 +164,20 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unlocking-your-cameras-screen-recording-features/"><u>[New] In 2024, Unlocking Your Camera's Screen Recording Features</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-snapedit-fundamentals-for-budding-photographers/"><u>[New] Snapedit Fundamentals for Budding Photographers</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-discover-the-world-from-above-xiaomis-4k-flight-diary/"><u>[Updated] In 2024, Discover the World From Above - Xiaomi's 4K Flight Diary</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-learn-to-extract-twitter-media-as-audible-files/"><u>[Updated] Learn to Extract Twitter Media as Audible Files</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-ae-title-design-standout-effects-guide/"><u>[Updated] Mastering AE Title Design Standout Effects Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-pioneering-affordable-switch-emulators-for-2024/"><u>[Updated] Pioneering Affordable Switch Emulators for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-insiders-guide-to-superior-apps-for-vocal-transformation/"><u>2024 Approved Insider's Guide to Superior Apps for Vocal Transformation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-inner-illumination-with-natures-glow/"><u>2024 Approved Maximizing Inner Illumination with Nature's Glow</u></a></li>
-<li><a href="https://win-trending.techidaily.com/download-top-poker-matches-from-ruunitonce-exclusive-video-collection/"><u>Download Top Poker Matches From RuUnItOnce - Exclusive Video Collection</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/explore-new-movie-landscapes-top-7-alternates-for-2024/"><u>Explore New Movie Landscapes - Top 7 Alternates for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-allow-unverified-drivers-in-windows-pressure-a-simple-guide-for-windows-10-users/"><u>How to Allow Unverified Drivers in Windows Pressure: A Simple Guide for Windows 10 Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mkv-decoding-best-apps-for-mac/"><u>In 2024, MKV Decoding Best Apps for Mac</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-top-10-websites-for-mystery-box-acquisitions/"><u>In 2024, Navigating the Top 10 Websites for Mystery Box Acquisitions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-web-resources-curated-alarm-tones/"><u>In 2024, Premium Web Resources Curated Alarm Tones</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-switch-games-mac-edition/"><u>Mastering Switch Games: Mac Edition</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-your-iphones-apple-logo-hang-up-with-our-7-effective-strategies/"><u>Overcome Your iPhone's Apple Logo Hang-Up with Our 7 Effective Strategies</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/spark-paves-way-but-will-mavic-air-top-the-gaming-scene-for-2024/"><u>Spark Paves Way, But Will Mavic Air Top the Gaming Scene for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-essential-camera-techniques-for-novice-filmmakers/"><u>[New] 2024 Approved Essential Camera Techniques for Novice Filmmakers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-tips-to-capture-stunning-and-breathtaking-gopro-time-lapse-video/"><u>[New] Pro Tips to Capture Stunning and Breathtaking GoPro Time-Lapse Video</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-snap-to-perfection-editing-strategies-that-work-wonders/"><u>[New] Snap to Perfection Editing Strategies That Work Wonders</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-videographic-velocity-top-cams-for-smoothly-snapped-slow-motion/"><u>[Updated] 2024 Approved Videographic Velocity Top Cams for Smoothly Snapped Slow Motion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-musicality-in-whatsapp-expressions/"><u>[Updated] Musicality in WhatsApp Expressions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sleep-inducing-screenplays-video-evaluation/"><u>[Updated] Sleep-Inducing Screenplays Video Evaluation</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-comparative-income-freelance-vs-full-time-podcaster/"><u>2024 Approved Comparative Income Freelance Vs. Full-Time Podcaster</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-movement-a-look-at-intova-x/"><u>2024 Approved Mastering Movement A Look at Intova X</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-snapslowly-the-art-of-time-lapse-via-samsung/"><u>2024 Approved SnapSlowly The Art of Time-Lapse via Samsung</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tag-friends-listen-to-this-podcast-story/"><u>2024 Approved Tag Friends Listen to This Podcast Story</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-earning-a-living-with-social-media-snaps/"><u>In 2024, Earning a Living with Social Media Snaps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/laughlineup-app-become-a-master-at-memes-for-2024/"><u>LaughLineup App - Become a Master at Memes for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photographic-experience-with-aurora-hdr-software-for-2024/"><u>Photographic Experience with Aurora HDR Software for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stuck-at-installing-apps-on-your-iphone-here-are-10-quick-fixes-to-get-them-working-again/"><u>Stuck at Installing Apps on Your iPhone? Here Are 10 Quick Fixes to Get Them Working Again.</u></a></li>
 </ul></div>
 

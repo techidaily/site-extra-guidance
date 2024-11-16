@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Black Display Error When Playing Fortnite on Your Laptop/Desktop
-date: 2024-11-02T23:29:56.774Z
-updated: 2024-11-06T08:22:58.744Z
+date: 2024-11-14T18:27:53.373Z
+updated: 2024-11-16T17:29:08.495Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 3. Select the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-the-game-as-an-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart the game to test. If the crashes reoccur, continue to the second fix.
 
 ### Fix 2 – Use the dedicated GPU
@@ -58,21 +65,14 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card.jpg)
 4. Click**Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-3.jpg)
 5. Select**High performance** and click**Save** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-4.jpg)
@@ -90,17 +90,30 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
- Reboot your computer after the driver update completes, and check if Deathloop still crashes. If so, try the next solution.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Reboot your computer after the driver update completes, and check if Deathloop still crashes. If so, try the next solution.
 
 ### Fix 4 – Temporarily disable third-party software
 
@@ -112,25 +125,11 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/right-click-task-bar-task-manager.jpg)
 2. Under the Process tab, right-click a program you’d like to close and click **End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-unnecessary-programs-running-in-the-background.jpg)
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
  Now that you should only leave Deathloop and your game launcher running. Test if you’re able to play the game as expected. If not, check out two more fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -144,15 +143,28 @@ You can also close all unnecessary apps in the background. Here is how:
 3. Click**Local Files** on the left and click**Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2-1.jpg)
 
  It will take several minutes for the detecting and repairing to complete. Once done, relaunch Deathloop to check whether the issue gets fixed. If not, move on to the last solution below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6 – Turn off overlay
 
@@ -165,20 +177,14 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-1.jpg)
 3. Select**In-Game** from the left. Then untick**Enable the Steam Overlay while in-game** , and click **OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### On Discord
 
@@ -188,10 +194,10 @@ You can also close all unnecessary apps in the background. Here is how:
 3. Select the **Overlay** tab in the left pane and toggle off **Enable in-game overlay** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
@@ -217,18 +223,22 @@ You can also close all unnecessary apps in the background. Here is how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/odging-account-penaltinas-on-youtube-for-2024/"><u>[New] Dodging Account Penaltinas on Youtube for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-deciphering-how-to-find-my-youtube-comments-posts/"><u>[New] In 2024, Deciphering How To Find My YouTube Comments Posts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-novice-necessities-for-superior-gopro-photography/"><u>[New] Novice Necessities for Superior GoPro Photography</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-select-vhs-magic-transforming-video-editing-today/"><u>[Updated] Select VHS Magic Transforming Video Editing Today</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-simplify-viewing-incorporating-subtitles-into-wmp/"><u>[Updated] Simplify Viewing Incorporating Subtitles Into WMP</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-spectacular-4k-tvs-nine-picks-for-exceptional-color-fidelity/"><u>2024 Approved Spectacular 4K TVs Nine Picks for Exceptional Color Fidelity</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-most-popular-wedding-countdown-clocks-a-top-10-list-androidios/"><u>2024 Approved The Most Popular Wedding Countdown Clocks A Top 10 List (Android/iOS)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/apex-legends-performance-optimization-6-easy-ways-to-increase-fps-instantly/"><u>Apex Legends Performance Optimization: 6 Easy Ways to Increase FPS Instantly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-missing-user32dll-effective-troubleshooting-steps/"><u>Fixing 'Missing User32.dll': Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-oppo-k11-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo K11 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leveraging-linkedin-groups-effectively-for-2024/"><u>Leveraging LinkedIn Groups Effectively for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/nikon-d500-revolutionizing-4k-dslr-photography-for-2024/"><u>Nikon D500 Revolutionizing 4K DSLR Photography for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-your-ultimate-guide-to-the-latest-computer-hardware/"><u>Tom's Tech Review: Your Ultimate Guide to the Latest Computer Hardware</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-directscreencapture-simple-and-swift-recordings/"><u>[New] 2024 Approved DirectScreenCapture Simple & Swift Recordings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/b-share-strategies-for-your-youtube-content-for-2024/"><u>[New] FB Share Strategies for Your YouTube Content for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-iphone-pro-enhancing-photo-clarity-details-and-composition/"><u>[New] IPhone Pro Enhancing Photo Clarity, Details & Composition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigate-and-binge-with-finesse-perfect-use-of-floating-window-in-netflix/"><u>[New] Navigate and Binge with Finesse Perfect Use of Floating Window in Netflix</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-creating-personalized-whatsapp-soundtracks/"><u>[New] Step-by-Step Creating Personalized WhatsApp Soundtracks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-future-vistas-in-the-metaverse-top-30-encouraging-quotes-for-2024/"><u>[Updated] Future Vistas in the Metaverse Top 30 Encouraging Quotes for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-cutting-edge-obs-use-in-android-broadcasting/"><u>[Updated] In 2024, Cutting-Edge OBS Use in Android Broadcasting</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-maximize-mobile-shots-the-top-iphone-photography-apps-7plus/"><u>[Updated] Maximize Mobile Shots The Top iPhone Photography Apps (7+)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-behind-the-scenes-with-filmora-top-10-must-haves/"><u>2024 Approved Behind the Scenes with Filmora Top 10 Must-Haves</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-the-art-of-text-sculpting-for-an-astonishing-photos-effect/"><u>2024 Approved Master the Art of Text Sculpting for an Astonishing PHOTOS Effect</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-honor-play-7t-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Honor Play 7T to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-screen-sharing-on-windows-11-via-zoom/"><u>In 2024, Mastering Screen Sharing on Windows 11 via Zoom</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-your-podcast-entry-in-apples-catalog/"><u>In 2024, Perfecting Your Podcast Entry in Apple's Catalog</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-youtube-video-ad-building-at-no-cost-in-2024/"><u>Learn YouTube Video Ad Building at No Cost, In 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/showtime-media-centre-all-media-in-one-app-for-2024/"><u>SHOWTIME Media Centre All Media in One App for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-beginners-guide-how-to-use-voice-changer-plus-on-your-iphone-in-2024/"><u>Updated Beginners Guide How to Use Voice Changer Plus on Your iPhone, In 2024</u></a></li>
 </ul></div>
 

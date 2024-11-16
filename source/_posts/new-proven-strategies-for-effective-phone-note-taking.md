@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Proven Strategies for Effective Phone Note-Taking\""
-date: 2024-07-31T18:50:12.165Z
-updated: 2024-08-01T18:50:12.165Z
+date: 2024-11-15T17:44:08.590Z
+updated: 2024-11-16T18:45:01.116Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/459b794516e41ca817af82c1c22066d193c455f48
 
 Voice Memos, a portable recorder developed by Apple, is considered the most commonly used app by most Apple users along with Notes. A few easy steps can let you record instant meetings, take notes, keep an audio diary, or even compose music when you need to collect inspiration during your regular work and study. You can produce your Voice Memos on any Apple device thanks to the high device synergy and additional basic editing options that Voice Memos offers. Let's explore the effectiveness of **Voice Memos**!
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. How to record a Voice Memos on iPhone and iPad?
 
 Let's first look into the basic recording feature of Voice Memos on iPhone and iPad, please follow the below steps:
@@ -33,6 +30,13 @@ Let's first look into the basic recording feature of Voice Memos on iPhone and i
 
 ![record a voice memos](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. How to play the Voice Memos on iPhone and iPad?
 
 If you want to hear the previously recorded Voice Memos, please follow these steps:
@@ -42,23 +46,33 @@ If you want to hear the previously recorded Voice Memos, please follow these ste
 3. If selecting the options tab, you'll get the option to change playback speed and skip silence.
 4. Drag playback to turtle means slow, and to rabbit means fast. When you turn on **Skip Silence** feature, Voice Memos app will not play the silent parts of the audio file.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![play the voice memos](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. How to edit and save Voice Memos on iPhone and iPad?
 
 How should you proceed if you find several voice clips that you want to remove? You can carry out some basic editing as follow:
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Rename the Voice Memos
 
 1. To rename your Voice Memos, select it and tap the more options button.
@@ -66,20 +80,33 @@ How should you proceed if you find several voice clips that you want to remove? 
 
 ![choose the edit option](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Duplicate a Voice Memos
 
 1. Select the recording to make a duplicate.
 2. Click the more options button and then choose the duplicate option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![more options button](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Trim Voice Memos
 
 1. First, choose the recording you need to trim.
@@ -87,14 +114,8 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. You can drag the slider to choose the part you need to keep or remove.
 4. Once the part is selected, tap trim to keep this and delete the rest. Or delete to remove this and keep the rest other.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Replace Voice Memos
 
 1. Choose the Voice Memos and tap the more options.
@@ -103,29 +124,34 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![replace button](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Save Voice Memos to a folder
 
 1. Go back from All Recordings at first and create a New Folder.
 2. Choose the recording you need to move, then tap the more options button and click the move to folder option.
 3. Select the destination folder and move.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select the destination folder and move](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4\. How to record a Voice Memos on Mac?
 
 It's simple to use Voice Memos app on Mac:
 
 1. Open Voice Memos app and tap the start recording button (red circle).
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![tap the start recording button](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-8.jpg)
 
 1. Once you've done recording, click the pause button and tap the done option to save it.
@@ -146,9 +172,6 @@ QuickTime is another excellent software to help you easily record audio on Mac. 
 2. Tap the start recording button (red-grey circles).
 3. After taping the stop recording button, you can click the file button again to save the audio.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click the file button again](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-11.jpg)
 
 ### Way 2\. Use Filmora Voice recorder
@@ -164,9 +187,6 @@ You can also use the [Wondershare Filmora](https://tools.techidaily.com/wondersh
 
 ![tap ok](https://images.wondershare.com/filmora/article-images/2022/08/voice-memo-complete-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## Part 5\. How to transcribe Voice Memos to text?
 
 Do you still type to organize meeting minutes or song lyrics after you have recorded them using Voice Memos? This requires a lot of effort and takes a lot of time. Being able to directly convert voice to text will significantly increase your productivity. Here we have introduced useful methods on 3 platforms to transcribe voice to text.
@@ -189,9 +209,6 @@ Although being a paid program, it operates easily and has a simpler user interfa
 
 Instead of typing, you can speak your content directly. There is no time limit for dictation. Voice Memos can be translated into any language and converted to text by Dictation – Speech to text.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### On Mac
 
 These are the most effective ways to transcribe your voice recordings into text on Mac:
@@ -212,9 +229,6 @@ Wondershare Filmora can also help you to transcribe your Voice Memos into text. 
 
 Dictation Speech to text is also available for Mac devices. It works the same as in the iPhone to convert Voice Memos into text.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Online
 
 These online websites will help you in converting your Voice Memos into text:
@@ -269,5 +283,26 @@ Voice Memos is a helpful tool for iOS and Mac users. You can easily record audio
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-from-unsteady-to-steady-tips-for-fixing-gopro-video-jitters/"><u>[New] 2024 Approved From Unsteady to Steady Tips for Fixing GoPro Video Jitters</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweeting-tunes-converting-videos-into-melodic-gifs/"><u>[Updated] 2024 Approved Tweeting Tunes Converting Videos Into Melodic GIFs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-nocturnal-notions-for-iphone-photographers/"><u>2024 Approved Nocturnal Notions for iPhone Photographers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-oculus-rift-vs-htc-vive-vs-playstation-vr-whats-the-best-for-gaming/"><u>2024 Approved Oculus Rift vs HTC Vive vs PlayStation VR What’s the Best for Gaming?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-windows-audio-experience-discover-our-1-to-8-apps/"><u>2024 Approved Premier Windows Audio Experience - Discover Our #1 to #8 Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-poco-m6-pro-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Poco M6 Pro 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/alert-recover-your-compromised-fb-profile-now/"><u>Alert: Recover Your Compromised FB Profile Now!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmony-highlights-social-media-videos-that-resonate-for-2024/"><u>Harmony Highlights Social Media Videos That Resonate for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-magix-music-maker-review/"><u>In 2024, Magix Music Maker Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-hdr-portraiture-an-ultimate-guide/"><u>In 2024, Mastering HDR Portraiture An Ultimate Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-notable-top-5-superlight-action-camera-picks/"><u>In 2024, Notable Top 5 Superlight Action Camera Picks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quantum-realms-unraveling-new-worlds-with-10-sci-fi-titles/"><u>In 2024, Quantum Realms Unraveling New Worlds with 10 Sci-Fi Titles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-shake-and-smile-with-iphone-memes/"><u>In 2024, Shake & Smile with iPhone Memes</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendos-next-move-online-expansion-pack-benefits/"><u>Nintendo's Next Move: Online Expansion Pack Benefits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premium-selection-of-apple-and-android-camera-slow-motion-apps-for-2024/"><u>Premium Selection of Apple & Android Camera Slow-Motion Apps for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smartphone-image-editing-the-best-free-layers-and-tools-guide-top-10-for-2024/"><u>Smartphone Image Editing - The Best Free Layers & Tools Guide (Top 10) for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-fixing-oculus-equipment-malfunctions-2024-edition/"><u>Step-by-Step Solutions for Fixing Oculus Equipment Malfunctions - 2024 Edition</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Restore Sound on Your JBL G435 Wireless Headphones with These Simple Repairs
-date: 2024-11-01T06:57:32.043Z
-updated: 2024-11-05T17:52:43.736Z
+date: 2024-11-10T16:55:59.007Z
+updated: 2024-11-16T17:17:41.002Z
 tags:
   - win11
   - win10
@@ -54,9 +54,23 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
 
@@ -65,10 +79,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Hopefully the popping/crackling sound in your headphone problem has gone by now. If not, you might also want to change it to other audio formats to see if it works.
@@ -90,22 +104,8 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).  
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -121,10 +121,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 3. Click **Change advanced power settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
@@ -133,10 +133,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
@@ -166,18 +166,21 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-max-power-reimagined-selecting-mac-and-wins-best-srt-converters/"><u>[New] Max Power Reimagined Selecting Mac & Win's Best SRT Converters</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-picart-strategies-for-stunning-image-purification-for-2024/"><u>[New] PicArt Strategies for Stunning Image Purification for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-quick-guide-off-instagrams-igtv-for-2024/"><u>[New] Quick Guide Off Instagram's IGTV for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-smooth-strategy-perfecting-your-instagram-grid/"><u>[New] Smooth Strategy Perfecting Your Instagram Grid</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-image-enhancement-made-simple-how-to-inject-text-into-pictures-on-windowsmacos/"><u>2024 Approved Image Enhancement Made Simple How to Inject Text Into Pictures on Windows/MacOS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/energy-efficiency-and-strength-in-numbers-running-multiple-nvidia-rtx-4090-gpus-with-cooler-masters-mx-mighty-power-supplies/"><u>Energy Efficiency & Strength in Numbers: Running Multiple NVIDIA RTX 4090 GPUs with Cooler Master’s MX Mighty Power Supplies</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-hot-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-mini-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 12 mini Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-photo-viewer-revival-techniques-for-enhanced-windows-11-experience/"><u>In 2024, Photo Viewer Revival Techniques for Enhanced Windows 11 Experience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/periscope-recording-for-beginners-a-complete-walkthrough-for-2024/"><u>Periscope Recording for Beginners A Complete Walkthrough for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveil-the-secrets-find-anyone-youre-searching-for-with-these-tricks-on-facebook/"><u>Unveil the Secrets: Find Anyone You're Searching For with These Tricks on Facebook</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-content-creators-should-think-twice-before-turning-to-ai-chatbots-8-key-reasons/"><u>Why Content Creators Should Think Twice Before Turning to AI Chatbots: 8 Key Reasons</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-kinemaster-usage-plus-best-online-platforms-for-editors/"><u>[New] Mastering the Art of KineMaster Usage + Best Online Platforms for Editors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prestigious-top-8-sites-combining-vivid-3d-graphics-and-luxe-text/"><u>[New] Prestigious Top 8 Sites Combining Vivid 3D Graphics & Luxe Text</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-4-techniques-for-effective-android-content-capturing/"><u>[Updated] In 2024, 4 Techniques for Effective Android Content Capturing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premiere-pros-art-of-audio-transitioning/"><u>[Updated] Premiere Pro’s Art of Audio Transitioning</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-making-magic-mobile-best-phones-for-media-crafting/"><u>2024 Approved Making Magic Mobile Best Phones for Media Crafting</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-videoleap-to-capture-up-close-footage/"><u>2024 Approved Master Videoleap to Capture Up-Close Footage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-sound-recognition-technology/"><u>2024 Approved Premier Sound Recognition Technology</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-hook-it-game-winning-podcast-beginnings/"><u>2024 Approved The Hook-It Game Winning Podcast Beginnings</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/free-imagery-mastery-with-photoscape-a-detailed-review-for-aspiring-editors/"><u>Free Imagery Mastery with PhotoScape - A Detailed Review for Aspiring Editors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-cut-costs-on-your-computer-build-tips-for-saving-money-on-processors/"><u>How to Cut Costs on Your Computer Build: Tips for Saving Money on Processors</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-breaking-down-average-podcaster-salary/"><u>In 2024, Breaking Down Average Podcaster Salary</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-steady-shots-how-to-avoid-lens-cloudiness/"><u>In 2024, Steady Shots How to Avoid Lens Cloudiness</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-y27s-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo Y27s? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-the-art-of-filter-selection-on-instagram-for-2024/"><u>Mastering the Art of Filter Selection on Instagram for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/professional-macos-dvd-ripper-and-converter-macx-pro-seamless-dvd-to-video-transformation/"><u>Professional MacOS DVD Ripper & Converter: MacX Pro - Seamless DVD to Video Transformation</u></a></li>
 </ul></div>
 

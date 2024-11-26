@@ -1,7 +1,7 @@
 ---
 title: Navigating the Lenovo IdeaPad 130S' Performance Limits - A Look at Its Impressive Usability Features
-date: 2024-11-15T18:05:36.446Z
-updated: 2024-11-16T18:10:20.191Z
+date: 2024-11-24T20:42:01.074Z
+updated: 2024-11-25T19:43:45.748Z
 categories:
   - BestProducts
 description: This Article Describes Navigating the Lenovo IdeaPad 130S' Performance Limits - A Look at Its Impressive Usability Features
@@ -45,13 +45,6 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/ll2Uv9bgkmIddyfa-EOFiFCtsyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivosmart-4-Fitness-Tracker-1-0a7c6cef1af44b5c9acb1c657c292521.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Erika Rawes
 
 [View On Amazon $65](https://www.amazon.com/Garmin-010-01995-10-v%C3%ADvosmart-Activity-Midnight/dp/B07GM7WHBG?tag=lifewire-onsite-prod-20&ascsubtag=5072535%7Cn5f18362fc97d487e830fd6d6cfaf2af211%7CB07GM7WHBG) [View On Walmart $97](https://www.walmart.com/ip/Garmin-Fitness-Trackers-Vivo-smart-4-Large/546172113?slfpid=3) [View On Garmin.com $130](https://buy.garmin.com/en-US/US/p/605739/pn/010-01995-10)
@@ -82,13 +75,14 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/JsDCEVwOi6EK7WLcs2WJ03jOZb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-3-ba9d18a527ae4b41a7242ffaccd1de30.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Comfort: You’ll forget you’re wearing it**
@@ -115,14 +109,11 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/Fu0WY5D4aslVxU_cls1YqWYQBeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-2-67ea15321c9541f1b57d5528302152fe.jpg)
 
- Lifewire / Erika Rawes
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Erika Rawes
 
 ## **Software: Garmin Connect App**
 
@@ -142,16 +133,13 @@ Lifewire / Erika Rawes
 
  The battery charges using a clip-on charger. It took an average of 90 minutes to reach a full charge (from about 10% full).
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Reasonable**
 
  The Vivosmart 4 retails for $130, which is slightly high for this unit. You can find a refurbished version on Amazon for around $80, which is a more reasonable price.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Garmin Vivosmart 4 vs. Fitbit Charge 3**
 
@@ -164,10 +152,7 @@ Lifewire / Erika Rawes
  The Garmin Vivosmart 4 is a great option for anyone who wants to track their sleep, stress, energy, and cardio, but there are better options out there for weight training.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -210,22 +195,20 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-obs-utilization-comprehensive-gameplay-recording/"><u>[New] 2024 Approved OBS Utilization Comprehensive Gameplay Recording</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mirror-of-society-top-100-inspiring-instagramcaptions/"><u>[New] In 2024, Mirror of Society Top 100 Inspiring #InstagramCaptions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-master-class-on-cutting-unwanted-backdrops/"><u>[New] Master Class on Cutting Unwanted Backdrops</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-standout-literary-book-videos/"><u>[New] Standout Literary Book Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pivotal-principles-in-digital-story-making/"><u>[Updated] Pivotal Principles in Digital Story Making</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premier-virtual-seminar-title-craftsman/"><u>[Updated] Premier Virtual Seminar TITLE CRAFTSMAN</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-elite-tech-line-up-cards-for-4k-videography/"><u>2024 Approved Elite Tech Line-Up Cards for 4K Videography</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-jump-start-your-journey-to-quality-video-edits-in-windows-10/"><u>2024 Approved Jump-Start Your Journey to Quality Video Edits in Windows 10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-fire-photos-with-iphone-burst-feature/"><u>2024 Approved Quick-Fire Photos with iPhone Burst Feature</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/5-effective-methods-for-restoring-accidentally-erased-3fr-images-on-your-hasselblad-camera/"><u>5 Effective Methods for Restoring Accidentally Erased 3FR Images on Your Hasselblad Camera</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-f14-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy F14 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-a58-4gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo A58 4Gwith/without a PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-s23-tactical-edition-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy S23 Tactical Edition Quickly? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-discovering-the-most-engaging-facebook-vids/"><u>In 2024, Discovering the Most Engaging Facebook Vids</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mixed-reality-shopping-showcase/"><u>In 2024, Mixed Reality Shopping Showcase</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ready-set-fly-dji-spark-reviewed-for-selfie-enthusiasts-and-photographers-alike/"><u>Ready, Set, Fly DJI Spark Reviewed for Selfie Enthusiasts and Photographers Alike</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/silent-sounds-elegant-dimming-in-garageband-projects-for-2024/"><u>Silent Sounds Elegant Dimming in Garageband Projects for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastery-levels-explained-for-google-photos-users/"><u>[Updated] Mastery Levels Explained for Google Photos Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-polaroid-camplus-cube-analysis-when-life-is-on-screen/"><u>[Updated] Polaroid Cam+ Cube Analysis When Life Is on Screen</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-building-business-via-beauty-vlogs/"><u>2024 Approved Building Business via Beauty Vlogs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-learn-video-editing-made-simple-mastering-movie-maker-on-w11/"><u>2024 Approved Learn Video Editing Made Simple Mastering Movie Maker on W11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-cross-platform-media-engines-a-buyers-guide/"><u>2024 Approved Mastering Cross-Platform Media Engines A Buyer's Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-haul-vids-creation-and-editing-basics/"><u>2024 Approved Mastering Haul Vids Creation & Editing Basics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-synchronization-enhancing-audio-visual-with-subtitles-in-wmp/"><u>2024 Approved Perfect Synchronization Enhancing Audio-Visual with Subtitles in WMP</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quiet-quick-clean-auditory-connections/"><u>2024 Approved Quiet, Quick, Clean Auditory Connections</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/augmenting-linux-excellence-through-windows/"><u>Augmenting Linux Excellence Through Windows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/curator-platform/"><u>Clip Curator Platform</u></a></li>
+<li><a href="https://fox-links.techidaily.com/filmfusion-studio-win8/"><u>FilmFusion Studio Win8</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/msi-and-asrock-release-intel-cpu-stability-fixes-beta-version-now-available-on-asus-rog-boards/"><u>MSI and ASRock Release Intel CPU Stability Fixes - Beta Version Now Available on Asus ROG Boards</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-smooth-sailing-the-top-free-online-video-stabilization-software/"><u>Updated 2024 Approved Smooth Sailing The Top Free Online Video Stabilization Software</u></a></li>
 </ul></div>
 

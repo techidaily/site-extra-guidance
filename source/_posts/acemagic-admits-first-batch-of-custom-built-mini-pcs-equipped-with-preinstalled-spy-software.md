@@ -1,7 +1,7 @@
 ---
 title: AceMagic Admits First Batch of Custom-Built Mini PCs Equipped With Preinstalled Spy Software
-date: 2024-11-10T19:06:23.785Z
-updated: 2024-11-16T16:46:24.862Z
+date: 2024-11-23T21:02:08.287Z
+updated: 2024-11-25T23:47:22.749Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -62,37 +66,17 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-exploring-genres-a-collection-of-15-innovative-musician-focused-videos-for-2024/"><u>[New] Exploring Genres A Collection of 15 Innovative Musician-Focused Videos for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-peak-performance-fps-in-deliberate-movements/"><u>[New] Peak Performance FPS in Deliberate Movements</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premier-selection-10-premium-image-replace-kits/"><u>[New] Premier Selection 10 Premium Image Replace Kits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-rhythms-of-romance-most-beloved-ballads-for-engagement/"><u>[New] Rhythms of Romance Most Beloved Ballads for Engagement</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-x-recorder-for-pc-audio-logger-at-no-cost-for-2024/"><u>[New] X-Recorder for Pc Audio Logger at No Cost for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-ideal-slide-show-tools-for-iphone-series-10-13-upgrades/"><u>[Updated] 2024 Approved Ideal Slide Show Tools For iPhone Series 10-13 Upgrades</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-safely-stream-your-soundtracks-three-methods-from-youtube/"><u>[Updated] In 2024, Safely Stream Your Soundtracks Three Methods From YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leading-free-graphic-websites-for-quality-vectors/"><u>[Updated] Leading Free Graphic Websites for Quality Vectors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-lightning-loop-top-10-agile-games-on-mobilepc/"><u>[Updated] Lightning Loop Top 10 Agile Games on Mobile/PC</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-recordingratings-analyzer-for-2024/"><u>[Updated] RecordingRatings Analyzer for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-simplified-approach-to-crafting-xml-for-podcasts/"><u>[Updated] Simplified Approach to Crafting XML for Podcasts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-joyfuljourney-sign-up-share-and-create-fun-videos/"><u>2024 Approved JoyfulJourney Sign Up, Share and Create Fun Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-premier-camping-seating-solutions-experts-list-of-best-chairs-techradar/"><u>Discover the Premier Camping Seating Solutions: Expert's List of Best Chairs | TechRadar</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-itel-p55-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Itel P55 to Protect Your Individual Information</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-rotate-iphone-photos-learn-the-art-of-inversion/"><u>In 2024, Rotate iPhone Photos Learn the Art of Inversion</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-the-quintessential-five-strategic-moves-for-youtube-marketing-success/"><u>In 2024, Unveiling the Quintessential Five Strategic Moves for YouTube Marketing Success</u></a></li>
-<li><a href="https://win-answers.techidaily.com/increase-frame-rate-like-a-pro-the-6-best-ways-to-fix-low-fps-in-escape-from-tarkov/"><u>Increase Frame Rate Like a Pro: The 6 Best Ways to Fix Low FPS in Escape From Tarkov</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/speedy-sonic-tuning-devices-index-pc-tablet-for-2024/"><u>Speedy Sonic Tuning Devices Index (PC, Tablet) for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/tune-into-your-instagram-feed-music-integration-essentials/"><u>Tune Into Your Instagram Feed Music Integration Essentials</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-saving-strategy-watching-taping-and-tweaking-sports/"><u>2024 Approved Saving Strategy Watching, Taping, and Tweaking Sports</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-srt-addition-to-mp4s-for-next-level-audio/"><u>2024 Approved Step-by-Step SRT Addition to MP4s for Next-Level Audio</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722970672892-amd-vega-drivers-download-and-update-for-gamers-easily/"><u>AMD Vega Drivers Download & Update for Gamers EASILY!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/amplify-and-illuminate-online-videos-with-these-5-aids-for-2024/"><u>Amplify and Illuminate Online Videos with These 5 Aids for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-tutorial-on-converting-your-old-3gp-footage-to-modern-mov-video-file/"><u>Easy Tutorial on Converting Your Old 3GP Footage to Modern MOV Video File!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-motorola-moto-g14-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Motorola Moto G14 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-video-conferencing-zooming-towards-youtube-streaming-excellence/"><u>In 2024, Mastering Video Conferencing Zooming Towards YouTube Streaming Excellence</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-figma-erase-background-elements-seamlessly/"><u>In 2024, Navigating Figma Erase Background Elements Seamlessly</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-pinnacle-wearable-cameras-in-adrenaline-world/"><u>In 2024, Pinnacle Wearable Cameras in Adrenaline World</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-stutter-and-crashes-in-star-citizen-for-windows-users/"><u>Overcoming Stutter and Crashes in Star Citizen for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862828426-score-the-precision-of-lgs-qhd-monitor-with-g-sync-only-549-at-amazon-today/"><u>Score the Precision of LG's QHD Monitor with G-Sync - Only $549 at Amazon Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-steps-to-retrieve-your-vehicles-radio-unlocking-code/"><u>Simple Steps to Retrieve Your Vehicle's Radio Unlocking Code</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

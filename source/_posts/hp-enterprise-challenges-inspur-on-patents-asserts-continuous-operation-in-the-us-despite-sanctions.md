@@ -1,7 +1,7 @@
 ---
 title: HP Enterprise Challenges Inspur on Patents, Asserts Continuous Operation in the US Despite Sanctions
-date: 2024-11-11T16:52:33.818Z
-updated: 2024-11-16T16:59:07.669Z
+date: 2024-11-19T22:57:51.991Z
+updated: 2024-11-25T22:12:24.017Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -48,6 +52,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  There's also MSI AI Engine, which adjusts performance based on AI. Then there's AI Frozr, which does the same thing for cooling.
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -70,31 +78,17 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-master-time-reverse-techniques-for-ios-users/"><u>[New] 2024 Approved Master Time-Reverse Techniques for iOS Users</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-test-in-cinematography-gopro-vs-x1000v-action-cam/"><u>[New] 2024 Approved The Ultimate Test in Cinematography GoPro Vs. X1000V Action Cam?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-gopro-tips-shooting-underwater-video-with-gopro/"><u>[New] GoPro Tips Shooting Underwater Video with GoPro</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-amplify-engagement-increase-youtube-viewers/"><u>[New] In 2024, Amplify Engagement Increase YouTube Viewers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-seamless-filmmaking-kinemaster-transition-techniques/"><u>[New] Seamless Filmmaking Kinemaster Transition Techniques</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-ten-mobile-sticker-adornment-apps-for-photos/"><u>[Updated] In 2024, Top Ten Mobile Sticker Adornment Apps for Photos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-optimal-tools-to-convert-and-tweet-videos/"><u>[Updated] Optimal Tools to Convert and Tweet Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-photo-backdrop-alternatives-list/"><u>2024 Approved Leading Photo Backdrop Alternatives List</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/creative-text-amplification-tips/"><u>Creative Text Amplification Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-iphone-13s-water-resilience-fact-or-myth/"><u>Exploring iPhone 13'S Water Resilience: Fact or Myth?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-overcome-windows-error-0x8024401c-on-windows-11-systems/"><u>Guide to Overcome Window's Error 0X8024401C on Windows 11 Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pristine-movie-trailer-curated-list/"><u>In 2024, Pristine Movie Trailer Curated List</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-stepwise-strategy-for-perfectly-curating-videos-in-your-youtube-playlists/"><u>In 2024, Stepwise Strategy for Perfectly Curating Videos in Your YouTube Playlists</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/keep-watching-youtube-in-the-background-with-ease/"><u>Keep Watching YouTube in the Background with Ease</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-vlog-script-creation-for-2024/"><u>Mastering the Art of Vlog Script Creation for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/next-gen-media-masters-5-top-mac-videography-apps-for-2024/"><u>Next-Gen Media Masters 5 Top Mac Videography Apps for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-dimming-audio-with-logic-pro-for-2024/"><u>Step-by-Step Guide to Dimming Audio with Logic Pro for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-ranked-ps5-flash-drives/"><u>Top-Ranked PS5 Flash Drives</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-gear-vr-a-comprehensive-phone-compatibility-list-2023/"><u>[New] Mastering Gear VR A Comprehensive Phone Compatibility List 2023</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfect-cone-capture-equipment/"><u>[New] Perfect Cone Capture Equipment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-using-videos-in-education/"><u>[New] The Art of Using Videos in Education</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-maximizing-collaboration-with-zoom-meeting-recordings-for-2024/"><u>[Updated] Maximizing Collaboration with Zoom Meeting Recordings for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-memes-mastermind/"><u>[Updated] Memes Mastermind</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlock-the-potential-of-fb-chronicles-with-free-apps/"><u>[Updated] Unlock the Potential of FB Chronicles with Free Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-windows-camera-error-code-0xa00f4292/"><u>How to Resolve the Windows Camera Error (Code 0Xa00f4292)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-realme-c33-2023-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Realme C33 2023.</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-quickquip-quarterfreeze-media/"><u>In 2024, QuickQuip QuarterFreeze Media</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-simplified-storytelling-methodology/"><u>In 2024, Simplified Storytelling Methodology</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/streamlining-video-creation-with-windows-movie-maker-on-windows-8-for-2024/"><u>Streamlining Video Creation with Windows Movie Maker on Windows 8 for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

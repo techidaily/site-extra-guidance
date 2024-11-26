@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering In-Video Narrations  A Step-by-Step Guide\""
-date: 2024-11-12T17:52:58.915Z
-updated: 2024-11-16T17:23:25.349Z
+date: 2024-11-21T00:04:38.035Z
+updated: 2024-11-25T18:09:20.152Z
 tags: 
   - screen-recording
   - ai video
@@ -24,6 +24,10 @@ And when you learn how to use this technique the right way, your YouTube videos 
 
 I'll be demonstrating how to add voiceovers and narrations in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to help you step up your video creation game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Voiceover or Narration?
 
 But first, what's the difference between a voiceover and a narration? Truth be told, there is quite a bit of overlap between the two.
@@ -45,10 +49,7 @@ But here's the good news: the way you add either option is the same in Filmora.
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to add narration
@@ -57,31 +58,21 @@ So the easiest way to add narration is directly to a project. The benefit of thi
 
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
 
 You put the playhead where you want to start recording and hit the microphone icon under the preview window.
 
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 A 3-second countdown will pop up and start recording immediately after this countdown.
 
 You can record your narration and click stop.
 
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Some Tips for Recording Narration
 
@@ -102,10 +93,7 @@ Practice adding it to your videos to see how it adds depth and dimension to your
 It can also help make a connection with your audience because you can be relating to the images on the screen as they watch them. This is effective in building your YouTube audience.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Always use a good mic
@@ -113,6 +101,10 @@ It can also help make a connection with your audience because you can be relatin
 When adding voiceover or narration to your project, be sure to use a good USB microphone. A good quality sound will elevate your entire project and just requires a little planning.
 
 ![use good microphone](https://images.wondershare.com/filmora/article-images/2022/11/use-good-microphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
 
@@ -154,14 +146,16 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fresh-ideas-to-talk-about-in-daily-vlogging/"><u>[New] In 2024, Fresh Ideas to Talk About in Daily Vlogging</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-trendsetters-pictures-origins-explored/"><u>[Updated] 2024 Approved Trendsetters' Pictures Origins Explored</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-creating-a-safe-mc-habitat-plan-6/"><u>[Updated] Creating a Safe MC Habitat Plan #6</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-rank-the-best-comparative-study-of-6-hdmi-21-monitors/"><u>[Updated] Rank the Best Comparative Study of 6 HDMI 2.1 Monitors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sleeksky-saver-the-frugal-file-nest/"><u>[Updated] SleekSky Saver - The Frugal File Nest</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quietude-creation-garageband-volume-control-methods/"><u>2024 Approved Quietude Creation Garageband Volume Control Methods</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-optimizing-your-creative-process-windows-movie-maker-on-windows-8-unveiled/"><u>In 2024, Optimizing Your Creative Process Windows Movie Maker on Windows 8 Unveiled</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/magix-video-pro-x-review-for-2024/"><u>Magix Video Pro X Review for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-best-time-to-post-on-ig-for-maximum-reach-for-2024/"><u>The Best Time to Post on IG for Maximum Reach for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-shoes-for-virtual-ground-leading-treadmill-insights/"><u>[New] Shoes for Virtual Ground Leading Treadmill Insights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-synchronizing-airwaves-for-audience-gain/"><u>[Updated] In 2024, Synchronizing Airwaves for Audience Gain</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leaders-of-the-digital-age-videoaudio-innovators-index/"><u>[Updated] Leaders of the Digital Age Video/Audio Innovators Index</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-metaverse-characters-made-simple-easy-avatar-crafting-tips/"><u>[Updated] Metaverse Characters Made Simple Easy Avatar Crafting Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-photo-frames-leading-software-reviews/"><u>2024 Approved Mastering Photo Frames Leading Software Reviews</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastery-guide-to-flawless-srt-file-construction/"><u>2024 Approved Mastery Guide to Flawless SRT File Construction</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-reflex-toolbox-bundle/"><u>2024 Approved Reflex Toolbox Bundle</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ative-audio-enhancements-for-youtube-creators/"><u>Innovative Audio Enhancements for YouTube Creators</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-upgrade-raspberry-pis-extended-connectivity-offers-improved-secure-shell-access-and-backwards-support-for-aged-models/"><u>New Upgrade: Raspberry Pi's Extended Connectivity Offers Improved Secure Shell Access & Backwards Support for Aged Models</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spotlight-techniques-for-android-videography-for-2024/"><u>Spotlight Techniques for Android Videography for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-method-streaming-idevice-screens-on-youtube/"><u>The Ultimate Method Streaming iDevice Screens on YouTube</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Restore Sound on Your JBL G435 Wireless Headphones with These Simple Repairs
-date: 2024-11-10T16:55:59.007Z
-updated: 2024-11-16T17:17:41.002Z
+date: 2024-11-23T05:03:12.469Z
+updated: 2024-11-25T19:11:22.761Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
 1. Try the headphone on other devices and see if it works.
@@ -50,26 +54,20 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
@@ -78,18 +76,15 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Hopefully the popping/crackling sound in your headphone problem has gone by now. If not, you might also want to change it to other audio formats to see if it works.
 
  Check if the headphone crackling problem persists. If yes, then congrats! But if it still persists, you should try **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -120,24 +115,14 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
 
@@ -166,21 +151,18 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-kinemaster-usage-plus-best-online-platforms-for-editors/"><u>[New] Mastering the Art of KineMaster Usage + Best Online Platforms for Editors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-prestigious-top-8-sites-combining-vivid-3d-graphics-and-luxe-text/"><u>[New] Prestigious Top 8 Sites Combining Vivid 3D Graphics & Luxe Text</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-4-techniques-for-effective-android-content-capturing/"><u>[Updated] In 2024, 4 Techniques for Effective Android Content Capturing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premiere-pros-art-of-audio-transitioning/"><u>[Updated] Premiere Pro’s Art of Audio Transitioning</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-making-magic-mobile-best-phones-for-media-crafting/"><u>2024 Approved Making Magic Mobile Best Phones for Media Crafting</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-videoleap-to-capture-up-close-footage/"><u>2024 Approved Master Videoleap to Capture Up-Close Footage</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-sound-recognition-technology/"><u>2024 Approved Premier Sound Recognition Technology</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-hook-it-game-winning-podcast-beginnings/"><u>2024 Approved The Hook-It Game Winning Podcast Beginnings</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/free-imagery-mastery-with-photoscape-a-detailed-review-for-aspiring-editors/"><u>Free Imagery Mastery with PhotoScape - A Detailed Review for Aspiring Editors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-cut-costs-on-your-computer-build-tips-for-saving-money-on-processors/"><u>How to Cut Costs on Your Computer Build: Tips for Saving Money on Processors</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-breaking-down-average-podcaster-salary/"><u>In 2024, Breaking Down Average Podcaster Salary</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-steady-shots-how-to-avoid-lens-cloudiness/"><u>In 2024, Steady Shots How to Avoid Lens Cloudiness</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-y27s-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo Y27s? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/mastering-the-art-of-filter-selection-on-instagram-for-2024/"><u>Mastering the Art of Filter Selection on Instagram for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/professional-macos-dvd-ripper-and-converter-macx-pro-seamless-dvd-to-video-transformation/"><u>Professional MacOS DVD Ripper & Converter: MacX Pro - Seamless DVD to Video Transformation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-effortless-imovie-music-enhancement-using-youtube-songs-for-2024/"><u>[New] Effortless iMovie Music Enhancement Using YouTube Songs for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-review-of-picsart-apps-new-features-2024-edition/"><u>[New] Step-by-Step Review of PicsArt App's New Features, 2024 Edition</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-financial-insights-for-vids-how-much-do-youtubers-earn-per-sponsorship-for-2024/"><u>[Updated] Financial Insights for Vids How Much Do YouTubers Earn Per Sponsorship for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-step-by-step-guide-modifying-user-numbers-on-tiktok/"><u>[Updated] In 2024, Step-by-Step Guide Modifying User Numbers on TikTok</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-simplify-coordination-blending-zoom-into-your-gmail-schedule/"><u>[Updated] Simplify Coordination Blending Zoom Into Your Gmail Schedule</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-masterful-method-smart-watch-to-access-mac/"><u>2024 Approved Masterful Method Smart Watch to Access Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-movie-magic-adjusting-netflix-speed/"><u>2024 Approved Mastering Movie Magic Adjusting Netflix Speed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-spectrum-surge-tools-for-sharper-web-videos/"><u>2024 Approved Spectrum Surge Tools for Sharper Web Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/digital-doppelganger-drawing-crafting-caricatured-emblems/"><u>Digital Doppelganger Drawing Crafting Caricatured Emblems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/identifying-the-culprit-is-microsoft-teams-malfunctioning-or-your-internet-connection/"><u>Identifying the Culprit: Is Microsoft Teams Malfunctioning or Your Internet Connection?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-maximum-capacity-choices-ultimate-cloud-service-list/"><u>In 2024, Maximum Capacity Choices Ultimate Cloud Service List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximizing-fun-finding-hot-images-at-pexelscom-for-2024/"><u>Maximizing Fun Finding Hot Images at Pexels.com for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/trimming-sound-extracting-silence-from-mov-clips-on-pc-and-mac-systems-for-2024/"><u>Trimming Sound Extracting Silence From MOV Clips on PC & Mac Systems for 2024</u></a></li>
 </ul></div>
 

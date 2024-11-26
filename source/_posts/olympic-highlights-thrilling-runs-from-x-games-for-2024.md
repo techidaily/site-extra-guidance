@@ -1,7 +1,7 @@
 ---
 title: "\"Olympic Highlights  Thrilling Runs From X Games for 2024\""
-date: 2024-11-09T17:24:38.013Z
-updated: 2024-11-16T17:15:15.800Z
+date: 2024-11-22T17:34:27.178Z
+updated: 2024-11-25T20:21:45.214Z
 tags: 
   - screen-recording
   - ai video
@@ -32,9 +32,17 @@ Meryeta Odine of Canada was ahead Lindsey Jacobellis at some point during women'
 
 ![meryeta odine](https://images.wondershare.com/filmora/article-images/meryeta-odine.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Chloe Trespeuch of France to the left and Mariia Vasiltcova of ROC to the right competing fiercely during Beijing 2022 Winter Olympics at Genting Snow Park.
 
 ![chloe trespeuch](https://images.wondershare.com/filmora/article-images/chloe-trespeuch.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lara Casanova of Switerland lagging behind during snowboard cross finals at Genting Snow Park in Zhangjiakou, north China's Hebei Province.
 
@@ -56,6 +64,10 @@ Lindsey Jacobellis of the United States on her way to victory during women's sno
 
 ![lindsey jacobellis us](https://images.wondershare.com/filmora/article-images/lindsey-jacobellis-us.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 American snowboarder Lindsey Jacobellis finally crossing the finishing line ahead of all the competitors to win the gold medal.
 
 ![lindsey jacobellis gold medal](https://images.wondershare.com/filmora/article-images/lindsey-jacobellis-gold-medal.jpg)
@@ -76,6 +88,10 @@ Motion Tracking - Motion tracking could be the x-factor in any sports event high
 
 Texts and Voiceover - Most highlight videos show titles and texts over the still photos of the event so that the viewers can understand the highlights and moments easily. The titles and texts are shown with animation for better traction. However, there are many professional video creators who prefer voiceover instead of showing texts as voiceover gives a life to the video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### A Professional Video Editor
 
 You need to have all the above-mentioned video effects and audio options in the video editor that you choose to make your video highlights. We recommend Wondershare Filmora where all the features and options are readily available. In fact, there are over 800 effects and options available to make professional-quality snowboard cross Olympics 2022 highlights. Here are the steps to make highlights video with Filmora.
@@ -92,13 +108,6 @@ Step 1: Launch Filmora and click on New Project. Go to File > Project Settings a
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Go to Import > Import with Instant Cutter Tool. Import and trim all the still and video footage of snowboard cross finals that you have collected.
 
 Step 4: Now add the imported media files to Video Timeline and audio files such as music and voiceover to the Audio Timeline.
@@ -108,6 +117,10 @@ Step 4: Now add the imported media files to Video Timeline and audio files such 
 Step 5: Select slides and add Transitions, Effects, Titles and Elements from the top bar as in the screenshot.
 
 When everything is finished, click on Export to save the video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -154,22 +167,12 @@ Step 5: Select slides and add Transitions, Effects, Titles and Elements from the
 When everything is finished, click on Export to save the video.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Bottom Line
 
 To sum it up all, the women's snowboard cross event of Winter Olympics 2022 has been spectacular from all perspectives. Snowboarder Lindsey Jacobellis of the United States has won the gold medal after 16 years and she corrected her blunder that she made 16 years ago. We have illustrated how to create awesome snowboard cross finals and highlights videos with Filmora.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video to Save the Highlights of Snowboard Cross
 
@@ -207,20 +210,21 @@ Step 4: Now add the imported media files to Video Timeline and audio files such 
 
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: Select slides and add Transitions, Effects, Titles and Elements from the top bar as in the screenshot.
 
 When everything is finished, click on Export to save the video.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Bottom Line
 
 To sum it up all, the women's snowboard cross event of Winter Olympics 2022 has been spectacular from all perspectives. Snowboarder Lindsey Jacobellis of the United States has won the gold medal after 16 years and she corrected her blunder that she made 16 years ago. We have illustrated how to create awesome snowboard cross finals and highlights videos with Filmora.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video to Save the Highlights of Snowboard Cross
 
@@ -235,13 +239,6 @@ Slow Motion - You need to have slow motion effect on your snowboard cross finals
 Motion Tracking - Motion tracking could be the x-factor in any sports event highlight video. Motion tracking is highlighting a particular athlete such as the winner throughout a video clip so that the viewers could understand who the winner is and how he performed. You can highlight the athlete through motion tracking by attaching arrow, text, clipart and likewise.
 
 Texts and Voiceover - Most highlight videos show titles and texts over the still photos of the event so that the viewers can understand the highlights and moments easily. The titles and texts are shown with animation for better traction. However, there are many professional video creators who prefer voiceover instead of showing texts as voiceover gives a life to the video.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### A Professional Video Editor
 
@@ -260,10 +257,7 @@ Step 1: Launch Filmora and click on New Project. Go to File > Project Settings a
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Go to Import > Import with Instant Cutter Tool. Import and trim all the still and video footage of snowboard cross finals that you have collected.
@@ -272,16 +266,13 @@ Step 4: Now add the imported media files to Video Timeline and audio files such 
 
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: Select slides and add Transitions, Effects, Titles and Elements from the top bar as in the screenshot.
 
 When everything is finished, click on Export to save the video.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -311,17 +302,17 @@ To sum it up all, the women's snowboard cross event of Winter Olympics 2022 has 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-smart-image-management-on-ios-devices/"><u>[Updated] Smart Image Management on iOS Devices</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-your-media-with-these-pro-screenshot-and-video-editors-iphoneandroid/"><u>2024 Approved Master Your Media with These Pro Screenshot and Video Editors (iPhone/Android)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-puns-and-plots-developing-7-funny-video-storylines/"><u>2024 Approved Puns & Plots Developing 7 Funny Video Storylines</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guia-facil-de-crear-una-copia-de-seguridad-para-tus-archivos-de-microsoft-outlook-en-windows-11/"><u>Guía Fácil De Crear Una Copia De Seguridad Para Tus Archivos De Microsoft Outlook en Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-resolve-realme-narzo-60-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme Narzo 60 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-i-screen-mirroring-apple-iphone-8-to-tvlaptop-drfone-by-drfone-ios/"><u>In 2024, How Can I Screen Mirroring Apple iPhone 8 to TV/Laptop? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-image-transitions-with-ease-and-style/"><u>In 2024, Mastering Image Transitions with Ease and Style</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/insightful-analysis-of-modern-human-interaction-systems-for-2024/"><u>Insightful Analysis of Modern Human Interaction Systems for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-windows-11-more-reliable-and-robust/"><u>Making Windows 11 More Reliable and Robust</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-steganography-hiding-zip-in-photos-windows-11/"><u>Mastering Steganography: Hiding ZIP in Photos (Windows 11)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/oled-vs-neo-qled-deciding-which-tv-tech-is-superior-for-you/"><u>OLED Vs. Neo QLED: Deciding Which TV Tech Is Superior for You</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/pros-and-cons-of-leading-race-rc-rock-crawlers-for-tough-trail-adventures/"><u>Pros and Cons of Leading Race RC Rock Crawlers for Tough Trail Adventures</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-laughter-labyrinas-ideas-that-resonate-with-crowds/"><u>[New] Laughter Labyrinas Ideas That Resonate with Crowds</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-virtual-expansion-top-7-gear-choices-for-metavisionaries/"><u>[Updated] 2024 Approved Virtual Expansion Top 7 Gear Choices for Metavisionaries</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-elevate-your-productivity-io-screen-capture-secrets/"><u>[Updated] Elevate Your Productivity IO Screen Capture Secrets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-school-without-edgenuity-videos/"><u>2024 Approved Mastering School Without Edgenuity Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pro-level-drone-racing-techniques-and-quintessential-fpvs/"><u>2024 Approved Pro-Level Drone Racing Techniques & Quintessential FPVs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quality-assured-the-best-10-online-converters-for-jpg-to-gif/"><u>2024 Approved Quality Assured The Best 10 Online Converters for JPG to GIF</u></a></li>
+<li><a href="https://article-helps.techidaily.com/crafting-superior-recordings-a-guide-to-audacity-for-2024/"><u>Crafting Superior Recordings A Guide to Audacity for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-discover-top-6-mac-capture-software-selections/"><u>In 2024, Discover Top 6 Mac Capture Software Selections</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/master-the-art-of-seamless-video-compatibility/"><u>Master the Art of Seamless Video Compatibility</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-windows-11-display-dilemma-with-this-guide-to-fix-hdmi-tv-recognition/"><u>Resolve Your Windows 11 Display Dilemma with This Guide to Fix HDMI TV Recognition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tying-iphone-videos-in-seamless-bundles/"><u>Tying IPhone Videos in Seamless Bundles</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Silent Sounds  Elegant Dimming in Garageband Projects for 2024\""
-date: 2024-11-15T19:06:49.322Z
-updated: 2024-11-16T16:46:33.942Z
+date: 2024-11-21T02:33:49.183Z
+updated: 2024-11-26T01:43:51.805Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,10 @@ Step1 Turn on the application and open the song from the home screen.
 
 ![open songs in garageband](https://images.wondershare.com/filmora/article-images/2022/07/open-songs-in-garageband.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Press the track> show the master track from the icon menu, and then the master track will come below the last track.
 
 Step3 Choose the mix> produce volume fade out on the main output option.
@@ -41,6 +45,10 @@ Step3 Choose the mix> produce volume fade out on the main output option.
 Step4 Press the volume button from the menu in the track header, and use the volume point to adjust the fade-out length.
 
 ![start fade out length garageband](https://images.wondershare.com/filmora/article-images/2022/07/start-fade-out-length-garageband.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Using the GarageBand application on your iPad, you can opt for the automatic fade-out option. You need to open the song set and activate the active fade-out option.
 
@@ -61,13 +69,6 @@ Step3 Scroll down to the fade-out option and turn it.
 Step4 Hit the done icon.
 
 The fade-out option doesn't offer you much set of control. It usually works as a master track and includes the fade-out effect over all the track channels. You won't be able to edit the fade-out; in simple words, it will automatically select a point where the feature will start working, and it will also control the speed and intensity of the volume drop. It is one of the best features for fading short tracks as it won't lose much audio.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. Garageband Alternative to Fade Audio on Mac
 
@@ -98,10 +99,7 @@ After the drag and drop procedure, double click on the file and direct yourself 
 ![add audio fade in to clip](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step3 Save the video
@@ -111,10 +109,7 @@ Choose the create option to save the new file if you are done with the adjusting
 ![save the video](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -148,10 +143,7 @@ Choose the create option to save the new file if you are done with the adjusting
 ![save the video](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -182,21 +174,16 @@ According to the survey, one of the most searched topics is **how to fade music 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-perfect-shots-no-hassle-leading-smartphone-tripods/"><u>[New] In 2024, Perfect Shots, No Hassle Leading Smartphone Tripods</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-ios-leaders-the-10-ultimate-video-apps-to-know/"><u>[New] IOS Leaders The 10 Ultimate Video Apps to Know</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-economical-systems-optimized-by-ideal-obs-settings/"><u>[Updated] Economical Systems Optimized by Ideal OBS Settings</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-focus-on-subjects-methods-for-editing-out-photography-backgrounds/"><u>[Updated] Focus on Subjects Methods for Editing Out Photography Backgrounds</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-real-time-sharing-iphone-video-and-image-crafting/"><u>[Updated] Real-Time Sharing IPhone Video & Image Crafting</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionize-your-talking-skills-with-these-no-cost-audio-modifications/"><u>2024 Approved Revolutionize Your Talking Skills with These No-Cost Audio Modifications</u></a></li>
-<li><a href="https://fox-access.techidaily.com/compendium-of-different-photographic-gadgets/"><u>Compendium of Different Photographic Gadgets</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fixing-connectivity-how-to-overcome-ralink-rt3290-drivers-challenges-in-widows-operating-systems-xpvista/"><u>Fixing Connectivity: How to Overcome Ralink RT3290 Drivers Challenges in Widows Operating Systems (XP/Vista)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-when-your-computer-doesnt-detect-devices-in-icue-software/"><u>How to Resolve When Your Computer Doesn't Detect Devices in ICUE Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-10-layouts-ae-text-edition/"><u>In 2024, Premier 10 Layouts AE Text Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-ps5xbox-gaming-monitors-the-5-most-exciting-choices/"><u>In 2024, PS5/Xbox Gaming Monitors The 5 Most Exciting Choices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpt-your-visuals-the-ultimate-guide-to-photo-distortion/"><u>In 2024, Sculpt Your Visuals The Ultimate Guide to Photo Distortion</u></a></li>
-<li><a href="https://win-special.techidaily.com/limpieza-de-desorden-digital-liberando-espacio-en-tu-dispositivo-windows-n/"><u>Limpieza De Desorden Digital: Liberando Espacio en Tu Dispositivo Windows N</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/next-gen-editing-experience-reviewed-magix-video-pro-x-for-2024/"><u>Next-Gen Editing Experience Reviewed Magix Video Pro X for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/professional-streaming-top-6-webcams-for-zoom-users-for-2024/"><u>Professional Streaming Top 6 Webcams for Zoom Users for 2024</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-itel-p55plus-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-essential-free-online-music-libraries-15-picks/"><u>[New] 2024 Approved Essential Free Online Music Libraries 15 Picks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-staking-haven-evalutations/"><u>[New] HIGH-STAKING HAVEN EVALUTATIONS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-obs-or-wirecast-deciding-on-the-best-streamer-tool/"><u>[Updated] OBS or Wirecast? Deciding on the Best Streamer Tool</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-podcast-renaming-made-easy-with-these-ai-tools/"><u>[Updated] Podcast Renaming Made Easy with These AI Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-setting-the-stage-for-success-zoom-configuration-101/"><u>2024 Approved Setting the Stage for Success Zoom Configuration 101</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-journey-through-hybrid-horizons-understanding-mixed-reality/"><u>In 2024, Journey Through Hybrid Horizons Understanding Mixed Reality</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-smooth-and-quick-download-4-websites-for-tones/"><u>In 2024, Smooth and Quick Download 4 Websites for Tones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-hardware-insights-from-toms-workshop/"><u>Unlocking the Secrets of Hardware: Insights From Tom's Workshop</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-silencing-audio-in-mp4-format-a-step-by-step-guide/"><u>Updated In 2024, Silencing Audio in MP4 Format A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/upside-down-visuals-instagrams-guide-to-flipping-and-sharing-videos/"><u>Upside Down Visuals Instagram's Guide to Flipping & Sharing Videos</u></a></li>
 </ul></div>
 

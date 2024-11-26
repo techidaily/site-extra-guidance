@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Restore Your Creative Pebble Speaker's Functionality
-date: 2024-11-14T18:55:51.891Z
-updated: 2024-11-16T16:03:58.443Z
+date: 2024-11-22T20:29:02.514Z
+updated: 2024-11-25T16:37:03.692Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
@@ -52,26 +45,20 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Right click it again and select **Set as Default Device** .
@@ -83,21 +70,16 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **9)** Click**OK** , then click**OK** .
 
@@ -124,10 +106,7 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
@@ -164,20 +143,16 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-essential-camera-techniques-for-novice-filmmakers/"><u>[New] 2024 Approved Essential Camera Techniques for Novice Filmmakers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pro-tips-to-capture-stunning-and-breathtaking-gopro-time-lapse-video/"><u>[New] Pro Tips to Capture Stunning and Breathtaking GoPro Time-Lapse Video</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-snap-to-perfection-editing-strategies-that-work-wonders/"><u>[New] Snap to Perfection Editing Strategies That Work Wonders</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-videographic-velocity-top-cams-for-smoothly-snapped-slow-motion/"><u>[Updated] 2024 Approved Videographic Velocity Top Cams for Smoothly Snapped Slow Motion</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-musicality-in-whatsapp-expressions/"><u>[Updated] Musicality in WhatsApp Expressions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sleep-inducing-screenplays-video-evaluation/"><u>[Updated] Sleep-Inducing Screenplays Video Evaluation</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-comparative-income-freelance-vs-full-time-podcaster/"><u>2024 Approved Comparative Income Freelance Vs. Full-Time Podcaster</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-movement-a-look-at-intova-x/"><u>2024 Approved Mastering Movement A Look at Intova X</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-snapslowly-the-art-of-time-lapse-via-samsung/"><u>2024 Approved SnapSlowly The Art of Time-Lapse via Samsung</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tag-friends-listen-to-this-podcast-story/"><u>2024 Approved Tag Friends Listen to This Podcast Story</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-earning-a-living-with-social-media-snaps/"><u>In 2024, Earning a Living with Social Media Snaps</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/laughlineup-app-become-a-master-at-memes-for-2024/"><u>LaughLineup App - Become a Master at Memes for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/photographic-experience-with-aurora-hdr-software-for-2024/"><u>Photographic Experience with Aurora HDR Software for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stuck-at-installing-apps-on-your-iphone-here-are-10-quick-fixes-to-get-them-working-again/"><u>Stuck at Installing Apps on Your iPhone? Here Are 10 Quick Fixes to Get Them Working Again.</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-how-to-remove-jello-effect-from-an-aerial-video/"><u>[New] How to Remove Jello Effect From an Aerial Video</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-to-edges-pip-functionality/"><u>[New] Step-by-Step Guide to Edge’s PIP Functionality</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leaders-in-video-to-file-transformation-the-best-ios-and-pc-tools-8/"><u>[Updated] Leaders in Video to File Transformation The Best iOS & PC Tools #8</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-affordable-gopro-purchase-guide-tips-and-tricks/"><u>2024 Approved Affordable GoPro Purchase Guide Tips & Tricks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-professional-iphone-cinematography-learn-and-apply-top-8-insights/"><u>2024 Approved Professional iPhone Cinematography Learn and Apply Top 8 Insights</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/behebung-des-update-problems-fehlermeldung-windows-0x80080005-erfolgreiches-navigieren-durch-sieben-praktische-losungen/"><u>Behebung Des Update-Problems: Fehlermeldung Windows 0X80080005 – Erfolgreiches Navigieren Durch Sieben Praktische Lösungen</u></a></li>
+<li><a href="https://win-web.techidaily.com/fast-start-ultimate-tutorial-on-downloading-and-setting-up-video-editor-pro-studio/"><u>Fast Start: Ultimate Tutorial on Downloading & Setting Up Video Editor Pro Studio</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-quick-guide-to-mp3-from-instagram-videos/"><u>In 2024, Quick Guide to MP3 From Instagram Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/propel-your-brand-with-a-10-step-blueprint-for-top-smm-performance-for-2024/"><u>Propel Your Brand with a 10-Step Blueprint for Top SMM Performance for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-nokia-g310-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Nokia G310 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Smooth Decline Techniques for Controlled Audio Reduction"
-date: 2024-11-12T18:04:23.083Z
-updated: 2024-11-16T18:16:00.653Z
+date: 2024-11-22T18:54:37.385Z
+updated: 2024-11-25T18:15:02.409Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,10 @@ Step1 The first and foremost task to do is the successful installation of FL Stu
 
 ![open fl studio](https://images.wondershare.com/filmora/article-images/2022/07/open-fl-studio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Open your FL Studio window on your pc or mac. Then, choose the right volume parameter for the creation of automation in your FL studio. You can do it using the mixer channel method.
 
 Step3 After getting the volume parameter, now you will need to create automation. For this, you will have to click right in the volume layer and then tap on ‘Create Automation Clip’.
@@ -56,22 +60,12 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
@@ -79,10 +73,7 @@ Step3 If you want your audio to fade out, again go to the audio setting. Then dr
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Related FAQs of FL Studio Audio Editing
@@ -109,24 +100,22 @@ Step2 To fade audio in, you have to go to the audio setting. Then drag the point
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Related FAQs of FL Studio Audio Editing
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. How to fade out FL studio mobile?
@@ -165,24 +154,22 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-realitys-new-horizons-analyzing-metaverse-and-omniverse-worlds/"><u>[New] 2024 Approved Reality's New Horizons Analyzing Metaverse and Omniverse Worlds</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unleashing-the-power-of-preparedness-in-your-streams/"><u>[New] Unleashing the Power of Preparedness in Your Streams</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sharing-laughter-iphone-memes/"><u>[Updated] Sharing Laughter IPhone Memes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2023-how-to-autoplay-facebook-videos/"><u>2023 | How to Autoplay Facebook Videos?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-tiny-worlds-5-ways-to-zoom-in-on-minecraft/"><u>2024 Approved Navigating Tiny Worlds 5 Ways to Zoom In on Minecraft</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-photography-with-quantum-hdr-tech/"><u>2024 Approved Pioneering Photography with Quantum HDR Tech</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionize-your-gameplay-with-this-gratuitous-voice-alterer/"><u>2024 Approved Revolutionize Your Gameplay with This Gratuitous Voice Alterer</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-seamless-social-streams-link-instagram-and-facebook/"><u>2024 Approved Seamless Social Streams Link Instagram & Facebook</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-seamlessly-downloading-and-modifying-tamil-ringtones/"><u>2024 Approved Step-by-Step Guide to Seamlessly Downloading and Modifying Tamil Ringtones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-stories-in-simplicity/"><u>2024 Approved Stories in Simplicity</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-the-stylish-and-intuitive-netatmo-weather-station-suitable-for-mobile-devices/"><u>Comprehensive Guide to the Stylish and Intuitive Netatmo Weather Station Suitable for Mobile Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-value-in-mechanical-switches-with-the-logitech-g515-lightspeed-tkl-review/"><u>Discover the Best Value in Mechanical Switches with the Logitech G515 Lightspeed TKL Review</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-lava-storm-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Lava Storm 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leading-slow-motions-camera-edition-for-2024/"><u>Leading Slow-Motions Camera Edition for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/logic-pros-efficient-approach-to-softening-audio-levels-for-2024/"><u>Logic Pro's Efficient Approach to Softening Audio Levels for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/palette-perfection-translating-color-concepts-for-2024/"><u>Palette Perfection Translating Color Concepts for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/samsung-t5-ssd-limited-offer-save-36-post-prime-day-on-amazon-available-in-8tb-zdnet-exclusive/"><u>Samsung T5 SSD Limited Offer: Save 36% Post-Prime Day on Amazon, Available in 8TB - ZDNet Exclusive</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-masterclass-in-merging-movies-with-modern-education/"><u>[New] In 2024, Masterclass in Merging Movies with Modern Education</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leveraging-cg-central-luts-for-cinematic-color-enhancement/"><u>[New] Leveraging CG Central LUTs for Cinematic Color Enhancement</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-scripts-that-shaped-cinema/"><u>[New] Scripts That Shaped Cinema</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-premier-virtual-microphones/"><u>[Updated] 2024 Approved Premier Virtual Microphones</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-complete-igtv-user-manual/"><u>[Updated] 2024 Approved The Complete IGTV User Manual</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-unmanned-aerial-vehicles-for-gopro-recording/"><u>[Updated] Premium Unmanned Aerial Vehicles for GoPro Recording</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-tiktok-shadowban-how-to-get-unshadowbanned-on-tiktok2/"><u>[Updated] TikTok Shadowban How to Get Unshadowbanned on Tiktok2</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-image-deformation-techniques/"><u>2024 Approved Master Image Deformation Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-footage-select-best-gimbals-and-handhelds-guide/"><u>2024 Approved Mastering Footage Select Best Gimbals & Handhelds Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-using-telegram-web/"><u>2024 Approved Mastering the Art of Using Telegram Web</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-oculus-favorites-the-8-highest-selling-games/"><u>2024 Approved Oculus Favorites The 8 Highest-Selling Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplifying-mixers-interface-for-macos-streamers/"><u>2024 Approved Simplifying Mixer's Interface for macOS Streamers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-artistic-journey-animating-scenes-with-windows-movie-maker/"><u>2024 Approved The Artistic Journey Animating Scenes with Windows Movie Maker</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/elevate-your-online-presence-making-exceptional-facebook-reels-for-2024/"><u>Elevate Your Online Presence Making Exceptional Facebook Reels for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-navigate-with-ease-best-7-android-browsers-without-pop-ups/"><u>In 2024, Navigate With Ease Best 7 Android Browsers Without Pop-Ups</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/instagram-meets-tiktok-syncing-social-media-for-2024/"><u>Instagram Meets TikTok Syncing Social Media for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-nba-streaming-top-15-essentials/"><u>Step-by-Step Guide to NBA Streaming - Top 15 Essentials</u></a></li>
 </ul></div>
 

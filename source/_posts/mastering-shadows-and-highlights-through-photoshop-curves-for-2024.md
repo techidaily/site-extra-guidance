@@ -1,7 +1,7 @@
 ---
 title: "Mastering Shadows & Highlights Through Photoshop Curves for 2024"
-date: 2024-10-25T16:21:00.561Z
-updated: 2024-10-31T17:57:25.704Z
+date: 2024-11-20T21:40:55.202Z
+updated: 2024-11-26T00:07:07.193Z
 tags: 
   - screen-recording
   - ai video
@@ -34,11 +34,19 @@ After creating the new document, open the image that you want to curve. You may 
 
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3Warp the Image
 
 Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking and holding on the Transform Tool in the toolbar. The Warp Tool is located at the bottom of the Transform Tool's fly-out menu. Alternatively, you may press Ctrl+T or Command+T on your keyboard to open the Transform Tool's fly-out menu and then select the Warp Tool from there.
 
 ![wrap image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/wrap-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 With the Warp Tool selected, hover your cursor over the image. You'll see a grid appear over the image. Click and drag one of the middle nodes in the horizontal direction to begin curving the image. As you drag, you'll see the image curve along with your cursor. If you want to increase or decrease the amount of curvature, simply press and hold the Shift key while dragging the node.
 
@@ -50,6 +58,10 @@ Play around with the settings in the options bar. There are quite a few differen
 
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
@@ -58,22 +70,23 @@ The **Bend Direction** option rotates the angle of the bend.
 
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step4Save the Image
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -109,17 +122,15 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-master-video-transformation-a-complete-guide-to-rotating-in-vlc/"><u>[Updated] 2024 Approved Master Video Transformation A Complete Guide to Rotating in VLC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-iphone-the-ringtone-alteration-process/"><u>[Updated] Navigating iPhone The Ringtone Alteration Process</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-selecting-the-best-free-melodies-for-your-youtube-video/"><u>[Updated] Selecting the Best Free Melodies for Your YouTube Video</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-samsung-ue590-4k-freesync-gaming-monitor-review/"><u>2024 Approved Samsung UE590 4K FreeSync Gaming Monitor Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-smartphone-identity-iphone-x-and-galaxy-phones-through-the-lens-of-faces/"><u>2024 Approved Smartphone Identity IPhone X and Galaxy Phones Through the Lens of Faces</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-finest-budget-friendly-photo-processors-online/"><u>2024 Approved The Finest Budget-Friendly Photo Processors Online</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-your-blueprint-for-effective-professional-practice/"><u>ChatGPT: Your Blueprint for Effective Professional Practice</u></a></li>
-<li><a href="https://fox-links.techidaily.com/from-skyboxes-to-studio-walls-top-9-drone-software-showdowns-for-2024/"><u>From Skyboxes to Studio Walls Top 9 Drone Software Showdowns for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-iphone-13-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from iPhone 13 or iPad?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-smooth-sailing-for-iphone-video-content-creators/"><u>In 2024, Smooth Sailing for iPhone Video Content Creators</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-rumors-of-the-new-google-pixel-model-forecast-pricing-arrival-dates-and-technical-specifications/"><u>Inside Rumors of the New Google Pixel Model: Forecast Pricing, Arrival Dates & Technical Specifications</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/opening-playing-and-organizing-your-srt-files-efficiently-for-2024/"><u>Opening, Playing, and Organizing Your SRT Files Efficiently for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-6-social-sites-for-enterprise-communication/"><u>[New] Leading 6 Social Sites for Enterprise Communication</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-memetic-masterpieces-behind-the-photo/"><u>[New] Memetic Masterpieces Behind the Photo</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sharpen-your-images-the-ultimate-list-of-top-10-internet-apps/"><u>[New] Sharpen Your Images The Ultimate List of Top 10 Internet Apps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-turning-still-shots-into-audio-visual-narratives-for-2024/"><u>[New] Turning Still Shots Into Audio-Visual Narratives for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-iphone-tricks-adjusting-picture-size-efficiently/"><u>[Updated] IPhone Tricks Adjusting Picture Size Efficiently</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-11-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme 11 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/convert-your-favorite-mix-tapes-and-playlists-into-multiple-formats-mp3-wav-aac/"><u>Convert Your Favorite Mix Tapes and Playlists Into Multiple Formats: MP3, WAV, AAC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-realme-c51-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Realme C51.</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pivotal-scene-choices-for-editors/"><u>In 2024, Pivotal Scene Choices for Editors</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-zte-axon-40-lite-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of ZTE Axon 40 Lite? 7 Ways to Resolve | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Asus Launches the Pioneering ROG NUC Desktop PC with High-End Specs Including Core Ultra 9 Processors and RTX 4070 Graphics From $1,629
-date: 2024-11-12T18:26:37.591Z
-updated: 2024-11-16T19:00:13.176Z
+date: 2024-11-21T19:34:10.265Z
+updated: 2024-11-25T23:09:32.911Z
 tags:
   - desktop
 categories:
@@ -41,6 +41,10 @@ These are the specifications of the two Asus ROG NUC models:
 
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -64,37 +68,24 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-adobe-cloud-essential-storage-insights-and-top-alternatives/"><u>[New] Mastering Adobe Cloud Essential Storage Insights & Top Alternatives</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-tales-leading-academies-for-aspiring-narrators/"><u>[New] Mastering Tales Leading Academies for Aspiring Narrators</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-new-wave-for-sonys-s6700-blu-ray-player/"><u>[New] New Wave for Sony's S6700 Blu-Ray Player</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-revolutionary-entry-points-for-zooids/"><u>[Updated] In 2024, Revolutionary Entry Points for Zooids</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-live-action-anytime-anywhere-our-ultimate-12-stream-service/"><u>[Updated] Live Action Anytime, Anywhere - Our Ultimate 12-Stream Service</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-image-merging-techniques/"><u>[Updated] Mastering Image Merging Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premiere-e-lecture-label-lever/"><u>[Updated] Premiere E-Lecture Label Lever</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-secrets-unveiled-creating-professional-srt-files/"><u>[Updated] Secrets Unveiled Creating Professional SRT Files</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-instant-photographic-display-in-11-os/"><u>2024 Approved Instant Photographic Display in 11 OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/explore-the-8-most-innovative-ai-apps-for-your-smartphone/"><u>Explore the 8 Most Innovative AI Apps for Your Smartphone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209518621-9781620558478-familiars-in-witchcraft/"><u>Familiars in Witchcraft | Free Book</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-s17-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo S17 Devices</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-navigating-facebook-analytics-simplified/"><u>In 2024, Navigating Facebook Analytics Simplified</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-nokia-c12-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Nokia C12 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-out-loud-crafting-humorous-video-ideas-for-short-films-for-2024/"><u>Laugh Out Loud Crafting Humorous Video Ideas for Short Films for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/professionals-insight-into-morphvox-techniques-for-precise-audio-alteration-for-2024/"><u>Professional's Insight Into MorphVOX Techniques for Precise Audio Alteration for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-future-of-transportation-unveiling-potential-details-for-the-apple-car-pricing-insights-and-release-info/"><u>The Future of Transportation: Unveiling Potential Details for the Apple Car – Pricing Insights and Release Info</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-selection-premium-screen-protectors-for-the-google-pixel-extreme-9/"><u>Ultimate Selection: Premium Screen Protectors for the Google Pixel eXtreme 9</u></a></li>
-<li><a href="https://win-forum.techidaily.com/upcoming-mandatory-windows-11-23h2-update-what-you-need-to-know/"><u>Upcoming Mandatory Windows 11 23H2 Update: What You Need To Know</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-lower-volume-level-by-level-with-fl/"><u>[New] Lower Volume Level by Level with FL</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-visual-enhancements-with-polarrs-platform/"><u>[New] Mastering Visual Enhancements with Polarr's Platform</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-step-by-step-guide-to-boost-your-social-media-presence-with-instagram-hashtags/"><u>[Updated] 2024 Approved Step-by-Step Guide to Boost Your Social Media Presence with Instagram Hashtags</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-making-cash-with-zero-skills-check-out-these-13-ways-on-reddit/"><u>[Updated] Making Cash with Zero Skills? Check Out These 13 Ways on Reddit</u></a></li>
+<li><a href="https://win-dash.techidaily.com/adobemkvmp4/"><u>「AdobeツールでMKVをMP4にする」手順：詳細なチュートリアル</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimal-hue-refiner-app/"><u>2024 Approved Optimal Hue Refiner App</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-popsocket-mounts-for-optimal-video-shooting/"><u>2024 Approved PopSocket Mounts for Optimal Video Shooting</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-issues-with-facetime-explore-these-15-fixes-to-restore-functionality/"><u>Experiencing Issues with FaceTime? Explore These 15 Fixes to Restore Functionality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harness-the-power-of-color-grading-a-guide-to-luts-in-photoshop-cs6-for-2024/"><u>Harness the Power of Color Grading A Guide to LUTs in Photoshop CS6 for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-12-mini-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-next-moment-examination-alternate-strategies/"><u>In 2024, Next Moment Examination Alternate Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/integrate-efficiently-macos-sierra-for-desktop-enhancement-for-2024/"><u>Integrate Efficiently MacOS Sierra for Desktop Enhancement for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/language-bridge-builders-top-18-tools-that-turn-videos-into-text-for-2024/"><u>Language Bridge Builders Top 18 Tools That Turn Videos Into Text for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximizing-mobility-with-top-10-payload-drones-for-2024/"><u>Maximizing Mobility with Top 10 Payload Drones for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-basics-of-zoom-meeting-setup-for-2024/"><u>Navigating the Basics of Zoom Meeting Setup for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/say-goodbye-to-watermarks-best-online-tiktok-video-editors/"><u>Say Goodbye to Watermarks Best Online TikTok Video Editors</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-honor-x9b-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Honor X9b without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/iuc4oec4uec4pplusc4soc5hou5hcdguydgukrguyngujngujfgullguifguihgullgukpguitguyngullguyhgukxguldguypgujrguydguklguyfgujk6ioc4hoc4splusc4quc4rec4mec4quc4splusc33/"><u>มูวะไ비 เส้นทางการค้าและใบเย็น: คำสอนสำหรับการปฏิฌ� สุขภาพ</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

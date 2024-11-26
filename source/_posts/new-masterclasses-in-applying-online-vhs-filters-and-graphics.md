@@ -1,7 +1,7 @@
 ---
 title: "[New] Masterclasses in Applying Online VHS Filters and Graphics"
-date: 2024-10-25T17:57:11.378Z
-updated: 2024-10-31T17:20:00.641Z
+date: 2024-11-25T04:30:12.477Z
+updated: 2024-11-26T01:30:41.377Z
 tags: 
   - screen-recording
   - ai video
@@ -44,13 +44,6 @@ When it comes to video editing and other amazing effects, [Wondershare Filmora](
 
 ![wondershare filmora vhs](https://images.wondershare.com/filmora/article-images/2023/wondershare-filmora-vhs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Key Features**
 
 * It offers a comprehensive set of advanced color correction tools. This option includes color grading, curves, and matching. With this option, you can color professionally grade your video.
@@ -63,6 +56,10 @@ When it comes to video editing and other amazing effects, [Wondershare Filmora](
 
 ![adobe premiere pro vhs](https://images.wondershare.com/filmora/article-images/2023/adobe-premiere-pro-vhs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Key Features**
 
 * Adobe Premiere Pro allows you to precisely trim, cut, and arrange your video clips. You have full control over your edits with features like multi-cam editing and dynamic timeline.
@@ -74,6 +71,10 @@ When it comes to video editing and other amazing effects, [Wondershare Filmora](
 If you're an Apple user seeking a powerful video editing tool, you can't go better than [Final Cut Pro X](https://www.apple.com/final-cut-pro/trial/). It is designed specifically for macOS by offering some amazing editing options. Final Cut Pro X provides an effects library where you can choose from a vast range. Using this tool, you can download different **VHS photo filter** overlays to your Mac to apply them to your video.
 
 ![ fcpx vhs effects](https://images.wondershare.com/filmora/article-images/2023/fcpx-vhs-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Key Features**
 
@@ -90,10 +91,7 @@ Apart from offline software and tools, there are many online solutions too to ap
 3. [Fastreel](#2.3)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Veed.io
@@ -102,18 +100,15 @@ Apart from offline software and tools, there are many online solutions too to ap
 
 ![veed.io vhs effects](https://images.wondershare.com/filmora/article-images/2023/veed-io-vhs-effects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Key Features**
 
 * This tool can convert your texts and transform your words into engaging videos. It uses the power of artificial intelligence to generate a video.
 * You can add a virtual green screen to your videos to add VFX and other effects. Using this green screen effect, you can take your edits to a whole new level.
 * Veed.io also offers many adjustments and enhancements options. You can change the background or even remove the background using this tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. CreatorKit
 
@@ -126,6 +121,10 @@ Apart from offline software and tools, there are many online solutions too to ap
 * This tool provides some basic features, including trimming and merging your video. You can trim multiple videos and merge them to create one long video.
 * Another unique feature of CreatorKit is that it makes your words live. This incredible tool can easily transform any written script into a professional-looking video.
 * CreatorKit provides many templates that you can use for content creation. Moreover, if you want to add your video's watermark, you can with this tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Fastreel
 
@@ -157,6 +156,10 @@ To initiate the process, open Wondershare Filmora on your computer. Look for the
 
 ![launch filmora and import](https://images.wondershare.com/filmora/article-images/2023/launch-filmora-and-import-video-for-apply-vhs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 2Apply VHS Photo Effect to Your Media
 
 Apply the **VHS photo filter** by finding the "Effects" option located in the top bar of the software. Next. in the tab, search for "VHS" to discover the different VHS effects available. Proceed next by selecting the effect you want to apply and dragging it onto your video in the timeline.
@@ -170,10 +173,7 @@ If you want to change the intensity of the applied effect, you can adjust its op
 ![change vhs parameters and export](https://images.wondershare.com/filmora/article-images/2023/change-vhs-parameters-and-export-on-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -219,10 +219,7 @@ If you're an Apple user seeking a powerful video editing tool, you can't go bett
 ![ fcpx vhs effects](https://images.wondershare.com/filmora/article-images/2023/fcpx-vhs-effects.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Key Features**
@@ -240,10 +237,7 @@ Apart from offline software and tools, there are many online solutions too to ap
 3. [Fastreel](#2.3)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Veed.io
@@ -306,13 +300,6 @@ Apply the **VHS photo filter** by finding the "Effects" option located in the to
 
 ![add vhs to video](https://images.wondershare.com/filmora/article-images/2023/add-vhs-to-video-on-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 3Change the Opacity of the Effect
 
 If you want to change the intensity of the applied effect, you can adjust its opacity. To do so, on the right side of the screen, you'll find the "Effects" tab. Further, modify the effect's "Opacity" by moving the slider. Finally, click "Export" at the top left of the screen to save your video with the applied effect.
@@ -320,10 +307,7 @@ If you want to change the intensity of the applied effect, you can adjust its op
 ![change vhs parameters and export](https://images.wondershare.com/filmora/article-images/2023/change-vhs-parameters-and-export-on-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -354,22 +338,18 @@ Content creation has opened many doors of creativity and artistic expression for
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-instant-time-stamping-techniques-for-youtube-videos/"><u>[New] Instant Time-Stamping Techniques for YouTube Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-journey-through-gaming-landscapes-with-kinemaster-and-discover-its-best-competitors/"><u>[New] Journey Through Gaming Landscapes with KineMaster & Discover Its Best Competitors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-photo-text-editing-made-simple-tools-and-techniques/"><u>[New] Photo Text Editing Made Simple Tools & Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-to-stunning-photomontages/"><u>[New] Step-by-Step to Stunning Photomontages</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-photo-editing-in-minutes-pixlr-quick-hacks/"><u>[Updated] Mastering Photo Editing in Minutes Pixlr Quick Hacks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-financial-overview-total-investment-for-music-clip-shootings/"><u>2024 Approved Financial Overview Total Investment for Music Clip Shootings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-quality-action-captured-by-the-ion-pro-3-camera/"><u>2024 Approved High-Quality Action Captured by the ION Pro 3 Camera</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-xiaomi-redmi-k70e-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Xiaomi Redmi K70E is off? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/conquering-initial-load-lock-ups-in-windows-10-operating-system-effective-techniques-to-restore-performance/"><u>Conquering Initial Load Lock-Ups in Windows 10 Operating System: Effective Techniques to Restore Performance</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-action-camera-showdown-who-wins-with-gopro-hero5-black-and-yis-4k-update/"><u>In 2024, Action Camera Showdown Who Wins with GoPro Hero5 Black & Yi's 4K Update</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-samsung-galaxy-m34-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Samsung Galaxy M34 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-no-downloads-needed-discover-our-list-of-5-best-online-gif-to-video-services/"><u>In 2024, No Downloads Needed? Discover Our List of 5 Best Online GIF-to-Video Services</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-steps-to-identify-your-dream-livestream-platform/"><u>In 2024, Steps to Identify Your Dream Livestream Platform</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-narzo-60-pro-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Realme Narzo 60 Pro 5G</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-how-to-convert-digital-videos-into-cartoons/"><u>New In 2024, How to Convert Digital Videos Into Cartoons?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/perfecting-the-audio-element-in-instagram-storytelling-for-2024/"><u>Perfecting the Audio Element in Instagram Storytelling for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/review-the-cost-effective-c302-laptop-chiller-by-topmate-a-worthy-investment/"><u>Review: The Cost-Effective C302 Laptop Chiller by TopMate, a Worthy Investment?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-ipad-screen-capture-techniques/"><u>[New] In 2024, Mastering iPad Screen Capture Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-ultimate-guide-to-professional-gopro-filming/"><u>[New] In 2024, The Ultimate Guide to Professional GoPro Filming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-features-of-voice-recognition-in-gdoc/"><u>[New] Navigating the Features of Voice Recognition in GDoc</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-innovative-mac-screen-capture-methods-and-software/"><u>[Updated] Innovative Mac Screen Capture Methods & Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-reel-in-the-future-top-5-ps-vr-games-on-the-brink-of-launch/"><u>[Updated] Reel in the Future Top 5 PS VR Games on The Brink of Launch</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-reliable-strategy-to-infuse-direct-urls-in-tiktok-bio/"><u>[Updated] Reliable Strategy to Infuse Direct URLs in TikTok Bio</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-stepwise-approach-to-adding-video-tracks-to-your-youtube-playlists/"><u>[Updated] Stepwise Approach to Adding Video Tracks to Your YouTube Playlists</u></a></li>
+<li><a href="https://solve-news.techidaily.com/decouvrez-les-techniques-pour-visualiser-des-dvds-sur-apple-devices-incluant-macbook-et-imac/"><u>Découvrez Les Techniques Pour Visualiser Des DVDs Sur Apple Devices Incluant MacBook Et iMac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-converter-transform-cr2-files-into-tiff-format-with-ease/"><u>Free Online Converter: Transform CR2 Files Into TIFF Format with Ease</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-6-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastery-in-migration-transitioning-to-macos-11-big-sur-effortlessly-for-2024/"><u>Mastery in Migration Transitioning to macOS 11 Big Sur Effortlessly for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/precision-editing-at-your-fingertips-canvas-boundary-eradication-for-2024/"><u>Precision Editing at Your Fingertips Canva's Boundary Eradication for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/showcase-spaces-perfect-live-stream-flair-for-2024/"><u>Showcase Spaces Perfect Live Stream Flair for 2024</u></a></li>
 </ul></div>
 

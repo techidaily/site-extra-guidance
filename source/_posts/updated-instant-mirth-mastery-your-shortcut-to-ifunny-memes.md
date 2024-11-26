@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Instant Mirth Mastery  Your Shortcut to iFunny Memes\""
-date: 2024-07-31T18:43:02.839Z
-updated: 2024-08-01T18:43:02.839Z
+date: 2024-11-21T20:41:26.492Z
+updated: 2024-11-25T20:01:37.053Z
 tags: 
   - screen-recording
   - ai video
@@ -32,10 +32,11 @@ The following is how to access and use iFunny online. For the purpose of this tu
 
 Step1 Open your browser on your computer and go to <https://ifunny.co/> to access the main website. On the main page, you should see the latest iFunny memes. Just scroll down to see all memes and click on the one you would like to download.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![ifunny meme online](https://images.wondershare.com/filmora/article-images/2022/07/ifunny-meme-online.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 If your goal is to upload your own meme so other users can access it, click on the “Add Meme” button on the left panel. You will however need to sign in to add a meme to the site. Enter your email and password to sign in. If you don’t have an account, click on “Sign Up” to create an account.
 
@@ -48,8 +49,13 @@ Step3 if your goal is to find and download a meme that you want to use, you can 
 ![create meme ifunny](https://images.wondershare.com/filmora/article-images/2022/07/create-meme-ifunny.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use iFunny on Mobile
 
 One of the best things about iFunny is that it is also available on mobile devices, you can just download the app from the Google Play Store to create and share memes on the go. Here’s a step-by-step guide to help you use iFunny on Android.
@@ -58,26 +64,15 @@ Step1 Go to the Google Play Store and use the search function to find iFunny for
 
 Step2 When the installation is complete, open the app and tap on the “Featured” button at the top.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![click featured ifunny](https://images.wondershare.com/filmora/article-images/2022/07/click-featured-ifunny.jpg)
 
 Step3 If your goal is to upload a meme to iFunny. Tap on the “Add meme” button at the bottom of the screen.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add meme ifunny app](https://images.wondershare.com/filmora/article-images/2022/07/add-meme-ifunny-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Select “memes” then tap “Meme pics” and then select the meme that you would like to use.
 
@@ -87,16 +82,14 @@ You can also do this with images from the Photos app or Gallery on your device. 
 
 Step5 If you would like to add a caption to the meme just to customize it further, tap on it and you will see the option to add a “Top Caption” and a “Bottom Caption.”
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![top caption ifunny](https://images.wondershare.com/filmora/article-images/2022/07/top-caption-ifunny.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Type in the caption and the caption and then use the slider that appears below the meme to adjust the size of the caption.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![caption slider ifunny app](https://images.wondershare.com/filmora/article-images/2022/07/caption-slider-ifunny-app.jpg)
 
 You can then just save the meme to your device. If you would like to post the memes on to the iFunny platform, just tap “Next” and you should see the option to add tags and keywords to make it easier for others to find the meme.
@@ -139,5 +132,24 @@ The “Explore” tab lists all the mems on the platform, neatly arranged in var
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-top-earning-youtube-star-globally/"><u>[New] 2024 Approved Top Earning YouTube Star Globally</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-humor-hierarchy-the-20-most-popular-memes-for-2024/"><u>[New] Humor Hierarchy The 20 Most Popular Memes for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-motion-with-polaroids-latest-xs-innovation/"><u>[New] Mastering Motion with Polaroid's Latest XS Innovation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-precision-visuals-mastering-close-ups-in-msteams/"><u>[New] Precision Visuals Mastering Close-Ups in MSTEAMS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-selecting-the-top-7-youtube-live-streaming-apps-for-iosandroid-users/"><u>[New] The Ultimate Guide Selecting the Top 7 YouTube Live Streaming Apps for iOS/Android Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-insiders-guide-overcome-iphone-video-dullness-using-4-adobe-solutions/"><u>[New][Insider's Guide] Overcome iPhone Video Dullness Using 4 Adobe Solutions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-download-fb-content-windows-and-mac-guide/"><u>[Updated] In 2024, Download FB Content Windows & Mac Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimal-transformation-tool-for-hd-videos/"><u>[Updated] Optimal Transformation Tool for HD Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-videoleap-zoom-hacks-for-detailed-video-insight-for-2024/"><u>[Updated] Videoleap Zoom Hacks for Detailed Video Insight for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-professional-level-action-recording-on-a-students-budget/"><u>2024 Approved Professional-Level Action Recording on a Student's Budget</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-speaking-to-tomorrow-iphone-voice-memo/"><u>2024 Approved Speaking to Tomorrow - iPhone Voice Memo</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cant-view-mkv-movies-content-on-redmi-a2plus-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Redmi A2+</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-tecno-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Tecno</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/find-the-greatest-free-video-viewing-apps-on-windows-11-top-picks-leaderboard/"><u>Find the Greatest FREE Video Viewing Apps on Windows 11 - Top Picks [Leaderboard]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-luminous-designs-examination-pinnacle-studio-audit/"><u>In 2024, Luminous Designs Examination Pinnacle Studio Audit</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reimagining-your-message-innovative-video-concepts/"><u>In 2024, Reimagining Your Message Innovative Video Concepts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-uninterrupted-entertainment-fix-netflix-glitches-in-just-19-steps-on-lg-tvs/"><u>Unlock Uninterrupted Entertainment: Fix Netflix Glitches in Just 19 Steps on LG TVs</u></a></li>
+</ul></div>
 

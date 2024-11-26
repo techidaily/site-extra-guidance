@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shoot Higher  Your Mobile for Vertical Panoramas\""
-date: 2024-10-30T06:41:33.191Z
-updated: 2024-11-06T00:33:01.553Z
+date: 2024-11-21T22:25:21.449Z
+updated: 2024-11-25T20:08:43.392Z
 tags: 
   - screen-recording
   - ai video
@@ -34,22 +34,17 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to take vertical panorama photography with your respective Smartphone
 
 * [Part 1: For iPhone Users](#part1)
 * [Part 2: For Android Users](#part2)
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For iPhone users
@@ -61,17 +56,14 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * Begin to go along with the upward arrow on the screen to capture the desired vertorama.
 * Once finished and satisfied, just tap on "Done" option.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### For Android users
 
@@ -83,10 +75,7 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image source: mac-fusion
@@ -105,10 +94,7 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -126,19 +112,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-professional-4k-at-your-fingertips-benq-bl2711u-uncovered/"><u>[New] 2024 Approved Professional 4K at Your Fingertips BenQ BL2711U Uncovered</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-crafting-coolest-mini-houses-in-mc-world/"><u>[New] Crafting Coolest Mini-Houses in MC World</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-revolutionized-action-recording-with-tomtoms-newest-bandit/"><u>[Updated] Revolutionized Action Recording with TomTom's Newest Bandit</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-insightful-evaluation-of-the-latest-lg-360-cam-model/"><u>2024 Approved Insightful Evaluation of the Latest LG 360 Cam Model</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-fisheye-camera-capabilities/"><u>2024 Approved The Ultimate Guide to Fisheye Camera Capabilities</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/efficiently-creating-full-disk-images-guidance-for-windows-server-2011-users/"><u>Efficiently Creating Full Disk Images: Guidance for Windows Server 2011 Users</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 12? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-microsofts-hololens-demo-the-next-leap-in-tech-experience/"><u>In 2024, Microsoft’s HoloLens Demo The Next Leap in Tech Experience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-ps5-gaming-setup-top-5-display-recommendations/"><u>In 2024, PS5 Gaming Setup Top 5 Display Recommendations</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oppo-find-n3-flip-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Oppo Find N3 Flip FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-honor-90-gt-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Honor 90 GT for Streaming | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/snap-to-success-top-pixlr-editing-methods-unveiled-for-2024/"><u>Snap to Success Top Pixlr Editing Methods Unveiled for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-override-windows-antivirusfirewall-blocking-chrome/"><u>Steps to Override Windows Antivirus/Firewall Blocking Chrome</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-free-thumbnail-extract-from-youtube-videos-today/"><u>[New] 2024 Approved Free Thumbnail Extract From YouTube Videos Today!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-8-sbt-to-srtr-conversion-tools-pcmac-compatibility/"><u>[New] Best 8 SBT to SRTR Conversion Tools - PC/Mac Compatibility</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-get-your-video-dimensions-spot-on-for-instagram-sharing/"><u>[Updated] In 2024, Get Your Video Dimensions Spot-On for Instagram Sharing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-instantaneous-srt-to-txt-change-a-step-by-step-process/"><u>[Updated] Instantaneous SRT to TXT Change A Step-by-Step Process</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-tiktok-audio-transform-into-phone-ringtones/"><u>[Updated] Mastering TikTok Audio Transform Into Phone Ringtones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-reliable-steps-toward-attaining-safe-and-ethical-one-million-follower-status/"><u>[Updated] Reliable Steps Toward Attaining Safe and Ethical One-Million Follower Status</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-ringers-paradise-top-downloads-for-skype-sounds/"><u>[Updated] Ringer's Paradise Top Downloads for Skype Sounds</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-yuneec-typhoon-q500-4k-review/"><u>[Updated] Yuneec Typhoon Q500 4K Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-masterful-color-transformations-with-free-and-paid-luts-for-cameras/"><u>2024 Approved Masterful Color Transformations with Free & Paid LUTs for Cameras</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revival-artisan-selection/"><u>2024 Approved Revival Artisan Selection</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/3-ways-to-track-apple-iphone-6-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>3 Ways to Track Apple iPhone 6 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-troubleshooting-non-functional-voice-communication-in-league-of-legends/"><u>Fixing Issues: Troubleshooting Non-Functional Voice Communication in League of Legends</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovating-artificial-minds-how-apples-recent-ai-breakthroughs-are-shaping-the-future-of-technology-nextgentech-news/"><u>Innovating Artificial Minds: How Apple's Recent AI Breakthroughs Are Shaping the Future of Technology | NextGenTech News</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-launch-errors-in-armored-core-vi-expert-strategies-to-get-fires-of-rubicon-running-smoothly/"><u>Overcoming Launch Errors in Armored Core VI: Expert Strategies to Get Fires of Rubicon Running Smoothly</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-honor-magic-v2-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor Magic V2? 7 Ways to Resolve | Dr.fone</u></a></li>
 </ul></div>
 

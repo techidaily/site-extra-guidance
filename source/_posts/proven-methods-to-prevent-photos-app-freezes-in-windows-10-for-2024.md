@@ -1,7 +1,7 @@
 ---
 title: "Proven Methods to Prevent Photos App Freezes in Windows 10 for 2024"
-date: 2024-11-12T17:28:37.947Z
-updated: 2024-11-16T17:08:46.307Z
+date: 2024-11-20T02:07:05.502Z
+updated: 2024-11-26T04:20:57.218Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,10 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 ## How to fix Windows 10 Photos app crashes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Use the Troubleshooter
 
 The Windows Troubleshooter is an inbuilt troubleshooting feature embedded with Windows 10 computers. It allows a simple interface to help you choose any application for troubleshooting. Windows Troubleshooter resolves basic issues with the Windows computer so that users can seamlessly use all Windows 10 system features and functionalities.
@@ -57,10 +61,7 @@ Here is how to troubleshoot –
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
@@ -74,14 +75,11 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 3: Reset it
 
@@ -105,16 +103,7 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 4. Now, the Windows 10 Photos App won’t crash.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
@@ -137,10 +126,7 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -158,24 +144,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-should-itop-screen-recorder-be-a-staple-in-your-kit/"><u>[New] In 2024, Should ITop Screen Recorder Be a Staple in Your Kit?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-multimedia-artists-cyber-meeting-room/"><u>[New] Multimedia Artists' Cyber Meeting Room</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-navigating-the-maze-of-fs-mode-in-ppro-for-2024/"><u>[New] Navigating the Maze of FS Mode in PPro for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-top-tier-cinematic-peeks-album/"><u>[New] Top-Tier Cinematic Peeks Album</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-inside-look-making-most-of-firefox-picture-in-picture/"><u>[Updated] Inside Look Making Most of Firefox Picture-in-Picture</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-optimize-and-streamline-your-podcast-entry/"><u>[Updated] Optimize and Streamline Your Podcast Entry</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-inshots-ultimate-tune-up-import-music-essentials/"><u>2024 Approved InShot's Ultimate Tune Up Import Music Essentials</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-strikes-youtube-edition/"><u>Avoiding Strikes YouTube Edition</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-face-id-failures-here-are-the-ultimate-14-strategies-for-iphone-users/"><u>Experiencing Face ID Failures? Here Are the Ultimate 14 Strategies for iPhone Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-s18-pro-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo S18 Pro Phone without Google Account?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/inside-the-innovative-world-of-intova-x-for-2024/"><u>Inside the Innovative World of Intova X for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/is-an-m1-enabled-laptop-a-worthwhile-investment-for-editors-in-2024/"><u>Is an M1-Enabled Laptop a Worthwhile Investment for Editors, In 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/joyful-account-access-instructions-for-2024/"><u>Joyful Account Access Instructions for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leading-offline-audio-to-text-applications-for-2024/"><u>Leading Offline Audio-To-Text Applications for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/long-lasting-entertainment-a-comprehensive-panic-playdate-assessment-after-two-years/"><u>Long-Lasting Entertainment: A Comprehensive Panic Playdate Assessment After Two Years</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-free-video-cutting-tools-for-mp4-expert-approved-options-for-2024/"><u>New Free Video Cutting Tools for MP4 Expert-Approved Options for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/revolutionizing-flight-indispensable-drone-extras-unveiled-for-2024/"><u>Revolutionizing Flight Indispensable Drone Extras Unveiled for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-technique-for-finding-vanished-phone-contacts-on-android-devices/"><u>The Ultimate Technique for Finding Vanished Phone Contacts on Android Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-solutions-setting-up-a-smooth-connection-between-pc-and-bluetooth-audio-equipment/"><u>Troubleshooting & Solutions: Setting Up a Smooth Connection Between PC and Bluetooth Audio Equipment</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-closer-examination-of-googles-ar-stickers-and-competitors/"><u>[New] A Closer Examination of Google's AR Stickers and Competitors</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-forward-thinking-ios-for-ps2-emulation-for-2024/"><u>[New] Forward-Thinking iOS for PS2 Emulation for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-standout-instagram-unboxings-a-comprehensive-checklist/"><u>[New] Standout Instagram Unboxings A Comprehensive Checklist</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-backdrop-be-gone-guide-for-images/"><u>[New] Step-by-Step Backdrop Be Gone Guide for Images</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-create-edges-of-images-with-rotational-softness-blend-psx/"><u>[Updated] In 2024, Create Edges of Images with Rotational Softness Blend PSX</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-jake-pauls-youtube-odyssey-a-tale-of-growth/"><u>[Updated] Jake Paul's YouTube Odyssey A Tale of Growth</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-learn-to-turn-your-photos-into-their-opposites/"><u>[Updated] Learn to Turn Your Photos Into Their Opposites</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-audible-content-conversion-into-slide-ready-format-with-powerpoint/"><u>[Updated] Mastering Audible Content Conversion Into Slide-Ready Format with PowerPoint</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-megasecond-analysis-understanding-20mb-video-time/"><u>[Updated] MegaSecond Analysis Understanding 20Mb Video Time</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-the-pause-how-to-craft-exceptional-slow-motion-videos/"><u>[Updated] Perfecting the Pause How to Craft Exceptional Slow Motion Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-through-the-terrain-of-mixed-reality/"><u>[Updated] Pioneering Through the Terrain of Mixed Reality</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-speedy-video-processing-for-youtube-tricks-to-render-and-upload-fast/"><u>[Updated] Speedy Video Processing for YouTube Tricks to Render & Upload Fast</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-impact-partnering-with-influencers-on-youtube/"><u>2024 Approved Maximizing Impact Partnering with Influencers on YouTube</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-honor-x50-gt-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Honor X50 GT FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hand-tracking-insights-detailed-exploration-for-2024/"><u>Hand Tracking Insights Detailed Exploration for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-apples-game-mode-transforms-gaming-on-sonoma-os/"><u>How Apple’s Game Mode Transforms Gaming on Sonoma OS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-pro-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 Pro To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/srt-file-handling-simplified-on-pcmac-for-2024/"><u>SRT File Handling Simplified on PC/Mac for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlimited-conversion-techniques-from-h265-to-h264-video-formats/"><u>Unlimited Conversion Techniques From H.265 To H.264 Video Formats</u></a></li>
 </ul></div>
 

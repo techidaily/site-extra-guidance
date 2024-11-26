@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering the Integration of B-Roll Footage\""
-date: 2024-10-25T19:11:07.429Z
-updated: 2024-10-31T18:22:19.065Z
+date: 2024-11-21T23:07:46.844Z
+updated: 2024-11-25T16:01:44.878Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ B roll is a phrase used to describe supplemental video, which is frequently used
 
 Now that we know that, let's dive in!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -32,6 +36,10 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -41,31 +49,23 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Visual detail b roll footage
@@ -76,23 +76,9 @@ Including archival material in your video allows your audience to experience a p
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Atmospheric b roll footage
 
@@ -144,22 +130,20 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-detailed-dissection-what-makes-obs-a-top-recorder/"><u>[New] 2024 Approved Detailed Dissection What Makes OBS a Top Recorder?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-jest-sculptor-undead-funnybots/"><u>[New] Jest Sculptor Undead Funnybots</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-sky-high-insights-comprehensive-phantom-4-breakdown/"><u>[New] Sky-High Insights Comprehensive Phantom 4 Breakdown</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-capturing-your-desktop-in-winoses-effortlessly-for-2024/"><u>[Updated] Capturing Your Desktop in WinOSes Effortlessly for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-ringtone-recommendations-for-your-chromium-phone/"><u>2024 Approved Ringtone Recommendations for Your Chromium Phone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-youtube-playlist-turnaround-a-simple-4-step-plan/"><u>2024 Approved YouTube Playlist Turnaround A Simple 4-Step Plan</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-iphone-se-2022-activation-lock-by-drfone-ios/"><u>How to Remove iPhone SE (2022) Activation Lock</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-7-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 7 to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m54-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M54 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-polaroid-cubeplus-review-live-action-in-a-new-light/"><u>In 2024, Polaroid Cube+ Review Live-Action in a New Light</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-episodes-your-guide-to-gpodc-mastery/"><u>In 2024, Prime Episodes Your Guide to GPodC Mastery</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-windows-10-essential-knowledge-for-2024/"><u>Mastering Windows 10 Essential Knowledge for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mellow-music-volume-control-for-mac-and-windows-for-2024/"><u>Mellow Music Volume Control for Mac & Windows for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premium-water-filters-for-underwater-video-for-2024/"><u>Premium Water Filters For Underwater Video for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-creating-compelling-content-using-windows-movie-maker-in-windows-8-os/"><u>[New] Creating Compelling Content Using Windows Movie Maker in Windows 8 OS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-lone-audio-device-repair-manual/"><u>[New] Lone Audio Device Repair Manual</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-logo-design-10-keys-to-podcast-prominence/"><u>[New] Mastering Logo Design 10 Keys to Podcast Prominence</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-frosty-frontiers-winter-games-apex-moments/"><u>2024 Approved Frosty Frontiers Winter Games Apex Moments</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-jumpstart-gaming-fun-xbox-one-and-zoom-integration/"><u>2024 Approved Jumpstart Gaming Fun Xbox One and Zoom Integration</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-8-digital-image-composition-tool/"><u>2024 Approved Leading 8 Digital Image Composition Tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-s17t-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo S17t Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/future-forward-entertainment-unveiling-the-lg-bp550-update/"><u>Future-Forward Entertainment Unveiling the LG BP550 Update</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-tecno-spark-go-2024-by-drfone-android/"><u>How to Bypass FRP on Tecno Spark Go (2024)?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-into-the-future-metavisors-for-the-ultimate-experience/"><u>In 2024, Step Into the Future Metavisors for the Ultimate Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/public-assessment-of-vllo-functionality-for-2024/"><u>Public Assessment of VLLO Functionality for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/resonant-revelry-auditory-additions-to-whatsapp-statues-for-2024/"><u>Resonant Revelry Auditory Additions to WhatsApp Statues for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spectacular-20-anime-openers-hits-for-2024/"><u>Spectacular 20 Anime Openers' Hits for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-science-of-writing-gripping-documentaries/"><u>The Science of Writing Gripping Documentaries</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-graphics-driver-crashes-in-valorant-effective-steps-for-gamers/"><u>Troubleshoot 'Graphics Driver Crashes' In Valorant: Effective Steps for Gamers</u></a></li>
 </ul></div>
 

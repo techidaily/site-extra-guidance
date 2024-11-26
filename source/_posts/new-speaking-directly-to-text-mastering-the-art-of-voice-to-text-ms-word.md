@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Speaking Directly to Text  Mastering the Art of Voice-to-Text (MS Word)\""
-date: 2024-11-02T05:08:13.752Z
-updated: 2024-11-06T10:14:23.949Z
+date: 2024-11-24T19:03:13.891Z
+updated: 2024-11-25T19:27:09.723Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ Here's how to use Microsoft Word's speech-to-text feature:
 
 * [FAQs](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Use Speech to Text in Microsoft Word?
 
 Before you can use Speech to Text in Microsoft Word, the first thing you need is a valid Microsoft 365 subscription. Without a Microsoft 365 subscription, Microsoft won't allow you to use voice typing. However, if you're working for a company, it's likely that your company already has a Microsoft 365 enterprise subscription. If you're a student or your company doesn't offer it, the subscription plans are pretty affordable. For example, Microsoft 365 Personal and Microsoft 365 Family plans cost $6.99/month and $9.99/month, respectively.
@@ -43,6 +47,10 @@ Now let's start typing:
 Create a new, empty document in Microsoft Word on your device. Name your document and save it on the desktop or wherever you like it.
 
 ![open microsoft word](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step2Click on the Dictate button
 
@@ -59,6 +67,10 @@ If you've never used Microsoft Word's speech-to-text engine on Windows PC before
 ![allow microsoft word access to the microphone](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-3.jpg)
 
 ![use speech to text](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Follow these steps to activate the microphone in Mac.
 
@@ -78,11 +90,19 @@ Microsoft Word's text-to-speech technology does more than simply transcribing yo
 
 ![using punctuation commands](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 We can't go through all of the punctuation instructions here, but we'll mention a few of the most important. For example, the command "period" inserts a period, and "comma" creates a comma, as you may guess. The same rules apply to exclamation marks and colons. In addition, you may use the command "new line" to create a new line, "new paragraph" to start a new paragraph, and "tab" to create a tab space.
 
 If you want to insert symbols, the commands are a bit different. For example, saying "open parenthesis" will automatically insert an opening parenthesis, but you'll need to say "close parenthesis" to get a closing parenthesis. The same goes for brackets, braces, and quotation marks.
 
 Microsoft's speech-to-text program is excellent. We can honestly state that Microsoft has the most refined product when it comes to cost vs performance because the software is integrated directly into Microsoft 365, which many businesses already use. So if your company uses Microsoft 365, you may start utilizing the voice typing technology right now with no additional expenses.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Alternatives to Microsoft Word STT
 
@@ -107,10 +127,7 @@ What's more, now Filmora's STT feature supports direct transcription of bilingua
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Evernote Speech-To-Text
@@ -136,14 +153,11 @@ Once you're done, click the Stop button, and your transcription will be automati
 
 ![create a new document](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-8.jpg)
 
-![click the tools menu](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-9.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![click the tools menu](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-9.jpg)
 
 ![select the voice typing option](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-10.jpg)
 
@@ -154,19 +168,6 @@ Microsoft Word's speech-to-text feature is an excellent tool for quickly transcr
 ### Can MS Word write what I speak?
 
 Yes, MS Word can write what you speak. With speech recognition software, MS Word can interpret your words and turn them into text. This is a great feature for those who have difficulty typing or want to dictate their thoughts without typing them out. However, there are a few things to keep in mind when using this feature, such as speaking clearly and at a moderate pace.
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Why does my speech-to-text not work?
 
@@ -202,18 +203,15 @@ Create a new, empty document in Microsoft Word on your device. Name your documen
 
 ![open microsoft word](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2Click on the Dictate button
 
 When you first open a new document, go to the top right corner of the Home menu includes a Dictate button and a drop-down menu. It has a microphone symbol above it. Double-check that the language is set to English using the drop-down menu. Choose English or any of the supported languages.
 
 ![click on the dictate button](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Microsoft Word Speech to Text tool supports many languages as well languages that have multiple variants, such as English and French. In addition, you can type on Microsoft Word in Chinese (Simplified), Chinese (Taiwanese), English, French (France, Canada), German, Hindi, Italian, Korean, Polish, Portuguese (Brazil, Portugal), Russian, Spanish (Mexico, Spain), Thai, and more.
 
@@ -224,13 +222,6 @@ If you've never used Microsoft Word's speech-to-text engine on Windows PC before
 ![allow microsoft word access to the microphone](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-3.jpg)
 
 ![use speech to text](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Follow these steps to activate the microphone in Mac.
 
@@ -250,6 +241,10 @@ Microsoft Word's text-to-speech technology does more than simply transcribing yo
 
 ![using punctuation commands](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 We can't go through all of the punctuation instructions here, but we'll mention a few of the most important. For example, the command "period" inserts a period, and "comma" creates a comma, as you may guess. The same rules apply to exclamation marks and colons. In addition, you may use the command "new line" to create a new line, "new paragraph" to start a new paragraph, and "tab" to create a tab space.
 
 If you want to insert symbols, the commands are a bit different. For example, saying "open parenthesis" will automatically insert an opening parenthesis, but you'll need to say "close parenthesis" to get a closing parenthesis. The same goes for brackets, braces, and quotation marks.
@@ -257,28 +252,12 @@ If you want to insert symbols, the commands are a bit different. For example, sa
 Microsoft's speech-to-text program is excellent. We can honestly state that Microsoft has the most refined product when it comes to cost vs performance because the software is integrated directly into Microsoft 365, which many businesses already use. So if your company uses Microsoft 365, you may start utilizing the voice typing technology right now with no additional expenses.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Alternatives to Microsoft Word STT
 
 There are some great alternative options to Microsoft Word's speech-to-text feature. Here are a few of our favorites:
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Top Recommendation: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -322,13 +301,6 @@ Once you're done, click the Stop button, and your transcription will be automati
 ![create a new document](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-8.jpg)
 
 ![click the tools menu](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![select the voice typing option](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-in-microsoft-word-10.jpg)
 
@@ -384,14 +356,17 @@ Microsoft Word's speech-to-text feature is not perfect, but it can be a huge tim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-asmr-recommendations-for-android-users-for-2024/"><u>[New] ASMR Recommendations for Android Users for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-voice-effects-explore-free-flexible-audio-transformations/"><u>[New] Mastering Voice Effects Explore Free, Flexible Audio Transformations</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-quick-clicks-big-smiles-crafting-memes-easily/"><u>[New] Quick Clicks, Big Smiles Crafting Memes Easily</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-quick-file-formatting-magic-turning-srt-into-txt-in-minutes/"><u>[New] Quick File Formatting Magic Turning SRT Into TXT in Minutes</u></a></li>
-<li><a href="https://games-able.techidaily.com/4-essential-steps-for-amplifying-xbox-point-advantages/"><u>4 Essential Steps for Amplifying Xbox Point Advantages</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-google-chromes-in-game-loading-problem/"><u>Fixing Google Chrome's In-Game Loading Problem</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-spotlight-on-top-video-making-talents/"><u>In 2024, Spotlight on Top Video Making Talents</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-massive-video-transfers-iphone-mac-edition/"><u>In 2024, Streamlining Massive Video Transfers IPhone-Mac Edition</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-change-drivers-on-windows-7/"><u>Quick-Change Drivers on Windows 7</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-precision-photography-dampening-disarray/"><u>[New] Precision Photography Dampening Disarray</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-maximize-your-youtube-srt-a-three-pronged-plan/"><u>[Updated] 2024 Approved Maximize Your Youtube SRT A Three-Pronged Plan</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-capturing-clear-and-clean-vocal-audio-for-your-videos-for-2024/"><u>[Updated] Capturing Clear and Clean Vocal Audio for Your Videos for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-harnessing-your-phone-for-virtual-world-explorations/"><u>[Updated] Harnessing Your Phone for Virtual World Explorations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-save-the-day-linkinscapes-6-best-apps-for-video-downloading/"><u>[Updated] Save the Day Linkinscape's 6 Best Apps for Video Downloading</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-backward-play-a-comprehensive-walkthrough/"><u>2024 Approved Instagram Backward Play A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-ad-dollars-boost-your-view-count-for-free/"><u>Avoid Ad Dollars – Boost Your View Count for Free</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-nvidia-rtx-3090-drivers-compatible-with-windows-11-8-and-s/"><u>Latest NVIDIA RTX 3090 Drivers - Compatible With Windows 11, 8 & S</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-nfts-a-novices-quick-start-strategy-for-2024/"><u>Mastering NFTs A Novice's Quick-Start Strategy for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-cut-trim-and-polish-the-best-free-online-video-editors-for-2024/"><u>New Cut, Trim, and Polish The Best Free Online Video Editors for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pioneering-pixels-a-detailed-analysis-of-8k-tvs-for-2024/"><u>Pioneering Pixels A Detailed Analysis of 8K TVs for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Motorola Moto G13 | Dr.fone</u></a></li>
 </ul></div>
 

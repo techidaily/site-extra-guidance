@@ -1,7 +1,7 @@
 ---
 title: "Diagnose and Fix Audio Glitches: Making Apple AirPods Work with Mic on Windows 11 Again"
-date: 2024-11-19T23:46:33.071Z
-updated: 2024-11-26T01:37:08.477Z
+date: 2024-12-02T20:48:01.075Z
+updated: 2024-12-05T20:05:04.664Z
 tags:
   - win11
   - win10
@@ -38,14 +38,18 @@ Before you start, make sure your headset is working properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound1.jpg)
 3. Scroll down to find**Enhance audio** . Turn Enhance audio on and then back off.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound2.jpg)
 4. Check your PC sound, it should be back to normal.
 
-If this trick doesn’t work for you, please move to the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If this trick doesn’t work for you, please move to the next fix.
 
 ## Fix 2: Update your audio driver
 
@@ -58,26 +62,18 @@ If this trick doesn’t work for you, please move to the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If this fix doesn’t help, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Realtek driver issue
 
@@ -91,7 +87,7 @@ If this fix doesn’t help, move to the next fix.
 3. Click**Browse my computer for drivers** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound5.jpg)
@@ -99,10 +95,6 @@ If this fix doesn’t help, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound6.jpg)
 5. Check**Show compatible hardware** . Then click**High Definition Audio Device** \>**Next** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound7.jpg)
 6. Click**Yes** in the pop-up window.  
@@ -112,6 +104,10 @@ If this fix doesn’t help, move to the next fix.
 
 8. Check the sound on your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Update your Windows system
 
  Windows 11 will release new updates to fix some issues, so check for updates and it might cure the Windows 11 no sound issue. You can do it manually by following the steps below.
@@ -120,10 +116,6 @@ If this fix doesn’t help, move to the next fix.
 2. Click**Windows Update** \>**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound9.jpg)
 3. Windows will check the latest available updates for you. If you have available updates, Windows 11 will download and install them automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. After the whole process, restart your PC and check the effect.
 
@@ -139,8 +131,16 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -164,24 +164,15 @@ If this fix doesn’t help, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-m1-pro-to-m1-max-understanding-the-differences-in-apple-computing/"><u>[New] M1 Pro to M1 Max Understanding the Differences in Apple Computing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-next-gen-clarity-in-depth-review-of-best-8k-monitors/"><u>[New] Next-Gen Clarity In-Depth Review of Best 8K Monitors</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-open-source-templates-galore-boosting-your-biz-presentations-for-2024/"><u>[New] Open Source Templates Galore Boosting Your Biz Presentations for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-smilesketcher-generate-memes-with-a-click/"><u>[New] SmileSketcher Generate Memes with a Click</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-mitigating-virtual-reality-nausea/"><u>[Updated] 2024 Approved Mitigating Virtual Reality Nausea</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieve-youtube-profitability-the-milestone-of-500plus-subscribers-unlocked/"><u>[Updated] In 2024, Achieve Youtube Profitability The Milestone of 500+ Subscribers Unlocked</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-camera-hunt-essential-choices-for-new-enthusiasts/"><u>[Updated] In 2024, Camera Hunt Essential Choices for New Enthusiasts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-joining-forces-in-video-marketing-on-youtube/"><u>[Updated] Joining Forces in Video Marketing on YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-perfect-portraits-changing-picture-sizes-on-ios/"><u>[Updated] Perfect Portraits Changing Picture Sizes on iOS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplicity-in-story-construction/"><u>2024 Approved Simplicity in Story Construction</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-easily-set-up-your-anker-mouse-with-its-drivers/"><u>How to Easily Set Up Your Anker Mouse with Its Drivers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-realme-11x-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Realme 11X 5G Devices</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-picture-perfection-on-the-move-easy-lut-adjustment/"><u>In 2024, Picture Perfection on the Move Easy LUT Adjustment</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-supercharge-your-social-media-scrapping-the-best-5-chrome-plugins/"><u>In 2024, Supercharge Your Social Media Scrapping The Best 5 Chrome Plugins</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leveraging-zoom-for-optimal-productivity-in-win11-environments-for-2024/"><u>Leveraging Zoom for Optimal Productivity in Win11 Environments for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-electronics-with-tom-comprehensive-product-analysis/"><u>Navigating the World of Electronics with Tom - Comprehensive Product Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/optimize-your-game-update-gtx-1660-ti-graphics-driver-for-enhanced-play/"><u>Optimize Your Game: Update GTX 1660 Ti Graphics Driver for Enhanced Play</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-ssltls-issues-with-secure-connections-on-firefox/"><u>Overcoming SSL/TLS Issues with Secure Connections on Firefox</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/stay-steady-in-virtual-reality-with-htcs-tips-for-2024/"><u>Stay Steady in Virtual Reality with HTC's Tips for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-transforming-iphone-photos-upside-down-and-sideways-tricks/"><u>[New] In 2024, Transforming iPhone Photos Upside-Down & Sideways Tricks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-maximize-your-laptops-dvd-potential-easily-for-2024/"><u>[New] Maximize Your Laptop's DVD Potential Easily for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-ios-photo-and-video-shows-from-ix-to-ios12/"><u>[Updated] Premium iOS Photo & Video Shows From IX to IOS12</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionary-iphone-techniques-for-photo-collage-connoisseurs/"><u>[Updated] Revolutionary iPhone Techniques for Photo Collage Connoisseurs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-for-xml-and-ttml-conversion-to-streamlined-srts/"><u>[Updated] Step-by-Step for XML & TTML Conversion to Streamlined SRTs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct3d-init-no-more-hurdles/"><u>Direct3D Init: No More Hurdles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/foremost-companies-pioneering-vr-technology/"><u>Foremost Companies Pioneering VR Technology</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfect-drone-companions-for-skilled-pilots-top-5-for-2024/"><u>Perfect Drone Companions for Skilled Pilots (Top 5) for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-mobile-interaction-apple-introduces-eye-controlled-commands-for-iphone-and-ipad-insights/"><u>Revolutionizing Mobile Interaction: Apple Introduces Eye-Controlled Commands for iPhone and iPad - Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-realme-gt-5-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Realme GT 5 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
 </ul></div>
 

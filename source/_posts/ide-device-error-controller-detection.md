@@ -1,7 +1,7 @@
 ---
 title: "Ide Device Error: Controller Detection"
-date: 2024-11-19T03:01:48.044Z
-updated: 2024-11-25T20:43:47.108Z
+date: 2024-12-01T23:01:21.422Z
+updated: 2024-12-05T17:17:35.887Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 2. [**Update your drivers**](https://appsumo.8odi.net/gmezyk)
 3. [**Update your BIOS**](https://tidio.pxf.io/9grog5)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Unplug and replug your hard disk cable
 
  Make sure your hard disk cable is properly connected to your motherboard. Try unplugging and then re-plugging your hard disk cable and see if it solves your “The driver detected a controller error on \\Device\\Ide\\Ideport0” problem.
@@ -37,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 3. Start your computer and see if the error is fixed. If not, try Fix 2, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your drivers
@@ -60,7 +64,7 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b920e62afcac.jpg)
@@ -75,34 +79,30 @@ OR
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type your system’s manufacturer name, your system’s model name and “BIOS” in the Google search box, then select the matching result to go to the manufacturer’s official website and download BIOS update.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.**Note:** If you find there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
 7. Click the**Start** button > **power icon** \>**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
  If you’re using**HP** , press**F10** or**F1** ;  
@@ -136,20 +136,21 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-navigating-sales-for-inexpensive-gopros-for-2024/"><u>[New] Navigating Sales for Inexpensive GoPros for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-polar-pinnacles-beijing-2022-olympic-spotlight/"><u>[New] Polar Pinnacles Beijing 2022 Olympic Spotlight</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-elevate-your-pc-best-8-video-capture-tools-for-windows-10/"><u>[Updated] Elevate Your PC Best 8 Video Capture Tools for Windows 10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-paving-the-way-to-success-with-innovative-medical-ads/"><u>[Updated] Paving the Way to Success with Innovative Medical Ads</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-unveiling-top-8-premium-free-srt-translation-solutions-for-2024/"><u>[Updated] Unveiling Top 8 Premium Free SRT Translation Solutions for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/apowersoft-examined-a-full-review-of-its-capabilities-for-2024/"><u>Apowersoft Examined A Full Review of Its Capabilities for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/1715701167207-capture-your-screen-on-chromebook-methods-4-you/"><u>Capture Your Screen on Chromebook Methods 4 You!</u></a></li>
-<li><a href="https://win-guides.techidaily.com/come-ripristinare-i-dati-del-tuo-memory-stick-kingston-tutorial-facile-ed-esperto-di-risoluzione-dei-problemi/"><u>Come Ripristinare I Dati Del Tuo Memory Stick Kingston: Tutorial Facile Ed Esperto Di Risoluzione Dei Problemi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-transfer-windows-images-between-computers-a-guide-for-windows-11-10-8-and-7/"><u>How to Transfer Windows Images Between Computers: A Guide for Windows 11, 10, 8 and 7</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-inshot-alternatives-for-laptop-editors/"><u>In 2024, Inshot Alternatives for Laptop Editors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-photo-editing-achieving-focus-with-distortions/"><u>In 2024, Photo Editing Achieving Focus with Distortions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-7-cameras-unbeatable-in-underwater-shooting/"><u>In 2024, Prime 7 Cameras Unbeatable In Underwater Shooting</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premier-guidance-leading-ringtone-artisans-iphone-for-2024/"><u>Premier Guidance Leading Ringtone Artisans iPhone for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-online-galleries-of-premium-vectors-for-2024/"><u>Premier Online Galleries of Premium Vectors for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-the-perfect-snap-on-pexels/"><u>[New] Capturing the Perfect Snap on Pexels</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-unseen-viewers-route-navigating-instagram-stories-with-anonymous-viewing-for-2024/"><u>[New] The Unseen Viewer's Route Navigating Instagram Stories with Anonymous Viewing for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-dynamic-endings-creating-smooth-video-transitions/"><u>[Updated] 2024 Approved Dynamic Endings Creating Smooth Video Transitions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-selective-edits-blurring-images-in-ps/"><u>[Updated] Mastering Selective Edits Blurring Images in PS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastery-of-podcast-rss-feeds-a-step-by-step-tutorial/"><u>[Updated] Mastery of Podcast RSS Feeds A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-memo-menagerie-the-ultimate-list-of-meme-generators/"><u>[Updated] Memo Menagerie The Ultimate List of Meme Generators</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-straightforward-stories-essence/"><u>[Updated] Straightforward Stories' Essence</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-nighttime-storyscapes-in-moving-pictures/"><u>2024 Approved Nighttime Storyscapes in Moving Pictures</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/eliminating-bsod-errors-caused-by-inadequate-memory-management-in-windows-10-and-11/"><u>Eliminating BSOD Errors Caused by Inadequate Memory Management in Windows 10 & 11</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-g2-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo G2 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/futuristic-feature-unveiling-mac-via-applewatch-for-2024/"><u>Futuristic Feature Unveiling Mac via AppleWatch for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-quickly-and-easily-convert-your-swf-animations-to-mov-without-costs/"><u>How to Quickly and Easily Convert Your SWF Animations to MOV Without Costs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-journey-to-the-best-online-shopping-spots-for-enigmatic-boxes/"><u>In 2024, Journey to the Best Online Shopping Spots for Enigmatic Boxes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-webcam-setup-for-quick-recordings-on-chromebooks/"><u>In 2024, Webcam Setup for Quick Recordings on Chromebooks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/precision-narrative-craftsmanship-how-to-write-impressive-docu-scripts-for-2024/"><u>Precision Narrative Craftsmanship How to Write Impressive Docu-Scripts for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Realme C67 5G | Dr.fone</u></a></li>
 </ul></div>
 

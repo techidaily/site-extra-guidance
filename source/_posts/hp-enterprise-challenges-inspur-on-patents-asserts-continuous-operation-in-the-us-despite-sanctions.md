@@ -1,7 +1,7 @@
 ---
 title: HP Enterprise Challenges Inspur on Patents, Asserts Continuous Operation in the US Despite Sanctions
-date: 2024-11-19T22:57:51.991Z
-updated: 2024-11-25T22:12:24.017Z
+date: 2024-12-03T17:15:43.076Z
+updated: 2024-12-05T23:11:08.749Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,17 +78,22 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-gear-vr-a-comprehensive-phone-compatibility-list-2023/"><u>[New] Mastering Gear VR A Comprehensive Phone Compatibility List 2023</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-perfect-cone-capture-equipment/"><u>[New] Perfect Cone Capture Equipment</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-art-of-using-videos-in-education/"><u>[New] The Art of Using Videos in Education</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-maximizing-collaboration-with-zoom-meeting-recordings-for-2024/"><u>[Updated] Maximizing Collaboration with Zoom Meeting Recordings for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-memes-mastermind/"><u>[Updated] Memes Mastermind</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unlock-the-potential-of-fb-chronicles-with-free-apps/"><u>[Updated] Unlock the Potential of FB Chronicles with Free Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-the-windows-camera-error-code-0xa00f4292/"><u>How to Resolve the Windows Camera Error (Code 0Xa00f4292)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-realme-c33-2023-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Realme C33 2023.</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-quickquip-quarterfreeze-media/"><u>In 2024, QuickQuip QuarterFreeze Media</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-simplified-storytelling-methodology/"><u>In 2024, Simplified Storytelling Methodology</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/streamlining-video-creation-with-windows-movie-maker-on-windows-8-for-2024/"><u>Streamlining Video Creation with Windows Movie Maker on Windows 8 for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-youtube-streams-to-local-files-audio-guide/"><u>[Updated] From YouTube Streams to Local Files Audio Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-professional-photoshop-practices-for-facial-pixelation/"><u>[Updated] Professional Photoshop Practices for Facial Pixelation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-professional-techniques-for-iphone-picture-inversion/"><u>[Updated] Professional Techniques for iPhone Picture Inversion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-selective-choice-top-cards-for-4k-videos/"><u>[Updated] Selective Choice Top Cards for 4K Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-sidestep-the-norm-alternatives-to-vidma-screen-record/"><u>[Updated] Sidestep the Norm Alternatives to Vidma Screen Record</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pro-level-performance-a-compre-cookie-box/"><u>2024 Approved Pro-Level Performance A Compre Cookie Box</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-proven-winners-selecting-the-best-hdr-cameras/"><u>2024 Approved Proven Winners Selecting the Best HDR Cameras</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-leading-secure-email-platforms-for-enhanced-cybersecurity/"><u>Discover the Leading Secure Email Platforms for Enhanced Cybersecurity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-solutions-for-fixing-skypes-sound-malfunctions/"><u>Effortless Solutions for Fixing Skype's Sound Malfunctions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-note-30-vip-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Note 30 VIP to New Android? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-expert-tips-top-free-tools-to-extract-and-save-instagram-videos-windowsos-x/"><u>In 2024, Expert Tips Top Free Tools to Extract and Save Instagram Videos (Windows/OS X)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pc-friendly-non-inshot-editing-software/"><u>In 2024, PC-Friendly Non-Inshot Editing Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-settings-for-live-broadcasts/"><u>In 2024, Perfect Settings for Live Broadcasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pioneering-sci-fi-escapades-10-movies-into-uncharted-realms/"><u>In 2024, Pioneering Sci-Fi Escapades 10 Movies Into Uncharted Realms</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-stop-wasting-time-check-out-our-verified-filmora-coupons/"><u>In 2024, Stop Wasting Time Check Out Our Verified Filmora Coupons</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unlock-the-secrets-to-retaining-excellence-while-compressing-your-mp4-files/"><u>Unlock the Secrets to Retaining Excellence While Compressing Your MP4 Files</u></a></li>
 </ul></div>
 

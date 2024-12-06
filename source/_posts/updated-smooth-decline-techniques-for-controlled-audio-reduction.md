@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Smooth Decline Techniques for Controlled Audio Reduction"
-date: 2024-11-22T18:54:37.385Z
-updated: 2024-11-25T18:15:02.409Z
+date: 2024-12-01T21:15:37.459Z
+updated: 2024-12-05T18:53:35.030Z
 tags: 
   - screen-recording
   - ai video
@@ -32,15 +32,15 @@ Step1 The first and foremost task to do is the successful installation of FL Stu
 
 ![open fl studio](https://images.wondershare.com/filmora/article-images/2022/07/open-fl-studio.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Open your FL Studio window on your pc or mac. Then, choose the right volume parameter for the creation of automation in your FL studio. You can do it using the mixer channel method.
 
 Step3 After getting the volume parameter, now you will need to create automation. For this, you will have to click right in the volume layer and then tap on ‘Create Automation Clip’.
 
 ![create automation clips fl studio](https://images.wondershare.com/filmora/article-images/2022/07/create-automation-clips-fl-studio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After selecting that, there will be an addition of a new automation clip to the playlist.
 
@@ -60,23 +60,27 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Related FAQs of FL Studio Audio Editing
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. How to fade out FL studio mobile?
 
@@ -96,26 +100,22 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related FAQs of FL Studio Audio Editing
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. How to fade out FL studio mobile?
@@ -154,22 +154,24 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-masterclass-in-merging-movies-with-modern-education/"><u>[New] In 2024, Masterclass in Merging Movies with Modern Education</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-leveraging-cg-central-luts-for-cinematic-color-enhancement/"><u>[New] Leveraging CG Central LUTs for Cinematic Color Enhancement</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-scripts-that-shaped-cinema/"><u>[New] Scripts That Shaped Cinema</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-premier-virtual-microphones/"><u>[Updated] 2024 Approved Premier Virtual Microphones</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-complete-igtv-user-manual/"><u>[Updated] 2024 Approved The Complete IGTV User Manual</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premium-unmanned-aerial-vehicles-for-gopro-recording/"><u>[Updated] Premium Unmanned Aerial Vehicles for GoPro Recording</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-tiktok-shadowban-how-to-get-unshadowbanned-on-tiktok2/"><u>[Updated] TikTok Shadowban How to Get Unshadowbanned on Tiktok2</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-image-deformation-techniques/"><u>2024 Approved Master Image Deformation Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-footage-select-best-gimbals-and-handhelds-guide/"><u>2024 Approved Mastering Footage Select Best Gimbals & Handhelds Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-using-telegram-web/"><u>2024 Approved Mastering the Art of Using Telegram Web</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-oculus-favorites-the-8-highest-selling-games/"><u>2024 Approved Oculus Favorites The 8 Highest-Selling Games</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplifying-mixers-interface-for-macos-streamers/"><u>2024 Approved Simplifying Mixer's Interface for macOS Streamers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-artistic-journey-animating-scenes-with-windows-movie-maker/"><u>2024 Approved The Artistic Journey Animating Scenes with Windows Movie Maker</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/elevate-your-online-presence-making-exceptional-facebook-reels-for-2024/"><u>Elevate Your Online Presence Making Exceptional Facebook Reels for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-navigate-with-ease-best-7-android-browsers-without-pop-ups/"><u>In 2024, Navigate With Ease Best 7 Android Browsers Without Pop-Ups</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/instagram-meets-tiktok-syncing-social-media-for-2024/"><u>Instagram Meets TikTok Syncing Social Media for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-nba-streaming-top-15-essentials/"><u>Step-by-Step Guide to NBA Streaming - Top 15 Essentials</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-instagram-collage-made-simple-a-quick-how-to/"><u>[New] Instagram Collage Made Simple A Quick How-To</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mediamagic-8-edition/"><u>[New] MediaMagic 8 Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-spectacular-visual-spaces-for-live-videos/"><u>[New] Spectacular Visual Spaces for Live Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-core-auditory-stimulation-channels/"><u>[Updated] 2024 Approved Core Auditory Stimulation Channels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-laptoppc-editors-steer-clear-of-inshot/"><u>[Updated] Laptop/PC Editors Steer Clear of Inshot</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unleashing-storytelling-potential-making-youtube-trailers-in-filmora-for-2024/"><u>[Updated] Unleashing Storytelling Potential Making YouTube Trailers in Filmora for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mkv-playback-mac-app-selection-guide/"><u>2024 Approved MKV Playback Mac App Selection Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/all-inclusive-rundown-whats-behind-the-google-podcast-app-in-2024/"><u>All-Inclusive Rundown What's Behind the Google Podcast App, In 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-clickable-content-climber-software/"><u>In 2024, Clickable Content Climber Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-melodic-medium-finding-the-right-film-score/"><u>In 2024, Melodic Medium Finding the Right Film Score</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-paint-your-paradigm-the-8-essential-drawing-apps-for-iphone-users/"><u>In 2024, Paint Your Paradigm The 8 Essential Drawing Apps for iPhone Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterclass-in-image-cleanup-remove-unwanted-surroundings-for-2024/"><u>Masterclass in Image Cleanup Remove Unwanted Surroundings for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-cross-platform-chat-learn-to-use-imessage-for-windows-insights-by-zdnet-experts/"><u>Mastering Cross-Platform Chat: Learn to Use iMessage for Windows - Insights by ZDNet Experts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photoshop-strategies-for-pixelated-portrait-alteration-for-2024/"><u>Photoshop Strategies for Pixelated Portrait Alteration for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stardew-valley-crash-woes-here-are-5-proven-strategies-to-stabilize-your-game-on-pc/"><u>Stardew Valley Crash Woes? Here Are 5 Proven Strategies to Stabilize Your Game on PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/stop-equating-siri-with-chatgpt-discover-what-sets-them-apart/"><u>Stop Equating Siri with ChatGPT! Discover What Sets Them Apart</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tailoring-your-iphone-control-center-on-ios-18-a-step-by-step-guide-techtutorial/"><u>Tailoring Your iPhone Control Center on iOS 18 - A Step-by-Step Guide | TechTutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/viewers-delight-discovering-top-6-engaging-content-formats/"><u>Viewer's Delight Discovering Top 6 Engaging Content Formats</u></a></li>
 </ul></div>
 

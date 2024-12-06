@@ -1,7 +1,7 @@
 ---
 title: Restore Sound on Your JBL G435 Wireless Headphones with These Simple Repairs
-date: 2024-11-23T05:03:12.469Z
-updated: 2024-11-25T19:11:22.761Z
+date: 2024-12-01T19:43:40.388Z
+updated: 2024-12-05T23:22:52.054Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/e3cf30b4720656ba32f87d0a36d739d3e594003c9
 
 Having a headphone crackling problem? You’re certainly not alone. But don’t worry, it can be quite easy to fix…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 fixes for Headphones Crackling
 
  Here are 4 fixes that have helped other users resolve their**Windows 10** /**8** **.1/7** **sound crackling in headphones** issue.  
@@ -28,10 +32,6 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 4. [**Adjust the minimum processor state**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
 
@@ -47,6 +47,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 2: Disable Exclusive Mode and change the sound format**
 
  Having **Exclusive Mode**   on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the **crackling or popping sound** in headphone  problem. To disable **Exclusive Mode** :
@@ -54,21 +58,17 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Advanced** tab, un-check **the box** before **Allow applications to take exclusive control of this device** . Then click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
 
@@ -83,7 +83,7 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
@@ -118,11 +118,11 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on the build of your Windows, you might also see **On battery** and **Plugged in**  in **Setting (%)** . Change both values to **100** and click **OK** .
 
@@ -151,18 +151,22 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-effortless-imovie-music-enhancement-using-youtube-songs-for-2024/"><u>[New] Effortless iMovie Music Enhancement Using YouTube Songs for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-review-of-picsart-apps-new-features-2024-edition/"><u>[New] Step-by-Step Review of PicsArt App's New Features, 2024 Edition</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-financial-insights-for-vids-how-much-do-youtubers-earn-per-sponsorship-for-2024/"><u>[Updated] Financial Insights for Vids How Much Do YouTubers Earn Per Sponsorship for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-step-by-step-guide-modifying-user-numbers-on-tiktok/"><u>[Updated] In 2024, Step-by-Step Guide Modifying User Numbers on TikTok</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-simplify-coordination-blending-zoom-into-your-gmail-schedule/"><u>[Updated] Simplify Coordination Blending Zoom Into Your Gmail Schedule</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-masterful-method-smart-watch-to-access-mac/"><u>2024 Approved Masterful Method Smart Watch to Access Mac</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-movie-magic-adjusting-netflix-speed/"><u>2024 Approved Mastering Movie Magic Adjusting Netflix Speed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-spectrum-surge-tools-for-sharper-web-videos/"><u>2024 Approved Spectrum Surge Tools for Sharper Web Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/digital-doppelganger-drawing-crafting-caricatured-emblems/"><u>Digital Doppelganger Drawing Crafting Caricatured Emblems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/identifying-the-culprit-is-microsoft-teams-malfunctioning-or-your-internet-connection/"><u>Identifying the Culprit: Is Microsoft Teams Malfunctioning or Your Internet Connection?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximum-capacity-choices-ultimate-cloud-service-list/"><u>In 2024, Maximum Capacity Choices Ultimate Cloud Service List</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/maximizing-fun-finding-hot-images-at-pexelscom-for-2024/"><u>Maximizing Fun Finding Hot Images at Pexels.com for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/trimming-sound-extracting-silence-from-mov-clips-on-pc-and-mac-systems-for-2024/"><u>Trimming Sound Extracting Silence From MOV Clips on PC & Mac Systems for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-economical-dslrmirrorless-systems/"><u>[New] 2024 Approved Economical DSLR/Mirrorless Systems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-fast-fixes-to-skyrocket-your-podcast-live-for-2024/"><u>[New] Fast Fixes to Skyrocket Your Podcast Live for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-step-by-step-guide-for-text-superimposition-on-video-using-windows-photos/"><u>[New] In 2024, Step-by-Step Guide for Text Superimposition on Video Using Windows Photos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-livestream-launchpad-duel-go-with-xsplit-or-opt-for-obs/"><u>[New] Livestream Launchpad Duel Go with XSplit or Opt for OBS?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-reviewing-the-newest-2023-samsung-bd-j5900-model/"><u>[Updated] Reviewing the Newest 2023 Samsung BD-J5900 Model</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-burning-movies-to-mac-dvds/"><u>[Updated] Step-by-Step Burning Movies to Mac DVDs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigate-through-windows-11s-best-practices-for-imports/"><u>2024 Approved Navigate Through Windows 11'S Best Practices for Imports</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-shocking-news-summary-craftsman/"><u>2024 Approved Shocking News Summary Craftsman</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/assessing-the-alienware-aurora-r7-a-balance-of-strength-and-expense/"><u>Assessing the Alienware Aurora R7: A Balance of Strength and Expense</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-features-of-mobvoi-ticwatch-pro-3-gps-maximizing-longevity-with-two-screens/"><u>Exploring the Features of Mobvoi TicWatch Pro 3 GPS - Maximizing Longevity with Two Screens</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-fitbit-charge-4-where-style-meets-health-tracking-features/"><u>Exploring the Fitbit Charge 4: Where Style Meets Health Tracking Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leveraging-tools-to-extract-mp3s-from-popular-video-platforms-like-pinterest/"><u>In 2024, Leveraging Tools to Extract MP3s From Popular Video Platforms Like Pinterest</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-soft-sonata-reducing-volume-in-os/"><u>In 2024, Soft Sonata Reducing Volume in OS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-up-your-auditory-game-how-to-add-ringtones-and-sounds-that-stand-out-on-android/"><u>In 2024, Step Up Your Auditory Game How to Add Ringtones & Sounds that Stand Out on Android</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-the-new-2024-software-update-for-hp-officejet-4500-printer-drivers-start-here/"><u>Install the New 2024 Software Update for HP OfficeJet 4500 Printer Drivers - Start Here</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncover-simple-techniques-swiftly-moving-your-data-from-macbook-insights-and-tips/"><u>Uncover Simple Techniques: Swiftly Moving Your Data From MacBook - Insights and Tips</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-rising-stars-of-lego-animation-top-makers-for-2024/"><u>Updated Rising Stars of Lego Animation Top Makers for 2024</u></a></li>
 </ul></div>
 

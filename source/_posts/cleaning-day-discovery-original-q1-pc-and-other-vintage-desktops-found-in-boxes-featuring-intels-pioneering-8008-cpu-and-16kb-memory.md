@@ -1,7 +1,7 @@
 ---
 title: "Cleaning Day Discovery: Original Q1 PC and Other Vintage Desktops Found in Boxes, Featuring Intel's Pioneering 8008 CPU and 16KB Memory"
-date: 2024-12-01T23:09:15.847Z
-updated: 2024-12-05T17:34:06.026Z
+date: 2024-12-09T16:17:38.538Z
+updated: 2024-12-11T20:21:41.167Z
 tags:
   - desktop
 categories:
@@ -54,7 +54,7 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -80,22 +80,24 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-ensure-video-perfection-before-sharing-on-instagram/"><u>[New] 2024 Approved Ensure Video Perfection Before Sharing on Instagram</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-premier-10-survival-showdowns/"><u>[Updated] 2024 Approved Premier 10 Survival Showdowns</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-video-vexations-unseen-screens-on-a6400/"><u>[Updated] 2024 Approved Video Vexations Unseen Screens on A6400</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pros-choice-10-cameras-with-shake-reduction-feature/"><u>[Updated] Pro's Choice 10 Cameras with Shake Reduction Feature</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-guide-to-seamless-inshot-video-segments/"><u>2024 Approved A Guide to Seamless Inshot Video Segments</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-jumpstarting-your-marketing-the-essentials-of-telegram-advertising/"><u>2024 Approved Jumpstarting Your Marketing The Essentials of Telegram Advertising</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-top-gear-picks-with-toms-hardware-insights/"><u>Discover Top Gear Picks with Tom's Hardware Insights</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dissecting-the-features-and-flaws-of-google-stadia-for-better-gaming-experience/"><u>Dissecting the Features and Flaws of Google Stadia for Better Gaming Experience</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-xiaomi-13t-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Xiaomi 13T ProMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-kinemasters-secrets-to-transition-excellence/"><u>In 2024, Kinemaster's Secrets to Transition Excellence</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-nightly-serenity-with-asmr-top-choices-to-listen-to/"><u>In 2024, Nightly Serenity with ASMR Top Choices to Listen To</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-photographic-precision-the-ultimate-list-of-photo-framing-software/"><u>In 2024, Photographic Precision The Ultimate List of Photo Framing Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-seamless-mobile-broadcasting-best-budget-streamer-list/"><u>In 2024, Seamless Mobile Broadcasting Best Budget Streamer List</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-standout-literary-book-videos/"><u>In 2024, Standout Literary Book Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-path-to-advanced-system-configuration-in-windows-10-without-a-hitch/"><u>Mastering the Path to Advanced System Configuration in Windows 10 without a Hitch</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pinnacle-workshop-25-critique-for-2024/"><u>Pinnacle Workshop 25 Critique for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-backcountry-companion-can-chatgpt-keep-you-safe-in-nature/"><u>The Ultimate Backcountry Companion: Can ChatGPT Keep You Safe in Nature?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-chucklechisel-designing-memes-in-adobe/"><u>[New] ChuckleChisel Designing Memes in Adobe</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-iphone-tips-efficiently-trim-and-modify-videos/"><u>[New] IPhone Tips Efficiently Trim and Modify Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-azure-speech-to-text-a-step-by-step-guide/"><u>[New] Mastering Azure Speech-to-Text A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-melody-on-calls-the-complete-guide-to-downloading-and-editing-tamil-tracks/"><u>[New] Melody on Calls The Complete Guide to Downloading & Editing Tamil Tracks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-perfecting-your-presentations-youtube-and-google-slides/"><u>[Updated] In 2024, Perfecting Your Presentations YouTube and Google Slides</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-nearby-your-personal-guide-for-on-the-go-assistance/"><u>[Updated] Navigating Nearby - Your Personal Guide for On-the-Go Assistance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-psd-saturation-tweaks/"><u>2024 Approved Master PSD Saturation Tweaks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/duel-of-the-dialogues-myai-or-googles-chatgpt-on-snapchat/"><u>Duel of the Dialogues: MyAI or Google's ChatGPT on Snapchat</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebook-streaming-made-simple-your-guide-2023-edition-for-2024/"><u>Facebook Streaming Made Simple Your Guide, 2023 Edition for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-iphone-image-transfer-methods-explained/"><u>In 2024, IPhone Image Transfer Methods Explained</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-your-search-securing-cool-images-at-pexels/"><u>In 2024, Master Your Search Securing Cool Images at Pexels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-saturation-perfection-tool/"><u>In 2024, Saturation Perfection Tool</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-text-presets-for-visual-impact/"><u>In 2024, Top 10 Text Presets for Visual Impact</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterfulaiimageeditor-the-best-of-both-worlds-for-2024/"><u>MasterfulAiImageEditor The Best of Both Worlds for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/music-meets-video-three-inexpensive-iphone-tips-for-enhanced-clips-for-2024/"><u>Music Meets Video Three Inexpensive iPhone Tips for Enhanced Clips for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-for-windows-xp-users-facing-missing-haldll-issues/"><u>Quick Fixes for Windows XP Users Facing Missing hal.dll Issues</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/smartphone-lighting-kits-for-improved-footage-for-2024/"><u>Smartphone Lighting Kits for Improved Footage for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/speed-on-thin-ice-top-performances-from-the-olympics-for-2024/"><u>Speed on Thin Ice Top Performances From the Olympics for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wi-fi-mesh-networks-worth-the-hype-or-just-overrated/"><u>Wi-Fi Mesh Networks: Worth the Hype or Just Overrated?</u></a></li>
 </ul></div>
 

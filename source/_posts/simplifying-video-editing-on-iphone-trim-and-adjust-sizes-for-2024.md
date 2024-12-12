@@ -1,7 +1,7 @@
 ---
 title: "\"Simplifying Video Editing on iPhone  Trim & Adjust Sizes for 2024\""
-date: 2024-07-31T18:33:31.740Z
-updated: 2024-08-01T18:33:31.740Z
+date: 2024-12-06T22:59:36.332Z
+updated: 2024-12-11T19:45:54.382Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 
 # How to Shorten and Resize Video on iPhone
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -56,21 +53,14 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 * Tap the video or photo in timeline to be shortened
 * Drag yellow trim handler to shorten the video or photo
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![imoive](https://images.wondershare.com/filmora/article-images/iMovie-shorten.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  But, it can be, that you don't want to delete parts at all. Instead you want to make "large" size a little bit more manageable. For that sake, another way to trim video, iPhone camera roll has ,is, by resizing. But resizing and compressions are tricky. You need to consider video dimension (pixels), aspect ratio and resolution. Above all resizing doesn't mean sacrificing quality. One best way to do that is to use Desqueeze.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Part 2: How to resize a video on iPhone
 
 #### 1. [Desqueeze](https://itunes.apple.com/us/app/desqueeze-batch-resizer/id1046809993?mt=8)
@@ -84,9 +74,6 @@ No advertising on the website.
 * Input width and height
 * Press ok. After saving dimensional setting, click Paw shape icon at bottom to initiate changes
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![desqueeze](https://images.wondershare.com/filmora/article-images/desqueeze.JPG)
 
 #### 2. Video Compressor
@@ -100,14 +87,12 @@ No advertising on the website.
 * The compression will start on the targeted video file.
 * The compressed video will be saved in Camera roll
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![video compressor](https://images.wondershare.com/filmora/article-images/video-compressor.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  Being an iphone, iPod or iPad user, you can enjoy making high quality photos and videos, including 4K,1080p and 720 resolutions. But the downside is the large file size which makes them hard to retain. There are options to shorten or resize the iPhone videos and photos, by using any of above applications. Get a snippet or make size manageable, depending on "what you want". Just keep sharing the fun!
@@ -143,9 +128,6 @@ Follow @Ollie Mattison
 * Click play icon to preview
 * Click done, and choose either "Trim original" or "Save as new clip"
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone photo](https://images.wondershare.com/filmora/article-images/iPhone_video_edit_default.jpg)
 
 #### 2. [iMovie](https://itunes.apple.com/us/app/imovie/id377298193?mt=8&ign-mpt=uo%3D8)
@@ -188,15 +170,16 @@ Follow @Ollie Mattison
 
 ![video compressor](https://images.wondershare.com/filmora/article-images/video-compressor.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  Being an iphone, iPod or iPad user, you can enjoy making high quality photos and videos, including 4K,1080p and 720 resolutions. But the downside is the large file size which makes them hard to retain. There are options to shorten or resize the iPhone videos and photos, by using any of above applications. Get a snippet or make size manageable, depending on "what you want". Just keep sharing the fun!
 
  Images come from the Internet
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -236,9 +219,6 @@ Follow @Ollie Mattison
 * Tap the video or photo in timeline to be shortened
 * Drag yellow trim handler to shorten the video or photo
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![imoive](https://images.wondershare.com/filmora/article-images/iMovie-shorten.jpeg)
 
  But, it can be, that you don't want to delete parts at all. Instead you want to make "large" size a little bit more manageable. For that sake, another way to trim video, iPhone camera roll has ,is, by resizing. But resizing and compressions are tricky. You need to consider video dimension (pixels), aspect ratio and resolution. Above all resizing doesn't mean sacrificing quality. One best way to do that is to use Desqueeze.
@@ -256,12 +236,11 @@ Follow @Ollie Mattison
 * Input width and height
 * Press ok. After saving dimensional setting, click Paw shape icon at bottom to initiate changes
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![desqueeze](https://images.wondershare.com/filmora/article-images/desqueeze.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2. Video Compressor
 
@@ -276,15 +255,20 @@ The powerful video editing program for your Windows PC</a>
 
 ![video compressor](https://images.wondershare.com/filmora/article-images/video-compressor.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  Being an iphone, iPod or iPad user, you can enjoy making high quality photos and videos, including 4K,1080p and 720 resolutions. But the downside is the large file size which makes them hard to retain. There are options to shorten or resize the iPhone videos and photos, by using any of above applications. Get a snippet or make size manageable, depending on "what you want". Just keep sharing the fun!
 
  Images come from the Internet
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -314,10 +298,6 @@ Follow @Ollie Mattison
 * Click play icon to preview
 * Click done, and choose either "Trim original" or "Save as new clip"
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![iphone photo](https://images.wondershare.com/filmora/article-images/iPhone_video_edit_default.jpg)
 
 #### 2. [iMovie](https://itunes.apple.com/us/app/imovie/id377298193?mt=8&ign-mpt=uo%3D8)
@@ -330,7 +310,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![imoive](https://images.wondershare.com/filmora/article-images/iMovie-shorten.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  But, it can be, that you don't want to delete parts at all. Instead you want to make "large" size a little bit more manageable. For that sake, another way to trim video, iPhone camera roll has ,is, by resizing. But resizing and compressions are tricky. You need to consider video dimension (pixels), aspect ratio and resolution. Above all resizing doesn't mean sacrificing quality. One best way to do that is to use Desqueeze.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to resize a video on iPhone
 
@@ -347,6 +335,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![desqueeze](https://images.wondershare.com/filmora/article-images/desqueeze.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2. Video Compressor
 
  Video Compressor can also be used to shrink down the file size on iPhone. Especially when you want to share something right from your iDevice. The steps to follow include
@@ -358,23 +350,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * The compression will start on the targeted video file.
 * The compressed video will be saved in Camera roll
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![video compressor](https://images.wondershare.com/filmora/article-images/video-compressor.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  Being an iphone, iPod or iPad user, you can enjoy making high quality photos and videos, including 4K,1080p and 720 resolutions. But the downside is the large file size which makes them hard to retain. There are options to shorten or resize the iPhone videos and photos, by using any of above applications. Get a snippet or make size manageable, depending on "what you want". Just keep sharing the fun!
 
  Images come from the Internet
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -405,5 +392,26 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-melding-images-and-songs-into-screens/"><u>[New] Melding Images and Songs Into Screens</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-uncloaking-sham-followers-on-your-instagram-network/"><u>[Updated] 2024 Approved Uncloaking Sham Followers on Your Instagram Network</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-strategies-to-thrive-on-reddit/"><u>[Updated] Step-by-Step Strategies to Thrive on Reddit</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-infinix-gt-10-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Infinix GT 10 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-crafting-courteous-responses-in-discord-chat/"><u>2024 Approved Crafting Courteous Responses in Discord Chat</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-is-inshot-surging-above-all-else-in-edits/"><u>2024 Approved Is InShot Surging Above All Else in Edits?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pinpointing-precision-with-minecrafts-zoom-feature/"><u>2024 Approved Pinpointing Precision with Minecraft's Zoom Feature</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-selecting-the-ultimate-business-vault/"><u>2024 Approved Selecting the Ultimate Business Vault</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aerial-duels-unleashed-dji-spark-vs-gopro-black-session-for-2024/"><u>Aerial Duels Unleashed DJi Spark vs GoPro Black Session for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/cloud-data-management-made-simple-and-fast-de-voornaamskeurste-wegwijzer/"><u>Cloud Data Management Made Simple and Fast - De Voornaamskeurste Wegwijzer</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-steams-workshop-a-comprehensive-guide/"><u>Dive Into Steam's Workshop: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/effortlessly-record-circles-iphone-techniques-for-fb-feed/"><u>Effortlessly Record Circles IPhone Techniques for FB Feed</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-xiaomi-14-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Xiaomi 14 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-personalized-branding-made-easy-use-free-logo-templates-and-edit/"><u>In 2024, Personalized Branding Made Easy Use Free Logo Templates and Edit</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-guide-to-designing-impactful-imagery/"><u>In 2024, Step-by-Step Guide to Designing Impactful Imagery</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-harvesting-hundreds-of-tiktok-videos/"><u>In 2024, Step-by-Step Harvesting Hundreds of TikTok Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/learn-to-produce-nfts-with-minimal-hassle-for-2024/"><u>Learn to Produce NFTs With Minimal Hassle for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-time-top-10-methods-for-flawless-cricket-broadcasts/"><u>Prime Time Top 10 Methods for Flawless Cricket Broadcasts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-huawei-mediapad-m5-premier-quality-vision-and-audio-in-a-tablet-form-factor/"><u>Unveiling the Huawei MediaPad M5: Premier Quality Vision and Audio in a Tablet Form Factor</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Compact Chinese Mini PC Features Rare Inverted 'U' Shape and Expandable PCIe Slot
-date: 2024-12-04T16:45:09.242Z
-updated: 2024-12-05T19:51:45.432Z
+date: 2024-12-07T20:42:42.852Z
+updated: 2024-12-11T20:57:00.890Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,20 +60,15 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-maximizing-revenue-through-youtube-brand-partnerships/"><u>[New] Maximizing Revenue Through Youtube Brand Partnerships</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-guidebook-to-making-wealth-on-instagram/"><u>[New] The Ultimate Guidebook to Making Wealth on Instagram</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-launching-virtual-meetups-in-whatsapp-web-directly-from-your-notebook/"><u>[Updated] 2024 Approved Launching Virtual Meetups in WhatsApp Web, Directly From Your Notebook</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-fbx-recorder-essentials-for-players/"><u>2024 Approved FBX Recorder Essentials For Players</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-interactive-illusions-vr-storytelling/"><u>2024 Approved Interactive Illusions VR Storytelling</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-video-playback-speeds-in-minutes-not-hours/"><u>2024 Approved Master Video Playback Speeds in Minutes, Not Hours</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/get-your-hands-on-bitraser-professional-grade-hard-drive-cleaner/"><u>Get Your Hands on BitRaser: Professional-Grade Hard Drive Cleaner</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-se-2022-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone SE (2022) or iPad?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-chrome-voice-modifiers-select-top-5-extensions/"><u>In 2024, Leading Chrome Voice Modifiers Select Top 5 Extensions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-outstanding-backdrops-for-video-conferencing/"><u>In 2024, Outstanding Backdrops for Video Conferencing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Infinix GT 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/precision-in-converting-videos-sdr-to-hdr-video-enhancement-techniques-for-2024/"><u>Precision in Converting Videos SDR to HDR Video Enhancement Techniques for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-inside-the-innovative-world-of-intova-x/"><u>[New] Inside the Innovative World of Intova X</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterpiece-makers-top-10-android-collage-tools/"><u>[New] Masterpiece Makers Top 10 Android Collage Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-ultimate-online-seminar-creation-assistant/"><u>2024 Approved Ultimate Online Seminar Creation Assistant</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-morphvox-mastery-a-complete-voice-modification-companion/"><u>In 2024, MorphVOX Mastery A Complete Voice Modification Companion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/instantaneous-accurate-image-browser-win11-for-2024/"><u>Instantaneous, Accurate Image Browser Win11 for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-oppo-a79-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo A79 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/reverse-action-flipping-your-iphone-video-footage-for-2024/"><u>Reverse Action Flipping Your iPhone Video Footage for 2024</u></a></li>
+<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-13-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 13 Pro | Stellar</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-xiaomi-13-ultra-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Xiaomi 13 Ultra Phones</u></a></li>
 </ul></div>
 

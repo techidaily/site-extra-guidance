@@ -1,7 +1,7 @@
 ---
 title: HP Enterprise Challenges Inspur on Patents, Asserts Continuous Operation in the US Despite Sanctions
-date: 2024-12-03T17:15:43.076Z
-updated: 2024-12-05T23:11:08.749Z
+date: 2024-12-09T17:20:01.692Z
+updated: 2024-12-11T21:08:49.958Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,22 +78,19 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-youtube-streams-to-local-files-audio-guide/"><u>[Updated] From YouTube Streams to Local Files Audio Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-professional-photoshop-practices-for-facial-pixelation/"><u>[Updated] Professional Photoshop Practices for Facial Pixelation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-professional-techniques-for-iphone-picture-inversion/"><u>[Updated] Professional Techniques for iPhone Picture Inversion</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-selective-choice-top-cards-for-4k-videos/"><u>[Updated] Selective Choice Top Cards for 4K Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-sidestep-the-norm-alternatives-to-vidma-screen-record/"><u>[Updated] Sidestep the Norm Alternatives to Vidma Screen Record</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pro-level-performance-a-compre-cookie-box/"><u>2024 Approved Pro-Level Performance A Compre Cookie Box</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-proven-winners-selecting-the-best-hdr-cameras/"><u>2024 Approved Proven Winners Selecting the Best HDR Cameras</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-leading-secure-email-platforms-for-enhanced-cybersecurity/"><u>Discover the Leading Secure Email Platforms for Enhanced Cybersecurity</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-solutions-for-fixing-skypes-sound-malfunctions/"><u>Effortless Solutions for Fixing Skype's Sound Malfunctions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-note-30-vip-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Note 30 VIP to New Android? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-expert-tips-top-free-tools-to-extract-and-save-instagram-videos-windowsos-x/"><u>In 2024, Expert Tips Top Free Tools to Extract and Save Instagram Videos (Windows/OS X)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pc-friendly-non-inshot-editing-software/"><u>In 2024, PC-Friendly Non-Inshot Editing Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-settings-for-live-broadcasts/"><u>In 2024, Perfect Settings for Live Broadcasts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pioneering-sci-fi-escapades-10-movies-into-uncharted-realms/"><u>In 2024, Pioneering Sci-Fi Escapades 10 Movies Into Uncharted Realms</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-stop-wasting-time-check-out-our-verified-filmora-coupons/"><u>In 2024, Stop Wasting Time Check Out Our Verified Filmora Coupons</u></a></li>
-<li><a href="https://blog-min.techidaily.com/unlock-the-secrets-to-retaining-excellence-while-compressing-your-mp4-files/"><u>Unlock the Secrets to Retaining Excellence While Compressing Your MP4 Files</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-connect-play-and-share-the-essentials-of-xbox-zoom/"><u>[New] 2024 Approved Connect, Play and Share The Essentials of Xbox Zoom</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-streamline-broadcasts-the-ultimate-guide-for-obspluszoom/"><u>[New] In 2024, Streamline Broadcasts The Ultimate Guide for OBS+Zoom</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unveiling-the-lesser-known-media-players-post-vlc/"><u>[New] In 2024, Unveiling the Lesser-Known Media Players Post-VLC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-omnipresent-overture-the-virtual-cinema/"><u>[New] Omnipresent Overture The Virtual Cinema</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-panoramic-lenses-vs-depth-filled-images-for-2024/"><u>[New] Panoramic Lenses vs Depth-Filled Images for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-redefining-the-sony-s3700-video-experience/"><u>[New] Redefining the Sony S3700 Video Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-iphone-hdr-excellence-comprehensive-tutorial/"><u>[Updated] IPhone HDR Excellence Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-joining-the-metaverse-comedy-club-top-20plus-memes-and-techniques/"><u>[Updated] Joining the Metaverse Comedy Club Top 20+ Memes & Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-your-memories-online-diverse-cost-effective-cloud-storage-choices/"><u>2024 Approved Master Your Memories Online Diverse, Cost-Effective Cloud Storage Choices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-upgrade-keep-your-files-intact-while-installing-windows-11/"><u>Easy Upgrade: Keep Your Files Intact While Installing Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-avoid-blandness-optimize-your-thumbnail-with-20-fonts/"><u>In 2024, Avoid Blandness - Optimize Your Thumbnail with 20 Fonts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-rethinking-wirecast-choices/"><u>In 2024, Rethinking WireCast Choices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-lowdown-on-instagrams-video-time-frame-for-2024/"><u>The Lowdown on Instagram's Video Time Frame for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/xiaomi-11-series-brings-cinema-quality-into-mobile-devices/"><u>Xiaomi 11 Series Brings Cinema Quality Into Mobile Devices</u></a></li>
 </ul></div>
 

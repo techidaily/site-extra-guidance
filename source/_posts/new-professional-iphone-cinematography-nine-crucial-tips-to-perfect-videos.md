@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Professional iPhone Cinematography  Nine Crucial Tips to Perfect Videos\""
-date: 2024-11-24T18:22:47.910Z
-updated: 2024-11-26T00:40:53.064Z
+date: 2024-12-09T21:05:26.257Z
+updated: 2024-12-11T21:21:20.152Z
 tags: 
   - screen-recording
   - ai video
@@ -34,21 +34,17 @@ thumbnail: https://www.lifewire.com/thmb/QOOSrpWgtLR1SeeW9DQNHlTh5T0=/540x405/fi
 
 ![stabilizer](https://images.wondershare.com/stabilizer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This same complaint is often used in iPhone videography – it is difficult to follow because the video is shaking. The shaking is what happens when the video lacks stability – remember that most professional camera work is done with cameras which are on some form of frame or tripod to keep the camera still. It isn’t that an iPhone is heavy – it is more to do with the video being hard to keep still, especially if our attention is distracted. For the best videos, people should invest in some form of tripod for their phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Light Properly
 
  Professional video shoots use a lot of light in order to create the proper effect – most people would be surprised to learn how much light goes into even a ‘night-time’ set. Phone videos often suffer a lot because they do not make adequate use of light. Part of this can be solved by taking a camera class which covers light issues, but it can also be solved by paying attention to light sources where you are, and changing them to better suit your video if possible.
 
 ![light](https://images.wondershare.com/set-light-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avoid Using the Digital Zoom
 
@@ -57,7 +53,7 @@ thumbnail: https://www.lifewire.com/thmb/QOOSrpWgtLR1SeeW9DQNHlTh5T0=/540x405/fi
 ![zoom](https://images.wondershare.com/Zoom.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use the Grid
@@ -66,6 +62,10 @@ thumbnail: https://www.lifewire.com/thmb/QOOSrpWgtLR1SeeW9DQNHlTh5T0=/540x405/fi
 
 ![grid](https://images.wondershare.com/grid-iphone-camera.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use the Exposure Lock
 
  When taking a video or a picture, you will have noticed that it can change the colour and the exposure while trying to get a lock and fix on what it is going to be recording. While it is good that it tries to find the best way to accommodate the light and sound in the room, having your video change exposure throughout will be at best annoying and at worst an outright distraction. Lock your exposure down on the iPhone once you have found the optimum conditions for the video, and it will not change.
@@ -73,7 +73,7 @@ thumbnail: https://www.lifewire.com/thmb/QOOSrpWgtLR1SeeW9DQNHlTh5T0=/540x405/fi
 ![exposure](https://images.wondershare.com/lock-exposure.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Slow Motion\\Time Lapse Mode
@@ -83,7 +83,7 @@ thumbnail: https://www.lifewire.com/thmb/QOOSrpWgtLR1SeeW9DQNHlTh5T0=/540x405/fi
 ![time lapse](https://images.wondershare.com/time-lapse-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Put your iPhone in Airplane Mode
@@ -101,7 +101,7 @@ thumbnail: https://www.lifewire.com/thmb/QOOSrpWgtLR1SeeW9DQNHlTh5T0=/540x405/fi
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -125,17 +125,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-online-broadcasts-expertise-in-onestream-use/"><u>[New] Navigating Online Broadcasts Expertise in OneStream Use</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-prime-portals-for-digital-type-art/"><u>[New] Prime Portals for Digital Type Art</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-evaluating-itop-as-a-screen-recording-solution-for-2024/"><u>[Updated] Evaluating ITop as a Screen Recording Solution for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-flight-with-top-5-hmds-for-drone-racing/"><u>[Updated] Mastering Flight with Top 5 HMDs for Drone Racing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-sleep-well-with-asmr-techniques-and-tips/"><u>2024 Approved Sleep Well with ASMR Techniques and Tips</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortless-fix-for-unable-to-sync-on-steam-ultimate-troubleshooting-techniques/"><u>Effortless Fix for 'Unable to Sync' On Steam - Ultimate Troubleshooting Techniques</u></a></li>
-<li><a href="https://driver-install.techidaily.com/free-amd-radeon-vega-3-2024-driver-download/"><u>Free AMD Radeon Vega 3 2024 Driver Download</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808113864-how-to-screenshot-on-windows-heres-the-quick-way/"><u>How to Screenshot on Windows? Here’s the Quick Way</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-asus-motherboard-drivers-for-windows-step-by-step-guide/"><u>How to Update ASUS Motherboard Drivers for Windows: Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-social-media-rhythms-to-mobile-melodies-setting-up-your-tiktok-ringtone/"><u>In 2024, Social Media Rhythms to Mobile Melodies Setting Up Your TikTok Ringtone</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-reactivate-missing-windows-phone-link-notifications/"><u>Steps to Reactivate Missing Windows Phone Link Notifications</u></a></li>
-<li><a href="https://common-error.techidaily.com/win10-cpu-load-management-techniques/"><u>Win10 CPU Load Management Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-cutting-edge-android-camera-techniques-and-tools/"><u>[New] 2024 Approved Cutting-Edge Android Camera Techniques & Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-powerslide-music-integration-a-comprehensive-guide/"><u>[New] PowerSlide Music Integration A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unlock-your-profile-the-quick-fix-hacks/"><u>[New] Unlock Your Profile The Quick Fix Hacks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-kinemasters-comprehensive-guide-to-green-screen-usage/"><u>[Updated] Kinemaster's Comprehensive Guide to Green Screen Usage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pros-cons-and-guide-to-utilizing-samsung-photo-editor/"><u>[Updated] Pros, Con's, and Guide to Utilizing Samsung PHOTO EDITOR</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-zoom-interface-for-effective-fb-lives/"><u>2024 Approved Navigating the Zoom Interface for Effective FB Lives</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/comment-fabriquer-un-cle-amovible-demarrable-avec-windows/"><u>Comment Fabriquer Un Clé Amovible Démarrable Avec Windows</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-how-to-add-featured-channels-on-youtube-an-ultimate-guide/"><u>In 2024, How to Add Featured Channels on YouTube An Ultimate Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-honor-x7b-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Honor X7b Data? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-samsung-galaxy-z-fold-5-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Samsung Galaxy Z Fold 5 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-list-the-best-10-apps-for-live-racing-and-rugby-streaming-for-2024/"><u>Leading List The Best 10 Apps for Live Racing & Rugby Streaming for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-stop-motion-made-easy-the-best-online-tools-free-and-paid/"><u>New In 2024, Stop Motion Made Easy The Best Online Tools Free & Paid</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quintessential-conclusion-to-vr-adventures-for-2024/"><u>Quintessential Conclusion to VR Adventures for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/revitalize-your-microsoft-mouse-a-quick-tutorial-on-drivers-updates-for-windows-users/"><u>Revitalize Your Microsoft Mouse: A Quick Tutorial on Drivers Updates for Windows Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tired-of-traditional-shoveling-discover-the-game-changing-electric-snow-blower-for-harsh-northeast-climates-on-zdnet/"><u>Tired of Traditional Shoveling? Discover the Game-Changing Electric Snow Blower for Harsh Northeast Climates on ZDNET</u></a></li>
 </ul></div>
 

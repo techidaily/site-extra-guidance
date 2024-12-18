@@ -1,7 +1,7 @@
 ---
 title: Asus Launches the Pioneering ROG NUC Desktop PC with High-End Specs Including Core Ultra 9 Processors and RTX 4070 Graphics From $1,629
-date: 2024-12-05T00:11:41.410Z
-updated: 2024-12-11T19:33:41.806Z
+date: 2024-12-13T04:20:43.234Z
+updated: 2024-12-18T05:12:17.771Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ These are the specifications of the two Asus ROG NUC models:
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,18 +68,22 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-distinctive-digital-monikers-for-video-creators-for-2024/"><u>[Updated] Distinctive Digital Monikers for Video Creators for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-reels-unlocking-the-ninja-mindset-for-2024/"><u>[Updated] Instagram Reels Unlocking the Ninja Mindset for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-color-correction-applying-free-luts-in-obs-productions/"><u>[Updated] Mastering Color Correction Applying Free LUTs in OBS Productions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-visual-depth-with-hdri-techniques-over-sdr/"><u>[Updated] Mastering Visual Depth with HDRI Techniques Over SDR</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-quick-focus-effortless-viewport-changes-on-iphone/"><u>[Updated] Quick Focus Effortless Viewport Changes on iPhone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-guide-capturing-your-ps4-experience/"><u>[Updated] The Ultimate Guide Capturing Your PS4 Experience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premiere-pro-rapid-transitions/"><u>In 2024, Premiere Pro Rapid Transitions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-level-hdr-mastery-your-compre-point-of-entry/"><u>In 2024, Pro Level HDR Mastery Your Compre Point of Entry</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-k70e-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi K70E Device</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/perfecting-sound-with-advanced-audacity-methods/"><u>Perfecting Sound with Advanced Audacity Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/real-world-wins-with-cutting-edge-game-tech/"><u>Real-World Wins with Cutting-Edge Game Tech</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/stay-trendy-and-active-with-the-new-garmin-vivomove-hr-smartwatch-reviewed-here/"><u>Stay Trendy & Active with the New Garmin Vivomove HR Smartwatch Reviewed Here!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/triumph-over-compatibility-windows-and-nvidia/"><u>Triumph Over Compatibility: Windows & Nvidia</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-sculpting-soft-amplitude-in-fl-studio-tracks/"><u>[New] In 2024, Sculpting Soft Amplitude in FL Studio Tracks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pixel-powerhouse-comparing-leading-8k-tv-innovations/"><u>[New] Pixel Powerhouse Comparing Leading 8K TV Innovations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-projector-or-tv-optimal-choice-for-excellent-4k-display-experience/"><u>[New] Projector or TV Optimal Choice for Excellent 4K Display Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-recording-sims-4-games-a-complete-beginners-guide/"><u>[New] Recording Sims 4 Games A Complete Beginner's Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-aquatic-videography-evolved-top-camcorders-of-the-year-for-2024/"><u>[Updated] Aquatic Videography Evolved - Top Camcorders of the Year for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-flawless-sound-overlap-exploring-crossfade/"><u>[Updated] Flawless Sound Overlap Exploring Crossfade</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-reducing-camera-movement-in-post-processing-necessary/"><u>[Updated] Reducing Camera Movement in Post-Processing Necessary?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-simplified-approach-to-crafting-professional-time-lapse-videos-in-gopro-studio/"><u>[Updated] Simplified Approach to Crafting Professional Time Lapse Videos in GoPro Studio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-iphone-photo-excellence-simple-tips-and-tricks/"><u>2024 Approved IPhone Photo Excellence Simple Tips & Tricks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mirth-makers-zombie-shadowbenders/"><u>2024 Approved Mirth Makers Zombie Shadowbenders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-saving-big-on-final-cut-pro-without-paying/"><u>2024 Approved Saving Big on Final Cut Pro without Paying</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Fixing Foneazy MockGo Not Working On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-asus-rog-phone-7-ultimate-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Asus ROG Phone 7 Ultimate Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a34-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A34 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-voice-input-technology-apps/"><u>Leading Voice Input Technology Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seo-excellence-transforming-podcast-discoverability-for-2024/"><u>SEO Excellence Transforming Podcast Discoverability for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-magsafe-gadgets-of-2024-expert-tests-and-reviews/"><u>Top-Rated Magsafe Gadgets of 2024: Expert Tests & Reviews</u></a></li>
 </ul></div>
 

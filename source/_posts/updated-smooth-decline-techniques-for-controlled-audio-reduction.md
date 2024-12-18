@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Smooth Decline Techniques for Controlled Audio Reduction"
-date: 2024-12-05T20:32:24.252Z
-updated: 2024-12-11T17:26:45.256Z
+date: 2024-12-16T06:12:36.833Z
+updated: 2024-12-18T05:49:28.948Z
 tags: 
   - screen-recording
   - ai video
@@ -23,7 +23,7 @@ Fruity loop studio, also known as FL Studio is a digital audio workstation (DAW)
 There are many features available in FL Studio which help for recording purposes or live performance. You can record your audio to your mac or pc at very ease. It has become a powerful tool for music producers and DJs. Image-Line provides us with another crucial feature for creating professional music. It gives you a clear sound with HD sound for its 64-bit architecture. There is another feature called Delay compensation which creates a fantastic mix without overloading the CPU.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. Steps to Fade Audio with FL Studio
@@ -36,23 +36,19 @@ Step1 The first and foremost task to do is the successful installation of FL Stu
 
 ![open fl studio](https://images.wondershare.com/filmora/article-images/2022/07/open-fl-studio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Open your FL Studio window on your pc or mac. Then, choose the right volume parameter for the creation of automation in your FL studio. You can do it using the mixer channel method.
 
 Step3 After getting the volume parameter, now you will need to create automation. For this, you will have to click right in the volume layer and then tap on ‘Create Automation Clip’.
 
 ![create automation clips fl studio](https://images.wondershare.com/filmora/article-images/2022/07/create-automation-clips-fl-studio.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After selecting that, there will be an addition of a new automation clip to the playlist.
 
 Step4 Due to the automation clip, you will be able to do a smooth transition in and out of that song or audio. Now, you can create a suitable volume for fading your sound. If you want to create another new automation, then click on the right. After that click on the left and drag it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. FL Studio Alternative to Fade Audio
 
@@ -68,6 +64,10 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
@@ -76,14 +76,10 @@ Step3 If you want your audio to fade out, again go to the audio setting. Then dr
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related FAQs of FL Studio Audio Editing
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. How to fade out FL studio mobile?
@@ -104,6 +100,10 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
@@ -114,13 +114,13 @@ No matter which audio editing software, what matters is the learning outcome. Le
 
 ## Related FAQs of FL Studio Audio Editing
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. How to crescendo in FL studio?
 
@@ -154,19 +154,20 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-humorhub-generate-awesome-memes/"><u>[New] 2024 Approved HumorHub Generate Awesome Memes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-saturation-savvy-professionals-secrets-revealed/"><u>[New] Saturation Savvy Professionals' Secrets Revealed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-orchestrating-your-playlists-from-one-to-another/"><u>[Updated] Orchestrating Your Playlists From One to Another</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-recording-iphone-7-display-a-comprehensive-guide/"><u>2024 Approved Recording iPhone 7 Display A Comprehensive Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oppo-a78-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Oppo A78 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/immerse-yourself-in-crystal-clear-visuals-with-the-sony-49-xbr49x900f-a-detailed-examination/"><u>Immerse Yourself In Crystal Clear Visuals With the Sony 49 XBR49X900F: A Detailed Examination</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-guide-eradicating-pending-videos-on-your-youtube-queue/"><u>In 2024, Guide Eradicating Pending Videos on Your YouTube Queue</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-professionals-choice-best-drone-gimbals/"><u>In 2024, Professional's Choice Best Drone Gimbals</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/integrating-luts-into-professional-movie-post-processing-for-2024/"><u>Integrating Luts Into Professional Movie Post-Processing for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/peak-posts-on-reddit-honoring-10-highly-engaging-threads-for-2024/"><u>Peak Posts on Reddit Honoring 10 Highly Engaging Threads for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-on-transforming-m4a-recordings-into-wma-with-easy-tricks/"><u>Step-by-Step Tutorial on Transforming M4A Recordings Into WMA with Easy Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-lower-ntoskrnlexe-usage/"><u>Strategies to Lower Ntoskrnl.exe Usage</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-samsung-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Samsung Phones</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-calculating-the-storage-space-of-24-hour-videos-for-2024/"><u>[New] Calculating the Storage Space of 24-Hour Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-nexus-core-systems-single-screen-high-definition-touch/"><u>[New] Nexus Core Systems Single Screen, High Definition Touch</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mastering-pip-mode-with-youtube-on-your-iphone-device/"><u>[Updated] In 2024, Mastering PIP Mode with YouTube on Your iPhone Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-lighten-the-digital-landscape-kapwings-meme-builder/"><u>2024 Approved Lighten the Digital Landscape Kapwing's Meme Builder</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-lustrous-android-video-techniques-for-every-user/"><u>2024 Approved Lustrous Android Video Techniques for Every User</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-merging-melodies-the-art-of-crossfading/"><u>2024 Approved Merging Melodies The Art of Crossfading</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-zoom-for-seamless-fb-live-broadcasts/"><u>2024 Approved Navigating Zoom for Seamless FB Live Broadcasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sony-a6400-video-vanishing-how-to-stop-it/"><u>2024 Approved Sony A6400 Video Vanishing - How to Stop It?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/capturing-photos-from-moving-frames-on-windows-11-for-2024/"><u>Capturing Photos From Moving Frames on Windows 11 for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-capture-and-conserve-the-instagram-freedom-toolkit/"><u>In 2024, Capture and Conserve The Instagram Freedom Toolkit</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-devices-for-jiggle-free-filming-experience/"><u>In 2024, Optimal Devices for Jiggle-Free Filming Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-drone-selections-to-enhance-gopro-videos/"><u>In 2024, Prime Drone Selections to Enhance GoPro Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-savings-on-ipads-exclusive-offers-just-for-you/"><u>Top Savings on iPads: Exclusive Offers Just For You</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012100302-troubleshooting-dark-mode-display-glitches-in-cod-wwii-game-on-windows-systems-fix-now/"><u>Troubleshooting Dark Mode Display Glitches in COD: WWII Game on Windows Systems – Fix Now!</u></a></li>
 </ul></div>
 

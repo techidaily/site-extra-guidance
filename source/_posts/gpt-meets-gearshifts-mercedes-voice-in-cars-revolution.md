@@ -1,7 +1,7 @@
 ---
 title: "GPT Meets Gearshifts: Mercedes' VOICE in Cars Revolution"
-date: 2024-12-05T18:50:09.908Z
-updated: 2024-12-11T19:24:55.215Z
+date: 2024-12-13T02:20:48.050Z
+updated: 2024-12-17T21:44:16.543Z
 tags:
   - chatgpt
   - open-ai
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
  The apps are available now via the Play Store and App Store, although you do have to join the waiting list to try out the chatbot functionality if you don't have access already.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI-Powered Bing Comes to Mobile
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Skype Gets AI Features
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -96,18 +96,20 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-blurred-background-the-beginners-guide-to-avoid-distractions/"><u>[New] 2024 Approved Blurred Background The Beginner's Guide to Avoid Distractions</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-compile-of-the-most-beautiful-wedding-videos-youtube-and-vimeo-edition/"><u>[New] 2024 Approved Compile of the Most Beautiful Wedding Videos - Youtube & Vimeo Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-master-videoleap-to-capture-up-close-footage/"><u>[Updated] Master Videoleap to Capture Up-Close Footage</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-seamless-music-segmentation-the-art-of-crossfade/"><u>[Updated] Mastering Seamless Music Segmentation The Art of Crossfade</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-next-gen-methods-for-breathtaking-android-time-lapses/"><u>[Updated] Next-Gen Methods for Breathtaking Android Time-Lapses</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-optimal-energy-packs-for-black-gopro-hero5-certified-and-imposters/"><u>[Updated] Optimal Energy Packs for Black GoPro Hero5 – Certified & Imposters</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-top-10-innovative-nano-drones-this-year/"><u>[Updated] Top 10 Innovative Nano Drones This Year</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/best-replacement-options-free-and-paid-tools-beyond-freemake-video-converter-ranked/"><u>Best Replacement Options: Free & Paid Tools Beyond Freemake Video Converter, Ranked!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-fix-facebook-videos-not-playing-on-androidiphonechrome/"><u>In 2024, Fix Facebook Videos Not Playing on Android/iPhone/Chrome</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-final-cut-the-ultimate-guide-for-2024/"><u>Mastering Final Cut The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/smoothly-blending-bio-and-linktree-on-your-tiktok-platform-for-2024/"><u>Smoothly Blending Bio & Linktree on Your TikTok Platform for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/stunning-deals-top-ranking-samsung-television-now-43-discounted-on-labor-day-insider-review/"><u>Stunning Deals: Top-Ranking Samsung Television Now 43% Discounted on Labor Day - Insider Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-advanced-techniques-for-capturing-high-quality-skype-calls/"><u>[New] In 2024, Advanced Techniques for Capturing High-Quality Skype Calls</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-open-source-templates-galore-boosting-your-biz-presentations/"><u>[New] Open Source Templates Galore Boosting Your Biz Presentations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-iphone-methods-for-spherical-footage/"><u>[New] Pro iPhone Methods for Spherical Footage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-podcast-titling-a-comprehensive-approach/"><u>[Updated] Mastering Podcast Titling A Comprehensive Approach</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-quick-and-cool-tips-for-insta-collage-creation/"><u>[Updated] Quick & Cool Tips for Insta Collage Creation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-select-high-quality-drones-for-sale/"><u>2024 Approved Select High-Quality Drones For Sale</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-shortfall-in-digital-guardianship/"><u>AI's Shortfall in Digital Guardianship</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/combating-content-id-blocks-on-youtube-with-knowledge/"><u>Combating Content ID Blocks on YouTube with Knowledge</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ergodyne-topo-mat-evaluation-the-ultimate-comfortable-stepping-stone-against-fatigue/"><u>Ergodyne Topo Mat Evaluation: The Ultimate Comfortable Stepping Stone Against Fatigue</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-xiaomi-13-ultra-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi 13 Ultra Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/recurrence-installer-collection-for-2024/"><u>Recurrence Installer Collection for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-honor-80-pro-straight-screen-edition-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor 80 Pro Straight Screen Edition Reset Code | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-windows-11-battery-status-screen-a-comprehensive-guide/"><u>Understanding the Windows 11 Battery Status Screen: A Comprehensive Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-14-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 14 Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-potential-embrace-note-taking-on-mematic-for-2024/"><u>Unlock Potential Embrace Note-Taking on Mematic for 2024</u></a></li>
 </ul></div>
 

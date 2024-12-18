@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Master Windows 11  A Treasure Trove of Undisclosed Features\""
-date: 2024-07-31T18:26:38.643Z
-updated: 2024-08-01T18:26:38.643Z
+date: 2024-12-17T06:28:51.384Z
+updated: 2024-12-18T00:25:00.113Z
 tags: 
   - screen-recording
   - ai video
@@ -22,15 +22,16 @@ Update of Windows 10 to Windows 11 is a piece of great news for a few people, bu
 
 Windows 11 offer a better multi-monitor functionality. It has new video games options. The updated Windows will have improved performance and features. Still, a lot of the things are hidden from so many people. For that, the article below will share and talk about the hidden [Windows 11 tips and tricks](https://tools.techidaily.com/wondershare/filmora/download/) that will amaze you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. 10 Best Windows 11 Hidden Tips and Tricks
 
 In 2015, Microsoft announced that Windows 10 would be the last version number for the operating system. No one thought that we would ever get an update. Surprisingly, Microsoft is now giving us Windows 11 with advanced features and many improvements. Windows 11 has a drastically new look.
 
 After years of small updates, the biggest and most popular operating system in the world finally has some great news for you. At last, Windows fans have something they should get excited about. The following section of this article will share Windows 11 tips and tricks with you that are hidden and secret.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### 1\. Turn off the Notifications
 
 With the increased number of notifications in Windows 11, you might get annoyed. For that, you can turn off the notifications from the 'Settings.' Either you can go to the settings from the Start Menu or by pressing 'Win+I.' Then, head over to ‘System’ and hit 'Notifications.' The notifications are ‘On’ by default, but you can turn them 'Off' if you want to.
@@ -43,10 +44,11 @@ Minimizing Applications allows you to minimize the extra tabs as a whole rather 
 
 This feature can be activated through Windows Settings and then by clicking on ‘Multi-Tasking.' Switch on the toggle switch next to ‘Title Bar Window Shake,' and it is ready to use.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![minimize applications by shaking](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Shortcut Keys
 
@@ -54,19 +56,23 @@ Windows 11 has many shortcut keys that will save your time on a busy day. These 
 
 ![windows 11 shortcut keys](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Taskbar and Start Menu Placements
 
 The biggest Windows 11 tip and trick is the placement of Taskbar and Start Menu. Windows 11 has a taskbar and start menu in the center. The relocation of the taskbar and the start menu can be done easily. By changing the placement, you can make Windows 11 look like Windows 10 if you prefer it that way. For that, open the ‘Taskbar Behavior’ and click on ‘Taskbar Alignment’ and relocate it.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![align taskbar to the left](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Remove Unwanted Ads on Apps
 
@@ -74,35 +80,20 @@ The updated technology allows you to have better control over the privacy of you
 
 ![disable unwanted ads](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### 6\. Voice Typing Feature
 
 The coolest thing about Windows 11 that most people don’t know is the ‘Voice Typing’ feature. You might have experienced this before in your iPhones or Android devices, but this is new for Windows to have voice typing built-in. Press ‘Windows Key + H’ when you are in a text box and then start speaking. By using the mic button from the pop-out menu, you can start using the feature.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![windows 11 voice typing feature](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 7\. Widgets and Chat Customization
 
 Using Widgets and Chats helps the user have a quick chat with people that they love the most. Widget and Chats are the two new features introduced in Windows 11.
 
 However, some people do not like using this kind of stuff. They don’t even prefer crowding their taskbar. For such cases, you can turn them off from the toggle switches that are available in the ‘Show or Hide the buttons that appear on Taskbar' or 'Taskbar Items. '
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![disable widgets and other items](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### 8\. Block Trackers and Pop-up
 
 Another brilliant Windows 11 tip and trick is that it lets you block the pop-ups and also the tracking. For that, open Microsoft Edge and head over to the 3 dots on the top right corner to open 'Settings.' From the left panel in Settings, look for 'Privacy, Search and Services.' By default, it is set to 'Balanced.' You are suggested to select the 'Strict' option so that all the harmful trackers are blocked.
@@ -110,19 +101,24 @@ Another brilliant Windows 11 tip and trick is that it lets you block the pop-ups
 ![secure your browsing on windows 11](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 9\. Change your Geolocation
 
 Every app we install has our location, but with Windows 11, we can change our default location. For this fun tip, press 'Win + I' to open the 'Settings.' Then head over to the ‘Privacy & Security’ section. Now, scroll down and look for the 'Location' tab.
 
 For changing your default location, hit the ‘Set Default’ button on the right side of the screen. This will open the Map. Now, enter the location that you want to have, and lastly, click on the ‘Change’ button in the top left corner.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![change windows 11 location](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 10\. Bring Folders on Start
 
@@ -130,10 +126,11 @@ Windows 11 tips and tricks also include bringing back the folders on the start m
 
 For that, press ‘Win + I’ and then select 'Personalization.' Now, choose 'Start,' and after that, select 'Folders.' At this point, select the system folders that you want to see on the Start Menu. You can flip the switch to 'On.'
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![bring folders to windows 11 start](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -157,9 +154,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 <ins class="adsbygoogle"
@@ -184,5 +178,22 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-content-delivery-comparison-vimeo-vs-youtube-vs-dailymotion/"><u>[New] 2024 Approved Content Delivery Comparison Vimeo vs YouTube vs Dailymotion</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-hands-on-guide-to-optimize-your-youtube-channels-with-adsense/"><u>[New] 2024 Approved Hands-On Guide to Optimize Your YouTube Channels with AdSense</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-360-degree-pro-cams-2023-edition-review/"><u>[New] Leading 360-Degree Pro Cams 2023 Edition Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionize-your-photos-master-adobes-curving-methods/"><u>[New] Revolutionize Your Photos Master Adobe's Curving Methods</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-composing-prime-canon-temporal-vignettes/"><u>[Updated] 2024 Approved Composing Prime Canon Temporal Vignettes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-best-20-non-copyrighted-pubg-image-gems/"><u>[Updated] In 2024, Best 20 Non-Copyrighted PUBG Image Gems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-connections-unleashed-leveraging-facebook-twitter-instagram-and-youtube/"><u>Digital Connections Unleashed: Leveraging Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-latest-trends-in-360-cameras-a-shoppers-companion/"><u>In 2024, Latest Trends in 360 Cameras – A Shopper's Companion</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/lens-legends-battle-sj6-versus-xiaomis-yi-4k-visionary/"><u>Lens Legends Battle SJ6 Versus Xiaomi's Yi 4K Visionary</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-infinix-note-30-vip-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Infinix Note 30 VIP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-art-of-arranging-informational-conversations-tactfully-tech-insights-hub/"><u>Navigating the Art of Arranging Informational Conversations Tactfully | Tech Insights Hub</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photo-perfection-seamless-text-integration-on-pc-and-mac-systems-for-2024/"><u>Photo Perfection Seamless Text Integration on PC & Mac Systems for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revel-in-every-box-with-these-strategies-for-2024/"><u>Revel in Every Box with These Strategies for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-seamlessly-downloading-and-modifying-tamil-ringtones-for-2024/"><u>Step-by-Step Guide to Seamlessly Downloading and Modifying Tamil Ringtones for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-to-facilitate-engaging-and-efficient-virtual-team-conferences/"><u>Utilizing ChatGPT to Facilitate Engaging and Efficient Virtual Team Conferences</u></a></li>
+</ul></div>
 

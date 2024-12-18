@@ -1,7 +1,7 @@
 ---
 title: "Ide Device Error: Controller Detection"
-date: 2024-12-07T23:21:02.413Z
-updated: 2024-12-11T22:07:23.113Z
+date: 2024-12-10T22:19:24.577Z
+updated: 2024-12-17T21:02:04.992Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
  If you receive this error in Event Viewer: **The driver detected a controller error on \\Device\\Ide\\Ideport0** , you’re not alone.  Many users have reported it. But don’t worry, it’s fixable. And in most cases, the fix is pretty fast and simple…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 1. [**Unplug and replug your hard disk cable**](https://pish-posh-baby.sjv.io/g1jg15)
 2. [**Update your drivers**](https://appsumo.8odi.net/gmezyk)
 3. [**Update your BIOS**](https://tidio.pxf.io/9grog5)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Unplug and replug your hard disk cable
 
@@ -43,6 +35,14 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 2. **Unplug** your hard disk cable from your motherboard, wait a moment and then replug it into the motherboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7a3ca9a5a8-300x280.jpg)
 3. Start your computer and see if the error is fixed. If not, try Fix 2, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your drivers
 
@@ -66,6 +66,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b920e62afcac.jpg)
 4. Restart your computer and check if your “The driver detected a controller error on \\Device\\Ide\\Ideport0” problem is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 3, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your BIOS
 
  Some users fixed their   **The driver detected a controller error on \\Device\\Ide\\Ideport0**  issue with a BIOS upgrade. If the above steps didn’t work for you, you might as well give it a go. Here’s how to update your BIOS:
@@ -75,22 +79,18 @@ OR
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type your system’s manufacturer name, your system’s model name and “BIOS” in the Google search box, then select the matching result to go to the manufacturer’s official website and download BIOS update.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910c00d25e0.jpg)
 4. Verify the update file is**newer** than the BIOS version that you see in System Information. Otherwise, there would be no need to download the update file.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.**Note:** If you find there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
@@ -101,7 +101,7 @@ OR
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
@@ -136,24 +136,18 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-navigate-through-windows-10s-media-importation-elegantly/"><u>[New] Navigate Through Windows 10'S Media Importation Elegantly</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-sculpting-visual-clarity-overcoming-gopro-lens-distortion/"><u>[New] Sculpting Visual Clarity Overcoming GoPro Lens Distortion</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-sleepy-tales-in-visual-format-analysis/"><u>[New] Sleepy Tales in Visual Format Analysis</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-which-ios-app-crushes-in-video-editing-in-2024-cameo-or-filmorago/"><u>[New] Which iOS App Crushes in Video Editing, In 2024 Cameo or FilmoraGo?</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-curating-relevant-skills-list/"><u>[Updated] 2024 Approved Curating Relevant Skills List</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-your-step-by-step-guide-to-youtube-studio-mastery/"><u>[Updated] 2024 Approved Your Step-by-Step Guide to YouTube Studio Mastery</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-youtube-titulos-con-algoritmos/"><u>[Updated] Mastering YouTube Títulos Con Algoritmos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-revamp-your-chat-audio-experience-with-a-personalized-whatsapp-ringtone/"><u>[Updated] Revamp Your Chat Audio Experience with a Personalized WhatsApp Ringtone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/win11screen-recorder-2023/"><u>讓你在Win11下完美使用自由及不需付費的全新Screen Recorder工具 - 當代最頂尖選擇！【2023年度更新版】</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/black-friday-bargains-for-gamers-unmissable-deals-and-steals-in-october-2024-zdnet/"><u>Black Friday Bargains for Gamers: Unmissable Deals & Steals in October 2024 - ZDNet</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-change-the-task-manager-start-page-in-windows-11/"><u>How to Change the Task Manager Start Page in Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-realme-c33-2023-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Realme C33 2023 Through Google Earth?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-inside-the-evolved-sony-bdp-s6700-world/"><u>In 2024, Inside the Evolved Sony BDP-S6700 World</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-professional-tiktok-videos-with-strategic-zoom-use/"><u>In 2024, Professional TikTok Videos with Strategic Zoom Use</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-secure-your-stream-with-these-top-5-mac-tools/"><u>In 2024, Secure Your Stream with These Top 5 Mac Tools</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-samsung-galaxy-f15-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Samsung Galaxy F15 5G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pushing-boundaries-advanced-iphone-silhouette-techniques-for-2024/"><u>Pushing Boundaries Advanced iPhone Silhouette Techniques for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-elevate-video-visibility-with-expert-titles/"><u>[New] In 2024, Elevate Video Visibility with Expert Titles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-writing-in-cinemas-diverse-segments/"><u>[New] Pinnacle Writing in Cinema's Diverse Segments</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-crafting-co-exclusive-brands-and-youtube-experiences/"><u>[Updated] In 2024, Crafting Co-Exclusive Brands and YouTube Experiences</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-key-concepts-in-image-manipulation/"><u>[Updated] Key Concepts in Image Manipulation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-select-blur-apps-for-softened-backdrops/"><u>2024 Approved Select Blur Apps for Softened Backdrops</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/comprehensive-msi-academy-online-tutorials/"><u>Comprehensive MSI Academy Online Tutorials</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-use-chroma-keying-in-video-making/"><u>How to Use Chroma Keying in Video Making</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pushing-creative-boundaries-mastering-3d-lut-techniques/"><u>In 2024, Pushing Creative Boundaries Mastering 3D Lut Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/make-your-screenshots-stand-out-the-ultimate-ios-and-android-app-list-for-2024/"><u>Make Your Screenshots Stand Out The Ultimate iOS & Android App List for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximizing-visual-impact-with-extra-camera-work-for-2024/"><u>Maximizing Visual Impact with Extra Camera Work for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-lenovo-thinkphone-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Lenovo ThinkPhone Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-setting-up-disney-plus-streaming-on-your-google-chromecast-device/"><u>The Ultimate Walkthrough: Setting Up Disney Plus Streaming on Your Google Chromecast Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Oppo A18 | Dr.fone</u></a></li>
 </ul></div>
 

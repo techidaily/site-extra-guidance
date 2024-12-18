@@ -1,7 +1,7 @@
 ---
 title: "[New] Spotlight Subject, Erase Bg in Photo Editing"
-date: 2024-07-31T18:29:55.915Z
-updated: 2024-08-01T18:29:55.915Z
+date: 2024-12-16T20:07:52.828Z
+updated: 2024-12-17T17:10:18.873Z
 tags: 
   - screen-recording
   - ai video
@@ -22,13 +22,14 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -37,9 +38,6 @@ Step1 In the first step, install the [Affinity Designer](https://affinity.serif.
 
 Now access the **Pixel Persona** section in the left corner of the software screen by clicking the **colored boxes** icon.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
@@ -48,9 +46,6 @@ Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and 
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -64,6 +59,10 @@ Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Remove a Busy Background in Affinity Designer
 
@@ -100,10 +99,11 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
@@ -122,8 +122,9 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -135,17 +136,15 @@ And if you have any interests in finding free images to expand your resource, yo
 Hopefully, this article and video can help you create ideal images!
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -196,5 +195,26 @@ Hopefully, this article and video can help you create ideal images!
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-platforms-modeling-animating-unite/"><u>[New] Leading Platforms Modeling, Animating Unite</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revisiting-erased-reddit-topics-fast-and-efficient-ways/"><u>[New] Revisiting Erased Reddit Topics Fast & Efficient Ways</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionize-your-movie-experience-with-free-apps/"><u>[New] Revolutionize Your Movie Experience with Free Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-audio-prime-websites-for-turning-video-melodies-into-sound-effects/"><u>[New] Seamless Audio Prime Websites for Turning Video Melodies Into Sound Effects</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unveiling-secrets-how-to-dominate-fb-searches-with-these-10-hacks/"><u>[New] Unveiling Secrets How to Dominate FB Searches with These 10 Hacks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-ultimate-photo-frame-tools/"><u>[New] Unveiling the Ultimate Photo Frame Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-could-not-connect-to-the-system-event-notification-service-service/"><u>[SOLVED] Windows Could Not Connect to the System Event Notification Service Service</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-decoding-digital-domain-dynamics-metaverse-edition/"><u>[Updated] Decoding Digital Domain Dynamics Metaverse Edition</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-crafting-captivating-animations-creating-gifs-from-your-favorite-youtube-videos/"><u>2024 Approved Crafting Captivating Animations Creating GIFs From Your Favorite YouTube Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-iphone-hdr-masterclass-from-basics-to-brilliance/"><u>2024 Approved IPhone HDR Masterclass From Basics to Brilliance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-os-bridging-virtualmix-pro/"><u>2024 Approved OS-Bridging VirtualMix Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-professional-handbook-integrating-countdown-mechanisms-into-streaming-tools/"><u>2024 Approved Professional Handbook Integrating Countdown Mechanisms Into Streaming Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-13t-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi 13T Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-bose-ultra-series-earphones-analysis-the-perfect-companion-for-constant-use/"><u>Comprehensive Bose Ultra Series Earphones Analysis: The Perfect Companion for Constant Use</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-one-earbud-woes-restoration-tips/"><u>In 2024, One Earbud Woes Restoration Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-selection-your-guide-to-best-tv-streaming-choices/"><u>In 2024, Prime Selection Your Guide to Best TV Streaming Choices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-safeguarding-sound-quality-while-speeding-up-tracks/"><u>In 2024, Safeguarding Sound Quality While Speeding Up Tracks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-v27-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo V27 Pro Device</u></a></li>
+<li><a href="https://win11.techidaily.com/key-apps-to-integrate-your-windows-pc-with-android/"><u>Key Apps to Integrate Your Windows PC with Android</u></a></li>
+</ul></div>
 

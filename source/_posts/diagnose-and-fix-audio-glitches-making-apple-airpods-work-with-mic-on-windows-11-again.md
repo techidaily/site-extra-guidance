@@ -1,7 +1,7 @@
 ---
 title: "Diagnose and Fix Audio Glitches: Making Apple AirPods Work with Mic on Windows 11 Again"
-date: 2024-12-10T21:54:42.991Z
-updated: 2024-12-11T23:50:53.761Z
+date: 2024-12-14T23:55:02.819Z
+updated: 2024-12-18T01:47:53.202Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ Before you start, make sure your headset is working properly.
 4. [**Update your Windows system**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Enable Enhance audio
 
  If you have sound issues or can’t bear an awful sound that goes through your headset, this simple trick may help. We don’t know the mechanism behind the trick yet, but many users have proved it’s a working fix.
@@ -42,11 +38,15 @@ Before you start, make sure your headset is working properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound1.jpg)
 3. Scroll down to find**Enhance audio** . Turn Enhance audio on and then back off.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound2.jpg)
 4. Check your PC sound, it should be back to normal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this trick doesn’t work for you, please move to the next fix.
@@ -61,6 +61,10 @@ If this trick doesn’t work for you, please move to the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -83,7 +87,7 @@ If this fix doesn’t help, move to the next fix.
 3. Click**Browse my computer for drivers** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound5.jpg)
@@ -93,7 +97,7 @@ If this fix doesn’t help, move to the next fix.
 5. Check**Show compatible hardware** . Then click**High Definition Audio Device** \>**Next** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound7.jpg)
@@ -104,10 +108,6 @@ If this fix doesn’t help, move to the next fix.
 
 8. Check the sound on your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Update your Windows system
 
  Windows 11 will release new updates to fix some issues, so check for updates and it might cure the Windows 11 no sound issue. You can do it manually by following the steps below.
@@ -117,11 +117,11 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound9.jpg)
 3. Windows will check the latest available updates for you. If you have available updates, Windows 11 will download and install them automatically.
 
-4. After the whole process, restart your PC and check the effect.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. After the whole process, restart your PC and check the effect.
 
 ## Fix 5: Repair system files
 
@@ -139,7 +139,7 @@ If this fix doesn’t help, move to the next fix.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -164,24 +164,16 @@ If this fix doesn’t help, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-cutting-edge-tech-to-record-your-remote-gatherings-for-2024/"><u>[New] Cutting-Edge Tech to Record Your Remote Gatherings for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-your-media-content-via-youtube-studio-editing-skills/"><u>[New] In 2024, Elevate Your Media Content via YouTube Studio Editing Skills</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-navigating-affinity-photos-features-to-excise-borders-effectively/"><u>[New] In 2024, Navigating Affinity Photo's Features to Excise Borders Effectively</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-laying-the-groundwork-for-av1-understanding/"><u>[New] Laying The Groundwork for AV1 Understanding</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-master-iphone-motion-blur-effects-in-images/"><u>[New] Master iPhone Motion-Blur Effects in Images</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-optimizing-your-mac-for-big-sur-release/"><u>[New] Optimizing Your Mac for Big Sur Release</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-screen-aspect-formulas-and-alterations-online/"><u>[New] Screen Aspect Formulas and Alterations Online</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-seamless-integration-offline-watching-of-youtube-via-ios/"><u>[Updated] Seamless Integration Offline Watching of YouTube via iOS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-select-blur-apps-for-softened-backdrops/"><u>[Updated] Select Blur Apps for Softened Backdrops</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-integrating-linktree-a-step-by-step-approach-to-tiktok-bio-enhancement/"><u>2024 Approved Integrating Linktree A Step-by-Step Approach to TikTok Bio Enhancement</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-professional-tips-for-capturing-audio-in-audacity/"><u>2024 Approved Professional Tips for Capturing Audio in Audacity</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-ranking-androids-most-innovative-collage-apps/"><u>2024 Approved Ranking Android’s Most Innovative Collage Apps</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-expensive-efficiency-a-thorough-review-of-the-thermaltake-massive-laptop-cooler/"><u>Evaluating the Expensive Efficiency: A Thorough Review of the Thermaltake Massive Laptop Cooler</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-instantly-personalize-your-phones-from-tiktok-sounds-to-ringtones/"><u>In 2024, Instantly Personalize Your Phones From TikTok Sounds to Ringtones</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-guide-to-free-and-paid-android-video-editors/"><u>New The Ultimate Guide to Free and Paid Android Video Editors</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ornate-asian-dwellings-for-your-next-build-off-for-2024/"><u>Ornate Asian Dwellings for Your Next Build-Off for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshooting-guide-how-to-fix-connection-issues-between-your-pc-and-printer-expert-advice-from-yl-computing/"><u>Troubleshooting Guide: How to Fix Connection Issues Between Your PC and Printer - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/your-one-stop-resource-for-best-free-3d-text-psds/"><u>Your One-Stop Resource for Best FREE 3D Text PSDs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-to-creating-breathtaking-tile-art/"><u>[New] Step-by-Step Guide to Creating Breathtaking Tile Art</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-world-of-ppc-advertising-essential-guidance-for-newbies-on-social-platforms/"><u>[Updated] Navigating the World of PPC Advertising Essential Guidance for Newbies on Social Platforms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-convert-stacks-of-jpeg-pictures-into-a-unified-pdf-format-easily/"><u>How to Convert Stacks of JPEG Pictures Into a Unified PDF Format Easily</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y78-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y78 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mysterious-rotation-of-videos-on-the-social-app/"><u>In 2024, Mysterious Rotation of Videos on the Social App</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-tinyflicker-log-capture-and-competing-tools/"><u>In 2024, TinyFlicker Log Capture & Competing Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-windowsmac-meeting-record-skype-guide/"><u>In 2024, Windows/Mac Meeting Record - Skype Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/new-innovations-in-songbookdb-a-revolutionary-karaoke-song-selection-platform/"><u>New Innovations in SongbookDB: A Revolutionary Karaoke Song Selection Platform</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/scrutinizing-hero5s-performance-throughout-day-for-2024/"><u>Scrutinizing Hero5's Performance Throughout Day for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/securing-your-images-the-essential-guide-to-understanding-copyright-laws/"><u>Securing Your Images: The Essential Guide to Understanding Copyright Laws</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210334594-9781506468624-take-what-you-need-life-lessons-after-losing-everything/"><u>Take What You Need: Life Lessons after Losing Everything | Free Book</u></a></li>
 </ul></div>
 

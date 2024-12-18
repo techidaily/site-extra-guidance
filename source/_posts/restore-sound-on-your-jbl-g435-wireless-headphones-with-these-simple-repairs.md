@@ -1,7 +1,7 @@
 ---
 title: Restore Sound on Your JBL G435 Wireless Headphones with These Simple Repairs
-date: 2024-12-08T00:08:13.811Z
-updated: 2024-12-11T21:55:46.059Z
+date: 2024-12-11T00:42:49.753Z
+updated: 2024-12-18T04:47:21.329Z
 tags:
   - win11
   - win10
@@ -43,16 +43,16 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 2: Disable Exclusive Mode and change the sound format**
 
  Having **Exclusive Mode**   on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the **crackling or popping sound** in headphone  problem. To disable **Exclusive Mode** :
 
  1) On the bottom right of your screen, right-click on**the sound icon** , then click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/12sound.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the**Playback** tab, right-click on**speakers** and click **Properties** .
 
@@ -62,6 +62,10 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Play some music and check if the sound coming through is noise-free now. If not, continue with **5)** to **change the audio format** .
 
  5) Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \> **OK** .
@@ -69,7 +73,7 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Hopefully the popping/crackling sound in your headphone problem has gone by now. If not, you might also want to change it to other audio formats to see if it works.
@@ -91,18 +95,14 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7 day trial has ended.).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/IntelR-Display-Audio.jpg)
 4. Restart your computer, play some audio through your headphone to see if this nasty crackling noise has been resolved. If yes, then great! If it’s still happening, move on to **Fix 4**  , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Adjust **the minimum processor state**
 
@@ -112,15 +112,15 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)
 
@@ -151,18 +151,20 @@ Having a headphone crackling problem? You’re certainly not alone. But don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-leading-tech-for-cloud-saving-top-choices-for-android/"><u>[New] Leading Tech for Cloud Saving Top Choices for Android</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/avigating-numbers-essential-online-stock-market-guides/"><u>[New] Navigating Numbers Essential Online Stock Market Guides</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-dissecting-drama-introducing-chapters-to-video-content-for-2024/"><u>[Updated] Dissecting Drama Introducing Chapters to Video Content for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-mastering-elegant-mosaic-imagery-fusions/"><u>[Updated] Mastering Elegant Mosaic Imagery Fusions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mobile-editors-roundup-top-8-choices-for-iphone-and-android-users/"><u>[Updated] Mobile Editors Roundup Top 8 Choices for iPhone and Android Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplifying-color-grading-a-comprehensive-look-at-luts/"><u>2024 Approved Simplifying Color Grading A Comprehensive Look at LUTs</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-embedding-youtube-playlists-step-by-step-guide/"><u>In 2024, Embedding YouTube Playlists Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-initiate-your-journey-into-asmr-filming-essential-insights-revealed/"><u>In 2024, Initiate Your Journey Into ASMR Filming – Essential Insights Revealed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-ipads-drawing-dynasty-top-8-sketch-apps/"><u>In 2024, IPad's Drawing Dynasty Top 8 Sketch Apps</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-mastering-ppt-presentation-in-google-meet-mobile-and-laptop/"><u>In 2024, Mastering PPT Presentation in Google Meet (Mobile & Laptop)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 13 Pro Max</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/instavox-the-art-of-adding-music-to-images-for-2024/"><u>InstaVox The Art of Adding Music to Images for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-firmware-update-for-logitech-extreme-3d-pro-gaming-mouse-drivers/"><u>Latest Firmware Update for Logitech Extreme 3D PRO Gaming Mouse Drivers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-intro-to-photo-editing-mastering-lunapic-basics/"><u>[New] Intro to Photo Editing Mastering LunaPic Basics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-dialogue-composers-circle/"><u>[New] Leading Dialogue Composer's Circle</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-markets-best-gpus-for-uhd-video-processing/"><u>[New] Market's Best GPUs for UHD Video Processing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-elevate-vlogging-quality-the-ultimate-12-recommended-cam-picks/"><u>[Updated] 2024 Approved Elevate Vlogging Quality - The Ultimate 12 Recommended Cam Picks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionary-marketing-tactics-keyword-essentials/"><u>[Updated] Revolutionary Marketing Tactics Keyword Essentials</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionary-wraps-transforming-virtual-reality-play/"><u>[Updated] Revolutionary Wraps Transforming Virtual Reality Play</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581148025-daily-slices-of-success-learn-slovak-online-10-minutes-each/"><u>Daily Slices of Success: Learn Slovak Online, 10 Minutes Each!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enabling-mobile-internet-sharing-on-your-iphone-for-wireless-connectivity/"><u>Enabling Mobile Internet Sharing on Your iPhone for Wireless Connectivity</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-how-to-set-up-zoom-for-video-meeting/"><u>In 2024, How to Set up Zoom for Video Meeting</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-next-level-entertainment-the-rise-of-vr-applications/"><u>In 2024, Next-Level Entertainment The Rise of VR Applications</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-to-stop-automatic-steam-renewals/"><u>Learn to Stop Automatic Steam Renewals</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>New Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sj7-unveils-its-ultimate-4k-action-camera-a-comprehensive-report/"><u>SJ7 Unveils Its Ultimate 4K Action Camera - A Comprehensive Report</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-new-apple-tv-4k-gen-3-a-detailed-examination-and-review/"><u>The New Apple TV 4K (Gen 3): A Detailed Examination and Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-5-critical-points-before-investing-in-a-smartwatch/"><u>The Ultimate Guide: 5 Critical Points Before Investing in a Smartwatch</u></a></li>
 </ul></div>
 

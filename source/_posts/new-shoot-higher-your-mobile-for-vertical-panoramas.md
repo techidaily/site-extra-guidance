@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shoot Higher  Your Mobile for Vertical Panoramas\""
-date: 2024-11-21T22:25:21.449Z
-updated: 2024-11-25T20:08:43.392Z
+date: 2024-12-15T00:54:55.075Z
+updated: 2024-12-18T03:07:15.019Z
 tags: 
   - screen-recording
   - ai video
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to take vertical panorama photography with your respective Smartphone
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 * [Part 2: For Android Users](#part2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For iPhone users
@@ -57,13 +57,17 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image source: mac-fusion
 
 * Begin to go along with the upward arrow on the screen to capture the desired vertorama.
 * Once finished and satisfied, just tap on "Done" option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### For Android users
 
@@ -73,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 * Hit on "Vertical" and begin the process.
 
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image source: mac-fusion
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -112,20 +112,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-free-thumbnail-extract-from-youtube-videos-today/"><u>[New] 2024 Approved Free Thumbnail Extract From YouTube Videos Today!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-best-8-sbt-to-srtr-conversion-tools-pcmac-compatibility/"><u>[New] Best 8 SBT to SRTR Conversion Tools - PC/Mac Compatibility</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-get-your-video-dimensions-spot-on-for-instagram-sharing/"><u>[Updated] In 2024, Get Your Video Dimensions Spot-On for Instagram Sharing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-instantaneous-srt-to-txt-change-a-step-by-step-process/"><u>[Updated] Instantaneous SRT to TXT Change A Step-by-Step Process</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-tiktok-audio-transform-into-phone-ringtones/"><u>[Updated] Mastering TikTok Audio Transform Into Phone Ringtones</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-reliable-steps-toward-attaining-safe-and-ethical-one-million-follower-status/"><u>[Updated] Reliable Steps Toward Attaining Safe and Ethical One-Million Follower Status</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-ringers-paradise-top-downloads-for-skype-sounds/"><u>[Updated] Ringer's Paradise Top Downloads for Skype Sounds</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-yuneec-typhoon-q500-4k-review/"><u>[Updated] Yuneec Typhoon Q500 4K Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-masterful-color-transformations-with-free-and-paid-luts-for-cameras/"><u>2024 Approved Masterful Color Transformations with Free & Paid LUTs for Cameras</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-revival-artisan-selection/"><u>2024 Approved Revival Artisan Selection</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/3-ways-to-track-apple-iphone-6-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>3 Ways to Track Apple iPhone 6 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-issues-troubleshooting-non-functional-voice-communication-in-league-of-legends/"><u>Fixing Issues: Troubleshooting Non-Functional Voice Communication in League of Legends</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovating-artificial-minds-how-apples-recent-ai-breakthroughs-are-shaping-the-future-of-technology-nextgentech-news/"><u>Innovating Artificial Minds: How Apple's Recent AI Breakthroughs Are Shaping the Future of Technology | NextGenTech News</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-launch-errors-in-armored-core-vi-expert-strategies-to-get-fires-of-rubicon-running-smoothly/"><u>Overcoming Launch Errors in Armored Core VI: Expert Strategies to Get Fires of Rubicon Running Smoothly</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-honor-magic-v2-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor Magic V2? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ensuring-compliance-with-fb-messenger-call-records/"><u>[New] 2024 Approved Ensuring Compliance with FB Messenger Call Records</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-srt-and-mp4-synergy-a-comprehensive-guide-edition/"><u>[New] SRT & MP4 Synergy A Comprehensive Guide Edition</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-best-online-junctions-providing-free-high-end-vector-artworks-and-graphics/"><u>[Updated] In 2024, Best Online Junctions Providing Free, High-End Vector Artworks & Graphics</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-key-aspects-of-creating-animated-visual-narratives/"><u>[Updated] In 2024, Key Aspects of Creating Animated Visual Narratives</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premier-music-broadcasts-online/"><u>[Updated] Premier Music Broadcasts Online</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-reverse-order-effortless-methods-for-list-rearrangement/"><u>[Updated] Reverse Order Effortless Methods for List Rearrangement</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-lines-that-captivate-the-craft-of-writing-dialogue/"><u>2024 Approved Lines That Captivate The Craft of Writing Dialogue</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-pc-color-with-windows-hdri/"><u>2024 Approved Maximizing PC Color with Windows HDRI</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-guide-to-fb-avatar-inclusion-in-whatsapp-discussions/"><u>A Guide to FB Avatar Inclusion in WhatsApp Discussions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-note-30-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Note 30 5G Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo V30 Phone Without Password?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-online-meetings-zoom-tips-for-chromebooks/"><u>In 2024, Mastering Online Meetings Zoom Tips for Chromebooks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-iphone-photography-top-app-picks-x-7/"><u>In 2024, Prime iPhone Photography Top App Picks (X, 7)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-tecno-phantom-v-flip-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Tecno Phantom V Flip Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-realme-gt-neo-5-se-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Realme GT Neo 5 SE without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seconds-in-a-snapshot-20mb-videography-for-2024/"><u>Seconds in a Snapshot 20MB Videography for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/social-media-stardom-in-a-nutshell-master-these-9-tactics-for-insta-glory-for-2024/"><u>Social Media Stardom in a Nutshell Master These 9 Tactics for Insta Glory for 2024</u></a></li>
 </ul></div>
 

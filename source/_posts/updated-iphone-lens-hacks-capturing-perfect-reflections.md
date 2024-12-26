@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Lens Hacks  Capturing Perfect Reflections\""
-date: 2024-12-11T16:31:48.968Z
-updated: 2024-12-17T17:34:35.180Z
+date: 2024-12-21T20:31:09.009Z
+updated: 2024-12-26T19:46:40.585Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
  So let's get snapping!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tips For Perfect Reflective Photography With Your iPhone
 
 #### 1\.  The Surface
@@ -51,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
  A Crystal/Glass Ball
 
 ![reflection-photography-for-iPhone](https://images.wondershare.com/filmora/article-images/crystal-ball.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Water in a wine glass (turns everything upside down too!)
 
@@ -72,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![reflection-composition-tips](https://images.wondershare.com/filmora/article-images/reflection-composition-tips.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To activate the lines simply go to **Settings > Camera and Photographs > Grid**
 
 #### 3\.  Keep it Simple
@@ -85,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![keep-the-image-simple](https://images.wondershare.com/filmora/article-images/keep-the-image-simple.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Awful
@@ -93,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 4\.  Reality and Reflection
@@ -139,11 +135,19 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![reflection-create-water-reflection-photo-arts](https://images.wondershare.com/filmora/article-images/reflection-create-water-reflection-photo-arts.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Super user friendly app lets you create HD photos and it's intuitive feature means you can create reflective photos in a few taps. This is one of the best apps in terms of the quality of images/edits. It has all of the reflective effects of many of the top editing packages like Photoshop.
 
 #### 3\. Photo Reflection
 
 ![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
 
@@ -156,10 +160,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
  The app also has a large library of free and premium templates for you to use...
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -176,24 +176,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-quick-guide-initiating-and-managing-android-zoom-calls/"><u>[New] In 2024, Quick Guide Initiating & Managing Android Zoom Calls</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-lock-and-load-effortless-profile-url-addition-on-tiktok/"><u>[New] Lock-and-Load Effortless Profile URL Addition on TikTok</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-quick-start-inserting-images-into-your-instagram-feed/"><u>[New] Quick Start Inserting Images Into Your Instagram Feed</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-android-ios-and-pc-friendly-youtube-downloader-apps-reviewed/"><u>[Updated] 2024 Approved Android, iOS & PC-Friendly YouTube Downloader Apps Reviewed</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-channel-up-your-earning-potential-with-youtube-shorts-strategy/"><u>[Updated] In 2024, Channel Up Your Earning Potential with YouTube Shorts Strategy</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-pc-video-magic-discovering-apowersofts-recorder/"><u>[Updated] In 2024, PC Video Magic Discovering Apowersoft’s Recorder</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-instant-mirth-mastery-your-shortcut-to-ifunny-memes/"><u>[Updated] Instant Mirth Mastery Your Shortcut to iFunny Memes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-incorporating-music-into-your-canva-projects/"><u>[Updated] Step-by-Step Incorporating Music Into Your Canva Projects</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-speedy-audio-on-phone-ultimate-list-of-tools/"><u>2024 Approved Speedy Audio on Phone Ultimate List of Tools</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oneplus-unlock-without-password-by-drfone-android/"><u>5 Solutions For OnePlus Unlock Without Password</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-restricted-input-settings-for-touchscreens-and-pen-devices/"><u>Bypassing the Restricted Input Settings for Touchscreens and Pen Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-apples-latest-innovations-unveiling-the-distinct-features-of-the-upcoming-airpods-model-4-a-comprehensive-guide-by-zdnet/"><u>Comparing Apple's Latest Innovations: Unveiling the Distinct Features of the Upcoming AirPods Model 4 - A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://fox-that.techidaily.com/first-time-guide-activating-and-utilizing-bluetooth-on-ios-devices/"><u>First-Time Guide: Activating and Utilizing Bluetooth on iOS Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-acquiring-personalized-tracks-for-beat-saber-compatible-with-pc-and-quest-earphones/"><u>Guide: Acquiring Personalized Tracks for Beat Saber - Compatible with PC and Quest Earphones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-macs-high-resolution-vision-the-ultimate-10-screen-companions/"><u>In 2024, Mac's High-Resolution Vision The Ultimate #10 Screen Companions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-photo-flips-and-twists-essential-guide-to-ph-warping/"><u>In 2024, Photo Flips & Twists Essential Guide to PH Warping</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-simplifying-your-system-switch-from-sierra-to-os-x-1010/"><u>In 2024, Simplifying Your System Switch From Sierra to OS X 10.10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-audio-file-conversion-from-srt-formats-for-2024/"><u>Mastering the Art of Audio File Conversion From SRT Formats for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/multilingualism-in-middle-age-the-cognitive-and-social-benefits-that-make-it-worthwhile/"><u>Multilingualism in Middle Age: The Cognitive and Social Benefits That Make It Worthwhile</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-monochrome-to-multicolor-grading-journey/"><u>[New] From Monochrome to Multicolor Grading Journey</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-beginners-handbook-to-igtv-mastery/"><u>[New] In 2024, The Beginner's Handbook to IGTV Mastery</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-solo-podcast-landscape-successfully/"><u>[New] Navigating the Solo Podcast Landscape Successfully</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-through-hands-free-technological-advances/"><u>[New] Navigating Through Hands-Free Technological Advances</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-enjoy-uninterrupted-viewing-top-20-youtube-download-apps-for-2024/"><u>[Updated] Enjoy Uninterrupted Viewing Top 20 YouTube Download Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-branding-excellence-youtube-naming-masterclass/"><u>[Updated] In 2024, Branding Excellence YouTube Naming Masterclass</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-the-art-of-illuminating-dark-images-on-iphone/"><u>[Updated] Master the Art of Illuminating Dark Images on Iphone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-audio-modification-solutions-magically-effective/"><u>[Updated] Premium Audio Modification Solutions Magically Effective</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photo-to-pixellated-panels-pro-windows-and-mac-edition/"><u>2024 Approved Photo to Pixellated Panels Pro Windows & Mac Edition</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 6s Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-economical-floating-space-huge-data-packs-on-a-dime/"><u>In 2024, Economical Floating Space Huge Data Packs on a Dime</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-iphones-finest-photo-tools-for-objection-erasure/"><u>In 2024, IPhone's Finest Photo Tools for Objection Erasure</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leveraging-picture-in-progressive-mode-on-chrome-across-platforms-for-2024/"><u>Leveraging Picture in Progressive Mode on Chrome Across Platforms for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-detection-errors-with-your-steam-vr-headset-a-step-by-step-guide/"><u>Overcoming Detection Errors with Your Steam VR Headset: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-visual-storytelling-best-plugin-choices-in-ae-for-2024/"><u>Streamlining Visual Storytelling Best Plugin Choices in AE for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-a-vast-library-of-pc-games-on-linux-with-steam-installation-step-by-step-tutorial/"><u>Unlock a Vast Library of PC Games on Linux with Steam Installation - Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

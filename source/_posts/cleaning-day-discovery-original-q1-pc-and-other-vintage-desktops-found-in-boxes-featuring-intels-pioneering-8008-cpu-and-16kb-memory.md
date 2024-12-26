@@ -1,7 +1,7 @@
 ---
 title: "Cleaning Day Discovery: Original Q1 PC and Other Vintage Desktops Found in Boxes, Featuring Intel's Pioneering 8008 CPU and 16KB Memory"
-date: 2024-12-15T04:13:24.108Z
-updated: 2024-12-17T22:12:40.112Z
+date: 2024-12-24T20:31:14.389Z
+updated: 2024-12-26T16:12:32.178Z
 tags:
   - desktop
 categories:
@@ -54,7 +54,7 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -80,17 +80,15 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-powering-up-your-action-footage-one-gadget-at-a-time/"><u>[New] Powering Up Your Action Footage, One Gadget at a Time</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-unleash-creativity-capturing-quality-videos-on-logitech-for-2024/"><u>[New] Unleash Creativity Capturing Quality Videos on Logitech for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-fine-tuning-your-audacity-recordings-for-2024/"><u>[Updated] Fine-Tuning Your Audacity Recordings for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-and-speed-the-ultimate-guide-to-mac-srt-editing/"><u>2024 Approved Precision and Speed The Ultimate Guide to Mac Srt Editing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ces-2023s-most-impressive-laptops-revealed-multi-screen-technology-twist-designs-and-cutting-edge-3d-visualization/"><u>CES 2023'S Most Impressive Laptops Revealed: Multi-Screen Technology, Twist Designs & Cutting-Edge 3D Visualization</u></a></li>
-<li><a href="https://driver-install.techidaily.com/gtx-760-new-drivers-less-trouble/"><u>GTX 760: New Drivers, Less Trouble</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-error-code-0x8024401c-during-windows-1011-operating-system-updates-successfully/"><u>How to Fix 'Error Code: 0X8024401c' During Windows 10/11 Operating System Updates Successfully</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/novices-guide-to-photo-enhancements-with-photoshop-for-2024/"><u>Novice's Guide to Photo Enhancements with Photoshop for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/onscreen-excellence-flexible-talent-access-for-2024/"><u>Onscreen Excellence Flexible Talent Access for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/premium-slideshow-tools-for-iphone-series-9-13-xr-ios13/"><u>Premium Slideshow Tools For iPhone Series 9-13 (XR-iOS13)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/revive-your-phone-top-tips-for-missing-iphone-x-for-2024/"><u>Revive Your Phone Top Tips for Missing iPhone X for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-pairing-your-laptop-with-wireless-speakers/"><u>Step-by-Step Tutorial on Pairing Your Laptop with Wireless Speakers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-be-a-social-media-wizard-best-tweeter-video-tools/"><u>[Updated] In 2024, Be a Social Media Wizard Best Tweeter Video Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-world-of-video-chats-on-your-xbox-console/"><u>[Updated] Navigating the World of Video Chats on Your Xbox Console</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-nighttime-iphone-photography-secrets-revealed/"><u>[Updated] Nighttime iPhone Photography Secrets Revealed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-tunefabs-cutting-edge-approach-to-live-streaming/"><u>[Updated] Tunefab's Cutting-Edge Approach to Live Streaming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-premieres-export-woes-to-fix-srt-files/"><u>2024 Approved Navigating Premiere's Export Woes to Fix SRT Files</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-world-of-telegram-online-with-ease/"><u>2024 Approved Navigating the World of Telegram Online with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-way-to-experience-x-men-series-from-beginning-to-end/"><u>Best Way to Experience X-Men Series From Beginning to End</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/guia-facil-para-configurar-una-secuencia-de-respaldo-semanal-en-windows-server-2008-r2/"><u>Guía Fácil Para Configurar Una Secuencia De Respaldo Semanal en Windows Server 2008 R2</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-it-beneficial-to-join-minecraft-realms-insights-and-advice/"><u>Is It Beneficial to Join Minecraft Realms? Insights and Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-sound-on-a-windows-10-system/"><u>Solved! How to Restore Sound on a Windows 10 System</u></a></li>
 </ul></div>
 

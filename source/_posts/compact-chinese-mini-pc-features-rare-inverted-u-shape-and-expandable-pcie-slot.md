@@ -1,7 +1,7 @@
 ---
 title: Compact Chinese Mini PC Features Rare Inverted 'U' Shape and Expandable PCIe Slot
-date: 2024-12-17T05:26:09.942Z
-updated: 2024-12-18T06:08:57.610Z
+date: 2024-12-20T19:40:13.319Z
+updated: 2024-12-26T21:54:43.557Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,24 +60,18 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-keeping-memories-alive-on-androidmac-with-snaps/"><u>[New] 2024 Approved Keeping Memories Alive on Android/Mac with Snaps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-interlinkers-companion-navigating-instra-to-tiktok/"><u>[New] Interlinker's Companion Navigating Instra-to-TikTok</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-power-play-essential-10-motivational-films/"><u>[New] Power Play Essential 10 Motivational Films</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-key-elements-of-constructive-job-interviews/"><u>[Updated] Key Elements of Constructive Job Interviews</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-quality-acoustics-at-an-accessible-price-point/"><u>[Updated] Quality Acoustics at an Accessible Price Point</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-color-grading-using-luts-in-ae/"><u>2024 Approved Leveraging Color Grading Using LUTs in AE</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-beyond-boundaries-with-innovative-wins11-titles/"><u>2024 Approved Step Beyond Boundaries with Innovative Wins11 Titles</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comparing-e-readers-and-multimedia-devices-kindle-or-fire-tablet/"><u>Comparing E-Readers & Multimedia Devices: Kindle or Fire Tablet?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dji-airborne-prototype-scrutiny/"><u>DJI Airborne Prototype Scrutiny</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-upgrading-of-lenovo-x240s-software-drivers-easy-guide/"><u>Effortless Upgrading of Lenovo X240's Software Drivers - Easy Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y78-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo Y78 5G</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/expert-insights-the-best-screen-recording-software-reviewed/"><u>Expert Insights The Best Screen Recording Software Reviewed</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/guide-simple-mise-a-jour-de-windows-nominee-vers-le-ssd-avec-transfert-de-donnees-sans-reinstallation/"><u>Guide Simple: Mise À Jour De Windows Nominée Vers Le SSD Avec Transfert De Données Sans Réinstallation</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-14-ultra-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi 14 Ultra Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-iphone-techniques-for-video-opposite-playback/"><u>In 2024, IPhone Techniques for Video Opposite Playback</u></a></li>
-<li><a href="https://win-dash.techidaily.com/make-sure-that-each-dance-move-is-associated-with-an-emotion-conveyed-in-the-decluttering-process-like-relief-for-getting-rid-of-unnecessary-items/"><u>Make Sure that Each Dance Move Is Associated with an Emotion Conveyed in the Decluttering Process, Like Relief for Getting Rid of Unnecessary Items.</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/must-have-10-fcp-plug-ins-for-professionals-for-2024/"><u>Must-Have 10 FCP Plug-Ins for Professionals for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/perfect-panning-top-techniques-for-livestreaming-cricket-games-for-2024/"><u>Perfect Panning Top Techniques for Livestreaming Cricket Games for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-is-taking-screenshots-of-youtube-videos-illegal/"><u>[New] Is Taking Screenshots of YouTube Videos Illegal?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-number-1-in-the-8th-digital-image-blend-platform/"><u>[New] Number 1 in the 8Th Digital Image Blend Platform</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-minimizing-motion-blur-in-media-creation/"><u>[Updated] Minimizing Motion Blur in Media Creation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-rise-to-the-top-mobile-youtubing-without-million-subscriber-status/"><u>[Updated] Rise to the Top Mobile YouTubing Without Million-Subscriber Status</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-guide-to-unmicrophonic-audio-recording-for-2024/"><u>[Updated] Step-by-Step Guide to Unmicrophonic Audio Recording for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-how-bouncies-connected-drive-device-offers-simple-navigation-for-less/"><u>Discover How Bouncie's Connected Drive Device Offers Simple Navigation for Less</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-toms-tech-reviews-the-ultimate-guide-for-gadgets-and-components/"><u>Explore Tom's Tech Reviews: The Ultimate Guide for Gadgets and Components</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-instantaneous-conversion-mastery-from-srt-to-txt-with-precision/"><u>In 2024, Instantaneous Conversion Mastery From SRT to TXT with Precision</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-pioneering-digital-expression-with-these-6-best-nft-makers/"><u>In 2024, Pioneering Digital Expression with These 6 Best NFT Makers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-stabilizing-pixels-the-truth-behind-photoshop-shake/"><u>In 2024, Stabilizing Pixels The Truth Behind Photoshop Shake</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-when-warzone-visuals-fail-to-load/"><u>Troubleshooting Guide: When Warzone Visuals Fail to Load</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/ultimate-directory-where-to-download-youtube-ringtones-in-2024/"><u>Ultimate Directory Where to Download YouTube Ringtones, In 2024</u></a></li>
 </ul></div>
 

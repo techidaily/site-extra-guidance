@@ -1,7 +1,7 @@
 ---
 title: HP Enterprise Challenges Inspur on Patents, Asserts Continuous Operation in the US Despite Sanctions
-date: 2024-12-15T16:49:32.126Z
-updated: 2024-12-18T05:09:20.249Z
+date: 2024-12-19T20:25:00.080Z
+updated: 2024-12-26T21:48:12.055Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,22 +78,24 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-a-beginner-friendly-approach-to-srt-knowledge/"><u>[New] In 2024, A Beginner-Friendly Approach to SRT Knowledge</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-gradual-audio-silence-with-audacity/"><u>[New] Mastering Gradual Audio Silence with Audacity</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-audacitys-volume-dissipation-features/"><u>[New] Navigating Audacity's Volume Dissipation Features</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-rise-and-shine-on-these-overlooked-meme-platforms-for-2024/"><u>[New] Rise and Shine on These Overlooked Meme Platforms for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-simplifying-the-process-of-creating-time-lapses-with-gopro/"><u>[Updated] 2024 Approved Simplifying the Process of Creating Time Lapses with GoPro</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-your-iphone-the-secrets-to-hdr-image-magic/"><u>[Updated] Mastering Your iPhone The Secrets to HDR Image Magic</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-picture-perfect-prose-exploring-apps-for-image-text-edits/"><u>[Updated] Picture Perfect Prose Exploring Apps for Image Text Edits</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-basics-of-picture-in-picture-in-ff/"><u>[Updated] The Basics of Picture-in-Picture in FF</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-best-of-the-best-exciting-windows-10-apps-and-games-for-2024/"><u>[Updated] The Best of the Best Exciting Windows 10 Apps & Games for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-making-online-gaming-more-intimate-via-xbox-zoom/"><u>2024 Approved Making Online Gaming More Intimate via Xbox Zoom</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-final-cut-the-ultimate-guide/"><u>2024 Approved Mastering Final Cut The Ultimate Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/beneath-the-surface-a-deep-dive-into-private-story-making-for-2024/"><u>Beneath the Surface A Deep Dive Into Private Story Making for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-photo-viewer-revival-techniques-for-enhanced-windows-11-experience/"><u>In 2024, Photo Viewer Revival Techniques for Enhanced Windows 11 Experience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/inventory-list-a-range-of-video-recording-devices-for-2024/"><u>Inventory List A Range of Video Recording Devices for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unleash-your-creativity-best-gopro-video-editing-software-beyond-gopro-studio/"><u>New 2024 Approved Unleash Your Creativity Best GoPro Video Editing Software (Beyond GoPro Studio)</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-tecno-pova-5-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Pova 5 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725288178270-winxvideo-ai/"><u>WinxVideo AI 系統技術解析:官方供稿規格權宜手冊</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-maximizing-health-outreach-via-fb-advertising/"><u>[New] 2024 Approved Maximizing Health Outreach via FB Advertising</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-from-idea-to-rss-producing-a-podcast-feed-for-2024/"><u>[New] From Idea to RSS Producing a Podcast Feed for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leveraging-kinemasters-strengths-for-video-magic-and-10-esteemed-competitors/"><u>[New] Leveraging KineMaster's Strengths for Video Magic & 10 Esteemed Competitors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-srt-editing-on-macos-a-comprehensive-guide/"><u>[New] Mastering SRT Editing on macOS A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-world-of-cost-free-text-animation-techniques/"><u>[New] Navigating the World of Cost-Free Text Animation Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-soundscape-adjustments-fading-volume-with-precision-in-logic-pro/"><u>[New] Soundscape Adjustments Fading Volume with Precision in Logic Pro</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-notice-unregistered-users-on-snapchat-for-2024/"><u>[Updated] How to Notice Unregistered Users on Snapchat for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unlocking-the-secret-strategies-of-instagram-influencers/"><u>[Updated] In 2024, Unlocking the Secret Strategies of Instagram Influencers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lightning-windows-image-inspector/"><u>[Updated] Lightning Windows Image Inspector</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-spectacular-screenwriting-revealed/"><u>[Updated] Spectacular Screenwriting Revealed</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/hddpcos2/"><u>外付けHDDからPCのOSを復元する簡単な方法2つ</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhance-info-blocks-templates-for-youtube-titles/"><u>Enhance Info Blocks Templates for YouTube Titles</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ag-mastery-pathway-to-6-figure-youtube-impact/"><u>Hashtag Mastery Pathway to 6-Figure Youtube Impact</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-screen-magnification-techniques-on-ms-teams/"><u>In 2024, Perfecting Screen Magnification Techniques on MS Teams</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-quality-computers-at-your-desk/"><u>In 2024, Premium Quality Computers at Your Desk</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-tecno-spark-10-4g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Tecno Spark 10 4G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/interactive-medicine-through-tech-innovations-for-2024/"><u>Interactive Medicine Through Tech Innovations for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-codegpt-integration-with-vs-code/"><u>Mastering CodeGPT: Integration with VS Code</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-frame-drops-and-lag-enhancing-your-gaming-experience-in-sifu-on-pc/"><u>Resolving Frame Drops and Lag: Enhancing Your Gaming Experience in Sifu on PC</u></a></li>
 </ul></div>
 

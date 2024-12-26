@@ -1,7 +1,7 @@
 ---
 title: "Ide Device Error: Controller Detection"
-date: 2024-12-10T22:19:24.577Z
-updated: 2024-12-17T21:02:04.992Z
+date: 2024-12-21T17:50:24.325Z
+updated: 2024-12-26T17:31:20.623Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 2. [**Update your drivers**](https://appsumo.8odi.net/gmezyk)
 3. [**Update your BIOS**](https://tidio.pxf.io/9grog5)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Unplug and replug your hard disk cable
 
  Make sure your hard disk cable is properly connected to your motherboard. Try unplugging and then re-plugging your hard disk cable and see if it solves your “The driver detected a controller error on \\Device\\Ide\\Ideport0” problem.
@@ -37,11 +41,7 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 3. Start your computer and see if the error is fixed. If not, try Fix 2, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your drivers
@@ -66,10 +66,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b920e62afcac.jpg)
 4. Restart your computer and check if your “The driver detected a controller error on \\Device\\Ide\\Ideport0” problem is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 3, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your BIOS
 
  Some users fixed their   **The driver detected a controller error on \\Device\\Ide\\Ideport0**  issue with a BIOS upgrade. If the above steps didn’t work for you, you might as well give it a go. Here’s how to update your BIOS:
@@ -79,12 +75,12 @@ OR
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91080612181.png)  
    2. At System Information, you can view the information of your**System Manufacturer** and**System Model** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9108627406a.jpg)
 2. Type your system’s manufacturer name, your system’s model name and “BIOS” in the Google search box, then select the matching result to go to the manufacturer’s official website and download BIOS update.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91003b0ad26.jpg)
 3. Look for words or sections like**Updates** ,**Downloads** , or**Support** .  
@@ -95,13 +91,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b910d06eaf9e.jpg)
 5. When the download is finished, make sure your computer is plugged in, then double-click on the downloaded file.**Note:** If you find there’re any instructions available in the downloaded file, make sure you follow the instructions strictly to update your BIOS. Or you can visit your BIOS manufacturer’s support site for a direct explanation of how to do so.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Transfer the BIOS update file to a USB drive and keep the drive connected to your computer.
 7. Click the**Start** button > **power icon** \>**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92199f274f4.png)
 8. As soon as your computer shuts down, press repeatedly a specific key to enter BIOS. The key may vary, depending on your computer’s manufacturer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re using**DELL** , press**F2** on your keyboard to access BIOS;  
@@ -136,18 +136,24 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-elevate-video-visibility-with-expert-titles/"><u>[New] In 2024, Elevate Video Visibility with Expert Titles</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-writing-in-cinemas-diverse-segments/"><u>[New] Pinnacle Writing in Cinema's Diverse Segments</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-crafting-co-exclusive-brands-and-youtube-experiences/"><u>[Updated] In 2024, Crafting Co-Exclusive Brands and YouTube Experiences</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-key-concepts-in-image-manipulation/"><u>[Updated] Key Concepts in Image Manipulation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-select-blur-apps-for-softened-backdrops/"><u>2024 Approved Select Blur Apps for Softened Backdrops</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/comprehensive-msi-academy-online-tutorials/"><u>Comprehensive MSI Academy Online Tutorials</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/how-to-use-chroma-keying-in-video-making/"><u>How to Use Chroma Keying in Video Making</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pushing-creative-boundaries-mastering-3d-lut-techniques/"><u>In 2024, Pushing Creative Boundaries Mastering 3D Lut Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/make-your-screenshots-stand-out-the-ultimate-ios-and-android-app-list-for-2024/"><u>Make Your Screenshots Stand Out The Ultimate iOS & Android App List for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/maximizing-visual-impact-with-extra-camera-work-for-2024/"><u>Maximizing Visual Impact with Extra Camera Work for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-lenovo-thinkphone-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Lenovo ThinkPhone Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-setting-up-disney-plus-streaming-on-your-google-chromecast-device/"><u>The Ultimate Walkthrough: Setting Up Disney Plus Streaming on Your Google Chromecast Device</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-exploring-the-creme-de-la-creme-instas-influential-elite/"><u>[New] Exploring the Crème De La Crème Insta's Influential Elite</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-nighttime-luminosity-on-iphone-photos/"><u>[New] Nighttime Luminosity on iPhone Photos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-of-intellect-trivia-videos/"><u>[New] Pinnacle of Intellect Trivia Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-6-ways-to-record-mov-files-on-windows-11-for-2024/"><u>[Updated] 6 Ways to Record .mov Files on Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-inside-the-directors-domain-comprehensive-guide-to-2024/"><u>[Updated] Inside the Director's Domain Comprehensive Guide to 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimal-series-professional-webcam-stabilizers/"><u>[Updated] Optimal Series Professional Webcam Stabilizers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-ace-your-iphones-advanced-tactics-for-downloading-podcasts/"><u>2024 Approved Ace Your iPhones Advanced Tactics for Downloading Podcasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-interactive-learning-landscapes-with-vr/"><u>2024 Approved Interactive Learning Landscapes with VR</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-jumpstart-your-projects-using-xps-film-editor/"><u>2024 Approved Jumpstart Your Projects Using XP's Film Editor</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-your-time-free-countdown-essentials/"><u>2024 Approved Maximizing Your Time Free Countdown Essentials</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/dealing-with-self-viewer-phenomenon-on-facebook-chats-for-2024/"><u>Dealing with Self-Viewer Phenomenon on Facebook Chats for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-13-ultra-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi 13 Ultra Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/innovating-in-the-digital-age-making-stellar-fb-reels-on-youtube-for-2024/"><u>Innovating in the Digital Age Making Stellar FB Reels on YouTube for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterful-lighting-techniques-for-iphone-users-for-2024/"><u>Masterful Lighting Techniques for IPhone Users for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-light-and-shadow-with-iphone-xs-new-lens-technology-for-2024/"><u>Mastering Light & Shadow with iPhone X's New Lens Technology for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-restrictions-disabling-signatures-adding-unsigned-drivers/"><u>Navigating Windows' Restrictions: Disabling Signatures, Adding Unsigned Drivers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionary-safety-message-feature-coming-to-your-iphone-with-ios-18-learn-more-inside/"><u>Revolutionary Safety Message Feature Coming to Your iPhone with iOS 18 | Learn More Inside</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-fixing-error-84-in-fortnite-for-uninterrupted-multiplayer/"><u>Step-by-Step Guide: Fixing Error 84 in Fortnite for Uninterrupted Multiplayer</u></a></li>
 </ul></div>
 

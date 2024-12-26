@@ -1,7 +1,7 @@
 ---
 title: "Discovering New Power: Lenovo and Top 5 Other Companies Embrace Zhoaxin-Powered Systems"
-date: 2024-12-10T16:55:58.894Z
-updated: 2024-12-17T20:12:03.454Z
+date: 2024-12-21T20:02:21.484Z
+updated: 2024-12-26T19:16:05.579Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,19 +78,24 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-top-6-secure-mc-domains/"><u>[New] In 2024, Top 6 Secure MC Domains</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-into-another-realm-the-vr-timeline/"><u>[New] Into Another Realm The VR Timeline</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-ios-tips-transforming-images-from-jpgpng-to-pdf-format/"><u>[New] IOS Tips Transforming Images From JPG/PNG to PDF Format</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-hobby-footage-into-professional-vlogs/"><u>[New] Transforming Hobby Footage Into Professional Vlogs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-masterful-text-setups-in-adobe-after-effects/"><u>[Updated] Masterful Text Setups in Adobe After Effects</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-huawei-p60-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Huawei P60 Phone that is Locked?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-speedy-switching-spree-from-srt-to-txt-files-done-quickly/"><u>In 2024, Speedy Switching Spree From SRT to TXT Files Done Quickly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-fix-for-age-of-wonders-planetfalls-killer-screen-glitches-on-personal-computers/"><u>Mastering the Fix for Age of Wonders: Planetfall's Killer-Screen Glitches on Personal Computers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/maximizing-value-with-a-monoprice-drawing-device-in-depth-look-at-mid-range-price-and-excellent-performance/"><u>Maximizing Value with a Monoprice Drawing Device: In-Depth Look at Mid-Range Price & Excellent Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/merge-gmail-with-outlook-on-windows-a-detailed-guide/"><u>Merge Gmail with Outlook on Windows: A Detailed Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/narrative-wordsmithing-weaving-a-story-through-speech-for-2024/"><u>Narrative Wordsmithing Weaving a Story Through Speech for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-use-for-2024/"><u>SNS HDR Pro Review Is It Worth Using and What Other HDR Software to Use for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-choosing-a-graphics-designers-laptop-expert-opinions-testing-and-ratings/"><u>Ultimate Guide to Choosing a Graphics Designer's Laptop: Expert Opinions, Testing, and Ratings</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-free-from-marks-acquiring-unmarked-stock-photography/"><u>[New] Free From Marks Acquiring Unmarked Stock Photography</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-green-technology-for-impactful-ctas-via-subs/"><u>[New] In 2024, Green Technology for Impactful CTAs via Subs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-picks-the-very-best-tripods-for-sharp-4k-videos/"><u>[New] Premium Picks The Very Best Tripods for Sharp 4K Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-navigating-the-process-of-embedding-vimeo-media-in-ppts/"><u>[Updated] In 2024, Navigating the Process of Embedding Vimeo Media in PPTs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-the-art-of-vlogging-starting-kit-and-tools/"><u>[Updated] Master the Art of Vlogging Starting Kit & Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-recommendation-best-websites-to-download-game-of-thrones-ringtones/"><u>[Updated] Recommendation Best Websites to Download Game of Thrones Ringtones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-regular-payouts-for-youtube-content-makers/"><u>[Updated] Regular Payouts for YouTube Content Makers?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-4k-gaming-pcs-top-ten-selection/"><u>2024 Approved Leading 4K Gaming PCs - Top Ten Selection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-zoom-on-xbox-one-a-step-by-step-guide/"><u>2024 Approved Mastering Zoom on Xbox One A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-reviewers-guide-to-yuneec-typhoon-h-performance/"><u>2024 Approved Reviewer’s Guide to Yuneec Typhoon H Performance</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-plus-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Plus to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-rise-of-a-marketer-top-5-tips-from-the-prosphere/"><u>In 2024, Rise of a Marketer Top 5 Tips From the Prosphere</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-video-selection-adding-to-your-youtube-playlists-for-2024/"><u>Mastering Video Selection Adding to Your YouTube Playlists for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/shot-solidity-choose-the-right-mobile-tripod-for-2024/"><u>Shot Solidity Choose the Right Mobile Tripod for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-five-challenges-of-relying-on-chatgpt-for-accurate-crypto-analysis/"><u>The Five Challenges of Relying on ChatGPT for Accurate Crypto Analysis</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-editing-sony-camcorder-videos-updated-for-2024/"><u>The Ultimate Guide to Editing Sony Camcorder Videos (Updated ) for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-a-simple-way-to-get-kinemaster-on-your-mac-download-and-install/"><u>Updated 2024 Approved A Simple Way to Get KineMaster on Your Mac Download and Install</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-rated-mac-mkv-editors-for-trimming-videos/"><u>Updated In 2024, Top-Rated Mac MKV Editors for Trimming Videos</u></a></li>
 </ul></div>
 

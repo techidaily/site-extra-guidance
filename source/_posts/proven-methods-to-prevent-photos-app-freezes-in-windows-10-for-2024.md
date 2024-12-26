@@ -1,7 +1,7 @@
 ---
 title: "Proven Methods to Prevent Photos App Freezes in Windows 10 for 2024"
-date: 2024-12-10T17:10:56.134Z
-updated: 2024-12-17T19:32:44.613Z
+date: 2024-12-20T19:23:19.394Z
+updated: 2024-12-26T19:58:22.196Z
 tags: 
   - screen-recording
   - ai video
@@ -41,10 +41,14 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 **You may also like:** [How to Solve Windows 10 Photos App Crashes Effectively >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Windows 10 Photos app crashes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 1: Use the Troubleshooter
 
@@ -60,10 +64,6 @@ Here is how to troubleshoot –
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 2: Restore Default Libraries
 
 Restoring the default libraries would resolve the Windows 10 Photos App crash issues. Resetting the Photo App to its default source to a valid network, path fixes the case.
@@ -75,7 +75,15 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 3: Reset it
 
@@ -87,10 +95,6 @@ Here is how can you reset it –
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 4: Repair Photos App package
 
 A corrupted Photos App package might wreak havoc in your photo viewing, as the app doesn’t buzz follow your commands. The least you can do here is repair the package to fix minor glitches within and get it going.
@@ -101,10 +105,6 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 2. Key in the command followed by ‘Enter’: Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
 
@@ -126,7 +126,7 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -144,18 +144,15 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-best-skype-recorders-for-quality-compiled/"><u>[New] Best Skype Recorders for Quality Compiled</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-jokes-and-puns-iphone-edition/"><u>[Updated] Jokes and Puns IPhone Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-staying-relevant-adapting-to-periscope-trends/"><u>[Updated] Staying Relevant Adapting to Periscope Trends</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-streaming-content-artist-for-2024/"><u>[Updated] Streaming Content Artist for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-easy-path-from-spotify-to-youtube-discover-the-best-playlist-tools/"><u>2024 Approved Easy Path From Spotify to YouTube Discover the Best Playlist Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/5-simple-steps-to-speed-up-your-unresponsive-keyboard/"><u>5 Simple Steps to Speed Up Your Unresponsive Keyboard</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/expert-tips-to-cut-through-false-social-endorsements-for-2024/"><u>Expert Tips to Cut Through False Social Endorsements for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-fantasy-to-feasibility-vrs-milestones/"><u>From Fantasy to Feasibility VR's Milestones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/how-to-remove-images-background-in-canva-for-2024/"><u>How to Remove Image's Background In Canva for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fusion-functionality-combining-watch-mac-access/"><u>In 2024, Fusion Functionality Combining Watch, Mac Access</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-games-with-kinemaster-app-android-analysis/"><u>In 2024, Mastering Games with KineMaster App - Android Analysis</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/jest-jar-compreenas-best-no-cost-templates-for-2024/"><u>Jest Jar Compreenas Best No-Cost Templates for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/your-affordable-e-reader-companion-in-2019-the-essential-amazon-kindle-reviewed/"><u>Your Affordable E-Reader Companion in 2019: The Essential Amazon Kindle Reviewed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-addressing-over-encoded-obs-media/"><u>[New] 2024 Approved Addressing Over-Encoded OBS Media</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-drone-that-never-loses-you-top-10-list/"><u>[New] 2024 Approved The Drone that Never Loses You - Top 10 List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revitalize-your-reels-selecting-the-best-5-enhancers/"><u>[Updated] Revitalize Your Reels Selecting the Best 5 Enhancers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-srt-postings-a-guide-for-platform-specific-strategies/"><u>2024 Approved Mastering the Art of SRT Postings A Guide for Platform-Specific Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-upside-down-and-sideways-iphone-photos/"><u>2024 Approved Mastering Upside-Down and Sideways iPhone Photos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-polaroid-xs-review-capturing-life-in-full-hd/"><u>2024 Approved Polaroid XS Review Capturing Life in Full HD</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/learn-to-negate-video-ordering-in-android-for-2024/"><u>Learn To Negate Video Ordering in Android for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/online-oasis-viewer-for-2024/"><u>Online Oasis Viewer for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-top-spots-10plus-websites-to-download-free-and-paid-games/"><u>Updated In 2024, The Top Spots 10+ Websites to Download Free and Paid Games</u></a></li>
+<li><a href="https://video-capture.techidaily.com/video-editing-software-comparison-obs-vs-fraps/"><u>Video Editing Software Comparison OBS vs Fraps</u></a></li>
 </ul></div>
 

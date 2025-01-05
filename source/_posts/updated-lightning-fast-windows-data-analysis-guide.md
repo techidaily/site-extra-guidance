@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Lightning-Fast Windows Data Analysis Guide\""
-date: 2024-12-22T21:20:11.882Z
-updated: 2024-12-26T16:11:16.772Z
+date: 2025-01-04T05:02:11.836Z
+updated: 2025-01-05T01:55:06.966Z
 tags: 
   - screen-recording
   - ai video
@@ -33,7 +33,7 @@ Step1 Open Microsoft Store and search for QuickLook. Make sure you select the op
 ![search for quicklook for windows on Microsoft store](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 Once you find QuickLook, click “Get it” to download and install the app in your Windows operating system. At around 60MB, installing this preview app should be quick and easy.
@@ -54,24 +54,28 @@ Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and
 
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
 
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 After a successful installation, find the file you want to preview and select it. Then, tap the space bar to preview the files. And remember, browse ZIP files to view all content.
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
@@ -83,7 +87,7 @@ Meanwhile, it’s expected that QuickLook will come with a small preview screen.
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Frequently Asked Questions
@@ -99,10 +103,6 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 #### 3\. Can QuickLook for Mac edit files?
 
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -138,19 +138,22 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-organizing-your-iphones-picture-collection-from-sorting-to-icloud-backing-up/"><u>[New] Organizing Your iPhone's Picture Collection From Sorting to iCloud Backing Up</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premium-power-supplies-for-gopro-hero5-genuine-and-3rd-party/"><u>[New] Premium Power Supplies for GoPro Hero5 Genuine and 3Rd-Party</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-missing-link-prime-free-speech-to-text-on-macos/"><u>[Updated] Missing Link Prime Free Speech to Text on macOS</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-guide-capturing-uac-alerts-on-your-pc/"><u>Expert Guide: Capturing UAC Alerts on Your PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/exploring-the-causes-behind-arcadegeddons-persistent-malfunction-on-pc-setups/"><u>Exploring the Causes Behind Arcadegeddon's Persistent Malfunction on PC Setups</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-honor-90-lite-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Honor 90 Lite</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-instagram-the-reason-behind-video-upside-down/"><u>In 2024, Instagram The Reason Behind Video Upside-Down</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-sound-architects-guide-to-memo-mastery/"><u>In 2024, The Sound Architect's Guide to Memo Mastery</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-find-x7-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo Find X7 Location | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-business-efficiency-top-uses-for-chatgpt/"><u>Maximizing Business Efficiency: Top Uses for ChatGPT</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/seeking-visual-vintage-free-art-archives-online-for-2024/"><u>Seeking Visual Vintage Free Art Archives Online for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/srt-to-sub-shift-expert-strategies-and-actions-for-2024/"><u>SRT to SUB Shift Expert Strategies & Actions for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-perfecting-youtube-videos-with-angle-rotation-mastery/"><u>[New] 2024 Approved Perfecting YouTube Videos with Angle Rotation Mastery</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-manufacture-memorable-visuals-on-giphy/"><u>[New] Manufacture Memorable Visuals on Giphy</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unveiling-history-watching-older-facebook-content-on-your-device/"><u>[Updated] 2024 Approved Unveiling History Watching Older Facebook Content on Your Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-podcasts-on-windows-select-best-8/"><u>[Updated] Mastering Podcasts on Windows - Select Best 8</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-expert-analysis-the-leading-mac-screenshots-and-recorders-ranked/"><u>2024 Approved Expert Analysis The Leading Mac Screenshots & Recorders Ranked</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-jumpstart-your-pc-for-windows-11-compatibility/"><u>2024 Approved Jumpstart Your PC for Windows 11 Compatibility</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-the-art-of-collages-thanks-to-picshot/"><u>2024 Approved Master the Art of Collages, Thanks to Picshot</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-skincare-revolution-the-best-apps-for-your-phone/"><u>2024 Approved Skincare Revolution The Best Apps for Your Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/4-fixes-to-try-if-the-windows-snip-and-sketch-tool-wont-screenshot-the-entire-screen/"><u>4 Fixes to Try if the Windows Snip & Sketch Tool Won’t Screenshot the Entire Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/heartfelt-outro-samples-your-budget-our-designs-for-2024/"><u>Heartfelt Outro Samples Your Budget, Our Designs for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-realme-gt-5-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Realme GT 5 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-app-download-failures-explore-these-10-proven-fixes/"><u>How to Resolve iPhone App Download Failures? Explore These 10 Proven Fixes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-inside-the-labyroud-of-vrs-latest-creations/"><u>In 2024, Inside the Labyroud of VR's Latest Creations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/next-level-computing-with-a-twist-discover-the-astonishing-features-and-subtle-quirks-in-our-review-of-the-latest-dell-xps-models-16-9640-and-14-9440/"><u>Next-Level Computing with a Twist: Discover the Astonishing Features & Subtle Quirks in Our Review of the Latest Dell XPS Models - 16 (9640) and 14 (9440)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/proven-subtitle-editors-the-comprehensive-top-10-list-online-for-2024/"><u>Proven Subtitle Editors – The Comprehensive Top 10 List (Online) for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/secrets-to-choosing-the-ultimate-free-online-srt-translators-for-2024/"><u>Secrets to Choosing the Ultimate Free Online SRT Translators for 2024</u></a></li>
 </ul></div>
 

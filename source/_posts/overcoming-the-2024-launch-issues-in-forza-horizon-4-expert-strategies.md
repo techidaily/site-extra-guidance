@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the 2024 Launch Issues in Forza Horizon 4: Expert Strategies"
-date: 2024-12-25T21:11:57.877Z
-updated: 2024-12-26T19:44:25.467Z
+date: 2025-01-01T01:20:05.256Z
+updated: 2025-01-04T19:42:56.775Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/836491e2-f2a7-4294-a8d1-cc548b0de76f-1200x675.jpg)
 
  The most anticipated racer of the year, Forza Horizon 5, was premiered on November 5th and officially released on the 9th. Like any new title, you can expect that it comes with bugs and glitches. Many players are actually reporting**severe lags and connection issues** while playing Forza Horizon 5\. If you’re in the same boat, no worries! We’ve prepared a few working fixes for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -39,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3
 
  Before we dive into anything advanced, make sure you check the server status first by checking the[Forza Support Twitter](https://twitter.com/forza%5Fsupport) . If everything seems fine on the server end, you can proceed to the troubleshooting steps on your end.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Shut down bandwidth-hogging programs
 
  The first thing you can do is to make sure you’re not loading videos or running bandwidth-hogging programs in the background. You can check the bandwidth usage via Task Manager, and shut down the programs that seem to hog your network and slow down your game. Here’s how:
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/close-bandwidth-hogging-program.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hopefully the lagging issue doesn’t return after you close the bandwidth-hogging programs. If that’s the case, we’d suggest you play FH5 with the least programs running in the background according to your internet service capacity. Or, consult your internet service provider and consider upgrading your plan.
@@ -71,6 +71,10 @@ If the lagging issue persists, try the next fix.
 * If your internet is slow, it could lead to an unstable connection. You can google “Internet speed test” and pick a tool to **test your Internet speed** . However, when your Internet connection is unreasonably slow, consider contacting your Internet provider for help.
 
  If your internet connection is just fine and you still encounter lags while playing Forza Horizon 5, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your network driver
 
@@ -95,10 +99,6 @@ If the lagging issue persists, try the next fix.
 
  Restart your PC for the new driver to take effect. If updating the network driver doesn’t solve your problem, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Allow Forza Horizon 5 through the firewall
 
  Your firewall may block Forza Horizon 5’s connection to the server, and thus trigger the in-game lags. You can check if the game is allowed through the firewall, and configure the settings if needed. Here’s how:
@@ -111,7 +111,7 @@ If the lagging issue persists, try the next fix.
 3. Switch to **View by: small icons** , then click **Windows Defender Firewall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
@@ -119,10 +119,6 @@ If the lagging issue persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Forza Horizon 5 is on the exception list. If so, that means the game is allowed through your firewall, and you can [jump to the next fix](https://tools.techidaily.com/drivereasy/download/) . If you can’t find Forza Horizon 5 in the exception list, follow the steps below to unblock the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Add Forza Horizon 5 to the exception list
 
@@ -139,6 +135,10 @@ If the lagging issue persists, try the next fix.
 
 If the lagging issue persists, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Set the game process priority to high
 
  Some players have been able to solve the lagging issue by setting the game process as a high-priority task. Although there’s no guarantee, it’s a quick fix and definitely worth trying. Here’s how:
@@ -148,6 +148,10 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-49-09.jpg)
 
 If this fix doesn’t help with your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Configure your DNS settings
 
@@ -168,18 +172,18 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
 
@@ -189,23 +193,15 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
@@ -216,6 +212,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
  If this fix doesn’t solve your problem, no worries, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Lower in-game settings
 
@@ -245,22 +245,22 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-impressive-initiations-podcasting-prose-poems/"><u>[New] In 2024, Impressive Initiations Podcasting Prose Poems</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-visual-storytelling-key-shot-techniques-for-beginners/"><u>[New] Mastering Visual Storytelling Key Shot Techniques for Beginners</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-world-of-video-conferencing-with-zoom-and-win10/"><u>[New] Navigating the World of Video Conferencing with Zoom & Win10</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unlocking-the-past-essential-history-youtubes-for-educational-journey/"><u>[Updated] In 2024, Unlocking the Past Essential History YouTubes For Educational Journey</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-photo-and-video-edits-made-easy-select-the-best-8-apps-for-android-ios/"><u>[Updated] Photo & Video Edits Made Easy Select the Best 8 Apps for Android, iOS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-drone-image-shake-reduction/"><u>2024 Approved Mastering Drone Image Shake Reduction</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-microsoft-azure-unlocking-speech-to-text-potential/"><u>2024 Approved Microsoft Azure Unlocking Speech-to-Text Potential</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/epic-evolutions-digitizing-decades-of-documentary-photographs/"><u>Epic Evolutions Digitizing Decades of Documentary Photographs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fine-tune-your-lockscreen-activate-or-deactivate-images/"><u>Fine-Tune Your Lockscreen: Activate or Deactivate Images</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-can-you-speed-up-hevc-h265-video-encoding-processes/"><u>How Can You Speed Up HEVC H.265 Video Encoding Processes?</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-elevate-your-vr-experience-with-our-picks/"><u>In 2024, Elevate Your VR Experience with Our Picks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-most-reliable-slow-motion-camera-apps-apple-and-android/"><u>In 2024, Most Reliable Slow Motion Camera Apps, Apple & Android</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/kinemaster-app-for-android-complete-review-for-2024/"><u>KineMaster App for Android - Complete Review for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-troubleshooting-a-user-friendly-guide-to-overcoming-bsod/"><u>Mastering Troubleshooting: A User-Friendly Guide to Overcoming BSOD</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-7-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 7 Data From iCloud | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/smiles-in-screens-make-with-kapwing-for-2024/"><u>Smiles in Screens Make with Kapwing for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/adjustments-made-software-integrity-problem-solved/"><u>[ADJUSTMENTS MADE] Software Integrity Problem Solved</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-mastering-online-play-in-depth-guide-to-using-kinemaster-and-its-rivals/"><u>[New] In 2024, Mastering Online Play In-Depth Guide to Using KineMaster and Its Rivals</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-close-ups-quick-minecraft-enhancements/"><u>[New] Mastering Close-Ups Quick Minecraft Enhancements</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-optimizing-your-video-capture-with-screencastify-for-2024/"><u>[New] Optimizing Your Video Capture with Screencastify for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sharpen-your-skills-with-these-essential-pixlr-tips/"><u>[New] Sharpen Your Skills with These Essential Pixlr Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-easy-steps-to-download-twitters-media-to-phone/"><u>[Updated] 2024 Approved Easy Steps to Download Twitters Media to Phone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhance-visibility-a-comprehensive-guide-to-video-tagging/"><u>[Updated] In 2024, Enhance Visibility A Comprehensive Guide to Video Tagging</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-single-frame-snipping-capturing-stillness-from-videos-in-photos/"><u>[Updated] In 2024, Single-Frame Snipping Capturing Stillness From Videos in Photos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-memes-kinemaster-guide/"><u>[Updated] Mastering Memes KineMaster Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-melody-and-movement-perfecting-sounds-in-imovie/"><u>[Updated] Melody and Movement Perfecting Sounds in iMovie</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-ultimate-viewer-writers-guide-for-2024/"><u>[Updated] The Ultimate Viewer' Writers Guide for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-iphones-viewpoint-vista-selecting-superior-shots-for-images/"><u>2024 Approved IPhone's Viewpoint Vista Selecting Superior Shots for Images</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/how-to-upgrade-windows-10-storage-from-hard-drive-to-solid-state-without-reinstalling-the-os/"><u>How to Upgrade Windows 10 Storage From Hard Drive to Solid State without Reinstalling the OS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-motorola-edge-2023-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Motorola Edge 2023 Phone When You Forget the Password</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mitigating-virtual-reality-nausea/"><u>In 2024, Mitigating Virtual Reality Nausea</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quickplay-quotient-top-10-lightning-gaming-apps/"><u>In 2024, Quickplay Quotient Top 10 Lightning Gaming Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/olyx-zones-the-creme-de-la-snowspeedcross-for-2024/"><u>OlyX-Zones The Crème De La Snowspeedcross for 2024</u></a></li>
 </ul></div>
 

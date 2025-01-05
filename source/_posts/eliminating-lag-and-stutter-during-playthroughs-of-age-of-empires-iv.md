@@ -1,7 +1,7 @@
 ---
 title: Eliminating Lag and Stutter During Playthroughs of Age of Empires IV
-date: 2024-12-21T16:00:55.039Z
-updated: 2024-12-26T16:17:46.308Z
+date: 2025-01-03T17:12:31.846Z
+updated: 2025-01-05T03:43:54.951Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595
 ## Master the Art of Improving Frame Rate and Reducing Stutters in Splitgate – Essential Techniques Revealed
 
 If you want to enjoy a video game to the fullest, you need decent FPS and there shouldn’t be stutters and freezing during the gameplay. If there are performance issues intervening in the enjoyment of playing Splitgate, no worries. In this post, we’ll show you how to optimize your game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -41,14 +45,10 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 3. Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Splitgate and select **End task** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Also, too many startup apps can be a drag on your computer’s performance. Therefore, you should prevent these apps from automatically starting when you sign into Windows:
 
@@ -57,6 +57,10 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 ![disable apps from running automatically at startup](https://images.drivereasy.com/wp-content/uploads/2021/04/startup-disable.png)
 
  After you’ve done these, play Splitgate. If your problems persist, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Delete temp files
 
@@ -75,17 +79,21 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 6. After the files are deleted, go to your desktop and right-click on the **Recycling Bin**  and select **Empty Recycle Bin** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you should be able to play your game smoothly. But if it doesn’t work for you, proceed to the next fix.
 
 ## 3\. Stop overclocking
 
  Some players might use overclocking applications such as MSI Afterburner to hopefully get a performance increase. But the truth is that these applications can cause crashes, stutters and other performance issues for some titles. If you suffer from sudden frame rate drops and stutters during Splitgate gameplay, you should stop overclocking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Update your graphics driver
 
@@ -101,13 +109,13 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -124,18 +132,18 @@ Here’s how to update drivers with Driver Easy:
 2. Scroll down. Find **Graphics settings** and click on it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/grahics-settings-1.png)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/change-default-graphics-settings.jpg)
 4. Turn on**Hardware-accelerated GPU scheduling** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
@@ -150,19 +158,11 @@ Here’s how to update drivers with Driver Easy:
 ![adjust in-game settings Splitgate](https://images.drivereasy.com/wp-content/uploads/2021/08/Settings-in-game.png)
 2. Under the**VIDEO** tab, adjust the following settings:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **DISPLAY MODE:** Fullscreen  
 **RESOLUTION:** your native resolution (If you have no idea what your screen resolution is, refer to [this post](https://tools.techidaily.com/drivereasy/download/) . )  
 **VSYNC:** turn it off  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/fullscreen-and-disable-vsync.png)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then apply the changes and test your gameplay.
 
@@ -185,18 +185,15 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-neptune-display-premium-4k-all-in-one-screens/"><u>[New] Neptune Display Premium 4K All-in-One Screens</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-organizing-overflow-of-tiktok-saves-for-effective-edits/"><u>[New] Organizing Overflow of TikTok Saves for Effective Edits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-select-best-dvd-software-for-sierra-mac-users/"><u>[New] Select Best Dvd Software for Sierra Mac Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-to-adding-subtitles-in-wmp/"><u>[New] Step-by-Step Guide to Adding Subtitles in WMP</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-transition-timings-in-premiere-audio/"><u>[Updated] Perfecting Transition Timings in Premiere Audio</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-focus-and-depth-with-videoleaps-zoom-feature/"><u>2024 Approved Mastering Focus and Depth with Videoleap's Zoom Feature</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streamlined-mp4-creation-must-have-tools-on-mac/"><u>2024 Approved Streamlined MP4 Creation Must-Have Tools on Mac</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-video-editing-software-comparison-obs-vs-fraps/"><u>2024 Approved Video Editing Software Comparison OBS vs Fraps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722856875278-all-about-samsung-unpacked-2025-when-it-happens-plus-top-gadget-reveals/"><u>All About Samsung Unpacked 2025: When It Happens + Top Gadget Reveals!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-for-free-take-advantage-of-our-90-day-trial-for-2024/"><u>Final Cut Pro for Free Take Advantage of Our 90-Day Trial for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-blaze-pro-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Blaze Pro 5G</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-is-photoshops-stabilization-feature-aiding-creativity/"><u>In 2024, Is Photoshop's Stabilization Feature Aiding Creativity?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808012336-ultimate-tricks-to-optimize-windows-11-and-win-at-games-faster/"><u>Ultimate Tricks to Optimize Windows 11 and Win at Games Faster!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-personalize-chromes-sound-review-of-the-top-web-based-speech-converters-for-2024/"><u>[New] Personalize Chrome's Sound Review of the Top Web-Based Speech Converters for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pioneering-pathways-in-virtual-reality-biking/"><u>[New] Pioneering Pathways in Virtual Reality Biking</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lens-legends-battle-sj6-versus-xiaomis-yi-4k-visionary/"><u>[Updated] Lens Legends Battle SJ6 Versus Xiaomi's Yi 4K Visionary</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-your-idevice-how-to-download-episodes-with-swiftness/"><u>2024 Approved Navigating Your iDevice - How to Download Episodes with Swiftness</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-unlock-social-media-success-a-comprehensive-10-step-plan/"><u>2024 Approved Unlock Social Media Success A Comprehensive 10-Step Plan</u></a></li>
+<li><a href="https://media-tips.techidaily.com/authentic-insights-on-audacity-top-picks-from-leading-audio-editing-applications/"><u>Authentic Insights on Audacity: Top Picks From Leading Audio Editing Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-error-xc0000142-on-win10-11/"><u>Correcting Error XC0000142 on Win10, 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-starfield-from-freezing-or-crashing-on-your-computer/"><u>How to Prevent Starfield From Freezing or Crashing on Your Computer</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pixel-power-streaming-strategies-in-the-software-vs-hardware-arena-for-2024/"><u>Pixel Power Streaming Strategies in the Software vs Hardware Arena for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveiling-the-top-15-no-cost-audio-archives-for-content-makers-for-2024/"><u>Unveiling the Top 15 No-Cost Audio Archives for Content Makers for 2024</u></a></li>
 </ul></div>
 

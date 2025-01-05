@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Solving Common Amazon Prime Video Connectivity Errors
-date: 2024-12-22T16:26:17.783Z
-updated: 2024-12-26T19:25:08.364Z
+date: 2024-12-28T19:38:54.353Z
+updated: 2025-01-04T22:21:45.659Z
 tags:
   - win11
   - win10
@@ -22,7 +22,7 @@ Amazon Prime provides thousands of great series and movies which you can enjoy a
 * [For phone](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes for Amazon prime video not working on PC
@@ -31,20 +31,12 @@ Amazon Prime provides thousands of great series and movies which you can enjoy a
 * [Check your internet connection](https://tools.techidaily.com/drivereasy/download/)
 * [Disable your VPN and third-party apps](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reboot the browser
 
  Make sure your Amazon Prime video account is paid and active. You can go to[your account page](https://www.amazon.com/ap/signin?%5Fencoding=UTF8&accountStatusPolicy=P1&clientContext=135-4224850-9503066&openid.assoc%5Fhandle=usflex&openid.claimed%5Fid=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.mode=checkid%5Fsetup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max%5Fauth%5Fage=0&openid.return%5Fto=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fsettings%2Fref%3Ddv%5Fweb%5Fauth%5Fno%5Fre%5Fsig%3Fie%3DUTF8%26tag%3Dbisafetynet2-20) to check.  
  Make sure you’re using the latest version of your browser.
 
  Then close the web browser and restart it. Or you can change another browser to open Amazon prime video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check your internet connection
 
@@ -79,12 +71,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-714.png)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-715.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -98,6 +90,10 @@ OR
  If you don’t have VPN, disable third-party apps such as your antivirus software and ad-blocker software. Some of them may overreact and cause conflicts with the Amazon Prime Video or give an internet connection error.
 
 **IMPORTANT** : Be extra careful in using the Internet after uninstalling/disabling your antivirus software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for Amazon prime video not working on Smart TV
 
@@ -115,6 +111,10 @@ OR
  Sign out and sign back into the app sounds stupid, but it works for many people. You can select Settings on your TV and sign out.
 
 Close the app, reopen, then enter your credentials to sign back in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure you have the right HDMI cable
 
@@ -135,15 +135,15 @@ If the cable is the culprit, you may need to purchase a new cable.
  Make sure your Amazon Prime video account is paid and active. You can go to[your account page](https://www.amazon.com/ap/signin?%5Fencoding=UTF8&accountStatusPolicy=P1&clientContext=135-4224850-9503066&openid.assoc%5Fhandle=usflex&openid.claimed%5Fid=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier%5Fselect&openid.mode=checkid%5Fsetup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max%5Fauth%5Fage=0&openid.return%5Fto=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fvideo%2Fsettings%2Fref%3Ddv%5Fweb%5Fauth%5Fno%5Fre%5Fsig%3Fie%3DUTF8%26tag%3Dbisafetynet2-20) to check. Check your app version, update it to the latest version.  
  Then close the Prime video app and restart it. Rebooting is always the first and effective method to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check your internet connection
 
  Check your internet connection. Make sure you’re linked to the WiFi or using the cellular data.
 
  If your Wi-Fi is not working, you can press the power button on the back of the router to perform a soft reset.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall the app
 
@@ -168,17 +168,24 @@ If the cable is the culprit, you may need to purchase a new cable.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-shimmer-shots-the-art-of-setting-the-scene-with-light/"><u>[New] Shimmer Shots The Art of Setting the Scene with Light</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-capture-studio-screen-recorder-win10/"><u>[Updated] 2024 Approved Capture Studio Screen Recorder Win10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-superior-audio-alerts-prime-pick-pages/"><u>[Updated] Superior Audio Alerts Prime Pick Pages</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premiere-pro-speed-blackouts/"><u>2024 Approved Premiere Pro Speed Blackouts</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/complete-guide-to-recover-deleted-items-from-iphone-on-a-mac-computer-photos-videos-and-contacts-included/"><u>Complete Guide to Recover Deleted Items From iPhone on a Mac Computer - Photos, Videos & Contacts Included</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-personalization-made-easy-with-4-proven-methods/"><u>Facebook Personalization Made Easy with 4 Proven Methods</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-your-content-time-stamping-in-online-vids/"><u>In 2024, Perfecting Your Content Time Stamping in Online Vids</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-time-top-10-methods-for-flawless-cricket-broadcasts/"><u>In 2024, Prime Time Top 10 Methods for Flawless Cricket Broadcasts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-reviewing-the-newest-2023-samsung-bd-j5900-model/"><u>In 2024, Reviewing the Newest 2023 Samsung BD-J5900 Model</u></a></li>
-<li><a href="https://win-superb.techidaily.com/latest-software-update-check-do-you-have-them-all-installed-tips-from-yl-computing/"><u>Latest Software Update Check: Do You Have Them All Installed? - Tips From YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-resolving-issues-when-mozilla-thunderbird-wont-launch/"><u>Troubleshooting Steps: Resolving Issues When Mozilla Thunderbird Won't Launch</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-bring-back-windows-photo-viewer-steps-in-win-11-edition/"><u>[New] 2024 Approved Bring Back Windows Photo Viewer Steps in Win 11 Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-how-to-preview-off-facebook-activities-and-should-i-leave-it-on-check/"><u>[New] How to Preview Off-Facebook Activities and Should I Leave It On? Check</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-personalizing-your-windows-photos-experience-add-filters-sound/"><u>[New] Personalizing Your Windows Photos Experience Add Filters, Sound</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-selecting-sacred-melodies-a-christian-ringtones-compendium/"><u>[New] Selecting Sacred Melodies A Christian Ringtones Compendium</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-drafting-an-exciting-cinema-flashbacks-series/"><u>[Updated] 2024 Approved Drafting an Exciting Cinema Flashbacks Series</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-hypergame-hub-your-portal-to-infinite-titles/"><u>[Updated] 2024 Approved HyperGame Hub Your Portal to Infinite Titles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-setup-the-top-quality-4k-dslr-mounts-guide/"><u>[Updated] Premium Setup The Top-Quality 4K DSLR Mounts Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-professional-4k-capture-selecting-top-gimbals/"><u>[Updated] Professional 4K Capture Selecting Top Gimbals</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-snooze-sequences-for-kids-critical-look-at-bedtime-storytelling-vids/"><u>[Updated] Snooze Sequences for Kids Critical Look at Bedtime Storytelling Vids</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prodigious-picture-editing-speedy-steps-for-windows-photo-app-users/"><u>2024 Approved Prodigious Picture Editing Speedy Steps for Windows Photo App Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/direct-stream-from-youtube-to-facebook-without-pauses-or-holds/"><u>Direct Stream From YouTube to Facebook without Pauses or Holds</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-is-inshot-leading-video-cutting-tech-deep-insight-reviewed/"><u>In 2024, Is InShot Leading Video Cutting Tech? Deep Insight Reviewed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-recording-victory-techniques-to-transform-live-games-into-video-gold/"><u>In 2024, Recording Victory Techniques to Transform Live Games Into Video Gold</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-screen-time-storytelling-before-sleep-analysis-and-reviews/"><u>In 2024, Screen-Time Storytelling Before Sleep Analysis and Reviews</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximizing-revenue-through-youtube-brand-partnerships-for-2024/"><u>Maximizing Revenue Through Youtube Brand Partnerships for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-wpcapsdll-file-doesnt-exist-or-cant-be-located-issue/"><u>Resolving the 'Wpcaps.dll' File Doesn't Exist or Can't Be Located Issue</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-3-prime-video-hosts-beyond-youtube/"><u>Top 3 Prime Video Hosts - Beyond YouTube</u></a></li>
+<li><a href="https://win-webster.techidaily.com/top-7-solutions-for-resolving-the-disk-read-error-on-windows-versions-11-7-8-and-xp/"><u>Top 7 Solutions for Resolving the 'Disk Read Error' On Windows Versions 11, 7, 8 & XP</u></a></li>
 </ul></div>
 

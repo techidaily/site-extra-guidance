@@ -1,7 +1,7 @@
 ---
 title: "Create Your Portable Desktop: AMD Ryzen PC in a Mini Keyboard with Trackpad & Battery, Attach Only Monitor to Complete Setup"
-date: 2024-12-21T18:05:16.796Z
-updated: 2024-12-26T17:27:50.194Z
+date: 2024-12-30T21:58:30.902Z
+updated: 2025-01-04T22:04:01.578Z
 tags:
   - desktop
 categories:
@@ -28,7 +28,7 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
  Both of these units will be great for businesses that utilize[edge computing](https://www.tomshardware.com/pc-components/cpus/intel-crams-meteor-lake-laptop-chips-into-a-socket-for-edge-computing-includes-arc-graphics-and-npu-for-ai-workloads) . Edge computing is a growing computing strategy that allocates some (or most) of a business's computing power on-site rather than from a cloud solution alone. It significantly reduces internet bandwidth requirements, saving resources and time. The computing strategy has become incredibly popular over the past few years, especially for AI workloads. Reports confirm that data consumption is growing substantially more than internet services can handle worldwide, forcing businesses to switch to edge-based methods for computing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,20 +54,17 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-simple-steps-for-iphone-to-pc-file-shift/"><u>[New] 2024 Approved Simple Steps for iPhone-to-PC File Shift</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-3-steps-to-create-professional-gopro-vlogs-ultimate-tutorial-for-2024/"><u>[New] 3 Steps to Create Professional Gopro Vlogs Ultimate Tutorial for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-strategy-for-collecting-multiple-videos-from-tiktok/"><u>[New] The Ultimate Strategy for Collecting Multiple Videos From TikTok</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-comprehensively-curated-list-15-prime-gear-for-gopro/"><u>[Updated] In 2024, Comprehensively Curated List 15 Prime Gear for GoPro</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-maximizing-visual-impact-integrating-free-high-quality-luts-into-obs/"><u>[Updated] Maximizing Visual Impact Integrating Free, High-Quality LUTs Into OBS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-maximizing-visuals-a-step-by-step-guide-for-buying-a-4k-monitor/"><u>[Updated] Maximizing Visuals A Step-by-Step Guide for Buying a 4K Monitor</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-simplified-guide-efficient-screen-recording-for-dell-users/"><u>2024 Approved Simplified Guide Efficient Screen Recording for Dell Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-when-your-touchpad-scroll-function-fails-a-complete-guide/"><u>Effective Fixes When Your Touchpad Scroll Function Fails – A Complete Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-opt-out-of-autoplayed-podcast-selection-by-spotify/"><u>In 2024, Opt-Out of Autoplayed Podcast Selection by Spotify</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-srgb-and-traditional-rgb-rendering/"><u>In 2024, Srgb and Traditional Rgb Rendering</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/instant-inspiration-free-video-intro-kits-for-2024/"><u>Instant Inspiration - Free Video Intro Kits for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-training-with-whoop-and-apple-watch-a-perfect-duo-for-competitive-athletes-zdnet/"><u>Maximizing Training with Whoop and Apple Watch: A Perfect Duo for Competitive Athletes | ZDNet</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/platform-precision-examining-obs-against-twitch-hub/"><u>Platform Precision Examining OBS Against Twitch Hub</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-enhancing-view-in-roblox-worlds-for-2024/"><u>Step-By-Step Enhancing View in Roblox Worlds for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/18th-anniversary-exclusive-event-unforgettable-night-of-art-and-celebration/"><u>ダイジェスト18th Anniversary Exclusive Event: Unforgettable Night of Art & Celebration</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-precision-portrait-display-review-of-lgs-27in-oled-tv/"><u>[Updated] Precision Portrait Display Review of LG's 27in OLED TV</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-reclaim-the-loss-10-essential-iphone-x-techniques/"><u>[Updated] Reclaim The Loss 10 Essential iPhone X Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-review-movavi-video-pro-2024-enhanced-edition/"><u>[Updated] Review Movavi Video Pro 2024 Enhanced Edition</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-upload-youtube-shorts-detailed-instructions-from-desktopmobile-for-2024/"><u>[Updated] Upload YouTube Shorts Detailed Instructions From Desktop/Mobile for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pinnacle-sound-selections-android-based/"><u>2024 Approved Pinnacle Sound Selections, Android-Based</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/high-definition-recordings-picking-the-best-frame-rate-wisely-for-2024/"><u>High-Definition Recordings Picking the Best Frame Rate Wisely for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-15-pro-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your iPhone 15 Pro?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-calculating-youtubes-income-potential-with-cpm-rates/"><u>In 2024, Calculating YouTube's Income Potential with CPM Rates</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-iron-out-instability-in-iphone-videography-effortlessly/"><u>In 2024, Iron Out Instability in iPhone Videography Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/maintaining-pc-security-options-excluding-bitlocker/"><u>Maintaining PC Security: Options Excluding BitLocker</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalizing-network-safety-5-firewall-tips/"><u>Revitalizing Network Safety: 5 Firewall Tips</u></a></li>
+<li><a href="https://win-popular.techidaily.com/story-1-misunderstanding-the-system32-directory-answer-a/"><u>Story 1: Misunderstanding the System32 Directory (Answer A)</u></a></li>
 </ul></div>
 

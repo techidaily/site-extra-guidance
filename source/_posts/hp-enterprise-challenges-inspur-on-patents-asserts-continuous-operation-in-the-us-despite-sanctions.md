@@ -1,7 +1,7 @@
 ---
 title: HP Enterprise Challenges Inspur on Patents, Asserts Continuous Operation in the US Despite Sanctions
-date: 2024-12-19T20:25:00.080Z
-updated: 2024-12-26T21:48:12.055Z
+date: 2025-01-03T19:28:18.706Z
+updated: 2025-01-05T05:47:06.130Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,24 +78,24 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-maximizing-health-outreach-via-fb-advertising/"><u>[New] 2024 Approved Maximizing Health Outreach via FB Advertising</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-from-idea-to-rss-producing-a-podcast-feed-for-2024/"><u>[New] From Idea to RSS Producing a Podcast Feed for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-leveraging-kinemasters-strengths-for-video-magic-and-10-esteemed-competitors/"><u>[New] Leveraging KineMaster's Strengths for Video Magic & 10 Esteemed Competitors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-srt-editing-on-macos-a-comprehensive-guide/"><u>[New] Mastering SRT Editing on macOS A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-world-of-cost-free-text-animation-techniques/"><u>[New] Navigating the World of Cost-Free Text Animation Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-soundscape-adjustments-fading-volume-with-precision-in-logic-pro/"><u>[New] Soundscape Adjustments Fading Volume with Precision in Logic Pro</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-notice-unregistered-users-on-snapchat-for-2024/"><u>[Updated] How to Notice Unregistered Users on Snapchat for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unlocking-the-secret-strategies-of-instagram-influencers/"><u>[Updated] In 2024, Unlocking the Secret Strategies of Instagram Influencers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-lightning-windows-image-inspector/"><u>[Updated] Lightning Windows Image Inspector</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-spectacular-screenwriting-revealed/"><u>[Updated] Spectacular Screenwriting Revealed</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/hddpcos2/"><u>外付けHDDからPCのOSを復元する簡単な方法2つ</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/enhance-info-blocks-templates-for-youtube-titles/"><u>Enhance Info Blocks Templates for YouTube Titles</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ag-mastery-pathway-to-6-figure-youtube-impact/"><u>Hashtag Mastery Pathway to 6-Figure Youtube Impact</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-screen-magnification-techniques-on-ms-teams/"><u>In 2024, Perfecting Screen Magnification Techniques on MS Teams</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-quality-computers-at-your-desk/"><u>In 2024, Premium Quality Computers at Your Desk</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-tecno-spark-10-4g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Tecno Spark 10 4G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/interactive-medicine-through-tech-innovations-for-2024/"><u>Interactive Medicine Through Tech Innovations for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-codegpt-integration-with-vs-code/"><u>Mastering CodeGPT: Integration with VS Code</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-frame-drops-and-lag-enhancing-your-gaming-experience-in-sifu-on-pc/"><u>Resolving Frame Drops and Lag: Enhancing Your Gaming Experience in Sifu on PC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-mastering-adsense-on-youtube-a-beginners-guide/"><u>[New] 2024 Approved Mastering AdSense on YouTube A Beginner's Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-m1-magic-cutting-edge-video-edits-for-ultra-smooth-results/"><u>[New] M1 Magic Cutting-Edge Video Edits for Ultra-Smooth Results</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-breaking-new-ground-installation-of-windows-11/"><u>[Updated] Breaking New Ground Installation of Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-affordable-data-storage-cloud/"><u>[Updated] Mastering the Art of Affordable Data Storage (Cloud)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-your-look-with-top-facelift-apps/"><u>[Updated] Perfecting Your Look with Top Facelift Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-gaming-thumbs-for-immersive-experience/"><u>[Updated] Top Gaming Thumbs for Immersive Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-visual-voyage-amds-radeon-reborn/"><u>[Updated] Visual Voyage AMD's Radeon Reborn</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-best-radio-drama-scripts/"><u>2024 Approved Best Radio Drama Scripts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-linux-windows-and-mac-10-budget-video-player-options/"><u>2024 Approved Linux, Windows & Mac 10 Budget Video Player Options</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-masterclass-in-image-detail-removing-obscuring-elements-with-photopea/"><u>2024 Approved Masterclass in Image Detail Removing Obscuring Elements with Photopea</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-rapid-diy-filming-tips-for-the-budding-director/"><u>2024 Approved Rapid DIY Filming Tips for the Budding Director</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-steam-readwrite-problems-with-easy-tricks/"><u>Bypassing Steam Read/Write Problems with Easy Tricks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-iphone-photography-wonders-capturing-surface-mirrors/"><u>In 2024, IPhone Photography Wonders Capturing Surface Mirrors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/lighting-setup-tips-to-make-great-videos-for-2024/"><u>Lighting Setup Tips to Make Great Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/navigating-the-risks-of-using-popcorn-time-do-you-need-a-vpn-for-protection/"><u>Navigating the Risks of Using Popcorn Time - Do You Need a VPN for Protection?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/spellbreak-pc-issues-resolved-fixes-and-solutions/"><u>Spellbreak PC Issues Resolved: Fixes & Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-videopad-video-editor-review-should-you-buy-it-in-2024/"><u>The Ultimate Videopad Video Editor Review Should You Buy It, In 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-do-you-know-capcut-has-some-amazing-slow-motion-templates-you-can-utilize-read-this-article-to-access-the-slow-motion-capcut-templates-link-for-2024/"><u>Updated Do You Know CapCut Has some Amazing Slow-Motion Templates You Can Utilize? Read This Article to Access the Slow-Motion CapCut Templates Link for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo A38? | Dr.fone</u></a></li>
 </ul></div>
 

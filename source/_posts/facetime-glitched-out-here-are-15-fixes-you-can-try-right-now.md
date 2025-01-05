@@ -1,7 +1,7 @@
 ---
 title: FaceTime Glitched Out? Here Are 15 Fixes You Can Try Right Now
-date: 2024-12-21T21:47:06.537Z
-updated: 2024-12-26T18:11:36.305Z
+date: 2025-01-02T19:43:58.987Z
+updated: 2025-01-05T04:36:38.399Z
 tags:
   - iphone
   - apple
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
  Your browser does not support the video tag.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Test the Camera and Microphone on Your Device
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
  Similarly, if you can't see or hear the other person on FaceTime but they can see you, it's best to ask them to confirm if they have video and mic enabled on their end.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Test the Internet Connection on Your Device
@@ -76,15 +76,15 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 
 Close
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Restart Your iPhone, iPad, or Mac
 
  Restarting your device is one of the best troubleshooting tips for any app. When you [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) or [reboot your Mac](https://www.makeuseof.com/tag/how-to-restart-force-shut-down-mac/) , you'll often find that software glitches are resolved in the process. That's because the operating system is refreshed due to the device powering off and turning back on.
 
  It sounds simple, but don't overlook this useful step when FaceTime isn't working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Find Out if FaceTime Is Down for Everyone
 
@@ -95,7 +95,7 @@ Close
  Take a look at the current status of every Apple service on [Apple's System Status page](https://www.apple.com/support/systemstatus/) . If the status indicator next to FaceTime isn't green, it means the service is experiencing an outage and you'll need to wait.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Check if FaceTime Works in Your Country
@@ -111,7 +111,7 @@ Close
 ![iphone stock app settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-stock-app-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iphone facetime settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-settings.JPEG)
@@ -121,6 +121,10 @@ Close
  To check your details on a Mac, open the**FaceTime** app. From the menu bar, go to**FaceTime > Settings** . Your contact details will appear in the**General** tab.
 
 ![facetime settings on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-settings-on-mac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Confirm That Your Device Works With Group FaceTime
 
@@ -149,6 +153,10 @@ For Group FaceTime chats, you need one of the following devices:
 
  On an iPhone or iPad, go to**Settings > General > Software Update** . On a Mac, go to**System Settings > General > Software Update** to check for a newer version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Set the Date and Time Automatically
 
  Apple suggests you set the date and time automatically if FaceTime isn't working on your iPhone, iPad, or Mac. Most of us do this anyway, but you should ensure it's enabled in the settings on your device.
@@ -167,10 +175,6 @@ Close
 
 ![date and time settings on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/date-and-time-settings-on-mac-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 12\. Temporarily Disable FaceTime in Settings
 
  You can turn FaceTime off and on from the FaceTime settings menu on your iPhone, iPad, or Mac. You might need to sign back into your Apple ID account when you turn it on again.
@@ -179,21 +183,17 @@ Close
 
 ![iphone stock app settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-stock-app-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iphone facetime settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-settings.JPEG)
 
 ![iphone facetime toggled off in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-toggled-off-in-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  On a Mac, open the FaceTime app and go to**FaceTime > Settings** from the menu bar. Uncheck the**Enable this account** option to turn FaceTime off. Then click**Turn On** to enable it again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 13\. Sign Out of FaceTime, Then Sign In Again
 
@@ -203,19 +203,11 @@ Close
 
 ![iphone facetime settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![sign out of facetime popup on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sign-out-of-facetime-popup-on-iphone.JPEG)
 
 Close
 
  On a Mac, open the FaceTime app and go to**FaceTime > Settings** from the menu bar. Click**Sign Out** at the top of the window, then confirm you want to**Sign Out** . After signing out, enter your Apple ID details in the main FaceTime window to sign in again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 14\. Disable Content Restrictions for FaceTime
 
@@ -225,9 +217,17 @@ Close
 
 ![iphone limit usage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-limit-usage-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iphone content and privacy restrictions settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-content-and-privacy-restrictions-settings.JPEG)
 
 ![allowed apps in iphone content and privacy restriction settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/allowed-apps-in-iphone-content-and-privacy-restriction-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -262,22 +262,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-10-premier-choices-for-no-cost-screen-recording-tools/"><u>[New] 2024 Approved 10 Premier Choices for No-Cost Screen Recording Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-dissecting-the-narrative-in-youtube-dialogues-for-2024/"><u>[New] Dissecting the Narrative in YouTube Dialogues for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premier-selection-incredible-platform-compatible-free-streaming-apps/"><u>[New] Premier Selection Incredible, Platform-Compatible Free Streaming Apps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-recordcast-review/"><u>[New] RecordCast Review</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-innovative-strategies-for-vimeo-video-recording/"><u>[Updated] 2024 Approved Innovative Strategies for Vimeo Video Recording</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pro-camera-powerhouses-the-2024-ultimate-list/"><u>[Updated] Pro Camera Powerhouses – The 2024 Ultimate List</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-reverting-to-classic-from-sierra-to-os-x-1010/"><u>[Updated] Reverting to Classic From Sierra To OS X 10.10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-step-up-your-photo-game-basic-snapseed-skills-guide/"><u>[Updated] Step Up Your Photo Game Basic Snapseed Skills Guide</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/10-con-nuestra-aplicacion-completa-y-totalmente-gratuita/"><u>10 Con Nuestra Aplicación Completa Y Totalmente Gratuita</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-racing-cameras-clash-is-black-hero-4-or-ghost-s-better/"><u>2024 Approved Racing Cameras Clash Is Black Hero 4 or Ghost-S Better?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-pcmobile-images-with-focused-blur-techniques/"><u>Elevate Your PC/Mobile Images with Focused Blur Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-melodic-mastery-in-visual-storytelling/"><u>In 2024, Melodic Mastery in Visual Storytelling</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/master-your-machine-11-ways-to-open-control-panel/"><u>Master Your Machine: 11 Ways to Open Control Panel</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/novices-navigate-for-speedy-snapchat-videos-for-2024/"><u>Novice's Navigate for Speedy Snapchat Videos for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/preserving-periscope-content-tips-from-the-pros-for-2024/"><u>Preserving Periscope Content Tips From the Pros for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-tecno-spark-10-4g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Tecno Spark 10 4G to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-hidden-perils-why-you-shouldnt-use-ai-for-personal-therapy-and-counseling/"><u>The Hidden Perils: Why You Shouldn't Use AI for Personal Therapy and Counseling</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-fundamentals-a-complete-srt-overview/"><u>[New] Mastering the Fundamentals A Complete SRT Overview</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-exhaustive-evaluation-the-new-360-camera/"><u>[Updated] In 2024, Exhaustive Evaluation The New 360 Camera</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-edge-stabilized-gimbals-iphoneandroidprofessional-rankings-1-10/"><u>[Updated] Leading-Edge Stabilized Gimbals IPhone/Android/Professional Rankings #1-#10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-personalize-phone-chimes-a-whatsapp-tone-builders-manual/"><u>[Updated] Personalize Phone Chimes A WhatsApp Tone Builder's Manual</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-playlists-transitioning-with-confidence/"><u>[Updated] Pioneering Playlists Transitioning with Confidence</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-full-screen-in-ppro/"><u>2024 Approved Navigating Full Screen in PPro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/complimentary-online-vob-mpeg-video-format-changer-moveavi/"><u>Complimentary Online VOB-MPEG Video Format Changer - MoveAVI</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cost-effective-home-entertainment-solutions-beginners-starter-kit-selection/"><u>Cost-Effective Home Entertainment Solutions - Beginner's Starter Kit Selection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhance-your-livestream-with-manycam-clones-premium-virtual-camera-solutions-for-content-creators/"><u>Enhance Your Livestream with ManyCam Clones: Premium Virtual Camera Solutions for Content Creators</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-12-proplus-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme 12 Pro+ 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-integrating-zooms-features-for-enhanced-facebook-live/"><u>In 2024, Integrating Zoom's Features for Enhanced Facebook LIVE</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-landscape-of-3d-color-grading-tools/"><u>In 2024, Navigating the Landscape of 3D Color Grading Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/installing-windows-11-with-a-disallowed-cpu-step-by-step-guide/"><u>Installing Windows 11 with a Disallowed CPU: Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/m1-powered-macbook-air-a-new-era-for-editors-for-2024/"><u>M1-Powered MacBook Air A New Era for Editors for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/metaverse-marvels-top-10-sci-fi-films-unveiling-extraordinary-worlds-for-2024/"><u>Metaverse Marvels Top 10 Sci-Fi Films Unveiling Extraordinary Worlds for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-guide-to-free-youtube-closure-creation-for-2024/"><u>Quick Guide to Free YouTube Closure Creation for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210677071-9781398827981-the-book-of-spells/"><u>The Book of Spells | Free Book</u></a></li>
+<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-on-windows-7-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager on Windows 7</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/whats-crucial-in-choosing-your-next-smart-tv/"><u>What's Crucial in Choosing Your Next Smart TV?</u></a></li>
 </ul></div>
 

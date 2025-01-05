@@ -1,7 +1,7 @@
 ---
 title: "Solving Launch Issues: Top 8 Troubleshooting Tips for Hogwarts Legacy PC Game"
-date: 2024-12-23T20:32:53.145Z
-updated: 2024-12-26T21:02:59.895Z
+date: 2025-01-02T21:51:03.598Z
+updated: 2025-01-05T04:29:25.376Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 ## Epic Games Launcher Troubleshooting: Resolve Issues Instantly
 
 **Epic Games Launcher won’t open?** Don’t worry… Although it’s very frustrating, you’re not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -37,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: End the Epic Games Launcher process in Task Manager
@@ -58,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Launch Epic Games Launcher from Start Menu
 
  If you failed to launch Epic Games Launcher by double-clicking its shortcut on your desktop, you should try launching it from the Start Menu. To do so:
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1048.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if you can launch the program. If so, you should delete its shortcut on your desktop and create a new one. If it still won’t launch, don’t worry. Try the next fix, below.
@@ -81,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
  1)**Right-click** **an empty area of the desktop** and select**Display settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1053.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the**Scale and layout** section, make sure it is set to**100%** .
 
@@ -129,10 +125,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
 
 "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe" -OpenGL
@@ -142,7 +134,7 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Run Epic Games Launcher again to see if this fix works.
@@ -150,6 +142,10 @@ _You can do it for free if you like, but it’s partly manual._
  If it won’t open, try the next fix to disable your antivirus software temporarily.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
 
@@ -163,6 +159,10 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Repair Epic Games Launcher
 
  Try repairing the Epic Games Launcher in the Control Panel to see if this fix works for you. Here’s how to do it:
@@ -171,19 +171,23 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1069.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Launch Epic Games Launcher again when Windows completes the repair process.
 
  Run Epic Games Launcher to see if you can open it. If not, you may need to try the next fix to reinstall the program.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Epic Games Launcher
 
@@ -192,10 +196,6 @@ _You can do it for free if you like, but it’s partly manual._
  1) On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control appwiz.cpl** and press**Enter** to open the**Programs and Features** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
@@ -229,19 +229,24 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-is-minimizing-unstable-movement-in-photoshop-beneficial-for-2024/"><u>[New] Is Minimizing Unstable Movement in Photoshop Beneficial for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-discover-the-most-reliable-android-apps-to-replay-your-favorite-ps2-games/"><u>[Updated] 2024 Approved Discover the Most Reliable Android Apps to Replay Your Favorite PS2 Games</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-news-narratives-concluding-flourishes-for-2024/"><u>[Updated] News Narratives' Concluding Flourishes for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-revamped-dialogue-strategies-for-engaging-podcasters/"><u>[Updated] Revamped Dialogue Strategies for Engaging Podcasters</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-fives-best-quick-reliable-time-lapse-tools/"><u>2024 Approved Five's Best Quick, Reliable Time-Lapse Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-hdmi-connectivity-issues-on-your-windows-11-pc-with-a-tv/"><u>Diagnosing and Fixing HDMI Connectivity Issues on Your Windows 11 PC with a TV</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-reimagining-received-gifts-the-joy-of-openness/"><u>In 2024, Reimagining Received Gifts The Joy of Openness</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-slovak-online-in-just-10-minutes-a-day/"><u>Learn Slovak Online in Just 10 Minutes a Day</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/live-streaming-mastery-enhance-your-broadcasts-with-manycam-virtual-webcams-and-hd-software/"><u>Live Streaming Mastery: Enhance Your Broadcasts with ManyCam Virtual Webcams and HD Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/non-standard-video-editing-applications-on-windows-for-2024/"><u>Non-Standard Video Editing Applications on WIndows for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-navigating-value-with-the-newly-launched-iphone-se-from-apple-in-2020/"><u>Review: Navigating Value with the Newly Launched iPhone SE From Apple in 2020</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/sifting-through-centuries-online-unlicensed-treasures-for-2024/"><u>Sifting Through Centuries Online Unlicensed Treasures for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-dynamic-gif-making-for-2024/"><u>Step-by-Step Guide to Dynamic GIF Making for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unleash-your-creativity-with-personalized-filters-and-melodies-windows-10-photos-for-2024/"><u>Unleash Your Creativity with Personalized Filters and Melodies (Windows 10 Photos) for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-masterclass-in-merging-movies-with-modern-education/"><u>[New] 2024 Approved Masterclass in Merging Movies with Modern Education</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-snapseed-101-easy-steps-for-image-transformation/"><u>[New] Snapseed 101 Easy Steps for Image Transformation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-speedy-tutorial-crafting-youtube-image-thumbnails-from-scratch/"><u>[New] Speedy Tutorial Crafting YouTube Image Thumbnails From Scratch</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-to-full-periscope-capabilities/"><u>[New] Step-by-Step Guide to Full Periscope Capabilities</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-circle-of-life-filming-iphone-videography-explained-for-2024/"><u>[New] The Circle of Life Filming IPhone Videography Explained for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-charting-financial-horizons-the-threefold-technique-for-analyzing-youtube-earning-data-for-2024/"><u>[Updated] Charting Financial Horizons The Threefold Technique for Analyzing YouTube Earning Data for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-making-sense-of-typical-podcaster-profits/"><u>[Updated] Making Sense of Typical Podcaster Profits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-spark-interest-on-instagram-with-top-unboxing-video-techniques/"><u>[Updated] Spark Interest on Instagram with Top Unboxing Video Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comparing-huawei-p10-with-industry-standards-of-smartphones/"><u>2024 Approved Comparing Huawei P10 with Industry Standards of Smartphones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-the-dji-phantom-3-pro-advantages/"><u>2024 Approved Inside the DJI Phantom 3 Pro Advantages</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-photography-with-nikon-d7500/"><u>2024 Approved Mastering Photography with Nikon D7500</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-digital-content-picking-between-podcasts-and-youtube/"><u>2024 Approved Navigating Digital Content Picking Between Podcasts & YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-soft-soundscapes-low-profile-alterations-in-garageband/"><u>2024 Approved Soft Soundscapes Low-Profile Alterations in Garageband</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-to-view-youtube-statistics/"><u>In 2024, How to View YouTube Statistics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/next-era-cinema-vrs-role-in-entertainment-for-2024/"><u>Next Era Cinema VR's Role in Entertainment for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-htc-u23-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for HTC U23 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-mac-users-rejoice-best-alternatives-to-pinnacle-studio/"><u>Updated 2024 Approved Mac Users, Rejoice! Best Alternatives to Pinnacle Studio</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210832562-9781632175205-wild-medicine/"><u>Wild Medicine | Free Book</u></a></li>
 </ul></div>
 

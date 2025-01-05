@@ -1,7 +1,7 @@
 ---
 title: "Mastering Chroma Key Techniques in Live Broadcasts for 2024"
-date: 2024-07-31T18:15:17.523Z
-updated: 2024-08-01T18:15:17.523Z
+date: 2024-12-28T23:13:53.522Z
+updated: 2025-01-04T21:18:19.107Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 
 # How to use Green Screen for Streaming
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -32,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 The green screen has become the new hot-cake among gamers and other video streamers. It allows them to add the most magnetizing and unreal effects for their streams. These days, it has become easier than ever to set-up your green screen studio and creatively displays your hidden talent.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to set-up your live streaming studio
 
 To set up a green screen studio, there are some things you’ll need to be equipped with first. You’ll need to know which camera to use, which green screen to use, and which lights your broadcast requires.
@@ -50,105 +48,6 @@ The details of the needed equipment for different scenarios are explained below:
 
 If you want to set up a large broadcasting studio the camera you’ll need should have adequate qualities. A live system studio and the broadcasting camera should do the trick if you have a sufficient budget. They can range anywhere from **$2000 to $25000** depending on your need. **A video with a quality of less than 2k resolution is not enough for streaming from a big newsroom studio.**
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![sony hdc 5500 studio camera](https://images.wondershare.com/filmora/Mac-articles/sony-hdc-5500-studio-camera.jpg)
-
-For normal web or twitch streaming a high-quality webcam should be used. It should have good face tracking and great picture quality. **A 1080p resolution** with the capability of 30-60 frames is a bonus. There are some great cameras on the market that you can even land at **under $100**.
-
-![clear one unite pro webcam](https://images.wondershare.com/filmora/Mac-articles/clear-one-unite-pro-webcam.jpg)
-
-* Green Screen
-
-The green screen requirements are also different for different types of broadcasting. A large studio will need to have a hanging green screen big enough to cover the whole studio. Make sure that you clip them tightly enough at the corners that no wrinkles are left. Also, make sure any object you want to remove from the background should be wrapped in green, for example, the legs of green screen lights,
-
-![green screen for studio](https://images.wondershare.com/filmora/Mac-articles/green-screen-for-studio.jpg)
-
-For gamers and other streamers like beauty vloggers, twitch anchors, and YouTubers there are different kinds of green screens in the market depending on the budget. There are foldable ones that can fold into a circle like a small tent. They open up to a considerably decent size. These green screens need to be hanged to keep them standing and come at a considerably lower price range of around $40.
-
-![foldable green screen](https://images.wondershare.com/filmora/Mac-articles/foldable-green-screen.jpg)
-
-Another option of the green screen for streamers is a collapsible green screen. It was introduced by Elgato and is easy to carry and easy to set-up. It can be adjusted to any height and can open and tear down in a matter of seconds. It comes with a relatively high price of around $150 but they are worth the money.
-
-Do remember that any green screen you use should be large enough to give your main subject space to move around. Apart from that, make sure you don’t have any green elements in your subject or your software will also make those areas disappear. **If your subject has blonde hair, a blue screen instead of a green screen is recommended.**
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![elgato green screen stand](https://images.wondershare.com/filmora/Mac-articles/elgato-green-screen-stand.jpg)
-
-* Lights
-
-A news broadcasting room will require a key light, fill light, and a backlight per subject so the lights should be set up accordingly. Similarly, for the green screen, enough lights should be set-up to keep the green screen evenly lit depending on the size and shape of your green screen. The number of lights will depend on the shape of your green screen rather than the size.
-
-If it is a straight background two high-powered lights should be enough. However, if there is a curve at the corners then more lights should be added to cover the curved area.
-
-For small setups, the most commonly used set-up is the three-point set-up. It is a formation of a triangle with a key light, fill light, and a backlight to cover the subject or the talent. For a green screen, one light on each side would do the job of providing enough light to keep the screen lit.
-
- ![lighting guide for a green screen](https://images.wondershare.com/filmora/Mac-articles/lighting-guide-for-a-green-screen.jpg)
-
-The two things to remember about lighting are that there is should be no shadow in the background and the green screen should be lit across evenly. It may take some time for you to learn the correct ways but practice and observation will make it perfect.
-
-* Final Step
-
-When recording and editing a video for the green screen, you can just record a video and then later edit and upload it to the internet, but for live-streaming it is different. Normal video devices do not come with video encoders. Encoders convert on-coming audio and video signals and make them web-friendly. To stream in real-time, a video encoder is really necessary.
-
-Once your set-up is complete the next step is to choose the right software. There are a lot of options around but the best ones are [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) X, OBS, and Adobe Premier. All of them will make it much easier to edit out any flaws in your system if you have not yet perfected it.
-
-To start a live stream you need to download [XSplit](https://www.xsplit.com/) broadcaster software which will allow you to start your live streaming with your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![xsplit](https://images.wondershare.com/filmora/Mac-articles/xsplit.png)
-
-#### Conclusion
-
-Green screens were a thing of luxury in the old times only to be used by filmmakers or news broadcasters. Now, with the current technology, it is possible to set up a green screen studio in your room. From gamers to vloggers, each one is trying to be as creative as possible to attract more viewers to the screen.
-
-To fulfill the needs of all kinds of green screen editing for a newsroom or live video streaming, Filmora X is your partner to go with!
-
-Learn More: [How to use OBS Streamlabs on Mac？>>>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Oct 26, 2023• Proven solutions
-
-The green screen has become the new hot-cake among gamers and other video streamers. It allows them to add the most magnetizing and unreal effects for their streams. These days, it has become easier than ever to set-up your green screen studio and creatively displays your hidden talent.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-## How to set-up your live streaming studio
-
-To set up a green screen studio, there are some things you’ll need to be equipped with first. You’ll need to know which camera to use, which green screen to use, and which lights your broadcast requires.
-
-There is a wide range of set-up options depending upon your need. If you are thinking about broadcasting from a newsroom, your set-up should match the requirements when it comes to the equipment.
-
-In a studio, the camera should be specifically for high-quality live video transmissions. Green screen size should be considerable and so should be the number of lights. In addition to all that, you will also need a crew to set up a massive studio.
-
-For personal video streaming the equipment you need should be basic but make sure it does not lag too much behind in quality. There are a lot of selections that allow you to set up everything singlehandedly.
-
-The details of the needed equipment for different scenarios are explained below:
-
-* Camera
-
-If you want to set up a large broadcasting studio the camera you’ll need should have adequate qualities. A live system studio and the broadcasting camera should do the trick if you have a sufficient budget. They can range anywhere from **$2000 to $25000** depending on your need. **A video with a quality of less than 2k resolution is not enough for streaming from a big newsroom studio.**
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![sony hdc 5500 studio camera](https://images.wondershare.com/filmora/Mac-articles/sony-hdc-5500-studio-camera.jpg)
 
 For normal web or twitch streaming a high-quality webcam should be used. It should have good face tracking and great picture quality. **A 1080p resolution** with the capability of 30-60 frames is a bonus. There are some great cameras on the market that you can even land at **under $100**.
@@ -191,10 +90,11 @@ Once your set-up is complete the next step is to choose the right software. Ther
 
 To start a live stream you need to download [XSplit](https://www.xsplit.com/) broadcaster software which will allow you to start your live streaming with your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![xsplit](https://images.wondershare.com/filmora/Mac-articles/xsplit.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Conclusion
 
@@ -204,15 +104,12 @@ To fulfill the needs of all kinds of green screen editing for a newsroom or live
 
 Learn More: [How to use OBS Streamlabs on Mac？>>>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -227,9 +124,6 @@ Follow @Richard Bennett
 
 The green screen has become the new hot-cake among gamers and other video streamers. It allows them to add the most magnetizing and unreal effects for their streams. These days, it has become easier than ever to set-up your green screen studio and creatively displays your hidden talent.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## How to set-up your live streaming studio
 
 To set up a green screen studio, there are some things you’ll need to be equipped with first. You’ll need to know which camera to use, which green screen to use, and which lights your broadcast requires.
@@ -256,10 +150,11 @@ For normal web or twitch streaming a high-quality webcam should be used. It shou
 
 The green screen requirements are also different for different types of broadcasting. A large studio will need to have a hanging green screen big enough to cover the whole studio. Make sure that you clip them tightly enough at the corners that no wrinkles are left. Also, make sure any object you want to remove from the background should be wrapped in green, for example, the legs of green screen lights,
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![green screen for studio](https://images.wondershare.com/filmora/Mac-articles/green-screen-for-studio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For gamers and other streamers like beauty vloggers, twitch anchors, and YouTubers there are different kinds of green screens in the market depending on the budget. There are foldable ones that can fold into a circle like a small tent. They open up to a considerably decent size. These green screens need to be hanged to keep them standing and come at a considerably lower price range of around $40.
 
@@ -304,9 +199,14 @@ Learn More: [How to use OBS Streamlabs on Mac？>>>](https://tools.techidaily.co
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -321,8 +221,9 @@ Follow @Richard Bennett
 The green screen has become the new hot-cake among gamers and other video streamers. It allows them to add the most magnetizing and unreal effects for their streams. These days, it has become easier than ever to set-up your green screen studio and creatively displays your hidden talent.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to set-up your live streaming studio
 
 To set up a green screen studio, there are some things you’ll need to be equipped with first. You’ll need to know which camera to use, which green screen to use, and which lights your broadcast requires.
@@ -341,37 +242,28 @@ If you want to set up a large broadcasting studio the camera you’ll need shoul
 
 ![sony hdc 5500 studio camera](https://images.wondershare.com/filmora/Mac-articles/sony-hdc-5500-studio-camera.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For normal web or twitch streaming a high-quality webcam should be used. It should have good face tracking and great picture quality. **A 1080p resolution** with the capability of 30-60 frames is a bonus. There are some great cameras on the market that you can even land at **under $100**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![clear one unite pro webcam](https://images.wondershare.com/filmora/Mac-articles/clear-one-unite-pro-webcam.jpg)
 
 * Green Screen
 
 The green screen requirements are also different for different types of broadcasting. A large studio will need to have a hanging green screen big enough to cover the whole studio. Make sure that you clip them tightly enough at the corners that no wrinkles are left. Also, make sure any object you want to remove from the background should be wrapped in green, for example, the legs of green screen lights,
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![green screen for studio](https://images.wondershare.com/filmora/Mac-articles/green-screen-for-studio.jpg)
 
 For gamers and other streamers like beauty vloggers, twitch anchors, and YouTubers there are different kinds of green screens in the market depending on the budget. There are foldable ones that can fold into a circle like a small tent. They open up to a considerably decent size. These green screens need to be hanged to keep them standing and come at a considerably lower price range of around $40.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![foldable green screen](https://images.wondershare.com/filmora/Mac-articles/foldable-green-screen.jpg)
 
 Another option of the green screen for streamers is a collapsible green screen. It was introduced by Elgato and is easy to carry and easy to set-up. It can be adjusted to any height and can open and tear down in a matter of seconds. It comes with a relatively high price of around $150 but they are worth the money.
 
 Do remember that any green screen you use should be large enough to give your main subject space to move around. Apart from that, make sure you don’t have any green elements in your subject or your software will also make those areas disappear. **If your subject has blonde hair, a blue screen instead of a green screen is recommended.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![elgato green screen stand](https://images.wondershare.com/filmora/Mac-articles/elgato-green-screen-stand.jpg)
 
 * Lights
@@ -394,9 +286,98 @@ Once your set-up is complete the next step is to choose the right software. Ther
 
 To start a live stream you need to download [XSplit](https://www.xsplit.com/) broadcaster software which will allow you to start your live streaming with your PC.
 
+![xsplit](https://images.wondershare.com/filmora/Mac-articles/xsplit.png)
+
+#### Conclusion
+
+Green screens were a thing of luxury in the old times only to be used by filmmakers or news broadcasters. Now, with the current technology, it is possible to set up a green screen studio in your room. From gamers to vloggers, each one is trying to be as creative as possible to attract more viewers to the screen.
+
+To fulfill the needs of all kinds of green screen editing for a newsroom or live video streaming, Filmora X is your partner to go with!
+
+Learn More: [How to use OBS Streamlabs on Mac？>>>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Oct 26, 2023• Proven solutions
+
+The green screen has become the new hot-cake among gamers and other video streamers. It allows them to add the most magnetizing and unreal effects for their streams. These days, it has become easier than ever to set-up your green screen studio and creatively displays your hidden talent.
+
+## How to set-up your live streaming studio
+
+To set up a green screen studio, there are some things you’ll need to be equipped with first. You’ll need to know which camera to use, which green screen to use, and which lights your broadcast requires.
+
+There is a wide range of set-up options depending upon your need. If you are thinking about broadcasting from a newsroom, your set-up should match the requirements when it comes to the equipment.
+
+In a studio, the camera should be specifically for high-quality live video transmissions. Green screen size should be considerable and so should be the number of lights. In addition to all that, you will also need a crew to set up a massive studio.
+
+For personal video streaming the equipment you need should be basic but make sure it does not lag too much behind in quality. There are a lot of selections that allow you to set up everything singlehandedly.
+
+The details of the needed equipment for different scenarios are explained below:
+
+* Camera
+
+If you want to set up a large broadcasting studio the camera you’ll need should have adequate qualities. A live system studio and the broadcasting camera should do the trick if you have a sufficient budget. They can range anywhere from **$2000 to $25000** depending on your need. **A video with a quality of less than 2k resolution is not enough for streaming from a big newsroom studio.**
+
+![sony hdc 5500 studio camera](https://images.wondershare.com/filmora/Mac-articles/sony-hdc-5500-studio-camera.jpg)
+
+For normal web or twitch streaming a high-quality webcam should be used. It should have good face tracking and great picture quality. **A 1080p resolution** with the capability of 30-60 frames is a bonus. There are some great cameras on the market that you can even land at **under $100**.
+
+![clear one unite pro webcam](https://images.wondershare.com/filmora/Mac-articles/clear-one-unite-pro-webcam.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+* Green Screen
+
+The green screen requirements are also different for different types of broadcasting. A large studio will need to have a hanging green screen big enough to cover the whole studio. Make sure that you clip them tightly enough at the corners that no wrinkles are left. Also, make sure any object you want to remove from the background should be wrapped in green, for example, the legs of green screen lights,
+
+![green screen for studio](https://images.wondershare.com/filmora/Mac-articles/green-screen-for-studio.jpg)
+
+For gamers and other streamers like beauty vloggers, twitch anchors, and YouTubers there are different kinds of green screens in the market depending on the budget. There are foldable ones that can fold into a circle like a small tent. They open up to a considerably decent size. These green screens need to be hanged to keep them standing and come at a considerably lower price range of around $40.
+
+![foldable green screen](https://images.wondershare.com/filmora/Mac-articles/foldable-green-screen.jpg)
+
+Another option of the green screen for streamers is a collapsible green screen. It was introduced by Elgato and is easy to carry and easy to set-up. It can be adjusted to any height and can open and tear down in a matter of seconds. It comes with a relatively high price of around $150 but they are worth the money.
+
+Do remember that any green screen you use should be large enough to give your main subject space to move around. Apart from that, make sure you don’t have any green elements in your subject or your software will also make those areas disappear. **If your subject has blonde hair, a blue screen instead of a green screen is recommended.**
+
+![elgato green screen stand](https://images.wondershare.com/filmora/Mac-articles/elgato-green-screen-stand.jpg)
+
+* Lights
+
+A news broadcasting room will require a key light, fill light, and a backlight per subject so the lights should be set up accordingly. Similarly, for the green screen, enough lights should be set-up to keep the green screen evenly lit depending on the size and shape of your green screen. The number of lights will depend on the shape of your green screen rather than the size.
+
+If it is a straight background two high-powered lights should be enough. However, if there is a curve at the corners then more lights should be added to cover the curved area.
+
+For small setups, the most commonly used set-up is the three-point set-up. It is a formation of a triangle with a key light, fill light, and a backlight to cover the subject or the talent. For a green screen, one light on each side would do the job of providing enough light to keep the screen lit.
+
+ ![lighting guide for a green screen](https://images.wondershare.com/filmora/Mac-articles/lighting-guide-for-a-green-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+The two things to remember about lighting are that there is should be no shadow in the background and the green screen should be lit across evenly. It may take some time for you to learn the correct ways but practice and observation will make it perfect.
+
+* Final Step
+
+When recording and editing a video for the green screen, you can just record a video and then later edit and upload it to the internet, but for live-streaming it is different. Normal video devices do not come with video encoders. Encoders convert on-coming audio and video signals and make them web-friendly. To stream in real-time, a video encoder is really necessary.
+
+Once your set-up is complete the next step is to choose the right software. There are a lot of options around but the best ones are [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) X, OBS, and Adobe Premier. All of them will make it much easier to edit out any flaws in your system if you have not yet perfected it.
+
+To start a live stream you need to download [XSplit](https://www.xsplit.com/) broadcaster software which will allow you to start your live streaming with your PC.
+
 ![xsplit](https://images.wondershare.com/filmora/Mac-articles/xsplit.png)
 
 #### Conclusion
@@ -439,5 +420,19 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-role-of-swot-analysis-in-shaping-a-robust-business-model/"><u>[New] 2024 Approved The Role of SWOT Analysis in Shaping a Robust Business Model</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-can-you-afford-to-exclude-itop-from-your-setup/"><u>[New] Can You Afford to Exclude ITop From Your Setup?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-tailoring-your-obs-feeds-for-best-social-media-impact/"><u>[New] Tailoring Your OBS Feeds for Best Social Media Impact</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-meme-masters-at-your-fingertips-app/"><u>[Updated] Meme Masters at Your Fingertips (App)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pro-stream-wars-choosing-between-vmix-and-wirecast/"><u>[Updated] Pro-Stream Wars Choosing Between VMix and Wirecast</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revitalizing-screenshots-the-ultimate-top-10-iphoneandroid-sticker-tools/"><u>2024 Approved Revitalizing Screenshots - The Ultimate Top 10 iPhone/Android Sticker Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-compreous-guide-to-recording-and-securing-periscope-videos-for-2024/"><u>A Compreous Guide to Recording & Securing Periscope Videos for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-xiaomi-redmi-k70-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Xiaomi Redmi K70 Pro to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-iphone-6s-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your iPhone 6s has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-the-craft-top-7-techniques-for-captivating-meme-creation-for-2024/"><u>Mastering the Craft Top 7 Techniques for Captivating Meme Creation for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/red-thumbnails-aspect-ratios-for-maximum-clicks-for-2024/"><u>Tailored Thumbnails Aspect Ratios for Maximum Clicks for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/dvd-top5/"><u>ブルーレイディスクをDVDに変換する簡単ガイド: Top5選ばれたコピーソフトをご紹介します</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Compact Chinese Mini PC Features Rare Inverted 'U' Shape and Expandable PCIe Slot
-date: 2024-12-20T19:40:13.319Z
-updated: 2024-12-26T21:54:43.557Z
+date: 2024-12-29T17:02:39.622Z
+updated: 2025-01-04T22:06:45.624Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,18 +60,19 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-is-taking-screenshots-of-youtube-videos-illegal/"><u>[New] Is Taking Screenshots of YouTube Videos Illegal?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-number-1-in-the-8th-digital-image-blend-platform/"><u>[New] Number 1 in the 8Th Digital Image Blend Platform</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-minimizing-motion-blur-in-media-creation/"><u>[Updated] Minimizing Motion Blur in Media Creation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-rise-to-the-top-mobile-youtubing-without-million-subscriber-status/"><u>[Updated] Rise to the Top Mobile YouTubing Without Million-Subscriber Status</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-guide-to-unmicrophonic-audio-recording-for-2024/"><u>[Updated] Step-by-Step Guide to Unmicrophonic Audio Recording for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-how-bouncies-connected-drive-device-offers-simple-navigation-for-less/"><u>Discover How Bouncie's Connected Drive Device Offers Simple Navigation for Less</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-toms-tech-reviews-the-ultimate-guide-for-gadgets-and-components/"><u>Explore Tom's Tech Reviews: The Ultimate Guide for Gadgets and Components</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-instantaneous-conversion-mastery-from-srt-to-txt-with-precision/"><u>In 2024, Instantaneous Conversion Mastery From SRT to TXT with Precision</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-pioneering-digital-expression-with-these-6-best-nft-makers/"><u>In 2024, Pioneering Digital Expression with These 6 Best NFT Makers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-stabilizing-pixels-the-truth-behind-photoshop-shake/"><u>In 2024, Stabilizing Pixels The Truth Behind Photoshop Shake</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-when-warzone-visuals-fail-to-load/"><u>Troubleshooting Guide: When Warzone Visuals Fail to Load</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/ultimate-directory-where-to-download-youtube-ringtones-in-2024/"><u>Ultimate Directory Where to Download YouTube Ringtones, In 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-ultimate-guide-to-adaptive-igtv-video-dimensions/"><u>[New] 2024 Approved The Ultimate Guide to Adaptive IGTV Video Dimensions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reflect-your-vision-affordable-personalization-of-professional-logo-designs-free/"><u>[New] Reflect Your Vision Affordable Personalization of Professional Logo Designs (Free)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-resonance-and-rhythm-guide-to-downloading-vintage-ringtones/"><u>[New] Resonance and Rhythm Guide to Downloading Vintage Ringtones</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapchat-anomaly-detecting-possible-block-or-mute/"><u>[Updated] In 2024, Snapchat Anomaly Detecting Possible Block or Mute</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-metavision-journey-essential-gear-for-metaverse-visitors/"><u>[Updated] Metavision Journey Essential Gear for Metaverse Visitors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-nba-livestream-a-list-of-15-essentials/"><u>2024 Approved Mastering NBA Livestream A List of 15 Essentials</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-snickel-and-snicker-5-best-meme-generating-apps/"><u>2024 Approved Snickel & Snicker 5 Best Meme Generating Apps</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enduring-techniques-for-inhibiting-windows-defender/"><u>Enduring Techniques for Inhibiting Windows Defender</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/from-hdtv-to-uhd-tv-the-spectacumph-of-4k/"><u>From HDTV to UHD TV: The Spectacumph of 4K</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-luminous-upgrades-5-must-try-online-video-tools/"><u>In 2024, Luminous Upgrades 5 Must-Try Online Video Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-outro-samples-collection-including-both-costs/"><u>In 2024, Outro Samples Collection Including Both Costs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-auditory-transitions-with-logic-pro-x-for-2024/"><u>Innovative Auditory Transitions with Logic Pro X for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-with-team-talk-here-are-5-easy-fixes-for-overwatch-voice-chat-failures/"><u>Trouble with Team Talk? Here Are 5 Easy Fixes for Overwatch Voice Chat Failures</u></a></li>
 </ul></div>
 

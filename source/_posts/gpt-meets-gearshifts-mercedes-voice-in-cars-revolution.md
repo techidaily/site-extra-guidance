@@ -1,7 +1,7 @@
 ---
 title: "GPT Meets Gearshifts: Mercedes' VOICE in Cars Revolution"
-date: 2024-12-22T18:12:01.216Z
-updated: 2024-12-26T17:00:52.439Z
+date: 2024-12-29T23:40:32.592Z
+updated: 2025-01-04T17:32:15.877Z
 tags:
   - chatgpt
   - open-ai
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
  The apps are available now via the Play Store and App Store, although you do have to join the waiting list to try out the chatbot functionality if you don't have access already.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI-Powered Bing Comes to Mobile
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Skype Gets AI Features
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -96,16 +96,16 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-peer-reviewed-best-action-replay-tech/"><u>[Updated] 2024 Approved Peer-Reviewed Best Action Replay Tech</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sonys-bdp-s6700-a-modernized-take/"><u>[Updated] Sony's BDP-S6700 A Modernized Take</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-unlock-full-potential-of-canon-cams-with-gratuitous-and-fee-based-luts/"><u>2024 Approved Unlock Full Potential of Canon Cams with Gratuitous & Fee-Based LUTs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-rapidly-assembling-a-facebook-image-puzzle/"><u>In 2024, Rapidly Assembling a Facebook Image Puzzle</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-scaling-your-channel-a-guide-to-increased-viewership-and-followers/"><u>In 2024, Scaling Your Channel A Guide to Increased Viewership and Followers</u></a></li>
-<li><a href="https://win-web3.techidaily.com/mastering-mms-streaming-a-step-by-step-guide-to-downloading-wmv-mp4-and-avi-files/"><u>Mastering MMS Streaming: A Step-by-Step Guide to Downloading WMV, MP4 & AVI Files</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-perfect-pitch-control-the-ultimate-strategy-for-uniform-sound-amplitude-in-videos/"><u>New Perfect Pitch Control The Ultimate Strategy for Uniform Sound Amplitude in Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premiere-pro-solutions-to-perfect-iphone-hd-video-exposure-balance-for-2024/"><u>Premiere Pro Solutions to Perfect iPhone HD Video Exposure Balance for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/quick-access-to-files-on-windows-os-for-2024/"><u>Quick Access to Files on Windows OS for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/quick-how-to-running-cmd-while-browsing-through-your-files/"><u>Quick How-To: Running CMD While Browsing Through Your Files</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-and-updating-logitech-c920-webcam-drivers-on-windows-11-10-and-8/"><u>Troubleshooting and Updating Logitech C920 Webcam Drivers on Windows 11, 10 & 8</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-classic-comedy-compilation-a-goofy-movie-review/"><u>[New] Classic Comedy Compilation A 'Goofy Movie' Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-inshot-tips-import-music-into-videos-effortlessly/"><u>[New] InShot Tips Import Music Into Videos Effortlessly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-efficient-shortening-of-instagram-video-content-mac/"><u>[Updated] In 2024, Efficient Shortening of Instagram Video Content (Mac)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-streamlined-approach-simplifying-film-projects-with-movie-maker/"><u>2024 Approved A Streamlined Approach Simplifying Film Projects with Movie Maker</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-creative-expression-through-zero-cost-animation/"><u>2024 Approved Pioneering Creative Expression Through Zero-Cost Animation</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/get-acquainted-with-the-latest-ampace-andes-1500-the-pinnacle-of-portable-power-technology/"><u>Get Acquainted with the Latest Ampace Andes 1500 - The Pinnacle of Portable Power Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-speed-danger-graphics-failure/"><u>High Speed Danger: Graphics Failure</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-seamless-date-insertion-into-photo-editing/"><u>In 2024, Seamless Date Insertion Into Photo Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unboxing-pureaudiofinder-a-look-into-the-latest-release/"><u>In 2024, Unboxing PureAudioFinder A Look Into the Latest Release</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-uploading-videos-into-personalized-playlists-for-2024/"><u>Mastering the Art of Uploading Videos Into Personalized Playlists for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-convenience-of-apple-pay-tips-for-using-it-in-store-and-on-the-go-a-comprehensive-guide/"><u>Mastering the Convenience of Apple Pay: Tips for Using It In-Store and On-the-Go – A Comprehensive Guide</u></a></li>
 </ul></div>
 

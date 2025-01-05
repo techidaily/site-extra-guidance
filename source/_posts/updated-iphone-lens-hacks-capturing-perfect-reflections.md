@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Lens Hacks  Capturing Perfect Reflections\""
-date: 2024-12-21T20:31:09.009Z
-updated: 2024-12-26T19:46:40.585Z
+date: 2025-01-01T18:45:20.376Z
+updated: 2025-01-05T04:35:50.916Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![reflection-surface](https://images.wondershare.com/filmora/article-images/reflection-surface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A Crystal/Glass Ball
 
 ![reflection-photography-for-iPhone](https://images.wondershare.com/filmora/article-images/crystal-ball.jpg)
@@ -64,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![reflection-composition-tips](https://images.wondershare.com/filmora/article-images/reflection-composition-tips.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To activate the lines simply go to **Settings > Camera and Photographs > Grid**
 
 #### 3\.  Keep it Simple
@@ -80,17 +80,9 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![keep-the-image-simple](https://images.wondershare.com/filmora/article-images/keep-the-image-simple.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Awful
 
 ![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 4\.  Reality and Reflection
 
@@ -129,15 +121,15 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![reflect-mirror-camera-app](https://images.wondershare.com/filmora/article-images/reflect-mirror-camera-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Really easy to use entry level app, you can simply add reflections to your photos and there's also an option to do this as you take the photograph. The user interface is really clean and easy to use. You also get access to a massive library of templates and effects to make photos truly unique.
 
 #### 2\. Reflection
 
 ![reflection-create-water-reflection-photo-arts](https://images.wondershare.com/filmora/article-images/reflection-create-water-reflection-photo-arts.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Super user friendly app lets you create HD photos and it's intuitive feature means you can create reflective photos in a few taps. This is one of the best apps in terms of the quality of images/edits. It has all of the reflective effects of many of the top editing packages like Photoshop.
 
@@ -146,7 +138,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
@@ -155,11 +147,19 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![photo-mirror-effects-reflection-editor](https://images.wondershare.com/filmora/article-images/photo-mirror-effects-reflection-editor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another great choice for getting started with reflective photography. It has some mid range editing features, but this is made up in it's easy of use. Perhaps one of the best free reflective photography apps and you can even share the images directly to your social media feeds.
 
  The app also has a large library of free and premium templates for you to use...
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -176,21 +176,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-monochrome-to-multicolor-grading-journey/"><u>[New] From Monochrome to Multicolor Grading Journey</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-beginners-handbook-to-igtv-mastery/"><u>[New] In 2024, The Beginner's Handbook to IGTV Mastery</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-solo-podcast-landscape-successfully/"><u>[New] Navigating the Solo Podcast Landscape Successfully</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-through-hands-free-technological-advances/"><u>[New] Navigating Through Hands-Free Technological Advances</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-enjoy-uninterrupted-viewing-top-20-youtube-download-apps-for-2024/"><u>[Updated] Enjoy Uninterrupted Viewing Top 20 YouTube Download Apps for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-branding-excellence-youtube-naming-masterclass/"><u>[Updated] In 2024, Branding Excellence YouTube Naming Masterclass</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-master-the-art-of-illuminating-dark-images-on-iphone/"><u>[Updated] Master the Art of Illuminating Dark Images on Iphone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premium-audio-modification-solutions-magically-effective/"><u>[Updated] Premium Audio Modification Solutions Magically Effective</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-photo-to-pixellated-panels-pro-windows-and-mac-edition/"><u>2024 Approved Photo to Pixellated Panels Pro Windows & Mac Edition</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 6s Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-economical-floating-space-huge-data-packs-on-a-dime/"><u>In 2024, Economical Floating Space Huge Data Packs on a Dime</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-iphones-finest-photo-tools-for-objection-erasure/"><u>In 2024, IPhone's Finest Photo Tools for Objection Erasure</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leveraging-picture-in-progressive-mode-on-chrome-across-platforms-for-2024/"><u>Leveraging Picture in Progressive Mode on Chrome Across Platforms for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-detection-errors-with-your-steam-vr-headset-a-step-by-step-guide/"><u>Overcoming Detection Errors with Your Steam VR Headset: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamlining-visual-storytelling-best-plugin-choices-in-ae-for-2024/"><u>Streamlining Visual Storytelling Best Plugin Choices in AE for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-a-vast-library-of-pc-games-on-linux-with-steam-installation-step-by-step-tutorial/"><u>Unlock a Vast Library of PC Games on Linux with Steam Installation - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-maximize-space-with-iphone-images-scaling/"><u>[Updated] Maximize Space with iPhone Images Scaling</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-speed-settings-for-snapchat-content/"><u>[Updated] Navigating Speed Settings for Snapchat Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-precision-in-volume-decrease-lumafusions-methodology/"><u>[Updated] Precision in Volume Decrease Lumafusion's Methodology</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premier-auto-track-cam-mount-for-smooth-shots/"><u>[Updated] Premier Auto-Track Cam Mount for Smooth Shots</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-quick-guide-initiating-and-managing-android-zoom-calls/"><u>[Updated] Quick Guide Initiating & Managing Android Zoom Calls</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easily-convert-your-pdf-to-acc-with-our-no-cost-web-app/"><u>Easily Convert Your PDF to ACC with Our No-Cost Web App</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-colors-unleashed-practical-application-of-color-theory/"><u>In 2024, Colors Unleashed Practical Application of Color Theory</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-purifypicture-premium-bg-eraser-and-editor/"><u>In 2024, PurifyPicture Premium BG Eraser & Editor</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722977987334-intel-wireless-ac-3160-support-install-newest-driver-with-ease-and-speed/"><u>Intel Wireless-AC 3160 Support: Install Newest Driver with Ease and Speed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-ios-1e5-draining-your-iphones-battery-discover-these-essential-7-tips-to-boost-performance-zdnet/"><u>Is iOS 1E.5 Draining Your iPhone's Battery? Discover These Essential 7 Tips to Boost Performance | ZDNET</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-6-virtual-venues-propelling-professional-connections-for-2024/"><u>Leading 6 Virtual Venues Propelling Professional Connections for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-middle-earth-a-guide-to-watching-the-lord-of-the-rings-series-correctly/"><u>Mastering Middle-Earth: A Guide to Watching the Lord of the Rings Series Correctly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/online-vrijetijdig-dts-naar-wav-versterker-professionele-conversie-met-movavi/"><u>Online Vrijetijdig DTS Naar WAV Versterker - Professionele Conversie Met Movavi</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-fix-tweeter-conversion-for-social-sharing-for-2024/"><u>Quick-Fix Tweeter Conversion for Social Sharing for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/solving-cpu-heat-issues-a-step-by-step-guide-techniques-from-yl-computing/"><u>Solving CPU Heat Issues: A Step-by-Step Guide - Techniques From YL Computing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spark-to-the-future-djis-next-gen-challenge-from-mavic-air-for-2024/"><u>Spark to the Future DJI's Next-Gen Challenge From Mavic Air for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/thwarting-vr-discomfort-tips-for-a-smooth-experience-for-2024/"><u>Thwarting VR Discomfort Tips for a Smooth Experience for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-connecting-and-mapping-drives-on-your-mac-step-by-step/"><u>Ultimate Guide: Connecting and Mapping Drives on Your Mac - Step by Step</u></a></li>
 </ul></div>
 

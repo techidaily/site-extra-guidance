@@ -1,7 +1,7 @@
 ---
 title: "Cleaning Day Discovery: Original Q1 PC and Other Vintage Desktops Found in Boxes, Featuring Intel's Pioneering 8008 CPU and 16KB Memory"
-date: 2024-12-24T20:31:14.389Z
-updated: 2024-12-26T16:12:32.178Z
+date: 2024-12-29T00:14:15.438Z
+updated: 2025-01-04T20:34:20.489Z
 tags:
   - desktop
 categories:
@@ -54,7 +54,7 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -80,15 +80,24 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-be-a-social-media-wizard-best-tweeter-video-tools/"><u>[Updated] In 2024, Be a Social Media Wizard Best Tweeter Video Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-world-of-video-chats-on-your-xbox-console/"><u>[Updated] Navigating the World of Video Chats on Your Xbox Console</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-nighttime-iphone-photography-secrets-revealed/"><u>[Updated] Nighttime iPhone Photography Secrets Revealed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-tunefabs-cutting-edge-approach-to-live-streaming/"><u>[Updated] Tunefab's Cutting-Edge Approach to Live Streaming</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-premieres-export-woes-to-fix-srt-files/"><u>2024 Approved Navigating Premiere's Export Woes to Fix SRT Files</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-world-of-telegram-online-with-ease/"><u>2024 Approved Navigating the World of Telegram Online with Ease</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-way-to-experience-x-men-series-from-beginning-to-end/"><u>Best Way to Experience X-Men Series From Beginning to End</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/guia-facil-para-configurar-una-secuencia-de-respaldo-semanal-en-windows-server-2008-r2/"><u>Guía Fácil Para Configurar Una Secuencia De Respaldo Semanal en Windows Server 2008 R2</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-it-beneficial-to-join-minecraft-realms-insights-and-advice/"><u>Is It Beneficial to Join Minecraft Realms? Insights and Advice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-how-to-restore-sound-on-a-windows-10-system/"><u>Solved! How to Restore Sound on a Windows 10 System</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-the-craft-of-igtv-video-production-with-phones-and-dslrs/"><u>[New] 2024 Approved Mastering the Craft of IGTV Video Production with Phones and DSLRs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-vimeoifytweets-audiovideo-tweet-tool/"><u>[New] In 2024, VimeoifyTweets Audio/Video Tweet Tool</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-picks-the-ultimate-gopro-upgrades/"><u>[New] Premium Picks The Ultimate Gopro Upgrades</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-sites-boosting-youtube-viewership/"><u>[Updated] Leading Sites Boosting YouTube Viewership</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-meme-magic-perfect-10-design-tips-and-tricks/"><u>2024 Approved Meme Magic Perfect 10 Design Tips & Tricks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-refinement-of-screen-focus-how-to-zoom-on-microsoft-teams/"><u>2024 Approved Refinement of Screen Focus How to Zoom on Microsoft Teams</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-more-from-your-apple-tv-advanced-configuration-and-optimization-tips/"><u>Get More From Your Apple TV: Advanced Configuration and Optimization Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-googles-newly-released-palm-2-change-the-landscape-of-natural-language-processing/"><u>How Does Google's Newly Released PaLM 2 Change the Landscape of Natural Language Processing?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-comprehensive-handbook-on-recording-notes-by-sound/"><u>In 2024, Comprehensive Handbook on Recording Notes by Sound</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-the-art-of-pace-control-for-instas-live-videos/"><u>In 2024, Master the Art of Pace Control for Insta's Live Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-masterful-iphone-images-through-strategic-leading-lines/"><u>In 2024, Masterful iPhone Images Through Strategic Leading Lines</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-picture-perfect-in-the-sky-discover-infinite-complimentary-and-paid-cloud-repositories/"><u>In 2024, Picture Perfect in the Sky Discover Infinite, Complimentary, & Paid Cloud Repositories</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/integrating-technology-effective-school-vid-eds-for-2024/"><u>Integrating Technology Effective School Vid Eds for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/livescreen-capture-halt-guidebook-for-2024/"><u>LiveScreen Capture Halt Guidebook for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-tips-for-time-lapping-your-samsung-camera-for-2024/"><u>Pro Tips for Time-Lapping Your Samsung Camera for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reversal-fix-for-inverted-displays-in-w11/"><u>Reversal Fix for Inverted Displays in W11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seconds-in-a-20mb-hd-video-file-for-2024/"><u>Seconds in a 20MB HD Video File for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stepwise-construction-of-a-web-app-powered-by-chatgpt/"><u>Stepwise Construction of a Web App Powered by ChatGPT</u></a></li>
 </ul></div>
 

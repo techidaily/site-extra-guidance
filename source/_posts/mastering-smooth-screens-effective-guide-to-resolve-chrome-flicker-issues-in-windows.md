@@ -1,7 +1,7 @@
 ---
 title: "Mastering Smooth Screens: Effective Guide to Resolve Chrome Flicker Issues in Windows"
-date: 2024-12-22T17:56:57.525Z
-updated: 2024-12-26T20:11:30.525Z
+date: 2024-12-28T21:07:06.373Z
+updated: 2025-01-04T23:29:07.218Z
 tags:
   - win11
   - win10
@@ -41,13 +41,13 @@ thumbnail: https://thmb.techidaily.com/6cb6ce252b0ad11ed755d646e5f628bce76854128
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
 
@@ -56,10 +56,6 @@ If the issue persists, read on and try the next fix.
  See if the black screen issue appears again after adding Minecraft as an exception to your antivirus software.
 
 If the issue remains, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -74,12 +70,12 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -98,10 +94,6 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/file-explorer.jpg)
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
 
@@ -112,7 +104,7 @@ If the issue remains, move on to the next fix.
 If this method doesn’t do the trick, continue to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Close unnecessary programs
@@ -129,6 +121,10 @@ Relaunch Minecraft to see if your issue is resolved.
 
 If not, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Uninstall and reinstall Minecraft
 
  If none of the fixes above work for you, you should consider reinstalling Minecraft completely. This will delete your local saves, so be aware to back up any files you wish to keep. Here’s how:
@@ -137,23 +133,27 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
 
@@ -179,17 +179,19 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-timing-on-mobile-top-10-apps-for-couples-special-day/"><u>[New] Mastering Timing on Mobile Top 10 Apps for Couple's Special Day</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-steps-to-decline-autoplayed-and-suggested-podcasts-on-spotify/"><u>[New] Steps to Decline Autoplayed and Suggested Podcasts on Spotify</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-ideal-drawing-programs-a-compreenasaurus-rex-guide-to-chromebooks-art-tools/"><u>[Updated] Ideal Drawing Programs A Compreenasaurus Rex Guide to Chromebook's Art Tools</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-creating-composition-magic-leading-lines-on-iphone/"><u>2024 Approved Creating Composition Magic Leading Lines on iPhone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-upgrade-your-view-enabling-youtubes-high-quality-av1-option/"><u>2024 Approved Upgrade Your View Enabling YouTube's High-Quality AV1 Option</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-empowerment-elevating-your-online-presence-effectively/"><u>Cookiebot Empowerment: Elevating Your Online Presence Effectively</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/essential-troubleshooting-guide-resolving-your-razer-microphone-issue-quickly/"><u>Essential Troubleshooting Guide: Resolving Your Razer Microphone Issue Quickly</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-s23-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Itel S23 Phone with Broken Screen</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-simplify-images-remove-the-environmental-elements/"><u>In 2024, Simplify Images Remove the Environmental Elements</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-slide-show-software-selection-from-ix-ios13/"><u>In 2024, Slide Show Software Selection From IX-IOS13</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigate-away-from-windows-10-photos-app-failures-with-precision-for-2024/"><u>Navigate Away From Windows 10 Photos App Failures with Precision for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/snap-and-crop-utilizing-iphones-image-editing-capabilities-for-2024/"><u>Snap & Crop Utilizing iPhone’s Image Editing Capabilities for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-guide-to-free-you-from-youtubes-extra-bar-width-for-2024/"><u>[New] A Guide to Free You From YouTube's Extra Bar Width for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mystery-methods-for-innovative-illustration/"><u>[Updated] Mystery Methods for Innovative Illustration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tickletech-design-easy-entertaining-visuals/"><u>[Updated] TickleTech Design Easy, Entertaining Visuals</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-how-to-make-your-facebook-video-stand-out/"><u>2024 Approved How to Make Your Facebook Video Stand Out</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-minimizing-live-stream-delays-fixing-obs-studio-drops/"><u>2024 Approved Minimizing Live Stream Delays - Fixing OBS Studio Drops</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mouthwatering-movies-how-to-make-your-food-videography-shine/"><u>2024 Approved Mouthwatering Movies How to Make Your Food Videography Shine</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oppo-a18-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Oppo A18</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/how-to-resolve-sony-dvd-player-issues-when-seeing-sound-not-image-on-your-screen/"><u>How to Resolve Sony DVD Player Issues when Seeing Sound, Not Image on Your Screen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-yuva-2-pro-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Yuva 2 Pro To Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-inverting-photo-colors-with-advanced-tools/"><u>In 2024, Inverting Photo Colors with Advanced Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lg-virtual-reality-innovation-a-detailed-review/"><u>In 2024, LG Virtual Reality Innovation A Detailed Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-photography-in-windows-11-building-impressive-slide-shows-and-fixes/"><u>Mastering the Art of Photography in Windows 11: Building Impressive Slide Shows & Fixes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximize-windows-10-top-5-recording-techniques-for-2024/"><u>Maximize Windows 10 Top 5 Recording Techniques for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95918165-9781683255673-sabiduria-celta-el-libro-para-quienes-deseen-ahondar-en-las-ensenanzas-espirituales-que-subyacen-en-las-leyendas-de-la-sabiduria-celta/"><u>Sabiduría celta. El libro para quienes deseen ahondar en las enseñanzas espirituales que subyacen en las leyendas de la sabiduría celta | Free Book</u></a></li>
 </ul></div>
 

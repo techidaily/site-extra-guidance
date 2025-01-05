@@ -1,7 +1,7 @@
 ---
 title: "Harnessing Power and Connectivity: The Tiny Ultra-Low-Power MSI Mini PC Packs Intel Raptor Lake CPU & Quad 2.5 Gigabit Ethernet"
-date: 2024-12-19T21:47:57.432Z
-updated: 2024-12-26T19:38:55.855Z
+date: 2024-12-28T19:51:30.441Z
+updated: 2025-01-04T21:54:06.680Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/0d60a13e95bd2f19c3825589ac3dc780b265ba27c
  The case itself looks like a conventional carrying case. The outer shell appears to be hard plastic, with metal supporting rails filling the lips of the case. The case features two latching mechanisms and a mechanism to attach a lock for[security](https://www.tomshardware.com/tag/security) . You can transport the travel case by rolling it on its two wheels or with another handle that allows you to carry it like a briefcase.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -58,22 +58,18 @@ thumbnail: https://thmb.techidaily.com/0d60a13e95bd2f19c3825589ac3dc780b265ba27c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-learn-to-edit-videos-professionally-using-inshot/"><u>[New] Learn to Edit Videos Professionally Using Inshot</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-advanced-color-grading-techniques-using-luts/"><u>[New] Navigating Advanced Color Grading Techniques Using LUTs</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-top-tier-grids-transforming-trivial-images-into-treasures-for-2024/"><u>[New] Top-Tier Grids Transforming Trivial Images Into Treasures for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-leading-asmr-content-on-the-web/"><u>[Updated] Leading ASMR Content on the Web</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-streams-weighing-xsplit-against-obs-capabilities/"><u>[Updated] Mastering Streams Weighing XSplit Against OBS Capabilities</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premium-listings-where-to-download-snappy-tones-directly/"><u>[Updated] Premium Listings Where to Download Snappy Tones Directly</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-power-up-with-the-ultimate-exercise-soundtrack-guide/"><u>2024 Approved Power Up with the Ultimate Exercise Soundtrack Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-xsplit-replacements-a-guide-to-streaming/"><u>2024 Approved Prime Xsplit Replacements A Guide to Streaming</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/best-on-the-go-car-start-kits-2024/"><u>Best On-the-Go Car Start Kits 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/command-line-magic-opening-srt-for-windows-macos-for-2024/"><u>Command Line Magic Opening SRT for Windows, MacOS for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/exploring-screen-recording-with-zdsoft/"><u>Exploring Screen Recording with ZDSoft</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a58-4g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A58 4G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-unlock-your-audio-cues-with-ease-windows-and-os-x-guide-to-srt/"><u>In 2024, Unlock Your Audio Cues with Ease Windows & OS X Guide to SRT</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/luts-and-film-aesthetics-bridging-the-gap-for-2024/"><u>Luts and Film Aesthetics Bridging the Gap for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premiere-pros-full-scene-showcase-guide-for-2024/"><u>Premiere Pro's Full Scene Showcase Guide for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/troubleshoot-and-restore-your-dvd-player-functionality-in-7-simple-methods/"><u>Troubleshoot and Restore Your DVD Player Functionality in 7 Simple Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-christian-live-streaming-services-a-list/"><u>[New] Prime Christian Live Streaming Services A List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-riding-secure-the-creme-de-la-cam-selection-for-motorcyclists/"><u>[New] Riding Secure - The Crème De La Cam Selection for Motorcyclists</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-iphone-photography-playbook-for-2024/"><u>[New] The Ultimate iPhone Photography Playbook for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-how-to-create-an-awesome-valorant-thumbnail-for-youtube-videos/"><u>[Updated] 2024 Approved How To Create an Awesome Valorant Thumbnail for YouTube Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-epic-virtual-truths-top-30-metaverse-reflections-arvr/"><u>[Updated] In 2024, Epic Virtual Truths Top 30 Metaverse Reflections [AR/VR]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-smart-exposure-the-ultimate-guide-to-hdr-tech-in-cameras/"><u>[Updated] Mastering Smart Exposure The Ultimate Guide to HDR Tech in Cameras</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-shadows-a-step-by-step-for-anonymous-instagram-live-viewing/"><u>[Updated] Navigating the Shadows A Step-by-Step for Anonymous Instagram Live Viewing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-short-storyboard-scheme/"><u>[Updated] Short Storyboard Scheme</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-art-of-pairing-b-clips-with-main-shots/"><u>2024 Approved The Art of Pairing B-Clips with Main Shots</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-gloves-transforming-vr-playtime/"><u>In 2024, Leading Gloves Transforming VR Playtime</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/quick-setup-for-flawless-time-lapses-on-ipad/"><u>Quick Setup for Flawless Time-Lapses on iPad</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/streamlining-film-shoots-a-beginners-guide-for-2024/"><u>Streamlining Film Shoots A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-beyond-pinnacle-the-best-video-editing-apps-for-mac-this-year/"><u>Updated 2024 Approved Beyond Pinnacle The Best Video Editing Apps for Mac This Year</u></a></li>
 </ul></div>
 

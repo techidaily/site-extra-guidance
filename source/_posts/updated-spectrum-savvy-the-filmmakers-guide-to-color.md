@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Spectrum Savvy  The Filmmaker's Guide to Color\""
-date: 2024-12-19T17:28:08.219Z
-updated: 2024-12-26T18:47:02.964Z
+date: 2025-01-04T02:17:04.549Z
+updated: 2025-01-04T17:26:50.698Z
 tags: 
   - screen-recording
   - ai video
@@ -30,23 +30,11 @@ In cinematography, color grading refers to the manipulation of film and video im
 
 ![origianl video color grading](https://images.wondershare.com/filmora/article-images/2022/08/origianl-video-color-grading.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Color grading and color correction are processes that happen throughout postproduction. One makes the film look more native, and the other stylizes the footage. After the colorist finishes color correction, they can begin grading the film. During color grading, colorists use editing software to formalize the footage, highlighting a movie's visual tone and ambiance and making it look more cinematic.
 
 ![apply color grading to video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-grading-to-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To summarize, Color grading can be used to make both technical and creative changes. Colorists use color grading for artistic purposes to ensure that the film's carefully curated color palette conveys a specific atmosphere, style, or emotion.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why is Color Grading Important?
 
@@ -82,12 +70,16 @@ Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar
 
 ![advanced color tools filmora](https://images.wondershare.com/filmora/article-images/2022/08/advanced-color-tools-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
 
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Contrast**: is the variance in luminance or color that makes an object identifiable. By modifying this setting, control the dissimilarity in color and brightness in contrary parts of the video image.
@@ -121,7 +113,7 @@ First, you need to select the specific video portion you want to change the colo
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step3Apply the color correction preset that you want then click ok
@@ -146,11 +138,19 @@ You can modify the temperature, tint, white balance, contrast, saturation, and b
 
 ![color panel windows filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-panel-windows-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2Color grading with Wondershare Filmora
 
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
 
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Color Histogram**
 
@@ -220,19 +220,16 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-in-depth-look-at-xvideo-hub-a-full-studio-guide/"><u>[New] 2024 Approved In-Depth Look at XVideo Hub A Full Studio Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-laugh-cry-or-shout-out-on-these-top-10-instagram-memes-hubs/"><u>[New] 2024 Approved Laugh, Cry or Shout Out on These Top 10 Instagram Memes Hubs</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-best-practices-for-nocturnal-photography-success/"><u>[New] In 2024, Best Practices for Nocturnal Photography Success</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-spectral-showcase-curating-the-best-4k-displays-on-screen/"><u>[New] Spectral Showcase Curating the Best 4K Displays on Screen</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-quick-route-to-joy-embracing-the-ifunny-meme-app/"><u>[Updated] The Quick Route to Joy Embracing the iFunny Meme App</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-selecting-the-right-flight-stabilizer-drones-edition/"><u>2024 Approved Selecting the Right Flight Stabilizer Drones Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-open-and-tweak-your-srt-on-mac/"><u>2024 Approved Step-by-Step Guide to Open and Tweak Your SRT on Mac</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unbeatable-ways-to-archive-lol-battles/"><u>In 2024, Unbeatable Ways to Archive LOL Battles</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/laughterlink-join-now-and-start-your-journey-for-2024/"><u>LaughterLink Join Now & Start Your Journey for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-shadows-and-highlights-through-photoshop-curves-for-2024/"><u>Mastering Shadows & Highlights Through Photoshop Curves for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-10-face-blurring-tools-for-photos-and-videos-a-beginners-guide-for-2024/"><u>New Top 10 Face Blurring Tools for Photos and Videos A Beginners Guide for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-s17t-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo S17t? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/smiling-photos-and-videos-iphones-for-2024/"><u>Smiling Photos & Videos (iPhones) for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-bridging-the-gap-youtube-and-facebook-content-collaboration/"><u>[Updated] 2024 Approved Bridging the Gap YouTube and Facebook Content Collaboration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-immersive-12-video-streaming-solution-online/"><u>[Updated] Immersive 12-Video Streaming Solution Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-pixelpilot-studio-plus-advanced-os-recorder/"><u>2024 Approved PixelPilot Studio Plus Advanced OS Recorder</u></a></li>
+<li><a href="https://app-tips.techidaily.com/arista-expands-into-mid-range-sector-with-advanced-cognitive-network-solutions/"><u>Arista Expands Into Mid-Range Sector with Advanced Cognitive Network Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-on-restoring-functionality-of-unresponsive-samsung-tv-apps/"><u>Comprehensive Guide on Restoring Functionality of Unresponsive Samsung TV Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-enable-gpu-usage-for-cyberpunk-2077-on-windows-11-systems/"><u>How to Enable GPU Usage for Cyberpunk 2077 on Windows 11 Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-ipads-artistic-haven-top-8-sketch-innovators/"><u>In 2024, IPad's Artistic Haven Top 8 Sketch Innovators</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mythos-makers-mecca-prime-pantheon-seven/"><u>In 2024, Mythos Makers’ Mecca - Prime Pantheon Seven</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-background-removal-in-figma-step-by-step-tutorial-for-2024/"><u>Mastering Background Removal in Figma Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photography-tutorial-how-to-shoot-and-create-impressive-hdr-portraits-for-2024/"><u>Photography Tutorial How to Shoot and Create Impressive HDR Portraits for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/transform-your-video-creation-with-winxvideo-ai-the-ultimate-solution-for-capturing-enhancing-and-editing-media/"><u>Transform Your Video Creation with WinxVideo AI - The Ultimate Solution for Capturing, Enhancing, and Editing Media</u></a></li>
 </ul></div>
 

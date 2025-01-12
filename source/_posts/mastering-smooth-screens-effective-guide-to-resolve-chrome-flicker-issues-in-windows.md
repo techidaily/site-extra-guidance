@@ -1,7 +1,7 @@
 ---
 title: "Mastering Smooth Screens: Effective Guide to Resolve Chrome Flicker Issues in Windows"
-date: 2024-12-28T21:07:06.373Z
-updated: 2025-01-04T23:29:07.218Z
+date: 2025-01-08T20:04:26.629Z
+updated: 2025-01-11T19:44:04.180Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/6cb6ce252b0ad11ed755d646e5f628bce76854128
 
  As one of the most popular video games, Minecraft keeps releasing new updates to bring new content. However, recently some gamers have reported a black screen issue after updating the game to the latest version. If you happen to be one of them, don’t worry. Here we will tell you some working solutions to this problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Run Minecraft in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/6cb6ce252b0ad11ed755d646e5f628bce76854128
 5. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Uninstall and reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Minecraft in compatibility mode
 
  Some older games might run poorly in the most recent version of Windows 10\. To see if that’s the case for Minecraft, try running the game in compatibility mode. Here’s how:
@@ -36,14 +44,14 @@ thumbnail: https://thmb.techidaily.com/6cb6ce252b0ad11ed755d646e5f628bce76854128
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-properties.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, check the box next to**Run this program in compatibility mode for** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
@@ -69,10 +77,6 @@ If the issue remains, move on to the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
@@ -103,10 +107,6 @@ If the issue remains, move on to the next fix.
 
 If this method doesn’t do the trick, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Close unnecessary programs
 
  If you’re running multiple programs at the same time when playing Minecraft, there is a chance that one of your programs conflicts with the game. Besides, too many applications running in the background will consume more resources, which could cause the black screen issue. So we recommend that you close all unnecessary programs during the gameplay. To do so:
@@ -115,6 +115,10 @@ If this method doesn’t do the trick, continue to the next fix.
 2. One at a time, select the resource-hogging program and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 Relaunch Minecraft to see if your issue is resolved.
@@ -122,7 +126,7 @@ Relaunch Minecraft to see if your issue is resolved.
 If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Uninstall and reinstall Minecraft
@@ -134,23 +138,19 @@ If not, try the next fix.
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
@@ -179,19 +179,24 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/-guide-to-free-you-from-youtubes-extra-bar-width-for-2024/"><u>[New] A Guide to Free You From YouTube's Extra Bar Width for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mystery-methods-for-innovative-illustration/"><u>[Updated] Mystery Methods for Innovative Illustration</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-tickletech-design-easy-entertaining-visuals/"><u>[Updated] TickleTech Design Easy, Entertaining Visuals</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-how-to-make-your-facebook-video-stand-out/"><u>2024 Approved How to Make Your Facebook Video Stand Out</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-minimizing-live-stream-delays-fixing-obs-studio-drops/"><u>2024 Approved Minimizing Live Stream Delays - Fixing OBS Studio Drops</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mouthwatering-movies-how-to-make-your-food-videography-shine/"><u>2024 Approved Mouthwatering Movies How to Make Your Food Videography Shine</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oppo-a18-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Oppo A18</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/how-to-resolve-sony-dvd-player-issues-when-seeing-sound-not-image-on-your-screen/"><u>How to Resolve Sony DVD Player Issues when Seeing Sound, Not Image on Your Screen</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-yuva-2-pro-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Yuva 2 Pro To Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-inverting-photo-colors-with-advanced-tools/"><u>In 2024, Inverting Photo Colors with Advanced Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-lg-virtual-reality-innovation-a-detailed-review/"><u>In 2024, LG Virtual Reality Innovation A Detailed Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-photography-in-windows-11-building-impressive-slide-shows-and-fixes/"><u>Mastering the Art of Photography in Windows 11: Building Impressive Slide Shows & Fixes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/maximize-windows-10-top-5-recording-techniques-for-2024/"><u>Maximize Windows 10 Top 5 Recording Techniques for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95918165-9781683255673-sabiduria-celta-el-libro-para-quienes-deseen-ahondar-en-las-ensenanzas-espirituales-que-subyacen-en-las-leyendas-de-la-sabiduria-celta/"><u>Sabiduría celta. El libro para quienes deseen ahondar en las enseñanzas espirituales que subyacen en las leyendas de la sabiduría celta | Free Book</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-streamline-your-thumbnail-design-journey-today/"><u>[New] 2024 Approved Streamline Your Thumbnail Design Journey Today</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-through-gesture-detection-methods/"><u>[New] Navigating Through Gesture Detection Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-download-youtube-videos-without-any-software-13-proven-ways-for-2024/"><u>[Updated] How to Download YouTube Videos without Any Software [13 Proven Ways] for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-laughter-in-the-clouds-iphone/"><u>[Updated] Laughter in the Clouds (iPhone)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigate-browser-black-screens-with-ease/"><u>[Updated] Navigate Browser Black Screens with Ease</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-most-popular-image-stickering-apps-iosandroid-edition/"><u>2024 Approved Most Popular Image Stickering Apps – iOS/Android Edition</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-a58-4g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo A58 4G FRP</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effortless-laptop-viewing-with-top-ranked-apps/"><u>Effortless Laptop Viewing with Top-Ranked Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/free-tools-for-efficient-screen-recording-on-windows-os-for-2024/"><u>Free Tools for Efficient Screen Recording on Windows OS for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/guia-completa-y-gratuita-para-migrar-windows-versiones-al-nuevo-disco-duro-7-8-10-11-sin-necesidad-de-cd/"><u>Guía Completa Y Gratuita Para Migrar Windows Versiones Al Nuevo Disco Duro: 7, 8, 10, 11 Sin Necesidad De CD</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-15-plus-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your Apple iPhone 15 Plus?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-smart-8-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Smart 8 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-how-much-do-podcasters-earn-on-average/"><u>In 2024, How Much Do Podcasters Earn on Average?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-marvelous-mac-display-selection-the-best-4k-offerings/"><u>In 2024, Marvelous Mac Display Selection - The Best 4K Offerings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-metaverse-quest-10-innovative-sci-fi-films-worldwide-travels/"><u>In 2024, Metaverse Quest 10 Innovative Sci-Fi Films Worldwide Travels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/low-light-iphone-luminary-techniques-for-2024/"><u>Low-Light iPhone Luminary Techniques for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-metaverse-with-elite-headsets-for-2024/"><u>Navigating the Metaverse with Elite Headsets for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/shifting-spectrum-skills-pro-tips-unveiled-for-2024/"><u>Shifting Spectrum Skills - Pro Tips Unveiled for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Diagnose and Fix Audio Glitches: Making Apple AirPods Work with Mic on Windows 11 Again"
-date: 2024-12-29T04:45:29.031Z
-updated: 2025-01-05T05:54:14.464Z
+date: 2025-01-07T17:02:03.649Z
+updated: 2025-01-11T23:45:10.857Z
 tags:
   - win11
   - win10
@@ -38,12 +38,12 @@ Before you start, make sure your headset is working properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound1.jpg)
 3. Scroll down to find**Enhance audio** . Turn Enhance audio on and then back off.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound2.jpg)
 4. Check your PC sound, it should be back to normal.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this trick doesn’t work for you, please move to the next fix.
 
@@ -59,17 +59,13 @@ If this trick doesn’t work for you, please move to the next fix.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -84,7 +80,7 @@ If this fix doesn’t help, move to the next fix.
 2. Expand**Sound, video and game controllers** . Find**Realtek audio** and right-click on it. Choose**Update driver** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound4.jpg)
@@ -93,26 +89,18 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound5.jpg)
 4. Click**Let me pick from a list of available drivers on my computer** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound6.jpg)
 5. Check**Show compatible hardware** . Then click**High Definition Audio Device** \>**Next** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound7.jpg)
 6. Click**Yes** in the pop-up window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound8.jpg)
 7. Restart your PC for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Check the sound on your PC.
 
@@ -124,6 +112,10 @@ If this fix doesn’t help, move to the next fix.
 2. Click**Windows Update** \>**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound9.jpg)
 3. Windows will check the latest available updates for you. If you have available updates, Windows 11 will download and install them automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. After the whole process, restart your PC and check the effect.
 
@@ -139,8 +131,16 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -164,17 +164,24 @@ If this fix doesn’t help, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ags-and-grins-techniques-in-parody-production/"><u>[New] Gags and Grins Techniques in Parody Production</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-insightful-recap-updated-sony-bdp-s3700-features/"><u>[New] Insightful Recap Updated Sony BDP-S3700 Features</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-your-photos-a-comprehensive-guide-to-facetune/"><u>[New] Mastering Your Photos A Comprehensive Guide to Facetune</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-pinnacle-edition-tweets-transformed-into-timeless-gifs/"><u>[Updated] Pinnacle Edition - Tweets Transformed Into Timeless GIFs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-insiders-choice-best-picks-for-snappable-soundtracks/"><u>2024 Approved Insider's Choice Best Picks for Snappable Soundtracks</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-official-android-usb-driver-software-on-your-pc/"><u>Download & Install Official Android USB Driver Software on Your PC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/evaluation-of-viewing-seconds-in-a-20mb-videography-for-2024/"><u>Evaluation of Viewing Seconds in a 20MB Videography for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-zero-dollar-valorant-sound-manipulator-alert/"><u>In 2024, Optimal Zero Dollar Valorant Sound Manipulator Alert</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-quick-launch-diving-into-live-conversations-on-instagram/"><u>In 2024, Quick Launch Diving Into Live Conversations on Instagram</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-silent-symphony-a-compendium-of-top-speech-to-text-tools/"><u>In 2024, Silent Symphony A Compendium of Top Speech-to-Text Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/unplugging-the-mystery-why-your-surface-stays-chargeless-despite-connection/"><u>Unplugging the Mystery: Why Your Surface Stays Chargeless Despite Connection</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unlocking-slow-motion-magic-in-instagram-reels/"><u>[New] In 2024, Unlocking Slow Motion Magic in Instagram Reels</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-kid-friendly-quadcopters-top-5-selection-guide-for-2024/"><u>[New] Kid-Friendly Quadcopters Top 5 Selection Guide for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-zoom-on-windows-11-a-step-by-step-guide/"><u>[New] Mastering Zoom on Windows 11 A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-prime-voice-capture-apps-for-mac-users-feature-spotlight-for-2024/"><u>[New] Prime Voice Capture Apps for Mac Users Feature Spotlight for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-selective-choice-top-cards-for-4k-videos/"><u>[Updated] Selective Choice Top Cards for 4K Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-showdown-vlc-versus-mpc-in-video-viewing/"><u>[Updated] The Ultimate Showdown VLC Versus MPC in Video Viewing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimizing-class-engagement-with-visual-media-usage/"><u>2024 Approved Optimizing Class Engagement with Visual Media Usage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-shift-your-screenscape-dynamic-windows-11-backgrounds/"><u>2024 Approved Shift Your Screenscape Dynamic Windows 11 Backgrounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-moegenoefening-livestreamen-met-jeldende-videoprogramma-movavi/"><u>Gratis Moegenoefening Livestreamen Met Jeldende Videoprogramma - Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-igtv-deactivation-methods/"><u>In 2024, IGTV Deactivation Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pc-friendly-non-inshot-editing-software/"><u>In 2024, PC-Friendly Non-Inshot Editing Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-settings-for-live-broadcasts/"><u>In 2024, Perfect Settings for Live Broadcasts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/laughter-in-the-clouds-iphone-for-2024/"><u>Laughter in the Clouds (iPhone) for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/motion-magic-quick-photography-tricks-for-samsung-users-for-2024/"><u>Motion Magic Quick Photography Tricks for Samsung Users for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photographys-new-era-smartphones-spearheading-change-for-2024/"><u>Photography's New Era Smartphones Spearheading Change for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-best-of-free-and-paid-8-ranked-android-videomosaic-apps-explored/"><u>The Best of Free & Paid #8 Ranked Android Videomosaic Apps Explored</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/hl-kfayaah-akhtaaa-windows-1011-itha-lm-ybda-bshkl-shyh-othak-altaalymat/"><u>حل كفاयah أخطاء Windows 10/11 إذا لم يبدأ بشكل صحيح - وثائق التعليمات</u></a></li>
 </ul></div>
 

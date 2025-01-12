@@ -1,7 +1,7 @@
 ---
 title: Compact Chinese Mini PC Features Rare Inverted 'U' Shape and Expandable PCIe Slot
-date: 2024-12-29T17:02:39.622Z
-updated: 2025-01-04T22:06:45.624Z
+date: 2025-01-06T17:49:55.421Z
+updated: 2025-01-11T18:24:19.173Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,19 +60,22 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-ultimate-guide-to-adaptive-igtv-video-dimensions/"><u>[New] 2024 Approved The Ultimate Guide to Adaptive IGTV Video Dimensions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-reflect-your-vision-affordable-personalization-of-professional-logo-designs-free/"><u>[New] Reflect Your Vision Affordable Personalization of Professional Logo Designs (Free)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-resonance-and-rhythm-guide-to-downloading-vintage-ringtones/"><u>[New] Resonance and Rhythm Guide to Downloading Vintage Ringtones</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapchat-anomaly-detecting-possible-block-or-mute/"><u>[Updated] In 2024, Snapchat Anomaly Detecting Possible Block or Mute</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-metavision-journey-essential-gear-for-metaverse-visitors/"><u>[Updated] Metavision Journey Essential Gear for Metaverse Visitors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-nba-livestream-a-list-of-15-essentials/"><u>2024 Approved Mastering NBA Livestream A List of 15 Essentials</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-snickel-and-snicker-5-best-meme-generating-apps/"><u>2024 Approved Snickel & Snicker 5 Best Meme Generating Apps</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enduring-techniques-for-inhibiting-windows-defender/"><u>Enduring Techniques for Inhibiting Windows Defender</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/from-hdtv-to-uhd-tv-the-spectacumph-of-4k/"><u>From HDTV to UHD TV: The Spectacumph of 4K</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-luminous-upgrades-5-must-try-online-video-tools/"><u>In 2024, Luminous Upgrades 5 Must-Try Online Video Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-outro-samples-collection-including-both-costs/"><u>In 2024, Outro Samples Collection Including Both Costs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovative-auditory-transitions-with-logic-pro-x-for-2024/"><u>Innovative Auditory Transitions with Logic Pro X for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-with-team-talk-here-are-5-easy-fixes-for-overwatch-voice-chat-failures/"><u>Trouble with Team Talk? Here Are 5 Easy Fixes for Overwatch Voice Chat Failures</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-combining-images-for-an-engaging-picture-panorama/"><u>[New] Combining Images for an Engaging Picture Panorama</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-make-every-moment-count-with-these-15-engaging-activities-while-listening-to-talk-shows/"><u>[New] Make Every Moment Count with These 15 Engaging Activities While Listening to Talk Shows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-screenplay-sensation-roundup/"><u>[New] Screenplay Sensation Roundup</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-chill-music-playlist-20-relaxing-country-melodies-tiktok-version/"><u>[Updated] In 2024, Chill Music Playlist 20 Relaxing Country Melodies (TikTok Version)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-simplified-pathway-facebook-vids-to-mp4-720p-and-1080p-hd-free-for-2024/"><u>[Updated] Simplified Pathway Facebook Vids to MP4, 720P & 1080P HD Free for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-is-photoshops-stabilization-feature-aiding-creativity/"><u>2024 Approved Is Photoshop's Stabilization Feature Aiding Creativity?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-rapid-route-to-reclaimed-reddit-articles/"><u>2024 Approved Rapid Route to Reclaimed Reddit Articles</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-a24-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy A24?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-interactive-interface-for-podcasters/"><u>Ideal Interactive Interface for Podcasters</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-laptop-perfection-10-coolest-downloadable-desktop-photos/"><u>In 2024, Laptop Perfection 10 Coolest Downloadable Desktop Photos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leveraging-video-production-microsofts-movie-maker-for-windows-11/"><u>In 2024, Leveraging Video Production Microsoft's Movie Maker for Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-instagram-profit-the-ultimate-strategy-blueprint-for-2024/"><u>Mastering Instagram Profit The Ultimate Strategy Blueprint for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-windows-movie-maker-handbook-tips-tricks-and-techniques/"><u>New In 2024, The Ultimate Windows Movie Maker Handbook Tips, Tricks, and Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/precision-guide-for-subtitles-insertion-in-mp4-files-for-2024/"><u>Precision Guide for Subtitles Insertion in MP4 Files for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/speed-demon-the-top-windows-photo-browser-for-2024/"><u>Speed Demon The Top Windows Photo Browser for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-electronics-by-toms-digital-diagnostics/"><u>The Ultimate Guide to Electronics by Tom's Digital Diagnostics</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/troubleshoot-and-fix-windows-printer-drivers-with-ease-guided-solutions-from-yl-software-experts/"><u>Troubleshoot and Fix Windows Printer Drivers with Ease: Guided Solutions From YL Software Experts</u></a></li>
 </ul></div>
 

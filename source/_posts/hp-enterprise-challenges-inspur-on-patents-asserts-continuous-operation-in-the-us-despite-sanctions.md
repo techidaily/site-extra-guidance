@@ -1,7 +1,7 @@
 ---
 title: HP Enterprise Challenges Inspur on Patents, Asserts Continuous Operation in the US Despite Sanctions
-date: 2025-01-03T19:28:18.706Z
-updated: 2025-01-05T05:47:06.130Z
+date: 2025-01-09T23:21:44.227Z
+updated: 2025-01-11T20:54:48.975Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,24 +78,20 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-mastering-adsense-on-youtube-a-beginners-guide/"><u>[New] 2024 Approved Mastering AdSense on YouTube A Beginner's Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-m1-magic-cutting-edge-video-edits-for-ultra-smooth-results/"><u>[New] M1 Magic Cutting-Edge Video Edits for Ultra-Smooth Results</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-breaking-new-ground-installation-of-windows-11/"><u>[Updated] Breaking New Ground Installation of Windows 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-affordable-data-storage-cloud/"><u>[Updated] Mastering the Art of Affordable Data Storage (Cloud)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-your-look-with-top-facelift-apps/"><u>[Updated] Perfecting Your Look with Top Facelift Apps</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-gaming-thumbs-for-immersive-experience/"><u>[Updated] Top Gaming Thumbs for Immersive Experience</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-visual-voyage-amds-radeon-reborn/"><u>[Updated] Visual Voyage AMD's Radeon Reborn</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-best-radio-drama-scripts/"><u>2024 Approved Best Radio Drama Scripts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-linux-windows-and-mac-10-budget-video-player-options/"><u>2024 Approved Linux, Windows & Mac 10 Budget Video Player Options</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-masterclass-in-image-detail-removing-obscuring-elements-with-photopea/"><u>2024 Approved Masterclass in Image Detail Removing Obscuring Elements with Photopea</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-rapid-diy-filming-tips-for-the-budding-director/"><u>2024 Approved Rapid DIY Filming Tips for the Budding Director</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-steam-readwrite-problems-with-easy-tricks/"><u>Bypassing Steam Read/Write Problems with Easy Tricks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-iphone-photography-wonders-capturing-surface-mirrors/"><u>In 2024, IPhone Photography Wonders Capturing Surface Mirrors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/lighting-setup-tips-to-make-great-videos-for-2024/"><u>Lighting Setup Tips to Make Great Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/navigating-the-risks-of-using-popcorn-time-do-you-need-a-vpn-for-protection/"><u>Navigating the Risks of Using Popcorn Time - Do You Need a VPN for Protection?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/spellbreak-pc-issues-resolved-fixes-and-solutions/"><u>Spellbreak PC Issues Resolved: Fixes & Solutions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-videopad-video-editor-review-should-you-buy-it-in-2024/"><u>The Ultimate Videopad Video Editor Review Should You Buy It, In 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-do-you-know-capcut-has-some-amazing-slow-motion-templates-you-can-utilize-read-this-article-to-access-the-slow-motion-capcut-templates-link-for-2024/"><u>Updated Do You Know CapCut Has some Amazing Slow-Motion Templates You Can Utilize? Read This Article to Access the Slow-Motion CapCut Templates Link for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-inshot-pro-advanced-features-showcase/"><u>[New] InShot Pro Advanced Features Showcase</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-integrating-extra-footage-crafting-engaging-visual-narratives/"><u>[New] Integrating Extra Footage Crafting Engaging Visual Narratives</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-resonant-revelry-auditory-additions-to-whatsapp-statues/"><u>[New] Resonant Revelry Auditory Additions to WhatsApp Statues</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-thrifty-shoppers-best-bargains-in-cams/"><u>[New] Thrifty Shopper's Best Bargains in Cams</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-adobes-guide-to-memetic-artistry/"><u>[Updated] In 2024, Adobe's Guide to Memetic Artistry</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-loom-reel-detailed-guide-to-screen-capture/"><u>[Updated] In 2024, The Loom Reel Detailed Guide to Screen Capture</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-knowledge-currents-best-yt-for-academic-growth/"><u>[Updated] Knowledge Currents Best YT for Academic Growth</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimizing-inner-spaces-with-sunshine/"><u>[Updated] Optimizing Inner Spaces with Sunshine</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-simplify-satire-funniest-memes-made-simple/"><u>[Updated] Simplify Satire Funniest Memes Made Simple</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-cameras-for-360-film-enthusiasts/"><u>2024 Approved Premium Cameras for 360° Film Enthusiasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensuring-a-seamless-launch-addressing-common-setbacks-in-gta-5/"><u>Ensuring a Seamless Launch: Addressing Common Setbacks in GTA 5</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-insights-into-the-positive-aspects-and-shortcomings-of-using-webex-for-online-meetings/"><u>In-Depth Insights Into the Positive Aspects and Shortcomings of Using Webex for Online Meetings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-edge-slow-motion-camera-technology-mobile-devices-for-2024/"><u>Leading Edge Slow Motion Camera Technology, Mobile Devices for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-essential-guide-to-new-driver-installations-for-the-dell-2330d2330dn-color-laser-printing-unit/"><u>The Essential Guide to New Driver Installations for the Dell 2330D/2330DN Color Laser Printing Unit</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-12-replacements-for-itunes-on-pc-and-mac-in-2n34-best-options-explored/"><u>Top 12 Replacements for iTunes on PC and Mac in 2N34 - Best Options Explored</u></a></li>
 </ul></div>
 

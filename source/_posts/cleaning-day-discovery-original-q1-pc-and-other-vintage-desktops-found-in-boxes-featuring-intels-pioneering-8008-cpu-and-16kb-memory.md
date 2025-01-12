@@ -1,7 +1,7 @@
 ---
 title: "Cleaning Day Discovery: Original Q1 PC and Other Vintage Desktops Found in Boxes, Featuring Intel's Pioneering 8008 CPU and 16KB Memory"
-date: 2024-12-29T00:14:15.438Z
-updated: 2025-01-04T20:34:20.489Z
+date: 2025-01-10T16:06:20.805Z
+updated: 2025-01-11T23:31:21.766Z
 tags:
   - desktop
 categories:
@@ -54,7 +54,7 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -80,24 +80,21 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-the-craft-of-igtv-video-production-with-phones-and-dslrs/"><u>[New] 2024 Approved Mastering the Craft of IGTV Video Production with Phones and DSLRs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-vimeoifytweets-audiovideo-tweet-tool/"><u>[New] In 2024, VimeoifyTweets Audio/Video Tweet Tool</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premium-picks-the-ultimate-gopro-upgrades/"><u>[New] Premium Picks The Ultimate Gopro Upgrades</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leading-sites-boosting-youtube-viewership/"><u>[Updated] Leading Sites Boosting YouTube Viewership</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-meme-magic-perfect-10-design-tips-and-tricks/"><u>2024 Approved Meme Magic Perfect 10 Design Tips & Tricks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-refinement-of-screen-focus-how-to-zoom-on-microsoft-teams/"><u>2024 Approved Refinement of Screen Focus How to Zoom on Microsoft Teams</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Realme Note 50? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-more-from-your-apple-tv-advanced-configuration-and-optimization-tips/"><u>Get More From Your Apple TV: Advanced Configuration and Optimization Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-googles-newly-released-palm-2-change-the-landscape-of-natural-language-processing/"><u>How Does Google's Newly Released PaLM 2 Change the Landscape of Natural Language Processing?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-comprehensive-handbook-on-recording-notes-by-sound/"><u>In 2024, Comprehensive Handbook on Recording Notes by Sound</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-master-the-art-of-pace-control-for-instas-live-videos/"><u>In 2024, Master the Art of Pace Control for Insta's Live Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-masterful-iphone-images-through-strategic-leading-lines/"><u>In 2024, Masterful iPhone Images Through Strategic Leading Lines</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-picture-perfect-in-the-sky-discover-infinite-complimentary-and-paid-cloud-repositories/"><u>In 2024, Picture Perfect in the Sky Discover Infinite, Complimentary, & Paid Cloud Repositories</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/integrating-technology-effective-school-vid-eds-for-2024/"><u>Integrating Technology Effective School Vid Eds for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/livescreen-capture-halt-guidebook-for-2024/"><u>LiveScreen Capture Halt Guidebook for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pro-tips-for-time-lapping-your-samsung-camera-for-2024/"><u>Pro Tips for Time-Lapping Your Samsung Camera for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/reversal-fix-for-inverted-displays-in-w11/"><u>Reversal Fix for Inverted Displays in W11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/seconds-in-a-20mb-hd-video-file-for-2024/"><u>Seconds in a 20MB HD Video File for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stepwise-construction-of-a-web-app-powered-by-chatgpt/"><u>Stepwise Construction of a Web App Powered by ChatGPT</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-telegram-a-step-by-step-walkthrough/"><u>[New] Mastering Telegram A Step-By-Step Walkthrough</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-top-30-for-timeless-telephone-chimes/"><u>[New] The Top 30 for Timeless Telephone Chimes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-fb-video-audio-extraction-made-simple-for-mp3-lovers/"><u>[Updated] In 2024, FB Video Audio Extraction Made Simple for MP3 Lovers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-tailoring-tags-a-guide-for-enhanced-online-visibility/"><u>[Updated] In 2024, Tailoring Tags A Guide for Enhanced Online Visibility</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-m1-powered-macbook-air-a-new-era-for-editors/"><u>[Updated] M1-Powered MacBook Air A New Era for Editors?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-secure-your-shots-in-the-cloud-unlimited-free-space-plus-charged-premium-solutions/"><u>[Updated] Secure Your Shots in the Cloud Unlimited Free Space + Charged Premium Solutions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-skyrocket-mobile-images-flawlessly-free/"><u>[Updated] Skyrocket Mobile Images Flawlessly, Free</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-captureconductor-review-a-dive-into-the-best-recording-software/"><u>2024 Approved CaptureConductor Review A Dive Into the Best Recording Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-render-movement-blur-in-digital-imagery/"><u>2024 Approved Render Movement Blur in Digital Imagery</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sprint-secrets-olympic-edition-22/"><u>2024 Approved Sprint Secrets - Olympic Edition '22</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-samsungs-202date-range-unveiling-rumors-reports-and-industry-impact-explored/"><u>All You Need to Know About Samsung's 202([Date Range]) Unveiling - Rumors, Reports & Industry Impact Explored</u></a></li>
+<li><a href="https://fox-access.techidaily.com/brand-alliances-elevating-youtube-content-for-2024/"><u>Brand Alliances Elevating YouTube Content for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-y100t-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo Y100t?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-peak-performance-pfv-settings-for-easy-movement/"><u>In 2024, Peak Performance PFV Settings for Easy Movement</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-presentation-adding-fonts-to-ae-projects/"><u>In 2024, Perfecting Presentation Adding Fonts to AE Projects</u></a></li>
+<li><a href="https://win-guides.techidaily.com/step-by-step-tutorial-on-crafting-custom-christmas-movies-at-home/"><u>Step-by-Step Tutorial on Crafting Custom Christmas Movies at Home</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"LUTs Simplified  Your Guide to Better Photos for 2024\""
-date: 2024-07-31T18:07:32.390Z
-updated: 2024-08-01T18:07:32.390Z
+date: 2025-01-08T17:06:55.747Z
+updated: 2025-01-11T19:27:06.491Z
 tags: 
   - screen-recording
   - ai video
@@ -51,27 +51,20 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to use LUTs using Photoshop CC?
 
 LUTs come pre-installed with programs, but you may also purchase them online and add them to your software. You may even buy a look from your favorite film or television show. In Photoshop, LUTs are simple to apply. You can begin in Photoshop with the original photo, which is an image that was captured locally, unprocessed, and straight out of the camera.
 
 1. Select the Adjustment Layer icon from the drop-down menu.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Choose Adjustment Layer
 
@@ -81,6 +74,10 @@ Choose Adjustment Layer
 
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 load 3d lut
 
 1. When you select one, you'll see how the color and tone of the image change.
@@ -89,9 +86,6 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -100,8 +94,9 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Here's the second one
 
 1. Open the LUT folder, which changes the version to your version.
@@ -116,9 +111,6 @@ Grow Together
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Closing Thoughts:
@@ -129,10 +121,11 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Closing Thoughts:
 
@@ -162,5 +155,23 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-insightful-update-sonys-s6500-hd-and-bd-player/"><u>[New] Insightful Update Sony's S6500 HD & BD Player</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-soundscapes-of-success-building-youtube-playlists-with-precision/"><u>[Updated] In 2024, The Soundscapes of Success Building YouTube Playlists with Precision</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-steadicam-devices-for-excellence-in-filmmaking-aviation/"><u>[Updated] Prime Steadicam Devices for Excellence in Filmmaking Aviation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-transform-your-iphone-into-a-content-powerhouse-with-best-fb-video-downloaders-for-ios-for-2024/"><u>[Updated] Transform Your iPhone Into a Content Powerhouse with Best FB Video Downloaders for iOS for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-jokes-jamboree-mastering-memelore-made-simple/"><u>2024 Approved Jokes Jamboree Mastering Memelore Made Simple</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-precise-color-correction-mastery-in-gopro-studio/"><u>2024 Approved Precise Color Correction Mastery in GoPro Studio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-bandw-vibrancy-ps-grading-hacks-for-2024/"><u>Boost B&W Vibrancy PS Grading Hacks for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-intel-iris-xe-graphics-g7-driver-version-for-windows-11/"><u>Download Intel® Iris Xe Graphics G7 Driver Version for Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-a05s-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy A05s Location Settings | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/fine-tuning-speed-settings-for-snapchat-vids/"><u>Fine-Tuning Speed Settings for Snapchat Vids</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-insightful-update-sonys-s6500-hd-and-bd-player/"><u>In 2024, Insightful Update Sony's S6500 HD & BD Player</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-learn-to-turn-your-photos-into-their-opposites/"><u>In 2024, Learn to Turn Your Photos Into Their Opposites</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-uploading-srt-text-in-digital-communities/"><u>In 2024, Mastering the Art of Uploading SRT Text in Digital Communities</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-web-of-communication-on-leading-platforms-facebook-twitter-instagram-and-youtube/"><u>Navigating the Web of Communication on Leading Platforms: Facebook, Twitter, Instagram, and Youtube.</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premium-pcandroid-mkv-player-for-2024/"><u>Premium PC/Android MKV Player for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secrets-of-battery-safety-features-that-risk-damaging-your-airtags-and-devices-fix-it-now/"><u>Unlocking the Secrets of Battery Safety Features That Risk Damaging Your AirTags & Devices - Fix It Now!</u></a></li>
+</ul></div>
 

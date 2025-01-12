@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Smiles & Laughs App Download"
-date: 2024-12-29T19:05:04.831Z
-updated: 2025-01-04T18:12:09.093Z
+date: 2025-01-06T20:54:03.446Z
+updated: 2025-01-11T19:26:18.374Z
 tags: 
   - screen-recording
   - ai video
@@ -25,10 +25,6 @@ That is why you should have a meme maker on your mobile phone or computer so tha
 1. [For iPhone: Mematic - The Meme Maker](#part3-1)
 2. [For Android: Memes.com + Memes Maker](#part3-2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Meme Generator Download for PC
 
 If you are a Windows user and you are looking for meme generator download where you can create meme videos effortlessly, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as the best video meme maker. It is a premium software with a super intuitive user interface so that anyone can design memes without any prior experience or technical knowledge. You get amazing photo and video backgrounds for memes as well as the latest memes from GIPHY to embed in your video wherever applicable. Here are the steps to create meme videos with Filmora.
@@ -40,6 +36,10 @@ If you are a Windows user and you are looking for meme generator download where 
 Step1 Download and install Filmora on your computer. It is a premium software but you can try out its free trial version before purchasing the premium version. Launch Filmora and go to File> New Project option to get started.
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Go to Stock Media> Pexels> Videos or Stock Media> Pixabay> Videos and select a video template for the background of your meme video. If you want a static background, you can check out Photos tab instead of Videos tab.
 
@@ -56,10 +56,6 @@ Step4 To add texts and titles to your meme video, go to Titles> Social Media and
 Step5 Double-click on the Title template and edit the meme texts and titles as per your preference. You can select different styles and animations. Besides, you can incorporate different Elements, Effects, and Audio Effects to your meme video as you think fit.
 
 ![edit meme template filmora](https://images.wondershare.com/filmora/article-images/2022/07/edit-meme-template-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Meme Generator Download for Mac
 
@@ -81,6 +77,10 @@ Step4 Click on “+” and “-” icons to increase or decrease the text size. 
 
 ![change text size imeme](https://images.wondershare.com/filmora/article-images/2022/07/change-text-size-imeme.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. Meme App Download for Mobile Phone
 
 If you are a smartphone user, you need to download a meme generator app based on your operating system. You will come across loads of meme generator apps on Play Store or App Store. But we have selected the most popular and best meme generator apps for iPhone as well as Android smartphone users.
@@ -99,13 +99,13 @@ Step2 Select a style to get started. Freestyle is the best option.
 
 ![mematic meme style](https://images.wondershare.com/filmora/article-images/2022/07/mematic-meme-style.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 If you want to insert your photo as the background of the meme, tap on Photos. If you want to choose the background from a popular meme, tap on Memes.
 
 ![select a background mematic](https://images.wondershare.com/filmora/article-images/2022/07/select-a-background-mematic.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Tap on any desired meme and tap on Continue button to edit the selected meme.
 
@@ -114,10 +114,6 @@ Step4 Tap on any desired meme and tap on Continue button to edit the selected me
 Step5 Tap on the text parts, and you get to change the text as well as the style. Finally, tap on Export option to save the meme.
 
 ![export meme from mematic iphone](https://images.wondershare.com/filmora/article-images/2022/07/export-meme-from-mematic-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For Android: Memes.com + Memes Maker
 
@@ -129,6 +125,10 @@ Step2 Launch the app and you have to sign up before you can proceed further. Tap
 
 ![create meme in memes app](https://images.wondershare.com/filmora/article-images/2022/07/create-meme-in-memes-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Select a meme template for the background.
 
 ![select meme template memes app](https://images.wondershare.com/filmora/article-images/2022/07/select-meme-template-memes-app.jpg)
@@ -136,10 +136,6 @@ Step3 Select a meme template for the background.
 Step4 Choose a text layout from the bottom. Thereafter, tap on the text and tap on Edit option to change the default text. Tap on Done button in the top-right corner.
 
 ![change default text memes app](https://images.wondershare.com/filmora/article-images/2022/07/change-default-text-memes-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5 Tap on your text and change the style as per your preference. Thereafter, tap on Next option in the top-right corner to save the meme.
 
@@ -161,6 +157,10 @@ Step1 Download and install Filmora on your computer. It is a premium software bu
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Go to Stock Media> Pexels> Videos or Stock Media> Pixabay> Videos and select a video template for the background of your meme video. If you want a static background, you can check out Photos tab instead of Videos tab.
 
 ![stock media pixabay video](https://images.wondershare.com/filmora/article-images/2022/07/stock-media-pixabay-video.jpg)
@@ -169,17 +169,21 @@ Step3 If you want to embed any meme GIF in your video, go to Stock Media> GIPHY.
 
 ![drag gif to timeline filmora](https://images.wondershare.com/filmora/article-images/2022/07/drag-gif-to-timeline-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 To add texts and titles to your meme video, go to Titles> Social Media and drop any title template into the Timeline. You can delete as well as move around any element of the title template from the Viewer.
 
 ![add text title to meme filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-text-title-to-meme-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5 Double-click on the Title template and edit the meme texts and titles as per your preference. You can select different styles and animations. Besides, you can incorporate different Elements, Effects, and Audio Effects to your meme video as you think fit.
 
 ![edit meme template filmora](https://images.wondershare.com/filmora/article-images/2022/07/edit-meme-template-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Meme Generator Download for Mac
 
@@ -189,13 +193,13 @@ Step1 Open your web browser and visit “michaelfogleman.com/projects/#imeme”.
 
 ![download imeme for mac](https://images.wondershare.com/filmora/article-images/2022/07/download-imeme-for-mac.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Launch iMeme and select a meme template from the left panel.
 
 ![select template imeme](https://images.wondershare.com/filmora/article-images/2022/07/select-template-imeme.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Type the header text as well as the footer text in the available text boxes.
 
@@ -205,13 +209,13 @@ Step4 Click on “+” and “-” icons to increase or decrease the text size. 
 
 ![change text size imeme](https://images.wondershare.com/filmora/article-images/2022/07/change-text-size-imeme.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Meme App Download for Mobile Phone
 
 If you are a smartphone user, you need to download a meme generator app based on your operating system. You will come across loads of meme generator apps on Play Store or App Store. But we have selected the most popular and best meme generator apps for iPhone as well as Android smartphone users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### For iPhone: Mematic - The Meme Maker
 
@@ -223,6 +227,10 @@ Step1 Visit App Store and search for Mematic and install the app on your iPhone.
 
 ![mematic meme maker iphone](https://images.wondershare.com/filmora/article-images/2022/07/mematic-meme-maker-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Select a style to get started. Freestyle is the best option.
 
 ![mematic meme style](https://images.wondershare.com/filmora/article-images/2022/07/mematic-meme-style.jpg)
@@ -231,17 +239,9 @@ Step3 If you want to insert your photo as the background of the meme, tap on Pho
 
 ![select a background mematic](https://images.wondershare.com/filmora/article-images/2022/07/select-a-background-mematic.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Tap on any desired meme and tap on Continue button to edit the selected meme.
 
 ![edit selected meme mematic](https://images.wondershare.com/filmora/article-images/2022/07/edit-selected-meme-mematic.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5 Tap on the text parts, and you get to change the text as well as the style. Finally, tap on Export option to save the meme.
 
@@ -297,22 +297,19 @@ We have illustrated how you can create creative memes from scratch directly from
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-intro-magic-crafting-irresistible-podcast-openers/"><u>[New] Intro Magic Crafting Irresistible Podcast Openers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-minimal-time-maximum-effect/"><u>[New] Minimal Time, Maximum Effect</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-spark-ar-visual-upgrades-the-role-of-downloadable-luts-in-development/"><u>[New] Spark AR Visual Upgrades The Role of Downloadable LUTs in Development</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-chic-looks-the-ultimate-cosmetic-compendium/"><u>[Updated] 2024 Approved Crafting Chic Looks The Ultimate Cosmetic Compendium</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeos-video-mosaics-inserting-chapters-for-clarity/"><u>[Updated] 2024 Approved Vimeo's Video Mosaics Inserting Chapters for Clarity</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-instantly-examine-windows-documents-efficiently/"><u>[Updated] Instantly Examine Windows Documents Efficiently</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-insta-marketing-dynamo-crafting-winning-strategies-with-videos-on-social-media/"><u>2024 Approved Insta-Marketing Dynamo Crafting Winning Strategies with Videos on Social Media</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimizing-podcasts-on-googles-platform/"><u>2024 Approved Optimizing Podcasts on Google's Platform</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-protective-phone-cases-with-screen-shields/"><u>2024 Approved Protective Phone Cases with Screen Shields</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-peek-at-windows-files-heres-how/"><u>2024 Approved Quick Peek at Windows Files, Here's How</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-secure-and-innovate-with-our-selection-of-18-best-cam-apps/"><u>2024 Approved Secure & Innovate with Our Selection of #18 Best Cam Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-on-oculus-quest-2-syncing-to-smartphone-platforms/"><u>Comprehensive Tutorial on Oculus Quest 2 Syncing to Smartphone Platforms</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/evaluating-effectiveness-of-german-and-french-in-communication/"><u>Evaluating Effectiveness of German & French in Communication</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-master-artistic-freedom-with-the-top-10-mac-drawings/"><u>In 2024, Master Artistic Freedom with the Top 10 Mac Drawings</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-unbiased-review-vn-video-editor-pros-features-and-performance/"><u>New 2024 Approved Unbiased Review VN Video Editor Pros Features and Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tribit-xsound-mega-a-bluetooth-speaker-that-elevates-your-listening-experience-with-its-30w-output-and-unmatched-audio-range-zdnet-review/"><u>Tribit XSound Mega: A Bluetooth Speaker That Elevates Your Listening Experience With Its 30W Output and Unmatched Audio Range | ZDNET Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-comprehensive-guide-to-top-ae-extensions-for-2024/"><u>[New] Comprehensive Guide to Top AE Extensions for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-tomtom-actioncam-2023-for-adventure-seekers-for-2024/"><u>[New] TomTom ActionCam 2023 for Adventure Seekers for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-cut-the-cost-not-your-content-quality-try-these-top-8-free-tools/"><u>[Updated] In 2024, Cut The Cost, Not Your Content Quality - Try These Top 8 Free Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pivot-from-srt-to-professional-audio-standards-with-confidence/"><u>[Updated] Pivot From SRT to Professional Audio Standards with Confidence</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-audio-liberation-the-ultimate-guide-to-pazeras-extraction-tools/"><u>2024 Approved Audio Liberation The Ultimate Guide to Pazera's Extraction Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplicity-in-skewing-photographic-content/"><u>2024 Approved Simplicity in Skewing Photographic Content</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-s17t-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo S17t? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-ios-video-experience-the-10-most-excellent-players/"><u>In 2024, IOS Video Experience The 10 Most Excellent Players</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-sound-capture-in-windows-11/"><u>In 2024, Mastering Sound Capture in Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-transform-your-speech-the-7-top-vocal-changer-mobile-apps/"><u>In 2024, Transform Your Speech The 7 Top Vocal Changer Mobile Apps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-the-art-of-saying-hello-in-spanish-dive-into-these-top-10-phrases/"><u>Mastering the Art of Saying 'Hello' In Spanish - Dive Into These Top 10 Phrases</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sleek-screenscape-top-wallpapers-for-your-device-for-2024/"><u>Sleek Screenscape Top Wallpapers for Your Device for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-honor-90-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Honor 90 Pro to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/ultimate-guide-how-to-safely-download-songs-from-saavn/"><u>Ultimate Guide: How to Safely Download Songs From Saavn</u></a></li>
 </ul></div>
 

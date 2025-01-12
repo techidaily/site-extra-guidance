@@ -1,7 +1,7 @@
 ---
 title: "Create Your Portable Desktop: AMD Ryzen PC in a Mini Keyboard with Trackpad & Battery, Attach Only Monitor to Complete Setup"
-date: 2024-12-30T21:58:30.902Z
-updated: 2025-01-04T22:04:01.578Z
+date: 2025-01-06T16:27:34.357Z
+updated: 2025-01-11T20:32:54.832Z
 tags:
   - desktop
 categories:
@@ -28,7 +28,7 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
  Both of these units will be great for businesses that utilize[edge computing](https://www.tomshardware.com/pc-components/cpus/intel-crams-meteor-lake-laptop-chips-into-a-socket-for-edge-computing-includes-arc-graphics-and-npu-for-ai-workloads) . Edge computing is a growing computing strategy that allocates some (or most) of a business's computing power on-site rather than from a cloud solution alone. It significantly reduces internet bandwidth requirements, saving resources and time. The computing strategy has become incredibly popular over the past few years, especially for AI workloads. Reports confirm that data consumption is growing substantially more than internet services can handle worldwide, forcing businesses to switch to edge-based methods for computing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,17 +54,24 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-precision-portrait-display-review-of-lgs-27in-oled-tv/"><u>[Updated] Precision Portrait Display Review of LG's 27in OLED TV</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-reclaim-the-loss-10-essential-iphone-x-techniques/"><u>[Updated] Reclaim The Loss 10 Essential iPhone X Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-review-movavi-video-pro-2024-enhanced-edition/"><u>[Updated] Review Movavi Video Pro 2024 Enhanced Edition</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-upload-youtube-shorts-detailed-instructions-from-desktopmobile-for-2024/"><u>[Updated] Upload YouTube Shorts Detailed Instructions From Desktop/Mobile for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pinnacle-sound-selections-android-based/"><u>2024 Approved Pinnacle Sound Selections, Android-Based</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/high-definition-recordings-picking-the-best-frame-rate-wisely-for-2024/"><u>High-Definition Recordings Picking the Best Frame Rate Wisely for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-15-pro-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your iPhone 15 Pro?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-calculating-youtubes-income-potential-with-cpm-rates/"><u>In 2024, Calculating YouTube's Income Potential with CPM Rates</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-iron-out-instability-in-iphone-videography-effortlessly/"><u>In 2024, Iron Out Instability in iPhone Videography Effortlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/maintaining-pc-security-options-excluding-bitlocker/"><u>Maintaining PC Security: Options Excluding BitLocker</u></a></li>
-<li><a href="https://windows11.techidaily.com/revitalizing-network-safety-5-firewall-tips/"><u>Revitalizing Network Safety: 5 Firewall Tips</u></a></li>
-<li><a href="https://win-popular.techidaily.com/story-1-misunderstanding-the-system32-directory-answer-a/"><u>Story 1: Misunderstanding the System32 Directory (Answer A)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-lol-library-top-picks-for-outstanding-meme-creators/"><u>[New] LOL Library Top Picks for Outstanding Meme Creators</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quintuple-excellence-writing-for-eight-film-classifications/"><u>[New] Quintuple Excellence Writing for Eight Film Classifications</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-steps-to-sign-in-with-google-meet-laptop-and-mobile/"><u>[New] Steps to Sign-In with Google Meet (Laptop & Mobile)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-cross-platform-connections-effortless-insta-facebook-linkup/"><u>[Updated] In 2024, Cross-Platform Connections Effortless Insta-Facebook Linkup</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-radio-dramas-peak-of-creative-scripting/"><u>[Updated] Radio Dramas Peak of Creative Scripting</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-beyond-borders-blurring-techniques-for-global-audienes/"><u>2024 Approved Beyond Borders Blurring Techniques for Global Audienes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-making-sense-of-typical-podcaster-profits/"><u>2024 Approved Making Sense of Typical Podcaster Profits</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-asus-rog-phone-7-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Asus ROG Phone 7</u></a></li>
+<li><a href="https://discover-great.techidaily.com/fixing-dvd-shrink-failures-in-windows-11-a-comprehensive-guide/"><u>Fixing DVD Shrink Failures in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-shapes-and-lines-essential-software-to-know-today/"><u>In 2024, Mastering Shapes and Lines Essential Software to Know Today</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-real-time-proportion-alteration-tool/"><u>In 2024, Real-Time Proportion Alteration Tool</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-speedy-shutterbugs-iphones-quick-time-lapse-guide/"><u>In 2024, Speedy Shutterbugs IPhone's Quick Time-Lapse Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-list-of-best-mp4-players-for-2024/"><u>Master List of Best MP4 Players for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-art-of-starting-fallout-3-without-a-hitch-proven-fixes-and-tips-2024/"><u>Master The Art of Starting Fallout 3 Without A Hitch - Proven Fixes & Tips 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-your-craft-selecting-the-best-luts-for-lightroom-photos-for-2024/"><u>Master Your Craft Selecting the Best LUTs for LightRoom Photos for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/probleme-mit-der-historieversionsfunktion-in-windows-11-beheben/"><u>Probleme Mit Der Historieversionsfunktion in Windows 11 Beheben</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/selecting-ideal-fpv-propellers-a-comprehensive-guide/"><u>Selecting Ideal FPV Propellers A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-journey-of-the-obsolete-from-floppy-disks-to-modern-transport-uncovering-their-hidden-presence-zdnet/"><u>The Journey of the Obsolete: From Floppy Disks to Modern Transport - Uncovering Their Hidden Presence | ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-tutorial-on-editing-and-cropping-iphoness-videos-for-enhanced-youtube-presentation/"><u>The Ultimate Tutorial on Editing and Cropping iPhones's Videos for Enhanced YouTube Presentation</u></a></li>
 </ul></div>
 

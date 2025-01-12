@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Spiritual Slow-Motion Videoworkshop\""
-date: 2025-01-01T02:42:00.478Z
-updated: 2025-01-05T01:01:45.619Z
+date: 2025-01-09T22:23:24.085Z
+updated: 2025-01-11T20:21:38.179Z
 tags: 
   - screen-recording
   - ai video
@@ -48,7 +48,7 @@ The camera will then capture the movement in slow motion, allowing you to see th
 ![shoot video with phantom camera](https://images.wondershare.com/filmora/article-images/2022/11/shoot-video-with-phantom-camera.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why do we need a phantom slow-motion camera?
@@ -108,25 +108,21 @@ After creating a new project, there is an option to add media you can your the v
 
 ![add media to library on filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-media-to-library-on-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Drop the media to timeline
 
 Drag and drop your videos on the timeline to start the editing. Once you placed your videos on timelines put the video header at the front.
 
 ![drag media into timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/drag-media-into-timeline-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step4 Add titles, effects, and transitions to your video
 
 Filmora provides several titles, effects, and transitions. You can add them according to your needs. If you want to make a time-lapse video then you can copy your video and paste it on the end of the first video, so that you can make a time-lapse video. But if you add the dissolve transition between them then your video will become so smooth.
 
 ![add title and effects to video filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-title-and-effects-to-video-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step5 Export to your desktop
 
@@ -163,7 +159,11 @@ The camera will then capture the movement in slow motion, allowing you to see th
 ![shoot video with phantom camera](https://images.wondershare.com/filmora/article-images/2022/11/shoot-video-with-phantom-camera.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why do we need a phantom slow-motion camera?
@@ -218,7 +218,7 @@ You can easily install Filmora for free, after installing click on it three opti
 ![open filmora and create a new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step2 Add some media to edit
@@ -233,15 +233,15 @@ Drag and drop your videos on the timeline to start the editing. Once you placed 
 
 ![drag media into timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/drag-media-into-timeline-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step4 Add titles, effects, and transitions to your video
 
 Filmora provides several titles, effects, and transitions. You can add them according to your needs. If you want to make a time-lapse video then you can copy your video and paste it on the end of the first video, so that you can make a time-lapse video. But if you add the dissolve transition between them then your video will become so smooth.
 
 ![add title and effects to video filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-title-and-effects-to-video-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step5 Export to your desktop
 
@@ -250,7 +250,7 @@ When you want to save your video or share it on social media just click on the e
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -287,20 +287,20 @@ As filmmakers and video lovers, we have come up with some solid examples of time
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-knowledge-keepers-premier-10-tools-to-record-teaching-sessions/"><u>[New] 2024 Approved Knowledge Keepers Premier 10 Tools to Record Teaching Sessions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-elevating-gameplay-tips-for-using-the-steam-switch-controller/"><u>[New] Elevating Gameplay Tips for Using the Steam Switch Controller</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-key-technique-to-integrate-gopro-content-within-cohesive-spherical-videography/"><u>[New] Key Technique to Integrate GoPro Content Within Cohesive Spherical Videography</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-pinnacle-edition-tweets-transformed-into-timeless-gifs/"><u>[Updated] 2024 Approved Pinnacle Edition - Tweets Transformed Into Timeless GIFs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-making-your-favorite-tiktok-beats-your-personal-mobile-alarm-signal/"><u>[Updated] Making Your Favorite TikTok Beats Your Personal Mobile Alarm Signal</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-must-have-top-8-wallpapers-and-themes-for-mbp-users/"><u>[Updated] Must-Have Top 8 Wallpapers & Themes for MBP Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-say-goodbye-to-bloatware-with-these-44-superb-android-video-reducers/"><u>[Updated] Say Goodbye to Bloatware with These 44 Superb Android Video Reducers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-majestic-visual-chronicles-compiler-suite/"><u>2024 Approved Majestic Visual Chronicles Compiler Suite</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-waves-with-top-surf-cams/"><u>2024 Approved Mastering Waves with Top Surf Cams</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-roi-with-targeted-market-research-strategies/"><u>2024 Approved Maximizing ROI with Targeted Market Research Strategies</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2208320-9780007279746-an-angel-by-my-side/"><u>An Angel By My Side | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/decoding-apples-latest-powerhouse-a-comprehensive-breakdown-of-m3-vs-m3-pro-vs-m3-max-before-you-buy/"><u>Decoding Apple's Latest Powerhouse: A Comprehensive Breakdown of M3 Vs. M3 Pro Vs. M3 Max Before You Buy</u></a></li>
-<li><a href="https://article-helps.techidaily.com/essential-tips-to-improve-your-chromebooks-zooming-skills/"><u>Essential Tips to Improve Your Chromebook's Zooming Skills</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ins-and-outs-of-chatgpts-token-capacity-how-does-it-impact-your-experience/"><u>The Ins and Outs of ChatGPT's Token Capacity – How Does It Impact Your Experience?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/vintage-wisdom-the-most-influential-50-latin-aphorisms/"><u>Vintage Wisdom: The Most Influential 50 Latin Aphorisms</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ioneering-methods-to-develop-a-memorable-youtube-introduction-for-2024/"><u>[New] Pioneering Methods to Develop a Memorable YouTube Introduction for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-insight-discovering-your-off-facebook-activities/"><u>[Updated] Mastering the Art of Insight Discovering Your Off-Facebook Activities</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-public-perceptions-unveiling-vllo-realities/"><u>[Updated] Public Perceptions Unveiling VLLO Realities</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-understanding-facebook-messengers-signaling-with-a-blue-splash/"><u>[Updated] Understanding Facebook Messenger's Signaling With a Blue Splash</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-secrets-of-speed-instant-background-cleanse-techniques/"><u>2024 Approved Secrets of Speed Instant Background Cleanse Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-smart-techniques-to-curve-and-sculpt-pixels/"><u>2024 Approved Smart Techniques to Curve and Sculpt Pixels</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-step-by-step-method-for-changing-your-instagram-tone/"><u>2024 Approved Step-By-Step Method for Changing Your Instagram Tone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effizientes-datensynchronisieren-mit-automatischen-onedrive-updates-in-der-windows-umgebung/"><u>Effizientes Datensynchronisieren Mit Automatischen OneDrive-Updates in Der Windows Umgebung</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovating-temporal-displacement-effects/"><u>In 2024, Innovating Temporal Displacement Effects</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-metaverse-chronicles-a-list-of-the-most-unforgettable-sci-fi-adventures-on-screen/"><u>In 2024, Metaverse Chronicles A List of the Most Unforgettable Sci-Fi Adventures on Screen</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-selection-the-best-8-tripods-for-superior-4k-shooting/"><u>In 2024, Premium Selection The Best 8 Tripods for Superior 4K Shooting</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-redefining-visual-storytelling-with-virtual-reality/"><u>In 2024, Redefining Visual Storytelling with Virtual Reality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/interopservice-exception-rectified-in-windows/"><u>InteropService Exception Rectified in Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-editing-in-garageband-for-2024/"><u>Mastering the Art of Editing in GarageBand for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sounds-no-problem-fixing-voice-and-effects-issues-in-black-ops-cold-war-for-pc-players/"><u>No Sounds? No Problem! Fixing Voice and Effects Issues in Black Ops Cold War for PC Players</u></a></li>
 </ul></div>
 

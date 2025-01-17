@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Professional iPhone Cinematography  Nine Crucial Tips to Perfect Videos\""
-date: 2024-12-23T21:59:27.637Z
-updated: 2024-12-26T18:13:12.747Z
+date: 2025-01-12T16:07:37.893Z
+updated: 2025-01-17T16:17:18.429Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ thumbnail: https://www.lifewire.com/thmb/QOOSrpWgtLR1SeeW9DQNHlTh5T0=/540x405/fi
 
  This same complaint is often used in iPhone videography – it is difficult to follow because the video is shaking. The shaking is what happens when the video lacks stability – remember that most professional camera work is done with cameras which are on some form of frame or tripod to keep the camera still. It isn’t that an iPhone is heavy – it is more to do with the video being hard to keep still, especially if our attention is distracted. For the best videos, people should invest in some form of tripod for their phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Light Properly
 
  Professional video shoots use a lot of light in order to create the proper effect – most people would be surprised to learn how much light goes into even a ‘night-time’ set. Phone videos often suffer a lot because they do not make adequate use of light. Part of this can be solved by taking a camera class which covers light issues, but it can also be solved by paying attention to light sources where you are, and changing them to better suit your video if possible.
@@ -49,7 +53,7 @@ thumbnail: https://www.lifewire.com/thmb/QOOSrpWgtLR1SeeW9DQNHlTh5T0=/540x405/fi
 ![zoom](https://images.wondershare.com/Zoom.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use the Grid
@@ -58,10 +62,6 @@ thumbnail: https://www.lifewire.com/thmb/QOOSrpWgtLR1SeeW9DQNHlTh5T0=/540x405/fi
 
 ![grid](https://images.wondershare.com/grid-iphone-camera.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use the Exposure Lock
 
  When taking a video or a picture, you will have noticed that it can change the colour and the exposure while trying to get a lock and fix on what it is going to be recording. While it is good that it tries to find the best way to accommodate the light and sound in the room, having your video change exposure throughout will be at best annoying and at worst an outright distraction. Lock your exposure down on the iPhone once you have found the optimum conditions for the video, and it will not change.
@@ -69,7 +69,11 @@ thumbnail: https://www.lifewire.com/thmb/QOOSrpWgtLR1SeeW9DQNHlTh5T0=/540x405/fi
 ![exposure](https://images.wondershare.com/lock-exposure.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Slow Motion\\Time Lapse Mode
@@ -79,7 +83,7 @@ thumbnail: https://www.lifewire.com/thmb/QOOSrpWgtLR1SeeW9DQNHlTh5T0=/540x405/fi
 ![time lapse](https://images.wondershare.com/time-lapse-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Put your iPhone in Airplane Mode
@@ -91,7 +95,7 @@ thumbnail: https://www.lifewire.com/thmb/QOOSrpWgtLR1SeeW9DQNHlTh5T0=/540x405/fi
 ![airplane mode](https://images.wondershare.com/airplane-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Edit your Video with Filmora
@@ -105,10 +109,6 @@ thumbnail: https://www.lifewire.com/thmb/QOOSrpWgtLR1SeeW9DQNHlTh5T0=/540x405/fi
  Using your iPhone to make a video is not something which requires a lot of extra equipment – it simply requires some planning on your part, as well as knowledge of your iPhone’s systems. Being able to control the grid for the videos, the exposure, and anything else which can be controlled through the iPhone systems makes for much better videos off the bat, while adding in video editing software and tripods can improve the experience even more. Videos on an iPhone shouldn’t be seen as impossible.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -125,22 +125,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-key-sites-the-6-most-vital-platforms-for-b2b-relationships/"><u>[New] Key Sites The 6 Most Vital Platforms for B2B Relationships</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-simplification-streamlining-oversized-tiktok-archives/"><u>[New] Mastering the Art of Simplification Streamlining Oversized TikTok Archives</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-tackling-iphone-lens-failures-with-ease/"><u>[New] Tackling iPhone Lens Failures with Ease</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-highlights-of-short-track-speed-skating-olympics-2022/"><u>[Updated] Highlights of Short Track Speed Skating Olympics 2022</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-surpassing-the-ranks-essential-factors-uncovered-for-2024/"><u>[Updated] Surpassing the Ranks Essential Factors Uncovered for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-revel-in-photo-excellence-with-this-guide-to-mastering-the-background-erase-tool/"><u>2024 Approved Revel in Photo Excellence with This Guide to Mastering the Background Erase Tool</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-securely-installing-apple-podcasts-episodes/"><u>2024 Approved Securely Installing Apple Podcasts Episodes</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-and-engage-with-audience-through-major-platforms-facebook-twitter-instagram-and-youtube-explained/"><u>Connect and Engage with Audience Through Major Platforms: Facebook, Twitter, Instagram & YouTube Explained</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expertly-chosen-list-of-top-8-alternative-numbering-solutions/"><u>Expertly Chosen List of Top 8 Alternative Numbering Solutions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-selecting-the-perfect-day-for-podcast-drops/"><u>In 2024, Selecting the Perfect Day for Podcast Drops</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-skys-eye-insights-overview/"><u>In 2024, Sky's Eye Insights Overview</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-spotlight-on-snapchat-a-step-by-step-guide/"><u>In 2024, Spotlight on Snapchat A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-workflow-with-mac-preview-complete-guide/"><u>In 2024, Streamlining Your Workflow with Mac Preview Complete Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/starting-point-decoding-display-resolution-basics-for-2024/"><u>Starting Point Decoding Display Resolution Basics for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/tutorial-de-clonacion-profesional-usando-clonezilla-en-sistemas-operativos-windows/"><u>Tutorial De Clonación Profesional: Usando Clonezilla en Sistemas Operativos Windows</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/what-gamers-must-know-about-bandicam-for-2024/"><u>What Gamers Must Know About Bandicam for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-monetizing-your-passion-from-youtube-gamer-to-entrepreneur/"><u>[New] Monetizing Your Passion From YouTube Gamer to Entrepreneur</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-guide-activatingdeactivating-picture-in-picture-pip-for-youtube/"><u>[New] Quick Guide Activating/Deactivating Picture In Picture (PIP) for YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-luminous-transitions-crafting-dynamic-colors/"><u>[Updated] 2024 Approved Luminous Transitions Crafting Dynamic Colors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-invest-in-quality-best-4k-mirrorless-under-1000/"><u>[Updated] Invest in Quality Best 4K Mirrorless Under $1,000</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-peak-outcome-total-immersion-complete/"><u>[Updated] Peak Outcome Total Immersion Complete</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pinnacle-camera-technology-the-best-reviewed/"><u>[Updated] Pinnacle Camera Technology – The Best Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-guidance-instagram-ringtone-download-and-make-instagram-ringtone-on-your-own/"><u>2024 Approved Guidance Instagram Ringtone Download and Make Instagram Ringtone on Your Own</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-airpods-audio-experience-when-connected-to-a-desktop-or-laptop/"><u>Enhancing AirPods Audio Experience When Connected to a Desktop or Laptop</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y100-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-x100-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo X100 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-playthrough-recording-tutorials-mastering-osu-video-sessions/"><u>PC Playthrough Recording Tutorials: Mastering Osu! Video Sessions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/proven-ways-to-enhance-your-home-nba-streams-for-2024/"><u>Proven Ways to Enhance Your Home NBA Streams for 2024</u></a></li>
 </ul></div>
 

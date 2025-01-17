@@ -1,7 +1,7 @@
 ---
 title: HP Enterprise Challenges Inspur on Patents, Asserts Continuous Operation in the US Despite Sanctions
-date: 2025-01-09T23:21:44.227Z
-updated: 2025-01-11T20:54:48.975Z
+date: 2025-01-16T16:16:31.126Z
+updated: 2025-01-17T16:02:04.919Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,20 +78,19 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-inshot-pro-advanced-features-showcase/"><u>[New] InShot Pro Advanced Features Showcase</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-integrating-extra-footage-crafting-engaging-visual-narratives/"><u>[New] Integrating Extra Footage Crafting Engaging Visual Narratives</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-resonant-revelry-auditory-additions-to-whatsapp-statues/"><u>[New] Resonant Revelry Auditory Additions to WhatsApp Statues</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-thrifty-shoppers-best-bargains-in-cams/"><u>[New] Thrifty Shopper's Best Bargains in Cams</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-adobes-guide-to-memetic-artistry/"><u>[Updated] In 2024, Adobe's Guide to Memetic Artistry</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-loom-reel-detailed-guide-to-screen-capture/"><u>[Updated] In 2024, The Loom Reel Detailed Guide to Screen Capture</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-knowledge-currents-best-yt-for-academic-growth/"><u>[Updated] Knowledge Currents Best YT for Academic Growth</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-optimizing-inner-spaces-with-sunshine/"><u>[Updated] Optimizing Inner Spaces with Sunshine</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-simplify-satire-funniest-memes-made-simple/"><u>[Updated] Simplify Satire Funniest Memes Made Simple</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-cameras-for-360-film-enthusiasts/"><u>2024 Approved Premium Cameras for 360° Film Enthusiasts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ensuring-a-seamless-launch-addressing-common-setbacks-in-gta-5/"><u>Ensuring a Seamless Launch: Addressing Common Setbacks in GTA 5</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-insights-into-the-positive-aspects-and-shortcomings-of-using-webex-for-online-meetings/"><u>In-Depth Insights Into the Positive Aspects and Shortcomings of Using Webex for Online Meetings</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leading-edge-slow-motion-camera-technology-mobile-devices-for-2024/"><u>Leading Edge Slow Motion Camera Technology, Mobile Devices for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/the-essential-guide-to-new-driver-installations-for-the-dell-2330d2330dn-color-laser-printing-unit/"><u>The Essential Guide to New Driver Installations for the Dell 2330D/2330DN Color Laser Printing Unit</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-12-replacements-for-itunes-on-pc-and-mac-in-2n34-best-options-explored/"><u>Top 12 Replacements for iTunes on PC and Mac in 2N34 - Best Options Explored</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-xiaomi-11-series-capture-life-in-high-definition/"><u>[New] 2024 Approved Xiaomi 11 Series Capture Life in High Definition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-best-movie-trailers-for-2024/"><u>[New] Best Movie Trailers for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-quicksnap-firefox-enhancements/"><u>[New] In 2024, QuickSnap Firefox Enhancements</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-joyous-film-grabber-assessment/"><u>[New] Joyous Film Grabber Assessment</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/oney-multiplier-how-to-maximize-youtube-profits-with-mobile-viewers-for-2024/"><u>[New] Money Multiplier How to Maximize YouTube Profits with Mobile Viewers for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-peak-commercial-sky-storage-providers/"><u>[New] Peak Commercial Sky-Storage Providers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-av-artisans-an-exclusive-list-for-you/"><u>[New] Pinnacle AV Artisans An Exclusive List for You</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-paving-digital-pathways-for-ig-and-tiktok/"><u>[Updated] Paving Digital Pathways for IG & TikTok</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-teachers-channel-blueprint-10-essential-tips-for-youtube-educators-for-2024/"><u>[Updated] Teachers’ Channel Blueprint 10 Essential Tips for YouTube Educators for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-extracting-massive-quantities-of-tiktok-content/"><u>2024 Approved Mastering the Art of Extracting Massive Quantities of TikTok Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-the-virtual-landscape-with-metaverse-marketing/"><u>2024 Approved Pioneering the Virtual Landscape with Metaverse Marketing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726222958763-2024-11/"><u>2024 주요 게임 녹화 소프트웨어 고안: 위대한 11개를 선보여드다</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/access-premium-quality-tamil-films-at-no-cost-hd-downloads-available-on-all-platforms-including-mobile-and-television/"><u>Access Premium Quality Tamil Films at No Cost – HD Downloads Available on All Platforms Including Mobile and Television</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/securing-successful-video-ventures-through-team-choices-for-2024/"><u>Securing Successful Video Ventures Through Team Choices for 2024</u></a></li>
 </ul></div>
 

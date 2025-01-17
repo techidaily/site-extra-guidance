@@ -1,7 +1,7 @@
 ---
 title: "Create Your Portable Desktop: AMD Ryzen PC in a Mini Keyboard with Trackpad & Battery, Attach Only Monitor to Complete Setup"
-date: 2025-01-06T16:27:34.357Z
-updated: 2025-01-11T20:32:54.832Z
+date: 2025-01-14T16:07:57.761Z
+updated: 2025-01-17T16:14:49.153Z
 tags:
   - desktop
 categories:
@@ -28,7 +28,7 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
  Both of these units will be great for businesses that utilize[edge computing](https://www.tomshardware.com/pc-components/cpus/intel-crams-meteor-lake-laptop-chips-into-a-socket-for-edge-computing-includes-arc-graphics-and-npu-for-ai-workloads) . Edge computing is a growing computing strategy that allocates some (or most) of a business's computing power on-site rather than from a cloud solution alone. It significantly reduces internet bandwidth requirements, saving resources and time. The computing strategy has become incredibly popular over the past few years, especially for AI workloads. Reports confirm that data consumption is growing substantially more than internet services can handle worldwide, forcing businesses to switch to edge-based methods for computing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,24 +54,21 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-lol-library-top-picks-for-outstanding-meme-creators/"><u>[New] LOL Library Top Picks for Outstanding Meme Creators</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-quintuple-excellence-writing-for-eight-film-classifications/"><u>[New] Quintuple Excellence Writing for Eight Film Classifications</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-steps-to-sign-in-with-google-meet-laptop-and-mobile/"><u>[New] Steps to Sign-In with Google Meet (Laptop & Mobile)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-cross-platform-connections-effortless-insta-facebook-linkup/"><u>[Updated] In 2024, Cross-Platform Connections Effortless Insta-Facebook Linkup</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-radio-dramas-peak-of-creative-scripting/"><u>[Updated] Radio Dramas Peak of Creative Scripting</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-beyond-borders-blurring-techniques-for-global-audienes/"><u>2024 Approved Beyond Borders Blurring Techniques for Global Audienes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-making-sense-of-typical-podcaster-profits/"><u>2024 Approved Making Sense of Typical Podcaster Profits</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-asus-rog-phone-7-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Asus ROG Phone 7</u></a></li>
-<li><a href="https://discover-great.techidaily.com/fixing-dvd-shrink-failures-in-windows-11-a-comprehensive-guide/"><u>Fixing DVD Shrink Failures in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-shapes-and-lines-essential-software-to-know-today/"><u>In 2024, Mastering Shapes and Lines Essential Software to Know Today</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-real-time-proportion-alteration-tool/"><u>In 2024, Real-Time Proportion Alteration Tool</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-speedy-shutterbugs-iphones-quick-time-lapse-guide/"><u>In 2024, Speedy Shutterbugs IPhone's Quick Time-Lapse Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-list-of-best-mp4-players-for-2024/"><u>Master List of Best MP4 Players for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/master-the-art-of-starting-fallout-3-without-a-hitch-proven-fixes-and-tips-2024/"><u>Master The Art of Starting Fallout 3 Without A Hitch - Proven Fixes & Tips 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-your-craft-selecting-the-best-luts-for-lightroom-photos-for-2024/"><u>Master Your Craft Selecting the Best LUTs for LightRoom Photos for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/probleme-mit-der-historieversionsfunktion-in-windows-11-beheben/"><u>Probleme Mit Der Historieversionsfunktion in Windows 11 Beheben</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/selecting-ideal-fpv-propellers-a-comprehensive-guide/"><u>Selecting Ideal FPV Propellers A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-journey-of-the-obsolete-from-floppy-disks-to-modern-transport-uncovering-their-hidden-presence-zdnet/"><u>The Journey of the Obsolete: From Floppy Disks to Modern Transport - Uncovering Their Hidden Presence | ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-tutorial-on-editing-and-cropping-iphoness-videos-for-enhanced-youtube-presentation/"><u>The Ultimate Tutorial on Editing and Cropping iPhones's Videos for Enhanced YouTube Presentation</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-discover-the-best-10-free-tiktok-video-editing-apps-for-mac/"><u>[New] 2024 Approved Discover the Best 10 FREE TikTok Video Editing Apps for Mac</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-a-lifetime-love-affair-with-top-15-classic-stop-motion-movies/"><u>[New] In 2024, A Lifetime Love Affair with Top 15 Classic Stop-Motion Movies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premier-10-subtitle-editing-software-online/"><u>[New] Premier 10 Subtitle Editing Software Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-screenshotsweeperpro-next-gen-bg-removal-tool/"><u>[New] ScreenshotSweeperPro Next-Gen BG Removal Tool</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-avi-media-playback-ideal-for-everyones-device/"><u>[New] Seamless Avi Media Playback - Ideal for Everyone's Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-professional-tips-for-perfecting-your-srt-files/"><u>[Updated] Professional Tips for Perfecting Your SRT Files</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-superior-5-digital-capture-devices-for-2024/"><u>[Updated] Superior 5 Digital Capture Devices for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/die-besten-kostenlosen-screenshot-anwendungen-unter-windows/"><u>Die Besten Kostenlosen Screenshot-Anwendungen Unter Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/die-top-6-beliebtesten-dvd-extraktionswerkzeuge-fur-eine-optimale-nutzung/"><u>Die Top 6 Beliebtesten DVD-Extraktionswerkzeuge Für Eine Optimale Nutzung</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725290644707-dvdusb-type-csurface-hubmacbookchromebook-pixel/"><u>DVD到USB Type-C的转换指南：支持Surface Hub、MacBook和Chromebook Pixel</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-introduction-to-moving-visual-content/"><u>In 2024, Introduction to Moving Visual Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-saturation-savvy-professionals-secrets-revealed/"><u>In 2024, Saturation Savvy Professionals' Secrets Revealed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-upgrade-quandaries-error-code-0xc1900101/"><u>Navigating Windows 11 Upgrade Quandaries: Error Code 0xC1900101</u></a></li>
+<li><a href="https://techtrends.techidaily.com/safe-bios-updates-a-step-by-step-tutorial/"><u>Safe BIOS Updates: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/snowboard-cross-triumphs-olympic-highlights-for-2024/"><u>Snowboard Cross Triumphs - Olympic Highlights for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unlock-screen-saving-potential-on-android-devices/"><u>Unlock Screen Saving Potential on Android Devices</u></a></li>
 </ul></div>
 

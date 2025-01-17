@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Lens Hacks  Capturing Perfect Reflections\""
-date: 2025-01-08T16:55:59.992Z
-updated: 2025-01-12T00:35:49.666Z
+date: 2025-01-16T16:13:20.237Z
+updated: 2025-01-17T16:25:34.331Z
 tags: 
   - screen-recording
   - ai video
@@ -48,16 +48,12 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![reflection-photography-for-iPhone](https://images.wondershare.com/filmora/article-images/crystal-ball.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Water in a wine glass (turns everything upside down too!)
 
 ![water-reflection](https://images.wondershare.com/filmora/article-images/water-reflection.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2\.  Pay Attention to Composition
@@ -88,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 4\.  Reality and Reflection
 
  Don't just focus on the reflection, these tend to distract from how good the reflection is. Of course if the reflective surface reflects too well and you just focus on that. The image might come out as looking the same as if you had just pointed and shot the subject.
@@ -107,11 +107,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Post Production Reflective Effects
@@ -146,7 +142,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
@@ -154,6 +150,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 #### 4\. Photo Mirror Effects
 
 ![photo-mirror-effects-reflection-editor](https://images.wondershare.com/filmora/article-images/photo-mirror-effects-reflection-editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another great choice for getting started with reflective photography. It has some mid range editing features, but this is made up in it's easy of use. Perhaps one of the best free reflective photography apps and you can even share the images directly to your social media feeds.
 
@@ -176,19 +176,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-dji-revolution-air-vs-spark-in-gaming-sphere-for-2024/"><u>[New] DJI Revolution Air Vs. Spark in Gaming Sphere for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-funimate-decoded-a-step-by-step-journey-for-2024/"><u>[Updated] Funimate Decoded A Step-by-Step Journey for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-picshot-revolutionizing-collage-design-processes/"><u>[Updated] Picshot Revolutionizing Collage Design Processes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-windows-premier-video-conferencing-apps-5-1/"><u>[Updated] Windows' Premier Video Conferencing Apps #5-#1</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-music-broadcasts-online/"><u>2024 Approved Premier Music Broadcasts Online</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pricing-guide-youtube-marketing-expenses/"><u>2024 Approved Pricing Guide YouTube Marketing Expenses</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-steps-to-enhance-your-ability-as-an-effective-interviewer/"><u>2024 Approved Steps to Enhance Your Ability as an Effective Interviewer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-generative-artificial-intelligence-the-future-of-creative-computing-explained/"><u>Decoding Generative Artificial Intelligence: The Future of Creative Computing Explained</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-how-to-generate-a-copernic-software-offline-license/"><u>Guide: How to Generate a Copernic Software Offline License</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-s6700-bdp-updates-explored/"><u>In 2024, S6700 BDP Updates Explored</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-the-smm-landscape-key-steps-to-success-for-2024/"><u>Navigating the SMM Landscape Key Steps to Success for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nuc-12-extreme-unveiled-by-intel-integrates-advanced-alder-lake-s-processor-sockets-for-ultimate-power-efficiency/"><u>NUC 12 Extreme Unveiled by Intel, Integrates Advanced Alder Lake-S Processor Sockets for Ultimate Power Efficiency</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/ultimate-tips-for-deactivating-microsofts-onedrive-service-on-windows-11-systems/"><u>Ultimate Tips for Deactivating Microsoft's OneDrive Service on Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unmissable-july-2024-discounts-at-walmart-your-guide/"><u>Unmissable July 2024 Discounts at Walmart - Your Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-boosting-viewership-mastery-in-youtube-shorts-design/"><u>[New] 2024 Approved Boosting Viewership Mastery in YouTube Shorts Design</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-tips-for-kinemaster-dominance-plus-best-digital-platforms-on-the-web/"><u>[New] Pro Tips for KineMaster Dominance + Best Digital Platforms on the Web</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-professional-gimbals-and-tripods-for-youtube-starters/"><u>[New] Professional Gimbals & Tripods for YouTube Starters</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-luxury-on-wheels-a-compre-written-in-the-stars/"><u>[Updated] Luxury on Wheels - A Compre Written in the Stars</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-royalty-free-clip-art-strategies-and-sources/"><u>[Updated] Royalty-Free Clip Art Strategies and Sources</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-legitimate-strategies-to-amass-over-a-million-youtube-views/"><u>2024 Approved Legitimate Strategies to Amass Over a Million YouTube Views</u></a></li>
+<li><a href="https://win-web3.techidaily.com/aomei-partition-assistant-pro-securisez-et-dupliquez-votre-data-de-windows-7-64-bits-avec-facilite/"><u>AOMEI Partition Assistant Pro: Sécurisez Et Dupliquez Votre DATA De Windows 7 (64 Bits) Avec Facilité</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-iphone-x-secure-access-restoring-biometric-lock-for-2024/"><u>Mastering iPhone X Secure Access Restoring Biometric Lock for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-windows-11s-in-built-auto-hdr-feature-for-2024/"><u>Mastering Windows 11'S In-Built Auto HDR Feature for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sdr-vs-hdr-the-superiority-of-high-dynamic-range-in-video-production-for-2024/"><u>SDR Vs. HDR The Superiority of High Dynamic Range in Video Production for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-changing-a-different-accounts-password-on-windows/"><u>Step-by-Step Guide: Changing a Different Account's Password on Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-zoo-matic-guide-to-improved-snapchat-media-for-2024/"><u>The Zoo-Matic Guide to Improved Snapchat Media for 2024</u></a></li>
 </ul></div>
 

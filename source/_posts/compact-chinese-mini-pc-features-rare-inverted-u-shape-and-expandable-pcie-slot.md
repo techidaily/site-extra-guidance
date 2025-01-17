@@ -1,7 +1,7 @@
 ---
 title: Compact Chinese Mini PC Features Rare Inverted 'U' Shape and Expandable PCIe Slot
-date: 2025-01-06T17:49:55.421Z
-updated: 2025-01-11T18:24:19.173Z
+date: 2025-01-14T16:09:29.178Z
+updated: 2025-01-17T16:16:39.299Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,22 +60,20 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-combining-images-for-an-engaging-picture-panorama/"><u>[New] Combining Images for an Engaging Picture Panorama</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-make-every-moment-count-with-these-15-engaging-activities-while-listening-to-talk-shows/"><u>[New] Make Every Moment Count with These 15 Engaging Activities While Listening to Talk Shows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-screenplay-sensation-roundup/"><u>[New] Screenplay Sensation Roundup</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-chill-music-playlist-20-relaxing-country-melodies-tiktok-version/"><u>[Updated] In 2024, Chill Music Playlist 20 Relaxing Country Melodies (TikTok Version)</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-simplified-pathway-facebook-vids-to-mp4-720p-and-1080p-hd-free-for-2024/"><u>[Updated] Simplified Pathway Facebook Vids to MP4, 720P & 1080P HD Free for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-is-photoshops-stabilization-feature-aiding-creativity/"><u>2024 Approved Is Photoshop's Stabilization Feature Aiding Creativity?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-rapid-route-to-reclaimed-reddit-articles/"><u>2024 Approved Rapid Route to Reclaimed Reddit Articles</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-a24-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy A24?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ideal-interactive-interface-for-podcasters/"><u>Ideal Interactive Interface for Podcasters</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-laptop-perfection-10-coolest-downloadable-desktop-photos/"><u>In 2024, Laptop Perfection 10 Coolest Downloadable Desktop Photos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-leveraging-video-production-microsofts-movie-maker-for-windows-11/"><u>In 2024, Leveraging Video Production Microsoft's Movie Maker for Windows 11</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-instagram-profit-the-ultimate-strategy-blueprint-for-2024/"><u>Mastering Instagram Profit The Ultimate Strategy Blueprint for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-windows-movie-maker-handbook-tips-tricks-and-techniques/"><u>New In 2024, The Ultimate Windows Movie Maker Handbook Tips, Tricks, and Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/precision-guide-for-subtitles-insertion-in-mp4-files-for-2024/"><u>Precision Guide for Subtitles Insertion in MP4 Files for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/speed-demon-the-top-windows-photo-browser-for-2024/"><u>Speed Demon The Top Windows Photo Browser for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-electronics-by-toms-digital-diagnostics/"><u>The Ultimate Guide to Electronics by Tom's Digital Diagnostics</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/troubleshoot-and-fix-windows-printer-drivers-with-ease-guided-solutions-from-yl-software-experts/"><u>Troubleshoot and Fix Windows Printer Drivers with Ease: Guided Solutions From YL Software Experts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-captivate-audiences-and-gain-traction-with-youtube-shorts/"><u>[New] In 2024, How to Captivate Audiences and Gain Traction with YouTube Shorts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-direct-to-youtube-stepwise-process-of-mobile-and-desktop-video-posting/"><u>[Updated] Direct to YouTube Stepwise Process of Mobile & Desktop Video Posting</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-narrative-wordsmithing-weaving-a-story-through-speech/"><u>[Updated] Narrative Wordsmithing Weaving a Story Through Speech</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-your-way-to-the-perfect-4k-lens-purchase/"><u>[Updated] Navigating Your Way to the Perfect 4K Lens Purchase</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfect-shots-no-hassle-leading-smartphone-tripods/"><u>[Updated] Perfect Shots, No Hassle Leading Smartphone Tripods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-skyrocket-your-streaming-status-three-winning-techniques-for-newbies/"><u>[Updated] Skyrocket Your Streaming Status Three Winning Techniques for Newbies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigate-office-tasks-with-voice-recognition-in-microsoft-word/"><u>2024 Approved Navigate Office Tasks with Voice Recognition in Microsoft Word</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/auditory-aesthetics-choosing-the-right-soundtracks-for-boxings-for-2024/"><u>Auditory Aesthetics Choosing the Right Soundtracks for Boxings for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-c55-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Realme C55 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-journeys-best-tools-top-10-vr-peripherals-guide/"><u>In 2024, Journey's Best Tools Top 10 VR Peripherals Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/instant-best-picture-viewer-pro-for-2024/"><u>Instant Best Picture Viewer Pro for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>List of Pokémon Go Joysticks On Apple iPhone 6s | Dr.fone</u></a></li>
 </ul></div>
 

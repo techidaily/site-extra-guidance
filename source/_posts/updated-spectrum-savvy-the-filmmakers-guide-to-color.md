@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Spectrum Savvy  The Filmmaker's Guide to Color\""
-date: 2025-01-04T22:27:37.196Z
-updated: 2025-01-11T23:40:30.229Z
+date: 2025-01-16T16:13:57.283Z
+updated: 2025-01-17T16:04:18.398Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,6 @@ Color grading and color correction are processes that happen throughout postprod
 
 ![apply color grading to video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-grading-to-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To summarize, Color grading can be used to make both technical and creative changes. Colorists use color grading for artistic purposes to ensure that the film's carefully curated color palette conveys a specific atmosphere, style, or emotion.
 
 ## Why is Color Grading Important?
@@ -68,6 +64,10 @@ Then select the New Project to create a new project file and click Import to fin
 
 ![put video to filmora cd](https://images.wondershare.com/filmora/article-images/2022/08/put-video-to-filmora-cd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2There are 2 ways to color your video in Wondershare Filmora
 
 Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar to enter the advanced color tools window, where you can apply the preset templates or adjust the color coarsely. It is suggested to start with Presets for beginners, which will save you much time.
@@ -75,12 +75,16 @@ Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar
 ![advanced color tools filmora](https://images.wondershare.com/filmora/article-images/2022/08/advanced-color-tools-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
 
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Contrast**: is the variance in luminance or color that makes an object identifiable. By modifying this setting, control the dissimilarity in color and brightness in contrary parts of the video image.
 
@@ -99,6 +103,10 @@ Color Panel Window - to perform color correction in Wondershare Filmora, switch 
 Here, there are two options to select: The Color correction. It offers different readily-made presets you can use to color your video.
 
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step2Select the specific video portion
 
@@ -126,10 +134,6 @@ Once you've finished correcting the video color, press Play and go over the whol
 
 ![preview and save video filmora](https://images.wondershare.com/filmora/article-images/2022/08/preview-and-save-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Using the Color Panel Window**
 
 ##### Step1To perform color correction in Filmora, switch to the Color tab
@@ -139,7 +143,7 @@ You can modify the temperature, tint, white balance, contrast, saturation, and b
 ![color panel windows filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-panel-windows-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step2Color grading with Wondershare Filmora
@@ -147,10 +151,6 @@ You can modify the temperature, tint, white balance, contrast, saturation, and b
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
 
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Color Histogram**
 
@@ -220,18 +220,21 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-livestream-tactics-best-practices-for-cricket-viewers/"><u>[New] Top Livestream Tactics Best Practices for Cricket Viewers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-beyond-ustream-live-stream-platforms-reviewed/"><u>[Updated] Beyond Ustream Live Stream Platforms Reviewed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimize-media-consumption-with-picture-in-progress-screen-chrome/"><u>2024 Approved Optimize Media Consumption with Picture In Progress Screen Chrome</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-premier-audio-recording-tools-11-edition/"><u>2024 Approved Premier Audio Recording Tools - #11 Edition</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/cookiebot-driven-personalization-enhance-your-websites-user-experience/"><u>Cookiebot-Driven Personalization: Enhance Your Website's User Experience</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-add-a-timestamp-to-youtube-video/"><u>How to Add a Timestamp to YouTube Video</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-nubia-z50s-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Nubia Z50S Pro?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-obs-and-wirecast-clash-which-tops-in-live-broadcasting/"><u>In 2024, OBS and Wirecast Clash Which Tops in Live Broadcasting</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-innovative-gadgets-expertise-from-toms-hardware-zone/"><u>Inside the World of Innovative Gadgets: Expertise From Tom's Hardware Zone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mememagic-app-unleash-your-comedic-genius-online-for-2024/"><u>MemeMagic App - Unleash Your Comedic Genius Online for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/oceans-bounty-best-cameras-for-anglers-for-2024/"><u>Ocean's Bounty - Best Cameras for Anglers for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/revive-your-pc-navigating-through-windows-8-options/"><u>Revive Your PC: Navigating Through Windows' 8 Options</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/slide-by-slide-audio-integration-for-dynamic-ppts-for-2024/"><u>Slide-by-Slide Audio Integration for Dynamic PPTs for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigate-with-ease-must-know-win11-tricks/"><u>[New] Navigate with Ease Must-Know Win11 Tricks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-screen-play-perfect-apples-no1-top-8-movie-app-guide/"><u>[New] Screen Play Perfect Apple's No.1, Top 8 Movie App Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-srt-innovations-the-future-explained-today/"><u>[New] SRT Innovations The Future Explained Today</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-conquering-peaks-comparing-gopro-hero5-black-and-session/"><u>[Updated] Conquering Peaks Comparing GoPro Hero5 Black and Session</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-crafting-exceptional-freefire-content-on-youtube-platforms/"><u>[Updated] Crafting Exceptional FreeFire Content on YouTube Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-interactive-communication-enhancing-your-youtube-presence/"><u>[Updated] Interactive Communication Enhancing Your YouTube Presence</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-intova-edge-x-action-camera-review/"><u>[Updated] Intova Edge X Action Camera Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revitalized-interview-questions-for-listener-involvement/"><u>[Updated] Revitalized Interview Questions for Listener Involvement</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-reliable-selections-17-trusted-apps-for-effortless-background-cleaning/"><u>2024 Approved Reliable Selections 17 Trusted Apps for Effortless Background Cleaning</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beating-the-bug-successful-launch-strategies-for-robocop-rogue-city-on-pc-setup/"><u>Beating the Bug: Successful Launch Strategies for 'RoboCop: Rogue City' On PC Setup</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/chromebook-video-editing-made-easy-top-online-tools-for-2024/"><u>Chromebook Video Editing Made Easy Top Online Tools for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oppo-a56s-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo A56s 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-transform-ideas-into-engaging-movies-using-youtube-editor/"><u>In 2024, Transform Ideas Into Engaging Movies Using YouTube Editor</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/is-photoshops-stabilization-feature-aiding-creativity-in-2024/"><u>Is Photoshop's Stabilization Feature Aiding Creativity, In 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/revamp-your-inbox-solving-outlook-cannot-identify-email-with-5-effective-strategies/"><u>Revamp Your Inbox: Solving 'Outlook Cannot Identify Email' With 5 Effective Strategies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unleashing-potential-in-virtual-collaboration-platforms/"><u>Unleashing Potential in Virtual Collaboration Platforms</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cleaning Day Discovery: Original Q1 PC and Other Vintage Desktops Found in Boxes, Featuring Intel's Pioneering 8008 CPU and 16KB Memory"
-date: 2025-01-10T16:06:20.805Z
-updated: 2025-01-11T23:31:21.766Z
+date: 2025-01-13T16:21:27.853Z
+updated: 2025-01-17T16:10:00.474Z
 tags:
   - desktop
 categories:
@@ -54,7 +54,7 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -80,21 +80,18 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-telegram-a-step-by-step-walkthrough/"><u>[New] Mastering Telegram A Step-By-Step Walkthrough</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-top-30-for-timeless-telephone-chimes/"><u>[New] The Top 30 for Timeless Telephone Chimes</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-fb-video-audio-extraction-made-simple-for-mp3-lovers/"><u>[Updated] In 2024, FB Video Audio Extraction Made Simple for MP3 Lovers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-tailoring-tags-a-guide-for-enhanced-online-visibility/"><u>[Updated] In 2024, Tailoring Tags A Guide for Enhanced Online Visibility</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-m1-powered-macbook-air-a-new-era-for-editors/"><u>[Updated] M1-Powered MacBook Air A New Era for Editors?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-secure-your-shots-in-the-cloud-unlimited-free-space-plus-charged-premium-solutions/"><u>[Updated] Secure Your Shots in the Cloud Unlimited Free Space + Charged Premium Solutions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-skyrocket-mobile-images-flawlessly-free/"><u>[Updated] Skyrocket Mobile Images Flawlessly, Free</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-captureconductor-review-a-dive-into-the-best-recording-software/"><u>2024 Approved CaptureConductor Review A Dive Into the Best Recording Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-render-movement-blur-in-digital-imagery/"><u>2024 Approved Render Movement Blur in Digital Imagery</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-sprint-secrets-olympic-edition-22/"><u>2024 Approved Sprint Secrets - Olympic Edition '22</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-samsungs-202date-range-unveiling-rumors-reports-and-industry-impact-explored/"><u>All You Need to Know About Samsung's 202([Date Range]) Unveiling - Rumors, Reports & Industry Impact Explored</u></a></li>
-<li><a href="https://fox-access.techidaily.com/brand-alliances-elevating-youtube-content-for-2024/"><u>Brand Alliances Elevating YouTube Content for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-y100t-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo Y100t?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-peak-performance-pfv-settings-for-easy-movement/"><u>In 2024, Peak Performance PFV Settings for Easy Movement</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-presentation-adding-fonts-to-ae-projects/"><u>In 2024, Perfecting Presentation Adding Fonts to AE Projects</u></a></li>
-<li><a href="https://win-guides.techidaily.com/step-by-step-tutorial-on-crafting-custom-christmas-movies-at-home/"><u>Step-by-Step Tutorial on Crafting Custom Christmas Movies at Home</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-how-to-use-luts-to-obs-studio-and-download-free-luts/"><u>[New] How to Use LUTs to OBS Studio & Download Free LUTs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-6-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 6 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/addressing-unsupported-codec-lack/"><u>Addressing Unsupported Codec Lack</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-unwrapped-an-easier-way-to-comprehend-ai/"><u>Artificial Intelligence Unwrapped: An Easier Way to Comprehend AI</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/efficient-video-downloading-vimeo-to-mp4-tutorial-for-2024/"><u>Efficient Video Downloading Vimeo to MP4 Tutorial for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/heaviest-heroes-in-the-air-drone-power-list/"><u>Heaviest Heroes in the Air Drone Power List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-shoot-higher-your-mobile-for-vertical-panoramas/"><u>In 2024, Shoot Higher Your Mobile for Vertical Panoramas</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-photographers-guide-to-negative-imaging/"><u>In 2024, The Photographer’s Guide to Negative Imaging</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-tips-to-transform-your-videos-into-social-media-stars/"><u>In 2024, Tips to Transform Your Videos Into Social Media Stars</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premier-gif-application-selection-for-iphone-users-for-2024/"><u>Premier GIF Application Selection for iPhone Users for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/should-you-review-off-facebook-histories-security-tips-and-tricks-for-2024/"><u>Should You Review Off-Facebook Histories? Security Tips & Tricks for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-data-transfer-mastering-file-zip-and-unzip-commands/"><u>Streamlining Data Transfer: Mastering File Zip & Unzip Commands</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/webs-frontier-leading-browsers-for-screen-recording/"><u>Web's Frontier Leading Browsers for Screen Recording</u></a></li>
 </ul></div>
 

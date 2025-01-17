@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shoot Higher  Your Mobile for Vertical Panoramas\""
-date: 2024-12-15T00:54:55.075Z
-updated: 2024-12-18T03:07:15.019Z
+date: 2025-01-10T16:19:40.317Z
+updated: 2025-01-17T16:19:28.387Z
 tags: 
   - screen-recording
   - ai video
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to take vertical panorama photography with your respective Smartphone
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 * [Part 2: For Android Users](#part2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For iPhone users
@@ -56,17 +56,13 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image source: mac-fusion
 
 * Begin to go along with the upward arrow on the screen to capture the desired vertorama.
 * Once finished and satisfied, just tap on "Done" option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For Android users
@@ -84,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 * Repeat the same with other dots as well. In other words, move camera towards the gray dots one by one until they get disappear.
 * Tap on "Done" when completed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Some Beneficial Tips for shooting vertical panorama photo
 
 * Firstly, we would suggest you using a tripod when you need to take **vertical panorama on iPhone** or Android smoothly i.e. to avoid shakiness.
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -112,22 +112,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-ensuring-compliance-with-fb-messenger-call-records/"><u>[New] 2024 Approved Ensuring Compliance with FB Messenger Call Records</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-srt-and-mp4-synergy-a-comprehensive-guide-edition/"><u>[New] SRT & MP4 Synergy A Comprehensive Guide Edition</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-best-online-junctions-providing-free-high-end-vector-artworks-and-graphics/"><u>[Updated] In 2024, Best Online Junctions Providing Free, High-End Vector Artworks & Graphics</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-key-aspects-of-creating-animated-visual-narratives/"><u>[Updated] In 2024, Key Aspects of Creating Animated Visual Narratives</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premier-music-broadcasts-online/"><u>[Updated] Premier Music Broadcasts Online</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-reverse-order-effortless-methods-for-list-rearrangement/"><u>[Updated] Reverse Order Effortless Methods for List Rearrangement</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-lines-that-captivate-the-craft-of-writing-dialogue/"><u>2024 Approved Lines That Captivate The Craft of Writing Dialogue</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-pc-color-with-windows-hdri/"><u>2024 Approved Maximizing PC Color with Windows HDRI</u></a></li>
-<li><a href="https://facebook.techidaily.com/a-guide-to-fb-avatar-inclusion-in-whatsapp-discussions/"><u>A Guide to FB Avatar Inclusion in WhatsApp Discussions</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-note-30-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Note 30 5G Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo V30 Phone Without Password?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-online-meetings-zoom-tips-for-chromebooks/"><u>In 2024, Mastering Online Meetings Zoom Tips for Chromebooks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-iphone-photography-top-app-picks-x-7/"><u>In 2024, Prime iPhone Photography Top App Picks (X, 7)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-tecno-phantom-v-flip-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Tecno Phantom V Flip Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-realme-gt-neo-5-se-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Realme GT Neo 5 SE without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/seconds-in-a-snapshot-20mb-videography-for-2024/"><u>Seconds in a Snapshot 20MB Videography for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/social-media-stardom-in-a-nutshell-master-these-9-tactics-for-insta-glory-for-2024/"><u>Social Media Stardom in a Nutshell Master These 9 Tactics for Insta Glory for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/freshly-updated-compatible-hp-scanjet-driver-software-for-windows-users-10-8-and-7/"><u>[Freshly Updated] Compatible HP Scanjet Driver Software for Windows Users (10, 8, and 7)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-editors-manual-tackling-gopro-distortion/"><u>[New] Pro Editor's Manual Tackling GoPro Distortion</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-secrets-for-effortless-instagram-grouping/"><u>[Updated] 10 Secrets for Effortless Instagram Grouping</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-zoom-techniques-for-captivating-audio-in-podcast-production-for-2024/"><u>[Updated] Essential Zoom Techniques for Captivating Audio in Podcast Production for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-elite-seventeen-innovative-4k-filmmaking-tools/"><u>2024 Approved Elite Seventeen Innovative 4K Filmmaking Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-no-cost-to-you-heres-a-list-of-7-free-editing-apps/"><u>2024 Approved No Cost to You? Here's a List of 7 Free Editing Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photo-edit-pro-tips-hide-identities-effectively/"><u>2024 Approved Photo Edit Pro Tips Hide Identities Effectively</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-refined-retakes-how-to-crop-and-perfect-iphone-shots/"><u>2024 Approved Refined Retakes How to Crop and Perfect iPhone Shots</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-reimagine-reality-techniques-for-astonishing-image-distortions/"><u>2024 Approved Reimagine Reality Techniques for Astonishing Image Distortions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sharp-lenses-clear-visions-tips-for-fog-free-filming/"><u>2024 Approved Sharp Lenses, Clear Visions Tips for Fog-Free Filming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726227442060-voc-mp3-movavi/"><u>線上無付費 VOC 至 MP3 音頻改版 - 使用 Movavi 網站音頻編輯器</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-v27emirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo V27eMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-pause-life360-location-sharing-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-film-color-correction-with-luts-for-2024/"><u>Mastering Film Color Correction with Luts for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premium-steadicam-brands-for-drones-and-camera-work-for-2024/"><u>Premium Steadicam Brands for Drones and Camera Work for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-htc-u23-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for HTC U23 | Dr.fone</u></a></li>
 </ul></div>
 

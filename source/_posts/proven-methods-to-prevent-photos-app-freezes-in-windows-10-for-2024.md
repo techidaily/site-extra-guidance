@@ -1,7 +1,7 @@
 ---
 title: "Proven Methods to Prevent Photos App Freezes in Windows 10 for 2024"
-date: 2025-01-08T18:34:22.404Z
-updated: 2025-01-12T00:29:00.586Z
+date: 2025-01-10T16:06:15.933Z
+updated: 2025-01-17T16:20:06.028Z
 tags: 
   - screen-recording
   - ai video
@@ -40,10 +40,6 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 **You may also like:** [How to Solve Windows 10 Photos App Crashes Effectively >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Windows 10 Photos app crashes
 
 ### Solution 1: Use the Troubleshooter
@@ -60,10 +56,6 @@ Here is how to troubleshoot –
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 2: Restore Default Libraries
 
 Restoring the default libraries would resolve the Windows 10 Photos App crash issues. Resetting the Photo App to its default source to a valid network, path fixes the case.
@@ -75,7 +67,15 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 3: Reset it
 
@@ -99,7 +99,7 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 4. Now, the Windows 10 Photos App won’t crash.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
@@ -120,13 +120,13 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -144,22 +144,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-navigating-through-paid-product-evaluations-online/"><u>[New] 2024 Approved Navigating Through Paid Product Evaluations Online</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pro-techniques-for-iphone-nature-photography-at-a-new-level/"><u>[Updated] Pro Techniques for iPhone Nature Photography at a New Level</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-quick-react-guide-efficiently-answering-discord-messages-for-2024/"><u>[Updated] Quick-React Guide Efficiently Answering Discord Messages for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-speaking-to-tomorrow-iphone-voice-memo/"><u>[Updated] Speaking to Tomorrow - iPhone Voice Memo</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-iphones-ultimate-video-capture-list/"><u>2024 Approved IPhone's Ultimate Video Capture List</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-xiaomi-14-ultra-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Xiaomi 14 Ultra Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-oneplus-12-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix OnePlus 12 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-cyber-sensation-the-rise-of-videoviral-tweets/"><u>In 2024, Cyber Sensation The Rise of #VideoViral Tweets</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-paving-the-way-to-success-with-innovative-medical-ads/"><u>In 2024, Paving the Way to Success with Innovative Medical Ads</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-smirk-stash-ultimate-guide-to-free-meme-templates/"><u>In 2024, Smirk Stash Ultimate Guide to FREE Meme Templates</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/luminarx-the-freepaid-lightroom-rival-list-for-2024/"><u>LuminarX The Free/Paid Lightroom Rival List for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/permanent-bond-incorquadible-tiktok-profile-url-addition-for-2024/"><u>Permanent Bond Incorquadible TikTok Profile URL Addition for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/quantum-hdrs-role-in-modern-photography-trends-for-2024/"><u>Quantum HDR's Role in Modern Photography Trends for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updated-nvidia-geforce-940mx-driver-version-for-optimal-performance-download/"><u>Updated Nvidia GeForce 940MX Driver Version for Optimal Performance Download</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/vonage-reviewed-still-a-front-runner-in-todays-voip-market/"><u>Vonage Reviewed - Still a Front Runner in Today's VoIP Market?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-step-by-step-guide-to-producing-quality-mobile-videos/"><u>[New] 2024 Approved Step-by-Step Guide to Producing Quality Mobile Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-online-and-local-photos-how-to-unite-them/"><u>[New] Online and Local Photos How to Unite Them</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revolutionary-editing-video-tools-triumph-on-m1-power/"><u>[New] Revolutionary Editing Video Tools Triumph on M1 Power</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-strategies-to-dodge-content-advisory-strikes/"><u>[Updated] 2024 Approved Strategies to Dodge Content Advisory Strikes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ideal-15-color-filters-for-improving-gopro-shots/"><u>[Updated] Ideal 15 Color Filters for Improving GoPro Shots</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-cut-the-cable-catch-the-game-10-best-streaming-apps-for-sport-and-football-watching/"><u>[Updated] In 2024, Cut the Cable, Catch the Game! 10 Best Streaming Apps for Sport and Football Watching</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-iphones-prime-camera-utilities/"><u>[Updated] IPhone's Prime Camera Utilities</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-ringtone-repository-prime-picks-for-downloadable-calls/"><u>[Updated] Ringtone Repository Prime Picks for Downloadable Calls</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimized-motion-the-creme-de-la-liste-of-srt-upgrades-for-pc-and-mac/"><u>2024 Approved Optimized Motion The Crème De La Liste of SRT Upgrades for PC and Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pixelmaster-360-multiplatform-resolution-booster/"><u>2024 Approved PixelMaster 360 – Multiplatform Resolution Booster</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-aerial-choices-for-high-quality-gopro-recordings/"><u>2024 Approved Premium Aerial Choices For High-Quality GoPro Recordings</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-steps-to-download-your-epson-v50er-perfection-driver-and-start-printing-now/"><u>Easy Steps to Download Your Epson V50er Perfection Driver and Start Printing Now!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016568728-expert-solutions-for-a-broken-logitech-g230-headset-mic-no-more-silence/"><u>Expert Solutions for a Broken Logitech G230 Headset Mic – No More Silence</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-on-schedule-smartly-discover-how-google-maps-helps-timing-your-journey-perfectly/"><u>Get On Schedule Smartly - Discover How Google Maps Helps Timing Your Journey Perfectly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-saving-strategy-watching-taping-and-tweaking-sports/"><u>In 2024, Saving Strategy Watching, Taping, and Tweaking Sports</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/simplifycast-the-ultimate-guide-to-starting-your-podcast-livestream-for-2024/"><u>SimplifyCast The Ultimate Guide to Starting Your Podcast Livestream for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/snapchat-spotlight-how-and-why-it-matters-for-2024/"><u>Snapchat Spotlight How & Why It Matters for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Realme 11 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

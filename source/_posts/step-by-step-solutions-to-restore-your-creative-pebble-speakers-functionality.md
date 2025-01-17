@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Restore Your Creative Pebble Speaker's Functionality
-date: 2025-01-07T20:13:22.539Z
-updated: 2025-01-11T22:11:05.893Z
+date: 2025-01-10T16:18:30.859Z
+updated: 2025-01-17T16:18:40.918Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
  Many **Turtle Beach** users are reporting that their **headset** microphone is not working properly — it’s not recording any sound! If you’re experiencing this problem, don’t worry. You should be able to fix the problem quite easily using one of the solutions we’ve listed below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -29,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Check your microphone device settings
 
  Your Turtle Beach mic may be disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:
@@ -41,13 +41,13 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Select **Sound** .
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)** Right click**Headset Microphone** and click**Properties** .
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **9)** Click**OK** , then click**OK** .
@@ -86,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -104,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 **2)**  Run**Driver Easy** and click the **Scan Now** button.**Driver Easy** will scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
@@ -143,22 +143,15 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-commanding-the-crowd-on-igtv-5-tips-to-gain-traction-for-2024/"><u>[New] Commanding the Crowd on IGTV 5 Tips to Gain Traction for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-innovative-text-treatments-elevating-ae-titles/"><u>[Updated] 2024 Approved Innovative Text Treatments Elevating AE Titles</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-slow-motions-camera-edition/"><u>[Updated] Leading Slow-Motions Camera Edition</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-selecting-the-best-video-monitors-for-ps5/"><u>[Updated] Selecting the Best Video Monitors for PS5</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-stepwise-strategies-for-high-quality-time-lapse-videos-in-gopro-studio-for-2024/"><u>[Updated] Stepwise Strategies for High Quality Time Lapse Videos in GoPro Studio for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-12-free-video-trimming-apps-for-android-users/"><u>2024 Approved Leading 12 Free Video Trimming Apps for Android Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-pixels-a-guide-to-using-photoshops-eraser/"><u>2024 Approved Perfect Pixels A Guide to Using Photoshop's Eraser</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-samsungs-new-edge-the-2023-bd-j5900-reviewed/"><u>2024 Approved Samsung's New Edge The 2023 BD-J5900 Reviewed</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-tp-link-wifi-re505x-range-booster-capabilities/"><u>Expert Analysis of TP-Link WiFi RE505X Range Booster Capabilities</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mirthful-mobile-memories-iphone/"><u>In 2024, Mirthful Mobile Memories (iPhone)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecti-top-photo-and-video-display-programming/"><u>In 2024, Perfecti Top Photo & Video Display Programming</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/interopservice-exception-rectified-in-windows/"><u>InteropService Exception Rectified in Windows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/max-360-and-hero-11-gopro-comparison-which-reigns-supreme-for-2024/"><u>Max 360 and Hero 11 GoPro Comparison - Which Reigns Supreme for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/motorola-edge-40-neo-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge 40 Neo Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pinnacle-workshop-25-critique-for-2024/"><u>Pinnacle Workshop 25 Critique for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/simplifying-laptop-edits-with-inshot-software-for-2024/"><u>Simplifying Laptop Edits with Inshot Software for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/tecno-spark-go-2024-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Tecno Spark Go (2024) ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-seamless-path-integrating-your-social-photos-into-device-storage/"><u>[New] 2024 Approved The Seamless Path Integrating Your Social Photos Into Device Storage</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-step-by-step-guide-how-to-add-video-filters-in-zoom/"><u>[New] In 2024, Step-by-Step Guide How to Add Video Filters in Zoom</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-jaunt-vr-unleashed-an-in-depth-look/"><u>[New] Jaunt VR Unleashed An In-Depth Look</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-cloud-capacity-options-reviewed/"><u>[New] Leading Cloud Capacity Options Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-best-8-screenshot-and-video-editing-tools-for-phones/"><u>[New] The Best 8 Screenshot & Video Editing Tools for Phones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-class-skew-your-pictures/"><u>2024 Approved Master Class Skew Your Pictures</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/decoding-the-magic-of-4k-in-benq-sw320-monitor/"><u>Decoding the Magic of 4K in BenQ SW320 Monitor</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-maximize-your-podcasts-potential-with-top-audio-equipment/"><u>In 2024, Maximize Your Podcast's Potential with Top Audio Equipment</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-u310-seamless-operating-system-integration/"><u>Lenovo U310: Seamless Operating System Integration</u></a></li>
 </ul></div>
 

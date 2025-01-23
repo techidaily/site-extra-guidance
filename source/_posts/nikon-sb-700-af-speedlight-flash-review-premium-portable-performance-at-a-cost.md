@@ -1,7 +1,7 @@
 ---
 title: "Nikon SB-700 AF Speedlight Flash Review: Premium Portable Performance, at a Cost"
-date: 2025-01-15T16:11:43.763Z
-updated: 2025-01-17T16:22:16.934Z
+date: 2025-01-22T17:47:48.335Z
+updated: 2025-01-23T16:27:36.386Z
 categories:
   - BestProducts
 description: "This Article Describes Nikon SB-700 AF Speedlight Flash Review: Premium Portable Performance, at a Cost"
@@ -75,14 +75,10 @@ Lifewire / Jonno Hill
 ![LG Gram 17](https://www.lifewire.com/thmb/bPwgN393oESXdTRdBMHH9_o-50k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-4-65036fddfdad4e9c904b1e4388426085.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Design** :**A thoughtful approach to larger laptops**
 
@@ -97,6 +93,10 @@ Lifewire / Jonno Hill
  Finally, the fingerprint sensor, located directly on the power button on the top right corner of the keyboard, performed fairly well in our tests. This placement, although precarious in theory, didn’t cause any mishaps during our testing. This placement is actually somewhat advantageous—if you turn on the laptop using a finger registered to the fingerprint sensor, it wakes straight into Windows seamlessly without even hitting the login prompt.
 
 ![LG Gram 17](https://www.lifewire.com/thmb/NZFtzU5S2IX_YcC_7X7i2oB0j1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-2-d528eacd17e849099026bd1df6142200.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
 
@@ -122,10 +122,6 @@ Lifewire / Jonno Hill
 
  The IPS display also performs admirably by most other metrics that buyers will care about, such as a maximum brightness high enough to be usable outdoors. Additionally, the display looks great from off-angles, losing very little brightness when viewed from the sides, and showing no signs of color shift.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Performance** :**Ready to work (but not to game)**
 
  The LG Gram 17 performed well in our tests, managing a 3,851 score in PCMark 10\. As mentioned previously, this laptop is best suited for productivity-related tasks. The absence of a dedicated graphics card means that it won’t be able to keep up in anything beyond casual games and very light video editing workloads, but so long as you avoid these types of tasks you shouldn’t really notice any shortcomings. The 16GB of RAM and 8th gen Intel i7 made using the Gram 17 a fast, responsive experience in everyday and work-related tasks.
@@ -135,7 +131,7 @@ Lifewire / Jonno Hill
 ![LG Gram 17](https://www.lifewire.com/thmb/4DSmBdI2ZVvCXO9PXT1iEnSCRxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-6-5381cd4656aa4307ba017acf8ce77c4b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
@@ -150,12 +146,16 @@ Lifewire / Jonno Hill
 
  Keep in mind though that while watching most standard 16:9 content, you aren’t taking advantage of all 17 inches of the display, and will see black bars on the top and bottom.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Network** :**Everything you’d expect**
 
  Wi-Fi on the LG Gram 17 gave us no trouble, offering a strong signal and speeds in any of the public and private environments we tested in. LG uses the Intel Wireless AC 9560 Wi-Fi adapter, the fastest of such chips currently on offer from Intel. This Wi-Fi adapter has a theoretical max speed of 1.73Gbps and offers a 2x2 antenna configuration, though you’re unlikely to ever hit such a high download speed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Camera** :**Bare minimum**
@@ -165,10 +165,14 @@ Lifewire / Jonno Hill
 ![LG Gram 17](https://www.lifewire.com/thmb/Q5UD3HDcQsoXbP-_uvKqYsR9J6w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-3-de338d995c0544ee8052e30def24ad5f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jonno Hill
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Battery** :**Beyond plentiful**
 
@@ -177,7 +181,7 @@ Lifewire / Jonno Hill
  When running Battery Eater Pro to push the laptop to its limits, it kicked the bucket in just over 2 hours and 30 minutes. This may seem like a very short time, but it’s still considerably better than any of the[other 17-inch laptops](https://www.lifewire.com/best-17-inch-laptops-832683) we tested using this brutal benchmark.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Software: Standard Windows with some unique features**
@@ -191,10 +195,6 @@ Lifewire / Jonno Hill
  The LG Control Center gives users quick access to common system functions like power management, Windows security, and system settings. You can control the volume, disable the touchpad temporarily, manage screen and keyboard backlight brightness, and more. This might not be altogether_necessary_ , but users can simply not use it if they wish.
 
  Finally, the LG Gram 17 comes with Reader Mode as a pre-installed app that runs in the background on startup and is accessible from the taskbar. Switching it on changes the color temperature of the display to filter out blue light (by default) and make night-time and low-light usage more pleasant. You can also take control of the adjustments that Reader Mode makes, controlling the brightness, contrast, and gamma adjustments for red, green, and blue independently. This seems excessive, but we can’t fault LG too much for giving users more control.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Price: Lighter laptop, bigger price tag**
 
@@ -248,21 +248,24 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/est-10-volume-magnifiers-for-windowsmacos/"><u>[New] Best 10 Volume Magnifiers for Windows/MacOS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-revolutionize-visual-content-leading-montage-tools-for-phones/"><u>[Updated] In 2024, Revolutionize Visual Content Leading Montage Tools for Phones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leading-edge-the-ultimate-selection-of-10-top-background-switchers/"><u>[Updated] Leading Edge The Ultimate Selection of 10 Top Background Switchers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-overcoming-virtual-reality-nausea/"><u>[Updated] Overcoming Virtual Reality Nausea</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-notable-20-anime-series-theme-tracks/"><u>2024 Approved Notable 20 Anime Series Theme Tracks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimizing-playback-rate-of-presentation-videos/"><u>2024 Approved Optimizing Playback Rate of Presentation Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-up-to-photo-perfection-with-leading-skin-editors/"><u>2024 Approved Step Up to Photo Perfection with Leading Skin Editors</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oneplus-12r-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from OnePlus 12R Phones with/without a PC</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-in-video-earnings-techno-gamers-guide/"><u>In 2024, In-Video Earnings Techno Gamers' Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-secrets-to-collecting-costless-clipart/"><u>In 2024, Secrets to Collecting Costless Clipart</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-13-pro-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone 13 Pro Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-what-phone-is-compatible-with-gear-vr-2023-update/"><u>In 2024, What Phone Is Compatible with Gear VR? -2023 Update</u></a></li>
-<li><a href="https://extra-support.techidaily.com/precision-mixing-techniques-with-logics-audio-fading-for-2024/"><u>Precision Mixing Techniques with Logic's Audio Fading for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/uitleggen-van-wav-files-een-geinspireerde-bespreking-van-het-wav-onderdeel-in-nederlandstalig/"><u>Uitleggen Van WAV Files: Een Geïnspireerde Bespreking Van Het .wav Onderdeel in Nederlandstalig</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-file-flow-fixtures-easy-moves-for-your-machine/"><u>[New] In 2024, File Flow Fixtures Easy Moves for Your Machine</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-next-gen-camera-showcase-2024-edition/"><u>[New] Next-Gen Camera Showcase - 2024 Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlocking-potential-innovative-strategies-for-better-insta-content/"><u>[New] Unlocking Potential Innovative Strategies for Better Insta Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-expert-advice-strategically-using-hashtags-to-grow-your-instagram-following/"><u>[Updated] 2024 Approved Expert Advice Strategically Using Hashtags to Grow Your Instagram Following</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-compiling-top-notch-video-grabbers-for-win11-devices/"><u>[Updated] Compiling Top-Notch Video Grabbers for Win11 Devices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-prime-xsplit-replacements-a-guide-to-streaming/"><u>[Updated] Prime Xsplit Replacements A Guide to Streaming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-seamless-sharing-strategies-insta-tik-tok-integration/"><u>[Updated] Seamless Sharing Strategies Insta-Tik Tok Integration</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sci-fis-new-dimensions-top-10-films-taking-viewers-beyond-our-reality/"><u>2024 Approved Sci-Fi's New Dimensions Top 10 Films Taking Viewers Beyond Our Reality</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-state-of-the-art-devices-for-online-live-shows/"><u>2024 Approved State-of-the-Art Devices for Online Live Shows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/download-and-convert-vob-tracks-to-lossless-flac-format-quick-easy-and-free/"><u>Download & Convert VOB Tracks to Lossless FLAC Format - Quick, Easy and Free!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-simplify-collaboration-with-mematics-cloud-notes/"><u>In 2024, Simplify Collaboration with Mematic’s Cloud Notes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigate-metaverse-success-7-crucial-tech-gadgets-for-2024/"><u>Navigate Metaverse Success 7 Crucial Tech Gadgets for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/non-google-options-for-augmented-reality-embellishing-for-2024/"><u>Non-Google Options for Augmented Reality Embellishing for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionize-chromebooks-tone-with-our-essential-list-of-extensions-for-2024/"><u>Revolutionize Chromebook's Tone with Our Essential List of Extensions for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionizing-advertising-top-20-influential-expressions-for-2024/"><u>Revolutionizing Advertising Top 20 Influential Expressions for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/samsungs-advanced-2023-bd-j5900-reviewed-here-for-2024/"><u>Samsung's Advanced 2023 BD-J5900 Reviewed Here for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-surprising-strength-of-the-beatit-bt-d11-portable-charger-unveiled-in-our-thorough-assessment/"><u>The Surprising Strength of the Beatit BT-D11 Portable Charger Unveiled in Our Thorough Assessment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-electric-lawn-mowers-reviews-and-buyers-guide/"><u>Top 5 Electric Lawn Mowers : Reviews & Buyer's Guide</u></a></li>
 </ul></div>
 

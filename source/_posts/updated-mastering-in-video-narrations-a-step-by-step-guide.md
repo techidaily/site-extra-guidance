@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering In-Video Narrations  A Step-by-Step Guide\""
-date: 2025-01-15T16:24:04.254Z
-updated: 2025-01-17T16:10:14.196Z
+date: 2025-01-16T22:09:18.205Z
+updated: 2025-01-23T17:31:50.501Z
 tags: 
   - screen-recording
   - ai video
@@ -24,10 +24,6 @@ And when you learn how to use this technique the right way, your YouTube videos 
 
 I'll be demonstrating how to add voiceovers and narrations in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to help you step up your video creation game.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Voiceover or Narration?
 
 But first, what's the difference between a voiceover and a narration? Truth be told, there is quite a bit of overlap between the two.
@@ -49,7 +45,7 @@ But here's the good news: the way you add either option is the same in Filmora.
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to add narration
@@ -58,6 +54,10 @@ So the easiest way to add narration is directly to a project. The benefit of thi
 
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
 
 You put the playhead where you want to start recording and hit the microphone icon under the preview window.
@@ -65,7 +65,7 @@ You put the playhead where you want to start recording and hit the microphone ic
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 A 3-second countdown will pop up and start recording immediately after this countdown.
@@ -75,7 +75,7 @@ You can record your narration and click stop.
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Some Tips for Recording Narration
@@ -96,10 +96,6 @@ Practice adding it to your videos to see how it adds depth and dimension to your
 
 It can also help make a connection with your audience because you can be relating to the images on the screen as they watch them. This is effective in building your YouTube audience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Always use a good mic
 
 When adding voiceover or narration to your project, be sure to use a good USB microphone. A good quality sound will elevate your entire project and just requires a little planning.
@@ -107,6 +103,10 @@ When adding voiceover or narration to your project, be sure to use a good USB mi
 ![use good microphone](https://images.wondershare.com/filmora/article-images/2022/11/use-good-microphone.jpg)
 
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should you use narration in your next project?
 
@@ -146,18 +146,14 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-mobile-audio-enhancers-for-swift-soundplay/"><u>[New] Mobile Audio Enhancers for Swift Soundplay</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-sourav-joshis-roadmap-to-financial-freedom-via-youtube/"><u>[New] Sourav Joshi's Roadmap to Financial Freedom via YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-lgs-visionary-pursuit-deep-insights-into-the-31mu97-b-monitor-review/"><u>2024 Approved LG's Visionary Pursuit Deep Insights Into the 31MU97-B Monitor Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-sci-fis-new-horizons-a-list-of-cinematic-journeys-in-the-metaverse/"><u>2024 Approved Sci-Fi's New Horizons A List of Cinematic Journeys in the Metaverse</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-webcam-video-pros-fast-effective-filming-steps/"><u>2024 Approved Webcam Video Pros Fast, Effective Filming Steps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-10-best-free-photo-collage-apps-for-iphone/"><u>In 2024, 10 Best FREE Photo Collage Apps for iPhone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-audio-syncing-simplified-2023s-innovative-methods-for-perfectly-timed-video-content/"><u>In 2024, Audio Syncing Simplified 2023S Innovative Methods for Perfectly Timed Video Content</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-securing-youtube-srt-files-a-threefold-procedure/"><u>In 2024, Securing YouTube SRT Files A Threefold Procedure</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-snickerscribble-program/"><u>In 2024, SnickerScribble Program</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-spark-to-the-future-djis-next-gen-challenge-from-mavic-air/"><u>In 2024, Spark to the Future DJI's Next-Gen Challenge From Mavic Air</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/photoshop-tutorial-creating-3d-text-illusions-for-2024/"><u>Photoshop Tutorial Creating 3D Text Illusions for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/understanding-potential-dangers-safeguarding-your-system-while-tweaking-the-windows-registry-insights-by-yl-computing/"><u>Understanding Potential Dangers: Safeguarding Your System While Tweaking the Windows Registry - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/vr-tech-trends-right-now/"><u>VR Tech Trends Right Now</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-steady-shot-enhancer-for-traveling-filmmakers/"><u>[New] Steady Shot Enhancer for Traveling Filmmakers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-a-memorable-channel-presence-with-imagery-for-2024/"><u>[Updated] Crafting a Memorable Channel Presence with Imagery for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-initial-cinematographers-work-scrutiny-and-replacement-ideas-for-2024/"><u>[Updated] Initial Cinematographer's Work Scrutiny & Replacement Ideas for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-nightly-narratives-analyzing-video-based-storytelling/"><u>[Updated] Nightly Narratives Analyzing Video-Based Storytelling</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-save-big-top-6-inexpensive-action-cams-under-100-deals/"><u>2024 Approved Save Big Top 6 Inexpensive Action Cams Under $100 Deals</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-steam-application-icon-absence/"><u>Avoiding Steam Application Icon Absence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-reinitialize-bios-settings-using-the-cmos-reset-method/"><u>How To Reinitialize BIOS Settings Using the CMOS Reset Method</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-id-password-2020-guide/"><u>How to Reset Apple ID Password [2020 Guide]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-beyond-wirecast-for-broadcast-solutions/"><u>In 2024, Navigating Beyond WireCast for Broadcast Solutions</u></a></li>
 </ul></div>
 

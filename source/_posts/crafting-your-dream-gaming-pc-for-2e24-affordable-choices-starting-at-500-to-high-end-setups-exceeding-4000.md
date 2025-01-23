@@ -1,7 +1,7 @@
 ---
 title: "Crafting Your Dream Gaming PC for 2E24: Affordable Choices Starting at $500 to High-End Setups Exceeding $4,000"
-date: 2025-01-15T16:08:00.996Z
-updated: 2025-01-17T16:13:58.180Z
+date: 2025-01-18T16:43:27.718Z
+updated: 2025-01-23T18:59:02.163Z
 tags:
   - desktop
 categories:
@@ -27,13 +27,13 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  Also note that we don't include the cost of an operating system, because you can get[Windows for Free or Cheap](https://www.tomshardware.com/reviews/get-windows-10-free-or-cheap,5717.html) . Nor do we include the price of peripherals such as the[best gaming monitors](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.html) ,[best gaming keyboards](https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards) or[best gaming mouse](https://www.tomshardware.com/best-picks/best-gaming-mouse) . And if you've never made a computer before, see our article on[how to build a PC](https://www.tomshardware.com/how-to/build-a-pc) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best $500 PC Build for Gaming
 
 ![Cooler Master MasterBox Q300L](https://cdn.mos.cms.futurecdn.net/Zoebn2FkWQprjxmm7jKxZS-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Newegg)
 
@@ -76,7 +76,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Gamdias Aura GC1](https://cdn.mos.cms.futurecdn.net/fixBMW57Uvy4YDmfRJpWAd-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Amazon)
@@ -101,6 +101,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![14400 CPU vs competition](https://cdn.mos.cms.futurecdn.net/FVyBrR3Fkm8RXeguWat4ik-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  To go with this Intel processor, we're using an ASRock B760M-HDV motherboard because it supports 14th Gen CPUs without a BIOS update. It's a DDR4 board so we can save money by using DDR4 memory. It also features two M.2 slots for SSDs, with one of them supporting PCIe 4.0 drives.
@@ -122,6 +126,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
  We're going with 32GB of TeamGroup T-Force Zeus DDR4 RAM and we're stepping up to a 700W version of the[Thermaltake](https://www.tomshardware.com/tag/thermaltake) Smart power supply so we can support our higher wattage CPU and GPU.
 
  Our case is the Gamdias Aura GC1, a full-size ATX case that comes with four ARGB fans. The GC1 has a mesh front for optimal airflow and plenty of room for expansion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best $1,000 PC Build for Gaming
 
@@ -169,16 +177,12 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  Finally, we've stepped up to a 750-watt power supply and we're going with Corsair CX750M, which is 80+ Bronze certified and semi-modular. You can get a modular PSU or one that's 80+ Gold certified for a bit more, but that's money you don't need to spend at this price point.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best $1,500 PC Build for Gaming
 
 ![Lian Li Lancool 216](https://cdn.mos.cms.futurecdn.net/Km4g6hf6hy2XkxhB88oxBR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -216,6 +220,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
  We're going with one of the best PCIe 4.0 SSDs you can buy, WD's Black SN850X at 2TB. In our tests, it was neck and neck with the other top drives, including the SK hynix Platinum P41 and the Samsung 990 Pro.
 
 ![WD SN850X](https://cdn.mos.cms.futurecdn.net/Zgbo67f5diWaNQg29SQ3nQ-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -258,7 +266,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![Ryzen 7 7800X3D 1080p gaming tests](https://cdn.mos.cms.futurecdn.net/c5TiEiPPHBkLtGTfkp3Tyh-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -268,10 +276,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Our motherboard is Gigabyte B650M Aorus Elite AX which is one of the more affordable AM5 motherboards you can buy but it still packs in Wi-Fi 6E radio. AMD Zen 7000 chips require DDR5 RAM so we're going with 32GB of G.Skill Trident Z5\. The Trident Z5 kit tops our list of[best RAM](https://www.tomshardware.com/reviews/best-ram,4057.html) , thanks to its tight-timings, fast performance and overclocking potential. In our tests, the Z5 also had the lowest memory latency of its competitors.
 
 ![Memory Latency](https://cdn.mos.cms.futurecdn.net/ew9VS2PUuTupX8YSvcyb5X-320-80.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Future)
 
@@ -284,6 +288,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ## Best $4000+ PC Build for Gaming
 
 ![Fractal Design North XL](https://cdn.mos.cms.futurecdn.net/gohZoiw9QykbPm5kgrhfbi-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -317,10 +325,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Ryzen 7 7950X3D Charts](https://cdn.mos.cms.futurecdn.net/DiWoGh9Fc2ovFWFiYuJeuG-320-80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  We're using an Asus ROG Strix X670E-E motherboard, which comes with built-in Wi-Fi 6E, four M.2 slots for storage and 18+2 power stages. To cool the Ryzen 9 7950X3D, we're using a 360mm Lian-Li Galahad II Trinity 360mm AIO. When we[reviewed the Galahad II](https://www.tomshardware.com/reviews/lian-li-galahad-ii-performance-360) , we found that it had the absolute best performance of any all-in-one cooler we've ever tested.
@@ -331,10 +335,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Samsung 990 Pro 4TB Benchmarks](https://cdn.mos.cms.futurecdn.net/GArKvY8BSc22ZhDRwWyr2C-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Image credit: Tom's Hardware)
 
  We decided to go with a case that has a unique, premium look in the[Fractal Design North XL.](https://www.tomshardware.com/pc-components/pc-cases/fractal-design-north-xl-review) With its wood paneled front, this chassis looks more like a mid-century modern piece of furniture than a gaming PC, which is a nice subtle touch. However, it also has a tempered glass side panel which you can use to show off all of your RGB components (or you can buy it with a solid panel and no window). It also has fantastic thermal performance and plenty of room for more drives and fans. The XL model can accommodate up to an E-ATX motherboard, giving you plenty of room for future upgrades.
@@ -342,7 +342,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
  With these high-end components, we don't want to skimp on the power supply, and having something that's fit for a future graphics card upgrade makes sense. We're going with a full 1000-watts of power and the Corsair HX1000\. This power supply is 80+ Platinum certified and fully modular.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Finding Discounts on the Best PC Components
@@ -364,22 +364,18 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagrams-top-25-leaders-in-digital-influence/"><u>[New] In 2024, Instagram's Top 25 Leaders in Digital Influence</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-inside-the-panasonic-hx-a1-a-buyers-guide-review/"><u>[New] Inside the Panasonic HX-A1 A Buyer's Guide Review</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-joining-the-digital-dialogue-facebook-basics/"><u>[New] Joining the Digital Dialogue (Facebook Basics)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-saving-the-essence-a-guide-for-virtual-meeting-records-for-2024/"><u>[New] Saving the Essence A Guide for Virtual Meeting Records for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-chime-chronicles-compilation-of-top-ringtone-sources/"><u>[Updated] Chime Chronicles Compilation of Top Ringtone Sources</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-speedster-software-best-rapid-releases-for-tablets-and-computers/"><u>[Updated] Speedster Software - Best Rapid Releases for Tablets & Computers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-smile-smarter-crafting-text-memes-like-a-pro/"><u>2024 Approved Smile Smarter Crafting Text Memes Like a Pro</u></a></li>
-<li><a href="https://blog-min.techidaily.com/discover-the-best-techniques-to-access-powershell-in-windows-10-easily/"><u>Discover the Best Techniques to Access PowerShell in Windows 10 Easily</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-versatility-in-your-hands-a-comprehensive-review-of-lenovo-ideapad-320-beauty-meets-functionality-and-famous-keypad/"><u>Experience Versatility in Your Hands: A Comprehensive Review of Lenovo IdeaPad 320 - Beauty Meets Functionality & Famous Keypad</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-motion-analysis-report-2023/"><u>In 2024, Motion Analysis Report 2023</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-level-phone-and-camera-gimbal-tracking-systems/"><u>In 2024, Pro-Level Phone & Camera Gimbal Tracking Systems</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-the-art-of-directing-powerdirectors-complete-guide-for-2024/"><u>Master the Art of Directing PowerDirector's Complete Guide for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-virality-in-instagram-clips-for-2024/"><u>Mastering Virality in Instagram Clips for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/precision-and-speed-the-ultimate-guide-to-mac-srt-editing-for-2024/"><u>Precision and Speed The Ultimate Guide to Mac Srt Editing for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/simplifying-the-world-of-ifunnys-meme-application-for-2024/"><u>Simplifying the World of iFunny's Meme Application for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-dblinkw32dll-file-not-found-issue-a-comprehensive-guide/"><u>Solving the dBlinkw32.dll File Not Found Issue - A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-amazon-fire-hd-8-on-trial-does-it-deliver-quality-for-the-money-in-depth-review-finds-out/"><u>The Amazon Fire HD 8 on Trial: Does It Deliver Quality for the Money? In-Depth Review Finds Out!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-instant-srt-to-txt-efficient-conversion-methods-revealed/"><u>[New] 2024 Approved Instant SRT to TXT Efficient Conversion Methods Revealed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-flip-content-sequence-android-video-workaround/"><u>[New] In 2024, Flip Content Sequence Android Video Workaround</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-steering-soft-sound-cessation-with-audacity/"><u>[New] Steering Soft Sound Cessation with Audacity</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-essential-checklist-for-full-facebook-messaging-archives/"><u>[New] The Essential Checklist for Full Facebook Messaging Archives</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-loop-like-a-boss-quick-and-easy-techniques-for-youtube-watchers/"><u>[Updated] 2024 Approved Loop Like a Boss Quick and Easy Techniques for YouTube Watchers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-proven-methods-to-improve-macro-video-quality-and-aesthetics/"><u>2024 Approved Proven Methods to Improve Macro Video Quality and Aesthetics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-radiant-realms-creating-exceptional-hdr-with-photoshop/"><u>2024 Approved Radiant Realms Creating Exceptional HDR with Photoshop</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/discovering-the-best-youtube-mp3-transformers/"><u>Discovering the Best YouTube MP3 Transformers</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/guide-for-replacing-hdd-by-installing-samsung-evo-prise/"><u>Guide for Replacing HDD by Installing Samsung EVO Prise.</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-newcomers-cheat-sheet-unlock-ps-editing-secrets/"><u>In 2024, Newcomer's Cheat Sheet Unlock PS Editing Secrets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-simplifying-complexity-easy-gopro-4k-video-edits/"><u>In 2024, Simplifying Complexity Easy GoPro 4K Video Edits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-nba-game-streaming-a-comprehensive-guide-for-2024/"><u>Mastering NBA Game Streaming A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-tecno-pova-5-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Tecno Pova 5 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

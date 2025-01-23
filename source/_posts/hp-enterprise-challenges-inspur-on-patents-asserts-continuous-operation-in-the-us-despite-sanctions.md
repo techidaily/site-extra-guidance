@@ -1,7 +1,7 @@
 ---
 title: HP Enterprise Challenges Inspur on Patents, Asserts Continuous Operation in the US Despite Sanctions
-date: 2025-01-16T16:16:31.126Z
-updated: 2025-01-17T16:02:04.919Z
+date: 2025-01-19T20:07:24.038Z
+updated: 2025-01-23T17:33:39.916Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,19 +78,16 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-xiaomi-11-series-capture-life-in-high-definition/"><u>[New] 2024 Approved Xiaomi 11 Series Capture Life in High Definition</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-best-movie-trailers-for-2024/"><u>[New] Best Movie Trailers for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-quicksnap-firefox-enhancements/"><u>[New] In 2024, QuickSnap Firefox Enhancements</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-joyous-film-grabber-assessment/"><u>[New] Joyous Film Grabber Assessment</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/oney-multiplier-how-to-maximize-youtube-profits-with-mobile-viewers-for-2024/"><u>[New] Money Multiplier How to Maximize YouTube Profits with Mobile Viewers for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-peak-commercial-sky-storage-providers/"><u>[New] Peak Commercial Sky-Storage Providers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-av-artisans-an-exclusive-list-for-you/"><u>[New] Pinnacle AV Artisans An Exclusive List for You</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-paving-digital-pathways-for-ig-and-tiktok/"><u>[Updated] Paving Digital Pathways for IG & TikTok</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-teachers-channel-blueprint-10-essential-tips-for-youtube-educators-for-2024/"><u>[Updated] Teachers’ Channel Blueprint 10 Essential Tips for YouTube Educators for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-extracting-massive-quantities-of-tiktok-content/"><u>2024 Approved Mastering the Art of Extracting Massive Quantities of TikTok Content</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-the-virtual-landscape-with-metaverse-marketing/"><u>2024 Approved Pioneering the Virtual Landscape with Metaverse Marketing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1726222958763-2024-11/"><u>2024 주요 게임 녹화 소프트웨어 고안: 위대한 11개를 선보여드다</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/access-premium-quality-tamil-films-at-no-cost-hd-downloads-available-on-all-platforms-including-mobile-and-television/"><u>Access Premium Quality Tamil Films at No Cost – HD Downloads Available on All Platforms Including Mobile and Television</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/securing-successful-video-ventures-through-team-choices-for-2024/"><u>Securing Successful Video Ventures Through Team Choices for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-filming-perfecting-the-chroma-key-effect-for-2024/"><u>[New] Instagram Filming Perfecting the Chroma Key Effect for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unleash-views-the-most-effective-30-freefire-tags-for-gamers/"><u>[New] Unleash Views The Most Effective 30 FreeFire Tags for Gamers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlock-the-secret-to-pop-in-audio-on-social-video-shares-for-2024/"><u>[New] Unlock the Secret to Pop-In Audio on Social Video Shares for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-magix-music-maker-2024-a-step-forward-in-audio-production/"><u>[Updated] Magix Music Maker 2024 A Step Forward in Audio Production</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-drones-on-offer/"><u>[Updated] Premium Drones on Offer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-complete-guide-to-masterful-lunapic-photography/"><u>2024 Approved The Complete Guide to Masterful LunaPic Photography</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-apple-iphone-15-pro-smoothly-by-drfone-ios/"><u>How To Remove iCloud On Apple iPhone 15 Pro Smoothly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-laptop-beautification-leading-website-walls/"><u>In 2024, Laptop Beautification Leading Website Walls</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-12-mini-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 12 mini in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-close-up-techniques-with-videoleap-for-2024/"><u>Mastering Close-Up Techniques with Videoleap for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-transferring-high-definition-camcorder-footage-from-mtsm2ts-to-your-ipad/"><u>Step-by-Step Guide: Transferring High-Definition Camcorder Footage From MTS/M2TS to Your iPad</u></a></li>
 </ul></div>
 

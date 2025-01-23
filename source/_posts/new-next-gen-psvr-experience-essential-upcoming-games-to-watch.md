@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Next Gen PSVR Experience  Essential Upcoming Games to Watch\""
-date: 2024-07-31T17:53:52.998Z
-updated: 2024-08-01T17:53:52.998Z
+date: 2025-01-20T21:19:38.716Z
+updated: 2025-01-23T21:43:45.923Z
 tags: 
   - screen-recording
   - ai video
@@ -20,18 +20,12 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
 # Top 5 Playstation VR Games to Look Forward To
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. [Batman Arkham VR]( https://www.playstation.com/en-us/games/batman-arkham-vr-ps4/ )
 
  In this game the player immerses into the Universe of the Dark Knights. They will be experiencing the Gotham City through the eyes of one of the greatest detectives. The players would have to think like Batman does and uses his gadgets that are almost legendary to our eyes. They have to unravel whatever the plot in store for them.
@@ -62,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
  The whole game is not yet clear but the sure thing is the player needs to survive this horror house alive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. [Star Trek: Bridge Crew]( https://www.ubisoft.com/en-US/game/star-trek-bridge-crew )
 
  In this game the player will be aboard the Aegis Starship and will be having an adventure in the universe of Star Trek.
@@ -70,87 +68,6 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 
  This game will put you on the Aegis’ bridge. It is a federation ship that is exploring the galaxy. This can be played by friends and you will set for such adventures. There are also encounters where you can use your weapons in order to defend your ship.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## 5\. [Star Wars: Battlefront X-Wing VR]( http://blog.us.playstation.com/2016/08/16/under-the-hood-star-wars-battlefront-rogue-one-x-wing-vr-mission/ )
-
- This will serve as the reboot of the battlefront series. It is a multiplayer game where they will combat. It supports some split-screen modes that are highly cooperative.
-
- The players will be sent in the battlefield similar to the Star Wars. Then there he will fight online opponents. He will have a sword he can use to fight. For others gadgets use on it, it would still be announced. There are various collectibles and unlockable items as well in the game.
-
-| Title:       | [Star Wars: Battlefront X-Wing VR]( https://www.playstation.com/en-us/games/batman-arkham-vr-ps4/ ) | [Farpoint ]( https://www.playstation.com/en-us/games/farpoint-ps4/ ) | [ resident evil iv biohazard ]( http://blog.us.playstation.com/2016/06/13/resident-evil-7-biohazard-on-ps4-ps-vr-january-24/ ) | [ Star Trek: Bridge Crew ]( https://www.ubisoft.com/en-US/game/star-trek-bridge-crew ) | [Star Wars: Battlefront X-Wing VR ]( http://blog.us.playstation.com/2016/08/16/under-the-hood-star-wars-battlefront-rogue-one-x-wing-vr-mission/ ) |
-| ------------ | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Genre        | Adventure / Puzzle                                                                    | Adventure                                                            | Psychological horror/ Survival Horror                                                                                          | Action                                                                                 | Simulation                                                                                                                                         |
-| Developer    | Rocksteady Studios                                                                    | Impulse Gear                                                         | Capcom Co., Ltd.                                                                                                               | Red Storm Entertainment                                                                | DICE, Criterion Games                                                                                                                              |
-| Publisher    | Warner Bros. Interactive                                                              | Sony                                                                 | Capcom Co., Ltd.                                                                                                               | Ubisoft                                                                                | Electronic Arts                                                                                                                                    |
-| Release Date | October 16, 2016                                                                      | TBA                                                                  | January 24, 2017                                                                                                               | Fall 2016                                                                              | 2016                                                                                                                                               |
-| Language     | English                                                                               | English                                                              | English                                                                                                                        | English                                                                                | English                                                                                                                                            |
-| Release Date | December 23, 2015                                                                     | August 10, 2016                                                      | April 25, 2016                                                                                                                 | March 31, 2016                                                                         | January 11, 2016                                                                                                                                   |
-| Platform     | Playstation 4                                                                         | Playstation 4                                                        | Playstation 4, Xbox One, PC                                                                                                    | Playstation VR, HTC Vive, Oculus Rift                                                  | Playstation 4, Xbox One, PC                                                                                                                        |
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Mar 27, 2024• Proven solutions
-
-## 1\. [Batman Arkham VR]( https://www.playstation.com/en-us/games/batman-arkham-vr-ps4/ )
-
- In this game the player immerses into the Universe of the Dark Knights. They will be experiencing the Gotham City through the eyes of one of the greatest detectives. The players would have to think like Batman does and uses his gadgets that are almost legendary to our eyes. They have to unravel whatever the plot in store for them.
-
- The players can grab for gadgets that are for detective scanning. By pointing it to an object they can look for additional clues. For crime scenes, they would need to point it at moments that are precise in order to scan points that are important then a profile should be compiled.
-
- The player can also pull things close through the bat claw. There are also certain areas where this can be used for the Batwing to be latched and leave that area. They could also disable circuits and activate switches through Batarang.
-
- There are three acts of Batman Story:
-
-* Playing Dress-up is the first act where you change to your costume then explores a crime scene with your gadget and see some terrible things happening to your loved ones.
-* On the act II you will be the greatest detective in the world and start investigating everything.
-* On the last part, you will make sense of them all. After all you are Batman.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
-## 2\. [Farpoint]( https://www.playstation.com/en-us/games/farpoint-ps4/ )
-
- This is a FPS VR game where the setting is on the space. As a player you would be walking from across some planet where an angry and large creature will be discovered.
-
- In this game, you need to use the Playstation VR Aim Controller. This will help you point your target in the game. With the large creatures ahead of you, you would need a gun to fight for your life in the game.
-
- In this game you are an agent United Earth Project. You will be sent in a barren planet where you need to survive. You would need to look for clues as to what is happening in that place.
-
- There are creatures that you would face and fight to survive.
-
-## 3\. [Resident evil iv biohazard]( http://blog.us.playstation.com/2016/06/13/resident-evil-7-biohazard-on-ps4-ps-vr-january-24/ )
-
- This will give the fans the horror they have never experienced. It promises to be the stuff of nightmares. The setting is on plantation mansion in a world of modern times. The players will be sent to the abandoned farmhouse where isolation and fear seep through its wall.
-
- The whole game is not yet clear but the sure thing is the player needs to survive this horror house alive.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 4\. [Star Trek: Bridge Crew]( https://www.ubisoft.com/en-US/game/star-trek-bridge-crew )
-
- In this game the player will be aboard the Aegis Starship and will be having an adventure in the universe of Star Trek.
-
- The players can take the control of the different stations there on the bridge. They can give orders, control the engines, fire the weapons and steer the ship. The game aims on team work as all the activities cannot be achieved by just a single person.
-
- This game will put you on the Aegis’ bridge. It is a federation ship that is exploring the galaxy. This can be played by friends and you will set for such adventures. There are also encounters where you can use your weapons in order to defend your ship.
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. [Star Wars: Battlefront X-Wing VR]( http://blog.us.playstation.com/2016/08/16/under-the-hood-star-wars-battlefront-rogue-one-x-wing-vr-mission/ )
 
  This will serve as the reboot of the battlefront series. It is a multiplayer game where they will combat. It supports some split-screen modes that are highly cooperative.
@@ -180,10 +97,9 @@ Follow @Liza Brown
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. [Batman Arkham VR]( https://www.playstation.com/en-us/games/batman-arkham-vr-ps4/ )
 
  In this game the player immerses into the Universe of the Dark Knights. They will be experiencing the Gotham City through the eyes of one of the greatest detectives. The players would have to think like Batman does and uses his gadgets that are almost legendary to our eyes. They have to unravel whatever the plot in store for them.
@@ -214,9 +130,6 @@ The powerful video editing program for your Windows PC</a>
 
  The whole game is not yet clear but the sure thing is the player needs to survive this horror house alive.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## 4\. [Star Trek: Bridge Crew]( https://www.ubisoft.com/en-US/game/star-trek-bridge-crew )
 
  In this game the player will be aboard the Aegis Starship and will be having an adventure in the universe of Star Trek.
@@ -225,9 +138,6 @@ The powerful video editing program for your Windows PC</a>
 
  This game will put you on the Aegis’ bridge. It is a federation ship that is exploring the galaxy. This can be played by friends and you will set for such adventures. There are also encounters where you can use your weapons in order to defend your ship.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. [Star Wars: Battlefront X-Wing VR]( http://blog.us.playstation.com/2016/08/16/under-the-hood-star-wars-battlefront-rogue-one-x-wing-vr-mission/ )
 
  This will serve as the reboot of the battlefront series. It is a multiplayer game where they will combat. It supports some split-screen modes that are highly cooperative.
@@ -256,6 +166,10 @@ Follow @Liza Brown
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. [Batman Arkham VR]( https://www.playstation.com/en-us/games/batman-arkham-vr-ps4/ )
 
  In this game the player immerses into the Universe of the Dark Knights. They will be experiencing the Gotham City through the eyes of one of the greatest detectives. The players would have to think like Batman does and uses his gadgets that are almost legendary to our eyes. They have to unravel whatever the plot in store for them.
@@ -269,6 +183,10 @@ Follow @Liza Brown
 * Playing Dress-up is the first act where you change to your costume then explores a crime scene with your gadget and see some terrible things happening to your loved ones.
 * On the act II you will be the greatest detective in the world and start investigating everything.
 * On the last part, you will make sense of them all. After all you are Batman.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. [Farpoint]( https://www.playstation.com/en-us/games/farpoint-ps4/ )
 
@@ -295,8 +213,9 @@ Follow @Liza Brown
  This game will put you on the Aegis’ bridge. It is a federation ship that is exploring the galaxy. This can be played by friends and you will set for such adventures. There are also encounters where you can use your weapons in order to defend your ship.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. [Star Wars: Battlefront X-Wing VR]( http://blog.us.playstation.com/2016/08/16/under-the-hood-star-wars-battlefront-rogue-one-x-wing-vr-mission/ )
 
  This will serve as the reboot of the battlefront series. It is a multiplayer game where they will combat. It supports some split-screen modes that are highly cooperative.
@@ -313,10 +232,84 @@ Follow @Liza Brown
 | Release Date | December 23, 2015                                                                     | August 10, 2016                                                      | April 25, 2016                                                                                                                 | March 31, 2016                                                                         | January 11, 2016                                                                                                                                   |
 | Platform     | Playstation 4                                                                         | Playstation 4                                                        | Playstation 4, Xbox One, PC                                                                                                    | Playstation VR, HTC Vive, Oculus Rift                                                  | Playstation 4, Xbox One, PC                                                                                                                        |
 
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## 1\. [Batman Arkham VR]( https://www.playstation.com/en-us/games/batman-arkham-vr-ps4/ )
+
+ In this game the player immerses into the Universe of the Dark Knights. They will be experiencing the Gotham City through the eyes of one of the greatest detectives. The players would have to think like Batman does and uses his gadgets that are almost legendary to our eyes. They have to unravel whatever the plot in store for them.
+
+ The players can grab for gadgets that are for detective scanning. By pointing it to an object they can look for additional clues. For crime scenes, they would need to point it at moments that are precise in order to scan points that are important then a profile should be compiled.
+
+ The player can also pull things close through the bat claw. There are also certain areas where this can be used for the Batwing to be latched and leave that area. They could also disable circuits and activate switches through Batarang.
+
+ There are three acts of Batman Story:
+
+* Playing Dress-up is the first act where you change to your costume then explores a crime scene with your gadget and see some terrible things happening to your loved ones.
+* On the act II you will be the greatest detective in the world and start investigating everything.
+* On the last part, you will make sense of them all. After all you are Batman.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 2\. [Farpoint]( https://www.playstation.com/en-us/games/farpoint-ps4/ )
+
+ This is a FPS VR game where the setting is on the space. As a player you would be walking from across some planet where an angry and large creature will be discovered.
+
+ In this game, you need to use the Playstation VR Aim Controller. This will help you point your target in the game. With the large creatures ahead of you, you would need a gun to fight for your life in the game.
+
+ In this game you are an agent United Earth Project. You will be sent in a barren planet where you need to survive. You would need to look for clues as to what is happening in that place.
+
+ There are creatures that you would face and fight to survive.
+
+## 3\. [Resident evil iv biohazard]( http://blog.us.playstation.com/2016/06/13/resident-evil-7-biohazard-on-ps4-ps-vr-january-24/ )
+
+ This will give the fans the horror they have never experienced. It promises to be the stuff of nightmares. The setting is on plantation mansion in a world of modern times. The players will be sent to the abandoned farmhouse where isolation and fear seep through its wall.
+
+ The whole game is not yet clear but the sure thing is the player needs to survive this horror house alive.
+
+## 4\. [Star Trek: Bridge Crew]( https://www.ubisoft.com/en-US/game/star-trek-bridge-crew )
+
+ In this game the player will be aboard the Aegis Starship and will be having an adventure in the universe of Star Trek.
+
+ The players can take the control of the different stations there on the bridge. They can give orders, control the engines, fire the weapons and steer the ship. The game aims on team work as all the activities cannot be achieved by just a single person.
+
+ This game will put you on the Aegis’ bridge. It is a federation ship that is exploring the galaxy. This can be played by friends and you will set for such adventures. There are also encounters where you can use your weapons in order to defend your ship.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 5\. [Star Wars: Battlefront X-Wing VR]( http://blog.us.playstation.com/2016/08/16/under-the-hood-star-wars-battlefront-rogue-one-x-wing-vr-mission/ )
+
+ This will serve as the reboot of the battlefront series. It is a multiplayer game where they will combat. It supports some split-screen modes that are highly cooperative.
+
+ The players will be sent in the battlefield similar to the Star Wars. Then there he will fight online opponents. He will have a sword he can use to fight. For others gadgets use on it, it would still be announced. There are various collectibles and unlockable items as well in the game.
+
+| Title:       | [Star Wars: Battlefront X-Wing VR]( https://www.playstation.com/en-us/games/batman-arkham-vr-ps4/ ) | [Farpoint ]( https://www.playstation.com/en-us/games/farpoint-ps4/ ) | [ resident evil iv biohazard ]( http://blog.us.playstation.com/2016/06/13/resident-evil-7-biohazard-on-ps4-ps-vr-january-24/ ) | [ Star Trek: Bridge Crew ]( https://www.ubisoft.com/en-US/game/star-trek-bridge-crew ) | [Star Wars: Battlefront X-Wing VR ]( http://blog.us.playstation.com/2016/08/16/under-the-hood-star-wars-battlefront-rogue-one-x-wing-vr-mission/ ) |
+| ------------ | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Genre        | Adventure / Puzzle                                                                    | Adventure                                                            | Psychological horror/ Survival Horror                                                                                          | Action                                                                                 | Simulation                                                                                                                                         |
+| Developer    | Rocksteady Studios                                                                    | Impulse Gear                                                         | Capcom Co., Ltd.                                                                                                               | Red Storm Entertainment                                                                | DICE, Criterion Games                                                                                                                              |
+| Publisher    | Warner Bros. Interactive                                                              | Sony                                                                 | Capcom Co., Ltd.                                                                                                               | Ubisoft                                                                                | Electronic Arts                                                                                                                                    |
+| Release Date | October 16, 2016                                                                      | TBA                                                                  | January 24, 2017                                                                                                               | Fall 2016                                                                              | 2016                                                                                                                                               |
+| Language     | English                                                                               | English                                                              | English                                                                                                                        | English                                                                                | English                                                                                                                                            |
+| Release Date | December 23, 2015                                                                     | August 10, 2016                                                      | April 25, 2016                                                                                                                 | March 31, 2016                                                                         | January 11, 2016                                                                                                                                   |
+| Platform     | Playstation 4                                                                         | Playstation 4                                                        | Playstation 4, Xbox One, PC                                                                                                    | Playstation VR, HTC Vive, Oculus Rift                                                  | Playstation 4, Xbox One, PC                                                                                                                        |
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -347,5 +340,17 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-50plus-youtube-channel-names-for-vloggers-100-new-filmora/"><u>[New] 50+ Youtube Channel Names for Vloggers [100% New] - Filmora</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-elevate-your-iphone-shoots-essential-8-tips-for-professional-results/"><u>[New] In 2024, Elevate Your iPhone Shoots Essential 8 Tips for Professional Results</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-instructors-resource-for-enhancing-learning-via-video/"><u>[New] Instructor's Resource for Enhancing Learning via Video</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-teredo-tunneling-pseudo-interface-code-10-error/"><u>[Solved] Teredo Tunneling Pseudo-Interface Code 10 Error</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revel-in-photo-excellence-with-this-guide-to-mastering-the-background-erase-tool/"><u>[Updated] Revel in Photo Excellence with This Guide to Mastering the Background Erase Tool</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-straightforward-steps-to-mastering-flipper-written-communication-on-windows/"><u>[Updated] Straightforward Steps to Mastering Flipper' Written Communication on Windows</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1-connectez-votre-document-automatiquement-a-google-drive-5-techniques-de-synchronisation-faciles/"><u>1. Connectez Votre Document Automatiquement À Google Drive: 5 Techniques De Synchronisation Faciles</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/beginner-friendly-why-the-top-amazonbasics-tripod-wins/"><u>Beginner-Friendly: Why the Top AmazonBasics Tripod Wins</u></a></li>
+<li><a href="https://discover-community.techidaily.com/fehlerbehebung-fur-nicht-funktioniernde-planungsaufgaben-in-windows-server-2019/"><u>Fehlerbehebung Für Nicht Funktioniernde Planungsaufgaben in Windows Server 2019</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-zoom-for-seamless-fb-live-broadcasts/"><u>In 2024, Navigating Zoom for Seamless FB Live Broadcasts</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Create Your Portable Desktop: AMD Ryzen PC in a Mini Keyboard with Trackpad & Battery, Attach Only Monitor to Complete Setup"
-date: 2025-01-14T16:07:57.761Z
-updated: 2025-01-17T16:14:49.153Z
+date: 2025-01-19T19:53:05.205Z
+updated: 2025-01-23T21:49:26.088Z
 tags:
   - desktop
 categories:
@@ -28,7 +28,7 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
  Both of these units will be great for businesses that utilize[edge computing](https://www.tomshardware.com/pc-components/cpus/intel-crams-meteor-lake-laptop-chips-into-a-socket-for-edge-computing-includes-arc-graphics-and-npu-for-ai-workloads) . Edge computing is a growing computing strategy that allocates some (or most) of a business's computing power on-site rather than from a cloud solution alone. It significantly reduces internet bandwidth requirements, saving resources and time. The computing strategy has become incredibly popular over the past few years, especially for AI workloads. Reports confirm that data consumption is growing substantially more than internet services can handle worldwide, forcing businesses to switch to edge-based methods for computing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,21 +54,20 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-discover-the-best-10-free-tiktok-video-editing-apps-for-mac/"><u>[New] 2024 Approved Discover the Best 10 FREE TikTok Video Editing Apps for Mac</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-a-lifetime-love-affair-with-top-15-classic-stop-motion-movies/"><u>[New] In 2024, A Lifetime Love Affair with Top 15 Classic Stop-Motion Movies</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premier-10-subtitle-editing-software-online/"><u>[New] Premier 10 Subtitle Editing Software Online</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-screenshotsweeperpro-next-gen-bg-removal-tool/"><u>[New] ScreenshotSweeperPro Next-Gen BG Removal Tool</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-seamless-avi-media-playback-ideal-for-everyones-device/"><u>[New] Seamless Avi Media Playback - Ideal for Everyone's Device</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-professional-tips-for-perfecting-your-srt-files/"><u>[Updated] Professional Tips for Perfecting Your SRT Files</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-superior-5-digital-capture-devices-for-2024/"><u>[Updated] Superior 5 Digital Capture Devices for 2024</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/die-besten-kostenlosen-screenshot-anwendungen-unter-windows/"><u>Die Besten Kostenlosen Screenshot-Anwendungen Unter Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/die-top-6-beliebtesten-dvd-extraktionswerkzeuge-fur-eine-optimale-nutzung/"><u>Die Top 6 Beliebtesten DVD-Extraktionswerkzeuge Für Eine Optimale Nutzung</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725290644707-dvdusb-type-csurface-hubmacbookchromebook-pixel/"><u>DVD到USB Type-C的转换指南：支持Surface Hub、MacBook和Chromebook Pixel</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-introduction-to-moving-visual-content/"><u>In 2024, Introduction to Moving Visual Content</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-saturation-savvy-professionals-secrets-revealed/"><u>In 2024, Saturation Savvy Professionals' Secrets Revealed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-upgrade-quandaries-error-code-0xc1900101/"><u>Navigating Windows 11 Upgrade Quandaries: Error Code 0xC1900101</u></a></li>
-<li><a href="https://techtrends.techidaily.com/safe-bios-updates-a-step-by-step-tutorial/"><u>Safe BIOS Updates: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/snowboard-cross-triumphs-olympic-highlights-for-2024/"><u>Snowboard Cross Triumphs - Olympic Highlights for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unlock-screen-saving-potential-on-android-devices/"><u>Unlock Screen Saving Potential on Android Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-laptop-perfection-10-coolest-downloadable-desktop-photos/"><u>[New] Laptop Perfection 10 Coolest Downloadable Desktop Photos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-pathway-to-get-your-hands-on-movie-maker-6-for-2024/"><u>[New] Pathway to Get Your Hands on Movie Maker 6 for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-avi-to-gif-transformation-in-filmora/"><u>[New] Quick AVI to GIF Transformation in Filmora</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-scouting-for-subtle-sophisticated-and-spare-tiktok-screenshots/"><u>[New] Scouting for Subtle, Sophisticated, and Spare TikTok Screenshots</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-gopro-hero-4-vs-sony-dslr-for-extreme-sports-which-rules-the-arena/"><u>2024 Approved GoPro Hero 4 Vs Sony DSLR for Extreme Sports Which Rules the Arena?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-price-estimation-guide-for-music-video-production/"><u>2024 Approved Price Estimation Guide for Music Video Production</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-basic-ps-color-correction/"><u>2024 Approved Step-by-Step Guide to Basic PS Color Correction</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-os-emulation-strategies-in-virtual-environment/"><u>Cutting-Edge OS Emulation Strategies in Virtual Environment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-installation-guide-for-hp-deskjet-3700-printer-drivers/"><u>Download and Installation Guide for HP DeskJet 3700 Printer Drivers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-features-of-claude-pro-a-comparison-with-microsofts-chatgpt-plus/"><u>Exploring the Features of Claude Pro: A Comparison with Microsoft's ChatGPT Plus</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-pals-and-plotlines-the-10-best-family-flicks/"><u>In 2024, Perfect Pals and Plotlines The 10 Best Family Flicks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-motorola-moto-g-stylus-5g-2023-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Motorola Moto G Stylus 5G (2023) Android SIM Unlock APK</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-unraveling-the-mysteries-of-av1-vs-vp9/"><u>In 2024, Unraveling the Mysteries of AV1 Vs. VP9</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-iphones-quick-focus-adjustment-for-2024/"><u>Master iPhone's Quick Focus Adjustment for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfected-phrasing-eliminating-mistakes-using-chatgpt/"><u>Perfected Phrasing: Eliminating Mistakes Using ChatGPT</u></a></li>
 </ul></div>
 

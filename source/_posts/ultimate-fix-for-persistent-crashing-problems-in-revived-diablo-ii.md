@@ -1,7 +1,7 @@
 ---
 title: Ultimate Fix for Persistent Crashing Problems in Revived Diablo II
-date: 2025-01-15T16:23:17.256Z
-updated: 2025-01-17T16:18:20.102Z
+date: 2025-01-17T16:54:53.658Z
+updated: 2025-01-23T20:08:39.249Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
  If your computer isn’t powerful enough to run a demanding game like Diablo 2 Resurrected, you may run into the crashes constantly. That’s why you should always check the game’s minimum system requirements before you proceed to the more advanced steps.
@@ -44,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Stop overclocking
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
  By overclocking your CPU and GPU, you may see a significant boost in the game performance. However, doing this can sometimes lead to problems like instability in the system and crashes your game. So if Diablo 2 Resurrected keeps crashing after an overclock, you may want to**turn off all the overclocking utilities** such as MSI Afterburner and**reset your processor to the default** .
 
 If this method doesn’t help, check out your graphics driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -86,13 +94,13 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair corrupt game files
 
@@ -102,10 +110,6 @@ If this method doesn’t help, check out your graphics driver.
 2. At the bottom, click the**gear icon** next to the Play button and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
@@ -122,14 +126,10 @@ If this method doesn’t help, check out your graphics driver.
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **On GeForce Experience**
 
@@ -137,11 +137,11 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
  After all the overlay feature is disabled, your game should return to normal.
 
@@ -167,20 +167,20 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-skyline-scenery-mastering-mobile-panoramas/"><u>[New] 2024 Approved Skyline Scenery Mastering Mobile Panoramas</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-channel-your-content-earning-through-evaluative-endeavors-online/"><u>[Updated] In 2024, Channel Your Content Earning Through Evaluative Endeavors Online</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mirthful-mobile-memories-iphone/"><u>[Updated] Mirthful Mobile Memories (iPhone)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-techniques-in-hand-based-tracking/"><u>2024 Approved Pioneering Techniques in Hand-Based Tracking</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-realme-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/guide-to-youtubes-latest-income-strategies/"><u>Guide to YouTube's Latest Income Strategies</u></a></li>
-<li><a href="https://techidaily.com/how-to-unblock-torrent-sites-or-check-torrent-site-alternatives/"><u>How to Unblock Torrent Sites (Or Check Torrent Site Alternatives)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-lighten-up-your-digital-presence-kapwing-maker/"><u>In 2024, Lighten Up Your Digital Presence - Kapwing Maker</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-proven-techniques-for-captivating-online-audiences-via-zoom-and-youtube-live/"><u>In 2024, Proven Techniques for Captivating Online Audiences via Zoom & YouTube Live</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-igtv-a-comprehensive-guide-for-beginners-for-2024/"><u>Mastering IGTV A Comprehensive Guide for Beginners for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-media-landsranking-with-magix-video-pro-x-for-2024/"><u>Navigating Media Landsranking with Magix Video Pro X for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pioneering-personalized-voices-on-ps-games-for-2024/"><u>Pioneering Personalized Voices on PS Games for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/snapseed-essentials-for-image-enthusiasts-for-2024/"><u>Snapseed Essentials for Image Enthusiasts for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-stop-time-in-its-tracks-how-to-freeze-frames-in-your-favorite-video-editor/"><u>Updated In 2024, Stop Time in Its Tracks How to Freeze Frames in Your Favorite Video Editor</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-microdrama-writers-guide/"><u>[New] Microdrama Writers Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-steps-to-modify-playback-rate-of-songs-in-spotify/"><u>[New] Prime Steps to Modify Playback Rate of Songs in Spotify</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premier-mic-choices-perfected-for-high-res-videos/"><u>[Updated] Premier Mic Choices Perfected for High-Res Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-from-facebook-to-the-friends-inbox-sharing-videos-through-whatsapp/"><u>2024 Approved From Facebook to the Friend's Inbox Sharing Videos Through WhatsApp</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimal-drone-choices-available-immediately/"><u>2024 Approved Optimal Drone Choices Available Immediately</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-and-easy-guide-enhance-youtube-shorts-with-new-images/"><u>2024 Approved Quick & Easy Guide Enhance YouTube Shorts with New Images</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionary-audio-alteration-for-enhanced-pubg-experience/"><u>2024 Approved Revolutionary Audio Alteration for Enhanced PUBG Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/6-methods-to-mirror-apple-iphone-15-pro-max-to-your-windows-pc-drfone-by-drfone-ios/"><u>6 Methods to Mirror Apple iPhone 15 Pro Max to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/eliminating-vibrational-distortion-in-drone-footage-for-2024/"><u>Eliminating Vibrational Distortion in Drone Footage for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/end-hibernation-hurdles-with-easy-fixes-for-win/"><u>End Hibernation Hurdles with Easy Fixes for Win</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-repair-connectivity-problems-in-your-xbox-series-xs-earphones/"><u>How to Repair Connectivity Problems in Your Xbox Series X/S Earphones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/polishing-zoom-picture-quality-simple-solutions-for-2024/"><u>Polishing Zoom Picture Quality Simple Solutions for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-3d-text-effects-in-photos-for-2024/"><u>Step-by-Step Guide to 3D Text Effects in PHOTOS for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-checklist-what-makes-dji-phantom-4-special-in-2024/"><u>The Ultimate Checklist What Makes DJI Phantom 4 Special, In 2024</u></a></li>
 </ul></div>
 

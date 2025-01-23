@@ -1,7 +1,7 @@
 ---
 title: "Diagnose and Fix Audio Glitches: Making Apple AirPods Work with Mic on Windows 11 Again"
-date: 2025-01-10T16:18:02.303Z
-updated: 2025-01-17T16:20:25.316Z
+date: 2025-01-17T17:30:14.743Z
+updated: 2025-01-23T19:55:26.653Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Are you facing no sound issues on Windows 11? Or maybe you’re suffering from t
 
 Before you start, make sure your headset is working properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  These fixes have helped many people. Because of the different devices and environments, you may need to work your way down the list until you find the one that works for you.
@@ -29,10 +33,6 @@ Before you start, make sure your headset is working properly.
 4. [**Update your Windows system**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Enable Enhance audio
 
  If you have sound issues or can’t bear an awful sound that goes through your headset, this simple trick may help. We don’t know the mechanism behind the trick yet, but many users have proved it’s a working fix.
@@ -42,10 +42,18 @@ Before you start, make sure your headset is working properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound1.jpg)
 3. Scroll down to find**Enhance audio** . Turn Enhance audio on and then back off.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound2.jpg)
 4. Check your PC sound, it should be back to normal.
 
 If this trick doesn’t work for you, please move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your audio driver
 
@@ -67,6 +75,10 @@ If this trick doesn’t work for you, please move to the next fix.
 
 If this fix doesn’t help, move to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Realtek driver issue
 
  If you have Realtek audio on your PC, this fix might be the right one for you. Realtek driver is sometimes corrupted on Windows 11 and it can lead to Windows 11 no sound or other audio issues. Here’s how to fix it.
@@ -84,23 +96,11 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound6.jpg)
 5. Check**Show compatible hardware** . Then click**High Definition Audio Device** \>**Next** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound7.jpg)
 6. Click**Yes** in the pop-up window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound8.jpg)
 7. Restart your PC for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Check the sound on your PC.
 
@@ -113,14 +113,10 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound9.jpg)
 3. Windows will check the latest available updates for you. If you have available updates, Windows 11 will download and install them automatically.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. After the whole process, restart your PC and check the effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Repair system files
@@ -139,10 +135,14 @@ If this fix doesn’t help, move to the next fix.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -164,24 +164,24 @@ If this fix doesn’t help, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-photocollage-mastery-building-visual-narratives/"><u>[New] PhotoCollage Mastery Building Visual Narratives</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-quick-guide-crafting-a-facebook-photo-mosaic/"><u>[New] Quick Guide Crafting a Facebook Photo Mosaic</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-into-the-code-labyrinastr-facebooks-message-extraction-guide-for-2024/"><u>[Updated] Into the Code Labyrinastr - Facebook's Message Extraction Guide for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-music-lovers-unite-how-to-add-sounds-in-inshot-for-2024/"><u>[Updated] Music Lovers Unite How to Add Sounds in InShot for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-next-gen-realities-navigating-vrs-future-trajectory/"><u>[Updated] Next-Gen Realities Navigating VR's Future Trajectory</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-storage-without-spending-the-comprehensive-list-of-best-30-budget-friendly-cloud-services-with-1tbplus/"><u>[Updated] Storage Without Spending The Comprehensive List of Best 30 Budget-Friendly Cloud Services with 1TB+</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-talent-hunters-unite-top-10-video-roundup/"><u>[Updated] Talent Hunters Unite! Top 10 Video Roundup</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-insta-to-tik-integration-masterclass/"><u>2024 Approved Insta-to-Tik Integration Masterclass</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-scenes-crafting-smooth-transitions-using-kinemaster/"><u>2024 Approved Seamless Scenes Crafting Smooth Transitions Using Kinemaster</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-media-edits-storyremix-and-windows-11-photos-integration/"><u>2024 Approved Streamlining Media Edits StoryRemix & Windows 11 Photos Integration</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-vm-game-six-key-tips-for-windows-optimization/"><u>Elevate Your VM Game: Six Key Tips for Windows Optimization</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oneplus-open-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on OnePlus Open Phones with/without a PC</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-focus-zooming-in-msteams/"><u>In 2024, Maximizing Focus Zooming In MSTEAMS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-simulate-hand-held-camera-effects-in-photoshop/"><u>In 2024, Simulate Hand-Held Camera Effects in Photoshop</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-nokia-c12-plus-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Nokia C12 Plus Phones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/lustrous-frameworks-structuring-illumination-in-film-for-2024/"><u>Lustrous Frameworks Structuring Illumination in Film for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-file-and-folder-eraser-pro-the-ultimate-windows-based-data-cleaner/"><u>Stellar File and Folder Eraser Pro: The Ultimate Windows-Based Data Cleaner</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-free-guide-to-conducting-flawless-google-meet-sessions-for-2024/"><u>The Free Guide to Conducting Flawless Google Meet Sessions for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unveiling-streaming-secrets-the-best-5-cams-for-gamers-for-2024/"><u>Unveiling Streaming Secrets The Best 5 Cams for Gamers for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-windows-10-zoom-integration-essentials/"><u>[New] Mastering Windows 10 Zoom Integration Essentials</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-professional-video-editing-does-m1-macbook-air-hold-up/"><u>[New] Professional Video Editing Does M1 MacBook Air Hold Up?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-guide-perfecting-instagram-collage-formats/"><u>[New] Quick Guide Perfecting Instagram Collage Formats</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mirthful-missions-delving-into-the-goofy-movie-vhs/"><u>[Updated] 'Mirthful Missions' - Delving Into The Goofy Movie VHS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-perfect-guide-to-making-your-video-memories-last-with-gifs/"><u>[Updated] 2024 Approved The Perfect Guide to Making Your Video Memories Last with GIFs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-capturing-life-in-hd-top-webcam-recorder-reviews/"><u>[Updated] In 2024, Capturing Life in HD - Top WebCam Recorder Reviews</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-efficiency-in-action-rapid-removal-of-youtube-discussions/"><u>[Updated] In 2024, Efficiency in Action Rapid Removal of YouTube Discussions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-video-mastery-start-here-essential-seo-gadgets/"><u>[Updated] Video Mastery Start Here - Essential SEO Gadgets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-illumination-the-ultimate-guide-to-hdr-photography/"><u>2024 Approved Perfect Illumination The Ultimate Guide to HDR Photography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-slow-fade-to-action/"><u>2024 Approved Slow Fade to Action</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-and-install-the-latest-version-of-dav-media-player-for-free-compatible-with-pcs-macs/"><u>Download and Install the Latest Version of DAV Media Player for Free - Compatible with PCs, Macs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/end-of-an-era-amds-3dnow-architecture-loses-llvm-compiler-backing/"><u>End of an Era: AMD's 3DNow! Architecture Loses LLVM Compiler Backing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hide-face-details-picart-privacy-mode-for-2024/"><u>Hide Face Details PicArt Privacy Mode for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-funimate-pro-apk-a-complete-guide/"><u>In 2024, Funimate Pro APK A Complete Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-jestful-joymaker-online/"><u>In 2024, Jestful Joymaker Online</u></a></li>
+<li><a href="https://article-helps.techidaily.com/leading-gallery-archive-services/"><u>Leading Gallery Archive Services</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-the-interface-key-win11-tricks-for-2024/"><u>Mastering the Interface Key Win11 Tricks for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/robust-disk-health-monitoring-tool/"><u>Robust Disk Health Monitoring Tool</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-enhancing-clarity-in-google-meet-calls-for-2024/"><u>Step-by-Step Enhancing Clarity in Google Meet Calls for 2024</u></a></li>
 </ul></div>
 

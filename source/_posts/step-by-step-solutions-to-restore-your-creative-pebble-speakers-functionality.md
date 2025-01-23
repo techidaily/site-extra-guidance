@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Restore Your Creative Pebble Speaker's Functionality
-date: 2025-01-10T16:18:30.859Z
-updated: 2025-01-17T16:18:40.918Z
+date: 2025-01-19T18:02:38.089Z
+updated: 2025-01-23T20:04:58.119Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a1e37a756-231x300.jpg)
 
  Many **Turtle Beach** users are reporting that their **headset** microphone is not working properly — it’s not recording any sound! If you’re experiencing this problem, don’t worry. You should be able to fix the problem quite easily using one of the solutions we’ve listed below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)** Right click**Headset Microphone** and click**Properties** .
@@ -78,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **9)** Click**OK** , then click**OK** .
@@ -101,19 +97,23 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
 
  Once you’ve updated the driver for your Turtle Beach headset, restart your computer. Then log in again and see if the microphone is working.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Troubleshoot hardware issues
 
@@ -143,15 +143,16 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-seamless-path-integrating-your-social-photos-into-device-storage/"><u>[New] 2024 Approved The Seamless Path Integrating Your Social Photos Into Device Storage</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-step-by-step-guide-how-to-add-video-filters-in-zoom/"><u>[New] In 2024, Step-by-Step Guide How to Add Video Filters in Zoom</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-jaunt-vr-unleashed-an-in-depth-look/"><u>[New] Jaunt VR Unleashed An In-Depth Look</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-leading-cloud-capacity-options-reviewed/"><u>[New] Leading Cloud Capacity Options Reviewed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-best-8-screenshot-and-video-editing-tools-for-phones/"><u>[New] The Best 8 Screenshot & Video Editing Tools for Phones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-class-skew-your-pictures/"><u>2024 Approved Master Class Skew Your Pictures</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/decoding-the-magic-of-4k-in-benq-sw320-monitor/"><u>Decoding the Magic of 4K in BenQ SW320 Monitor</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximize-your-podcasts-potential-with-top-audio-equipment/"><u>In 2024, Maximize Your Podcast's Potential with Top Audio Equipment</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-u310-seamless-operating-system-integration/"><u>Lenovo U310: Seamless Operating System Integration</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-accessing-all-shared-content-in-messenger-chats-for-2024/"><u>[New] Accessing All Shared Content in Messenger Chats for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-photos-master-the-art-of-adding-motion-blur-effects/"><u>[New] Pro Photos Master the Art of Adding Motion Blur Effects</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reassessing-the-updates-to-sonys-s6500-bdhd-player/"><u>[New] Reassessing the Updates to Sony's S6500 BD/HD Player</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-soundtrack-your-storytelling-youtube-music-for-video-content/"><u>[Updated] Soundtrack Your Storytelling YouTube Music for Video Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/10-steps-to-perfectly-plated-food-vids/"><u>10 Steps to Perfectly Plated Food Vids</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-inside-look-at-youtubes-creator-workshop-space/"><u>2024 Approved Inside Look at YouTube's Creator Workshop Space</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-razr-40-ultra-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Razr 40 Ultra to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-charting-a-course-for-influential-insights-within-your-niche/"><u>In 2024, Charting a Course for Influential Insights Within Your Niche</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-limited-time-dji-drone-visual-enhancements-no-pay-required/"><u>In 2024, Limited-Time DJI Drone Visual Enhancements No Pay Required</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/personalized-and-accessible-video-conclusions-downloads-for-2024/"><u>Personalized & Accessible Video Conclusions Downloads for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/stellar-15-stop-motion-films-to-remember-for-2024/"><u>Stellar 15 Stop-Motion Films to Remember for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Diagnose and Fix Audio Glitches: Making Apple AirPods Work with Mic on Windows 11 Again"
-date: 2025-01-17T17:30:14.743Z
-updated: 2025-01-23T19:55:26.653Z
+date: 2025-01-25T07:48:26.068Z
+updated: 2025-01-30T17:14:00.109Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ Are you facing no sound issues on Windows 11? Or maybe you’re suffering from t
 Before you start, make sure your headset is working properly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -33,6 +33,10 @@ Before you start, make sure your headset is working properly.
 4. [**Update your Windows system**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Enable Enhance audio
 
  If you have sound issues or can’t bear an awful sound that goes through your headset, this simple trick may help. We don’t know the mechanism behind the trick yet, but many users have proved it’s a working fix.
@@ -43,17 +47,13 @@ Before you start, make sure your headset is working properly.
 3. Scroll down to find**Enhance audio** . Turn Enhance audio on and then back off.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound2.jpg)
 4. Check your PC sound, it should be back to normal.
 
 If this trick doesn’t work for you, please move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your audio driver
 
@@ -71,13 +71,13 @@ If this trick doesn’t work for you, please move to the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If this fix doesn’t help, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Realtek driver issue
 
@@ -87,8 +87,16 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound3.jpg)
 2. Expand**Sound, video and game controllers** . Find**Realtek audio** and right-click on it. Choose**Update driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound4.jpg)
 3. Click**Browse my computer for drivers** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound5.jpg)
 4. Click**Let me pick from a list of available drivers on my computer** .  
@@ -98,6 +106,10 @@ If this fix doesn’t help, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound7.jpg)
 6. Click**Yes** in the pop-up window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound8.jpg)
 7. Restart your PC for the changes to take effect.
@@ -115,10 +127,6 @@ If this fix doesn’t help, move to the next fix.
 
 4. After the whole process, restart your PC and check the effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Repair system files
 
  If important Windows files in your PC are corrupted or missing, your PC will have problems, no sound or audio issues might be one of them. In this case, you’ll need to find and repair corrupted system files.  
@@ -134,15 +142,7 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -164,24 +164,20 @@ If this fix doesn’t help, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-windows-10-zoom-integration-essentials/"><u>[New] Mastering Windows 10 Zoom Integration Essentials</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-professional-video-editing-does-m1-macbook-air-hold-up/"><u>[New] Professional Video Editing Does M1 MacBook Air Hold Up?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-quick-guide-perfecting-instagram-collage-formats/"><u>[New] Quick Guide Perfecting Instagram Collage Formats</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mirthful-missions-delving-into-the-goofy-movie-vhs/"><u>[Updated] 'Mirthful Missions' - Delving Into The Goofy Movie VHS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-perfect-guide-to-making-your-video-memories-last-with-gifs/"><u>[Updated] 2024 Approved The Perfect Guide to Making Your Video Memories Last with GIFs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-capturing-life-in-hd-top-webcam-recorder-reviews/"><u>[Updated] In 2024, Capturing Life in HD - Top WebCam Recorder Reviews</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-efficiency-in-action-rapid-removal-of-youtube-discussions/"><u>[Updated] In 2024, Efficiency in Action Rapid Removal of YouTube Discussions</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-video-mastery-start-here-essential-seo-gadgets/"><u>[Updated] Video Mastery Start Here - Essential SEO Gadgets</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-illumination-the-ultimate-guide-to-hdr-photography/"><u>2024 Approved Perfect Illumination The Ultimate Guide to HDR Photography</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-slow-fade-to-action/"><u>2024 Approved Slow Fade to Action</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/download-and-install-the-latest-version-of-dav-media-player-for-free-compatible-with-pcs-macs/"><u>Download and Install the Latest Version of DAV Media Player for Free - Compatible with PCs, Macs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/end-of-an-era-amds-3dnow-architecture-loses-llvm-compiler-backing/"><u>End of an Era: AMD's 3DNow! Architecture Loses LLVM Compiler Backing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hide-face-details-picart-privacy-mode-for-2024/"><u>Hide Face Details PicArt Privacy Mode for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-funimate-pro-apk-a-complete-guide/"><u>In 2024, Funimate Pro APK A Complete Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-jestful-joymaker-online/"><u>In 2024, Jestful Joymaker Online</u></a></li>
-<li><a href="https://article-helps.techidaily.com/leading-gallery-archive-services/"><u>Leading Gallery Archive Services</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-the-interface-key-win11-tricks-for-2024/"><u>Mastering the Interface Key Win11 Tricks for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/robust-disk-health-monitoring-tool/"><u>Robust Disk Health Monitoring Tool</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-enhancing-clarity-in-google-meet-calls-for-2024/"><u>Step-by-Step Enhancing Clarity in Google Meet Calls for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-cutting-edge-techniques-for-exceptional-podcast-recordings-via-zoom/"><u>[New] In 2024, Cutting Edge Techniques for Exceptional Podcast Recordings via Zoom</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-vector-image-creators-the-ultimate-10-tool-guide/"><u>[New] Leading Vector Image Creators The Ultimate 10-Tool Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-portrait-of-creativity-discover-the-bestiary-of-8-inspiring-ios-drawing-apps/"><u>[New] Portrait of Creativity Discover the Bestiary of 8 Inspiring iOS Drawing Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-5-underwater-filters-for-gopro-videos/"><u>[Updated] Leading 5 Underwater Filters for Gopro Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-review-spotlight-on-yuneecs-aerodrone-typhoon-h/"><u>[Updated] Review Spotlight on Yuneec’s AeroDrone Typhoon H</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-latest-overhaul-sonys-s6500-hd-and-bd-player-review/"><u>2024 Approved Latest Overhaul Sony's S6500 HD & BD Player Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-cut-screenplay-snippet/"><u>2024 Approved Quick-Cut Screenplay Snippet</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-80-pro-straight-screen-edition-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor 80 Pro Straight Screen Edition Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-printer-software-for-windows-11-installation-steps/"><u>Get the Newest HP Printer Software for Windows 11 - Installation Steps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-meizu-21-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Meizu 21 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-streaming-wars-recap-fb-live-yt-live-and-twitter-spaces/"><u>In 2024, Streaming Wars Recap FB LIVE, YT Live & Twitter Spaces</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-invisible-web-seo-secrets-for-podcasters/"><u>In 2024, The Invisible Web SEO Secrets for Podcasters</u></a></li>
+<li><a href="https://fox-place.techidaily.com/maximizing-your-machine-expert-tips-for-clearing-up-space-by-yl-computing/"><u>Maximizing Your Machine: Expert Tips for Clearing Up Space by YL Computing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/rise-above-the-noise-nine-strategies-for-instagram-prominence-for-2024/"><u>Rise Above the Noise Nine Strategies for Instagram Prominence for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-7-essential-programs-for-complete-file-and-folder-deletion/"><u>Top 7 Essential Programs for Complete File & Folder Deletion</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Lens Hacks  Capturing Perfect Reflections\""
-date: 2025-01-16T16:13:20.237Z
-updated: 2025-01-17T16:25:34.331Z
+date: 2025-01-25T04:10:32.526Z
+updated: 2025-01-31T03:06:07.165Z
 tags: 
   - screen-recording
   - ai video
@@ -48,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![reflection-photography-for-iPhone](https://images.wondershare.com/filmora/article-images/crystal-ball.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Water in a wine glass (turns everything upside down too!)
 
 ![water-reflection](https://images.wondershare.com/filmora/article-images/water-reflection.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 2\.  Pay Attention to Composition
 
@@ -67,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
  iPhone already has a feature for you to bring up lines before you take the photo with the rule of thirds:
 
 ![reflection-composition-tips](https://images.wondershare.com/filmora/article-images/reflection-composition-tips.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To activate the lines simply go to **Settings > Camera and Photographs > Grid**
 
@@ -83,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
  Awful
 
 ![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 4\.  Reality and Reflection
 
@@ -107,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Post Production Reflective Effects
@@ -142,7 +142,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
@@ -152,7 +152,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![photo-mirror-effects-reflection-editor](https://images.wondershare.com/filmora/article-images/photo-mirror-effects-reflection-editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another great choice for getting started with reflective photography. It has some mid range editing features, but this is made up in it's easy of use. Perhaps one of the best free reflective photography apps and you can even share the images directly to your social media feeds.
@@ -176,18 +176,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-boosting-viewership-mastery-in-youtube-shorts-design/"><u>[New] 2024 Approved Boosting Viewership Mastery in YouTube Shorts Design</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pro-tips-for-kinemaster-dominance-plus-best-digital-platforms-on-the-web/"><u>[New] Pro Tips for KineMaster Dominance + Best Digital Platforms on the Web</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-professional-gimbals-and-tripods-for-youtube-starters/"><u>[New] Professional Gimbals & Tripods for YouTube Starters</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-luxury-on-wheels-a-compre-written-in-the-stars/"><u>[Updated] Luxury on Wheels - A Compre Written in the Stars</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-royalty-free-clip-art-strategies-and-sources/"><u>[Updated] Royalty-Free Clip Art Strategies and Sources</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-legitimate-strategies-to-amass-over-a-million-youtube-views/"><u>2024 Approved Legitimate Strategies to Amass Over a Million YouTube Views</u></a></li>
-<li><a href="https://win-web3.techidaily.com/aomei-partition-assistant-pro-securisez-et-dupliquez-votre-data-de-windows-7-64-bits-avec-facilite/"><u>AOMEI Partition Assistant Pro: Sécurisez Et Dupliquez Votre DATA De Windows 7 (64 Bits) Avec Facilité</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-iphone-x-secure-access-restoring-biometric-lock-for-2024/"><u>Mastering iPhone X Secure Access Restoring Biometric Lock for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-windows-11s-in-built-auto-hdr-feature-for-2024/"><u>Mastering Windows 11'S In-Built Auto HDR Feature for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/sdr-vs-hdr-the-superiority-of-high-dynamic-range-in-video-production-for-2024/"><u>SDR Vs. HDR The Superiority of High Dynamic Range in Video Production for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-changing-a-different-accounts-password-on-windows/"><u>Step-by-Step Guide: Changing a Different Account's Password on Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-zoo-matic-guide-to-improved-snapchat-media-for-2024/"><u>The Zoo-Matic Guide to Improved Snapchat Media for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-a-detailed-tutorial-on-how-to-use-green-screen-in-kinemaster/"><u>[New] 2024 Approved A Detailed Tutorial On How To Use Green Screen In Kinemaster</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-bridging-language-barriers-adding-subtitles-to-windows-media-player/"><u>[New] Bridging Language Barriers Adding Subtitles to Windows Media Player</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-exploring-the-tech-marvel-of-lg-ud88-w-monitors-for-2024/"><u>[New] Exploring the Tech Marvel of LG UD88-W Monitors for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leveraging-secondary-footage-for-visual-impact/"><u>[New] Leveraging Secondary Footage for Visual Impact</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-easy-steps-how-to-master-the-best-of-9-free-youtube-logomakers/"><u>[Updated] In 2024, Easy Steps How to Master the Best of 9 Free YouTube Logomakers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lightweight-travel-bags-with-camera-integration/"><u>[Updated] Lightweight Travel Bags with Camera Integration</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-meme-madness-the-iphone-edition/"><u>[Updated] Meme Madness The iPhone Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-award-winners-in-writing-for-different-movie-types/"><u>2024 Approved Award Winners in Writing for Different Movie Types</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-your-edits-with-top-15-affordable-web-based-editors-2023/"><u>2024 Approved Master Your Edits with Top 15 Affordable Web-Based Editors, 2023</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-win11-a-detailed-look-at-zoom-functions/"><u>2024 Approved Navigating Win11 A Detailed Look at Zoom Functions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-internet-safety-for-less-discover-windscribes-secure-browsing-at-a-bargain-price-of-70-featured-on-zdnet/"><u>Enhance Internet Safety for Less! Discover Windscribe's Secure Browsing at a Bargain Price of $70, Featured on ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-xiaomi-redmi-note-12-4g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Xiaomi Redmi Note 12 4G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/podcasters-playlist-the-best-music-spots-to-open-your-ears-for-2024/"><u>Podcaster’s Playlist The Best Music Spots to Open Your Ears for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-features-apple-tv-4k-series-review/"><u>Unveiling the Features: Apple TV 4K Series Review</u></a></li>
 </ul></div>
 

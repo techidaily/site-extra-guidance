@@ -1,7 +1,7 @@
 ---
 title: Navigating the Lenovo IdeaPad 130S' Performance Limits - A Look at Its Impressive Usability Features
-date: 2025-01-28T19:13:02.552Z
-updated: 2025-01-31T03:25:44.472Z
+date: 2025-02-08T19:11:39.486Z
+updated: 2025-02-12T20:30:48.095Z
 categories:
   - BestProducts
 description: This Article Describes Navigating the Lenovo IdeaPad 130S' Performance Limits - A Look at Its Impressive Usability Features
@@ -45,6 +45,10 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/ll2Uv9bgkmIddyfa-EOFiFCtsyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Garmin-Vivosmart-4-Fitness-Tracker-1-0a7c6cef1af44b5c9acb1c657c292521.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Erika Rawes
 
 [View On Amazon $65](https://www.amazon.com/Garmin-010-01995-10-v%C3%ADvosmart-Activity-Midnight/dp/B07GM7WHBG?tag=lifewire-onsite-prod-20&ascsubtag=5072535%7Cn5f18362fc97d487e830fd6d6cfaf2af211%7CB07GM7WHBG) [View On Walmart $97](https://www.walmart.com/ip/Garmin-Fitness-Trackers-Vivo-smart-4-Large/546172113?slfpid=3) [View On Garmin.com $130](https://buy.garmin.com/en-US/US/p/605739/pn/010-01995-10)
@@ -67,10 +71,6 @@ Lifewire / Erika Rawes
 
  Fitness trackers have come a long way over the last few years, and you can find options in a variety of shapes, sizes, styles, and price ranges. The Garmin Vivosmart 4 is priced in about the mid-range, and it offers a few cool perks in addition to the standards like calorie counting and step counting. I tested the Garmin Vivosmart 4 for a month to see how it performs compared to other similarly priced fitness trackers on the market.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: You can’t remove the band**
 
  The Vivosmart is lightweight, weighing only 16.5 grams (for the small/medium size). It has a very slim profile, with the silicone band measuring only about a half of an inch in width. Now, this is great for style purposes, as the band looks great on the wrist. But, the slim design isn’t particularly functional, as the screen is extremely small and somewhat hard to read from a distance (especially if you have poor vision like me). The tiny screen measures a mere 0.26 inches wide by 0.70 inches tall.
@@ -79,7 +79,15 @@ Lifewire / Erika Rawes
 
 ![Garmin Vivosmart 4](https://www.lifewire.com/thmb/JsDCEVwOi6EK7WLcs2WJ03jOZb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Garmin-Vivosmart-4-Fitness-Tracker-3-ba9d18a527ae4b41a7242ffaccd1de30.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Comfort: You’ll forget you’re wearing it**
 
@@ -88,7 +96,7 @@ Lifewire / Erika Rawes
  The buckle doesn’t press into the skin or cause irritation, but the sides of the silicone band do leave indents on the wrist after long periods of wear. The Vivosmart 4 is waterproof, and you can wear it in the pool, wear it while showering, and in the rain without damaging the device. You really only have to take off the Vivosmart to charge the battery.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Body battery and stress monitoring**
@@ -111,10 +119,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Software: Garmin Connect App**
 
  The Vivosmart 4 doesn’t have any hard buttons, but rather a monotone touchscreen that you double-tap on the bottom portion to awaken. You scroll up and down to navigate through the various functions. I’m not in love with the interface, which isn’t particularly intuitive or feature-rich. Although companion apps are important to any good fitness tracker, the Vivosmart 4 relies too heavily on its app. It doesn’t have built-in GPS either, so it’s more tethered to your phone than some other fitness trackers on the market.
@@ -133,13 +137,13 @@ Lifewire / Erika Rawes
 
  The battery charges using a clip-on charger. It took an average of 90 minutes to reach a full charge (from about 10% full).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Reasonable**
 
  The Vivosmart 4 retails for $130, which is slightly high for this unit. You can find a refurbished version on Amazon for around $80, which is a more reasonable price.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Garmin Vivosmart 4 vs. Fitbit Charge 3**
 
@@ -150,10 +154,6 @@ Lifewire / Erika Rawes
 **A comfortable band with unique perks.**
 
  The Garmin Vivosmart 4 is a great option for anyone who wants to track their sleep, stress, energy, and cardio, but there are better options out there for weight training.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -195,24 +195,18 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-best-asmr-youtube-channels-you-should-know/"><u>[New] 2024 Approved Best ASMR YouTube Channels You Should Know</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-capitalizing-on-hairstyle-demonstrations/"><u>[New] 2024 Approved Capitalizing on Hairstyle Demonstrations</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-insta-to-tik-connection/"><u>[New] Navigating the Insta-to-Tik Connection</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-poker-professional-panelisms/"><u>[New] POKER PROFESSIONAL PANELISMS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premium-picks-top-macpc-bd-players-and-codecs/"><u>[New] Premium Picks Top Mac/PC BD Players and Codecs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-list-of-affordable-licensed-game-music-websites/"><u>[Updated] List of Affordable, Licensed Game Music Websites</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigate-to-your-preferred-stream-rate-netflixs-controls/"><u>[Updated] Navigate to Your Preferred Stream Rate - Netflix's Controls</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-video-streams-across-networks-using-vlc/"><u>[Updated] Navigating Video Streams Across Networks Using VLC</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-text-in-after-effects-the-best-10/"><u>[Updated] Perfecting Text in After Effects The Best 10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-satirical-images-jestjokes-studio/"><u>2024 Approved Satirical Images JestJokes Studio</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/guia-paso-a-paso-para-emparejar-archivos-con-dropbox-usando-windows-n-11-dos-formas-sencillas-resueltas/"><u>Guía Paso a Paso Para Emparejar Archivos Con Dropbox Usando Windows N 11: Dos Formas Sencillas Resueltas</u></a></li>
-<li><a href="https://fox-access.techidaily.com/harness-the-power-of-gopro-for-captivating-time-lapse-videos-for-2024/"><u>Harness the Power of GoPro for Captivating Time-Lapse Videos for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-sony-xperia-1-v-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Sony Xperia 1 V to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-speedy-tactics-for-disorganized-youtube-song-listings/"><u>In 2024, Speedy Tactics for Disorganized YouTube Song Listings</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/real-time-photo-editing-on-the-go-cropping-techniques-for-2024/"><u>Real-Time Photo Editing On-the-Go Cropping Techniques for 2024</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/simple-guide-to-safeguard-your-data-4-step-process-for-computer-file-backups/"><u>Simple Guide to Safeguard Your Data: 4-Step Process for Computer File Backups</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-breakdown-of-blue-screen-errors-deciphering-bsod-significance/"><u>The Comprehensive Breakdown of Blue Screen Errors - Deciphering BSOD Significance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transferer-un-fichier-amv-vers-wmv-sur-internet-gratuite-methode-de-convertisseur/"><u>Transférer Un Fichier AMV Vers WMV Sur Internet Gratuite - Méthode De Convertisseur</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-make-your-instagram-feed-pop-with-stop-motion-videos-tips-and-tricks/"><u>Updated 2024 Approved Make Your Instagram Feed Pop with Stop Motion Videos Tips and Tricks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-unparalleled-editing-experience-vimeo-edition-awaits/"><u>[New] In 2024, Unparalleled Editing Experience Vimeo Edition Awaits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-next-level-3d-watching-ultimate-guide-to-blu-ray-players/"><u>[Updated] Next-Level 3D Watching Ultimate Guide to Blu-Ray Players</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-diagnose-and-repair-livekernelevent-117-mishaps-efficiently/"><u>Expert Tips to Diagnose and Repair 'LiveKernelEvent 117' Mishaps Efficiently</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/from-empty-to-full-memory-card-revival-success-story-by-customer/"><u>From Empty to Full: Memory Card Revival Success Story by Customer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oneplus-11r-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to OnePlus 11R Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mac-masterclass-designing-eye-catching-yt-thumbnails/"><u>Mac Masterclass Designing Eye-Catching YT Thumbnails</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastering-hd-broadcasts-on-the-social-media-giant-fb-for-2024/"><u>Mastering HD Broadcasts on the Social Media Giant, FB for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/no-hassle-just-happiness-effortless-video-edits-on-windows-10-for-2024/"><u>No Hassle, Just Happiness Effortless Video Edits on Windows 10 for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-aiffwav-wmvmp3-converter-free-and-easy-upgrades-with-movavi/"><u>Online AIFF/WAV 투 WMV/MP3 Converter - Free & Easy Upgrades with Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722994764250-pathfinder-wrath-of-the-righteous-persistent-crash-problems-now-solved/"><u>Pathfinder: Wrath of the Righteous - Persistent Crash Problems Now Solved</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/stand-out-with-style-ios-and-androids-best-apps-for-adding-stickers-for-2024/"><u>Stand Out with Style IOS and Android's Best Apps for Adding Stickers for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/stepping-into-the-unseen-mastering-windows-11-through-less-known-tips-for-2024/"><u>Stepping Into the Unseen Mastering Windows 11 Through Less-Known Tips for 2024</u></a></li>
 </ul></div>
 

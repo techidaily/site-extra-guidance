@@ -1,7 +1,7 @@
 ---
 title: Ultimate Fix for Persistent Crashing Problems in Revived Diablo II
-date: 2025-01-25T04:36:47.191Z
-updated: 2025-01-30T17:22:11.986Z
+date: 2025-02-11T18:30:48.820Z
+updated: 2025-02-12T18:08:38.426Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
  If your computer isn’t powerful enough to run a demanding game like Diablo 2 Resurrected, you may run into the crashes constantly. That’s why you should always check the game’s minimum system requirements before you proceed to the more advanced steps.
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 
 If this method doesn’t help, check out your graphics driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3 – Update your graphics driver
 
  The graphics driver is essential to a smooth gaming experience. If your graphics driver is faulty or outdated, Diablo 2 Resurrected crashing is more likely to occur. To fix it, you should update your graphics driver to the latest.
@@ -70,21 +62,17 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer for the changes to take effect and test if the issue persists. If yes, don’t frustrate, and move on to the following fixes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Run the game as an administrator
 
@@ -99,12 +87,16 @@ If this method doesn’t help, check out your graphics driver.
 4. Click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair corrupt game files
 
@@ -114,6 +106,10 @@ If this method doesn’t help, check out your graphics driver.
 2. At the bottom, click the**gear icon** next to the Play button and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
@@ -129,10 +125,14 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **On GeForce Experience**
@@ -167,18 +167,24 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-how-to-record-podcast-remotely/"><u>[New] In 2024, How to Record Podcast Remotely</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-live-stream-titans-clash-twitch-vs-youtube-analysis/"><u>[New] Live-Stream Titans Clash Twitch Vs YouTube Analysis</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unearth-pristine-stock-media-from-selective-4-youtube-hubs/"><u>[Updated] 2024 Approved Unearth Pristine Stock Media From Selective 4 YouTube Hubs</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-inside-the-tech-a-comprehensive-review-of-apowersofts-recorder/"><u>[Updated] Inside the Tech A Comprehensive Review of Apowersoft’s Recorder</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-highlighting-the-best-of-fig-skates-2022/"><u>2024 Approved Highlighting the Best of Fig Skates 2022</u></a></li>
-<li><a href="https://video-capture.techidaily.com/fix-for-silent-audio-on-obs-for-2024/"><u>Fix for Silent Audio on OBS for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-rate-free-discovering-the-elite-10-luts/"><u>In 2024, Premium-Rate Free Discovering the Elite 10 LUTs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-and-easy-techniques-for-facebook-image-puzzling/"><u>In 2024, Quick and Easy Techniques for Facebook Image Puzzling</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/max-360-and-hero-11-gopro-comparison-which-reigns-supreme-in-2024/"><u>Max 360 and Hero 11 GoPro Comparison - Which Reigns Supreme, In 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-apple-musics-educational-offers-a-comprehensive-tutorial-on-snagging-a-budget-friendly-subscription-for-students/"><u>Navigating Apple Music's Educational Offers: A Comprehensive Tutorial on Snagging a Budget-Friendly Subscription for Students</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/remote-zoom-controls-for-easy-filming-adjustments-for-2024/"><u>Remote Zoom Controls for Easy Filming Adjustments for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-adobes-launch-problem-overcoming-the-critical-error-0xc0000022/"><u>Solving Adobe's Launch Problem: Overcoming the Critical Error 0Xc0000022</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unlock-cross-platform-video-editing-run-windows-and-mac-apps-on-chromebook/"><u>Unlock Cross-Platform Video Editing Run Windows & Mac Apps on Chromebook</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-hangout-history-top-4-strategies-for-2024/"><u>[New] Hangout History Top 4 Strategies for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-journey-through-filmora-editing-10-standout-functions/"><u>[New] Journey Through Filmora Editing 10 Standout Functions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reinstate-windows-photo-viewer-quickly-on-your-windows-10-pc/"><u>[New] Reinstate Windows Photo Viewer Quickly on Your Windows 10 PC</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-broadcast-brilliance-with-cost-effective-templates/"><u>[Updated] Broadcast Brilliance with Cost-Effective Templates</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-share-laughter-easily-use-kapwing-to-make-memes/"><u>[Updated] Share Laughter Easily - Use Kapwing to Make Memes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-is-this-a-bug-or-intentional-edit-on-instagram/"><u>2024 Approved Is This a Bug or Intentional Edit on Instagram?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-luminous-upgrades-5-must-try-online-video-tools/"><u>2024 Approved Luminous Upgrades 5 Must-Try Online Video Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-select-best-dvd-software-for-sierra-mac-users/"><u>2024 Approved Select Best Dvd Software for Sierra Mac Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-state-of-the-art-devices-for-online-live-shows/"><u>2024 Approved State-of-the-Art Devices for Online Live Shows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/aimp-pro-streaming-enhancer-without-wmsp-for-2024/"><u>AIMP Pro Streaming Enhancer Without WMSP for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/disk-space-management-for-win11-and-10-users/"><u>Disk Space Management for Win11 & 10 Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-leverage-the-power-of-live-streaming-strategies-for-facebook-dominance/"><u>In 2024, Leverage the Power of Live Streaming Strategies for Facebook Dominance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-podcasting-prowess-crafting-a-trendsetting-showcase/"><u>In 2024, Podcasting Prowess Crafting a Trendsetting Showcase</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-seamless-video-creation-premiere-pro-free-2023/"><u>In 2024, Seamless Video Creation - Premiere Pro FREE 2023</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unveiling-this-years-prime-pc-vr-tech/"><u>In 2024, Unveiling This Year's Prime PC VR Tech</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/kostenlose-umwandlung-von-alaw-in-wav-movavi-streaming-dienste/"><u>Kostenlose Umwandlung Von ALAW in WAV - Movavi Streaming Dienste</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mirth-mechanics-zombie-satire-units-for-2024/"><u>Mirth Mechanics Zombie Satire Units for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/pinpointing-video-picks-s-social-landscape-facebook/"><u>Pinpointing Video Picks 'S Social Landscape (Facebook)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/starting-point-auditions-approach-to-soft-volume-increase/"><u>Starting Point Audition's Approach to Soft Volume Increase</u></a></li>
 </ul></div>
 

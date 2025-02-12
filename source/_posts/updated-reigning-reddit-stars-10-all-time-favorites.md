@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Reigning Reddit Stars  10 All-Time Favorites\""
-date: 2025-01-30T04:24:34.888Z
-updated: 2025-01-30T16:57:20.990Z
+date: 2025-02-11T17:16:37.344Z
+updated: 2025-02-12T20:37:07.581Z
 tags: 
   - screen-recording
   - ai video
@@ -39,10 +39,14 @@ Here they are!
 
 * [Video – Top 10 Most Upvoted Posts on Reddit](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10 Most Upvoted Reddit Posts of All Time
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The Senate (/r/movies)
@@ -111,19 +115,23 @@ The phrase "this is extremely dangerous to our democracy" is repeated repeatedly
 
 ![thirsty frog takes a bath reddit](https://images.wondershare.com/filmora/article-images/2023/01/frog-taking-a-bath.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Some things on Reddit don't have to make sense to get a lot of attention.
 
 Like this frog, for example. 99% out of the 313k voters on this post upvoted and loved watching this tiny frog take a bath on a hot summer day.
 
 That's all there is to it. No politics, no serious issues, and so on. Just a frog trying to cool off in a bottle cup.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Battle for Net Neutrality (/r/books)
 
 ![battle for net neutrality reddit post](https://images.wondershare.com/filmora/article-images/2023/01/battle-for-net-neutrality.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This is another most upvoted Reddit post that encouraged over 180k users to join the battle for net neutrality. Again, 86% of these users are upvoters who agree with the statements in the post.
 
@@ -169,6 +177,10 @@ Whatever you decide to do, feel free to reflect on these posts and enjoy reading
 
 10 Most Upvoted Reddit Posts of All Time
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. The Senate (/r/movies)
 
 ![chancellor palpatine the senate](https://images.wondershare.com/filmora/article-images/2023/01/the-senate.png)
@@ -179,13 +191,13 @@ When writing the article (Nov., 2022), this Reddit post features over 400k votes
 
 ![times square billboard](https://images.wondershare.com/filmora/article-images/2023/01/times-square-billboard.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Its purpose is quite ironic. The point was to make this image of Chancellor Palpatine from Star Wars the first result on Google whenever someone searched for "The Senate."
 
 Sadly, the attempt failed but still received a lot of attention.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. $GME GO BRRR (r/wallstreetbets)
 
@@ -195,13 +207,13 @@ It represents a fun and public meme of someone buying a billboard in New York. T
 
 $GME stands for GameStop's stock name. BRR represents printing money. The idea behind it - publicly displaying the astonishing soar of GameStop's stock at that time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Rick Astley Rides a Bike (r/pics)
 
 ![rick astley rides a bike](https://images.wondershare.com/filmora/article-images/2023/01/rick-astley-old-photo.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Posted in 2020, this one currently has 438k votes with 99% Upvotes. It was posted by a famous user known on Reddit as [/u/ReallyRickAstley](https://www.reddit.com/user/ReallyRickAstley/).
 
@@ -221,10 +233,6 @@ What's even more interesting is that the driver commented on this Reddit post, l
 
 ![showing a game you mastered reddit post](https://images.wondershare.com/filmora/article-images/2023/01/angry-gamer.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Reddit gets most of its users inside its gaming communities. As a result, these can be some of the hottest topics with countless popular posts.
 
 This one, for example, features 269k votes. 98% of them Upvoted, all probably enthusiastic gamers themselves.
@@ -238,7 +246,7 @@ You understand the pain if you've gone through something like this.
 ![all news anchors say the same thing reddit](https://images.wondershare.com/filmora/article-images/2023/01/news-anchors.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 293k users voted on this post, revealing what it looks like when a single company owns dozens of local news stations.
@@ -246,10 +254,6 @@ You understand the pain if you've gone through something like this.
 The phrase "this is extremely dangerous to our democracy" is repeated repeatedly in every news broadcast from these news stations.
 
 97% of these 293k users upvoted and agreed that all news anchors say the same thing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Thirsty Frog Takes a Bath (r/aww)
 
@@ -262,7 +266,7 @@ Like this frog, for example. 99% out of the 313k voters on this post upvoted and
 That's all there is to it. No politics, no serious issues, and so on. Just a frog trying to cool off in a bottle cup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Battle for Net Neutrality (/r/books)
@@ -277,6 +281,10 @@ It's a post with a title and a link to a site where anyone can join the battle. 
 
 ![reddit post of deangelo juggling balls the office](https://images.wondershare.com/filmora/article-images/2023/01/deangelo-juggling-balls-on-the-office.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Millions of fans worldwide loved The Office with Steve Carell, a.k.a Michael Scott. One of the funniest moments was when Will Ferrell juggled imaginary balls in the Dunder Mifflin office.
 
 Well, a Reddit user made an edit of this clip and now it looks as if Will juggled four balls... then five.
@@ -287,10 +295,6 @@ The post has a 98% upvote rate with 170k voters in total. The reason it's so pop
 
 ![reddit post of soldier and his fathers message](https://images.wondershare.com/filmora/article-images/2023/01/brave-soldier-buried-with-his-devoted-troops-reddit.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Finally, this is an inspiring and heartwarming post about a brave troop.
 
 At this time, the post has 155k votes of which 93% are upvotes. Readers love the post because it shows a true story during a war. None of us can resist such tales.
@@ -300,10 +304,6 @@ The troop is known as Col. Shaw. The confederates buried this man in a mass grav
 After an attempt by Union Troops to recover his body, they received a letter from Col' Shaw's father, saying, "_We would not have his body removed from where it lies surrounded by his brave and devoted soldiers._"
 
 The Reddit post has over 4k comments, many of which feature thousands of upvotes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Video – Top 10 Most Upvoted Posts on Reddit
 
@@ -343,22 +343,18 @@ Whatever you decide to do, feel free to reflect on these posts and enjoy reading
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-mac-assisted-ootd-videography-secrets-revealed/"><u>[New] In 2024, Mac-Assisted OOTD Videography Secrets Revealed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-world-of-srt-with-ease/"><u>[New] Navigating the World of SRT with Ease</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-speedy-social-media-collage-crafting-strategies/"><u>[New] Speedy Social Media Collage Crafting Strategies</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-filming-perfecting-the-chroma-key-effect/"><u>[Updated] Instagram Filming Perfecting the Chroma Key Effect</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-progressive-presentation-kick-off/"><u>[Updated] Progressive Presentation Kick-Off</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-omega-series-high-definition-full-touch-workstations/"><u>2024 Approved Omega Series High Definition Full Touch Workstations</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-your-content-discover-these-top-8-mobile-editors/"><u>2024 Approved Perfect Your Content Discover These Top 8 Mobile Editors</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-xiaomi-redmi-k70-pro-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Xiaomi Redmi K70 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-xiaomi-redmi-note-12t-pro-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Xiaomi Redmi Note 12T Pro Phone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-for-flawless-audio-transitions-with-audacity/"><u>In 2024, Step-by-Step for Flawless Audio Transitions with Audacity</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-y100-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo Y100 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/innovative-approaches-to-macos-subtitles-editing/"><u>Innovative Approaches to macOS Subtitles Editing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/kit-list-for-road-trip-movie-making-for-2024/"><u>Kit List for Road-Trip Movie Making for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-wintoys-an-efficient-and-comprehensive-guide-to-a-versatile-window-utility/"><u>Mastering 'WinToys': An Efficient and Comprehensive Guide to a Versatile Window Utility</u></a></li>
-<li><a href="https://win11.techidaily.com/moving-onedrive-to-a-new-directory-in-windows-10/"><u>Moving OneDrive to a New Directory in Windows 10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/optimizing-your-creative-process-windows-movie-maker-on-windows-8-unveiled-for-2024/"><u>Optimizing Your Creative Process Windows Movie Maker on Windows 8 Unveiled for 2024</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/the-essentials-of-vat-value-added-tax-everything-you-need-to-know/"><u>The Essentials of VAT (Value Added Tax): Everything You Need to Know</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ishowu-audio-capture-download-and-review/"><u>[New] 2024 Approved IShowU Audio Capture Download and Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-choose-right-gopro-hero5-vs-garmin-virb-updated-22/"><u>[New] Choose Right GoPro Hero5 Vs. Garmin VIRB (Updated '22)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-proven-steps-to-distance-friendly-podcasting-excellence-for-2024/"><u>[New] Proven Steps to Distance-Friendly Podcasting Excellence for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sky-high-security-for-your-photos-explore-free-and-paid-options/"><u>[New] Sky-High Security for Your Photos Explore Free and Paid Options</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-tips-for-clearer-audio-in-home-based-podcasts/"><u>[Updated] In 2024, Tips for Clearer Audio in Home-Based Podcasts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-explore-your-watching-tendencies-the-ultimate-six-youtuber-categorization-challenges/"><u>2024 Approved Explore Your Watching Tendencies The Ultimate Six YouTuber Categorization Challenges</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-tools-for-image-video-production/"><u>2024 Approved Master Tools for Image Video Production</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-snickerslide-social-media-memes-made-simple/"><u>2024 Approved SnickerSlide Social Media Memes Made Simple</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-apple-techniques-for-high-quality-interviews-on-air/"><u>2024 Approved Step-by-Step Apple Techniques for High-Quality Interviews on Air</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximum-memory-accessory-for-sony-a7s-ii/"><u>In 2024, Maximum Memory Accessory for Sony A7S II</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-sound-to-your-laptops-internal-speakers-with-these-proven-solutions/"><u>Restore Sound to Your Laptop's Internal Speakers with These Proven Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/successful-guide-downloading-and-installing-the-arduino-nano-ide-on-your-pc-with-windows/"><u>Successful Guide: Downloading & Installing the Arduino Nano IDE on Your PC with Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-scoring-amazing-savings-on-amazon-prime-day-2024-this-october-zdnet-insights/"><u>The Ultimate Guide to Scoring Amazing Savings on Amazon Prime Day 2024 This October | ZDNET Insights</u></a></li>
 </ul></div>
 

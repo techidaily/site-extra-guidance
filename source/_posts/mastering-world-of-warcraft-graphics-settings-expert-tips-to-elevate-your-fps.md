@@ -1,7 +1,7 @@
 ---
 title: Mastering World of Warcraft Graphics Settings - Expert Tips to Elevate Your FPS
-date: 2025-01-23T16:58:27.514Z
-updated: 2025-01-30T17:36:00.503Z
+date: 2025-02-09T18:34:47.008Z
+updated: 2025-02-12T19:46:48.642Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 As one of the most awaited games in 2022, Elden Ring is finally here. However many players are not that happy with their gameplay. Various types of performance issues and technical bugs have been reported since the release. If you’re also experiencing**insufferable Elden Ring FPS drops and constant stuttering** , don’t worry. In this post, we’ve put together all the simple and quick fixes for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -47,21 +47,21 @@ To keep your graphics driver up-to-date, here are two options for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the driver update, relaunch the game to see how it works. If the problem persists, there are more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Optimize graphics settings
 
@@ -71,18 +71,26 @@ To keep your graphics driver up-to-date, here are two options for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings-1.jpg)
 2. Click**Desktop app** from the drop-down list and click**Browse** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dedicated-gpu-3.jpg)
 3. Go to the game’s installation folder and add the**eldenring.exe file** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Once it’s added, click it and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/graphics-settings-1.jpg)
 5. Select**High performance** and click**Save** .
 
-If this method doesn’t work, try the next solution.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If this method doesn’t work, try the next solution.
 
 ### Fix 3 – Verify integrity of game files
 
@@ -94,6 +102,10 @@ If this method doesn’t work, try the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
@@ -113,14 +125,10 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Restart the game and test. Still no luck? Continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Disable Microsoft Device Association Root Enumerator
 
@@ -136,15 +144,7 @@ Restart the game and test. Still no luck? Continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
 4. Click**Yes** to confirm.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
 
@@ -156,14 +156,14 @@ Restart the game and test. Still no luck? Continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-1.jpg)
 2. Click **3D settings** \> **Manage 3D settings** in the left pane.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 3. Under the**Global Settings** tab, scroll through the list to find**Shader Cache Size** and set it to**Unlimited** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Apply the changes and see if you’re able to play the game as expected.
 
@@ -189,20 +189,17 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-10-best-metaverse-games-you-can-play-with-friends/"><u>[New] 10 Best Metaverse Games You Can Play with Friends</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-enhancing-facebooks-reflective-feature-editing-techniques-for-2024/"><u>[New] Enhancing Facebook's Reflective Feature Editing Techniques for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-soundscapes-synopsis-a-guide-to-visual-tunes/"><u>[New] Soundscapes Synopsis A Guide to Visual Tunes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-how-to-make-a-photomontage/"><u>[Updated] How to Make a PhotoMontage</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-selecting-the-best-hdr-cameras-simplified/"><u>[Updated] Selecting the Best HDR Cameras Simplified</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/8-best-screen-capture-tools-for-linux/"><u>8 Best Screen Capture Tools for Linux</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/immediate-purchase-top-3-newest-apple-devices-announced-at-wwdc-with-easy-online-preorders-cnet/"><u>Immediate Purchase: Top 3 Newest Apple Devices Announced at WWDC with Easy Online Preorders | CNET</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-simplify-viewing-incorporating-subtitles-into-wmp/"><u>In 2024, Simplify Viewing Incorporating Subtitles Into WMP</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-your-iphones-battery-life-suffering-post-ios-update-1751-discover-7-proven-fixes-techzoo/"><u>Is Your iPhone's Battery Life Suffering Post-iOS Update 17.5.1? Discover 7 Proven Fixes | TechZoo</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/parrots-drone-redesign-advanced-edition-review-for-2024/"><u>Parrot's Drone Redesign - Advanced Edition Review for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prime-7-cameras-unbeatable-in-underwater-shooting-for-2024/"><u>Prime 7 Cameras Unbeatable In Underwater Shooting for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/prime-single-board-computers-for-windows-lovers/"><u>Prime Single-Board Computers for Windows Lovers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/sparkle-in-your-ads-20-most-effective-marketing-terms-for-2024/"><u>Sparkle in Your Ads 20 Most Effective Marketing Terms for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-apple-iphone-13-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from Apple iPhone 13 Pro iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-asana-actions-for-fixing-windows-issues/"><u>Unblocking Asana: Actions for Fixing Windows Issues</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-examining-youtubes-copyright-stance-versus-cc-approach/"><u>[New] 2024 Approved Examining Youtube's Copyright Stance Versus CC Approach</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-expanding-screen-coverage-of-youtube-videos/"><u>[New] In 2024, Expanding Screen Coverage of YouTube Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimal-exercise-vibes-selecting-peak-motivational-music/"><u>[New] Optimal Exercise Vibes Selecting Peak Motivational Music</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-safeguarding-sound-quality-while-speeding-up-tracks/"><u>[New] Safeguarding Sound Quality While Speeding Up Tracks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-insiders-guide-how-to-buy-a-future-ready-360-camera/"><u>2024 Approved Insider's Guide How to Buy a Future-Ready 360 Camera</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-the-silence-proven-techniques-to-solve-webex-microphone-problems/"><u>Beat the Silence: Proven Techniques to Solve Webex Microphone Problems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/examining-how-youtube-curates-its-highlighted-discussion-threads/"><u>Examining How YouTube Curates Its Highlighted Discussion Threads</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-can-i-get-back-lost-data-on-my-computer-without-paying/"><u>How Can I Get Back Lost Data on My Computer Without Paying?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-how-to-take-landscape-photos-on-iphone-killer-tips/"><u>In 2024, How to Take Landscape Photos on iPhone [Killer Tips]</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-select-top-6-slide-show-apps-for-latest-iphone-models/"><u>In 2024, Select Top 6 Slide Show Apps for Latest iPhone Models</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-itel-p55t-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Itel P55T? Fixed | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-crash-issues-in-yakuza-nthe-song-of-life-for-windows-users/"><u>Troubleshooting Guide: Resolving Crash Issues in Yakuza nThe Song of Life for Windows Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Lens Hacks  Capturing Perfect Reflections\""
-date: 2025-01-25T04:10:32.526Z
-updated: 2025-01-31T03:06:07.165Z
+date: 2025-02-08T19:02:13.235Z
+updated: 2025-02-12T19:36:48.191Z
 tags: 
   - screen-recording
   - ai video
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![reflection-photography-for-iPhone](https://images.wondershare.com/filmora/article-images/crystal-ball.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Water in a wine glass (turns everything upside down too!)
@@ -68,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![reflection-composition-tips](https://images.wondershare.com/filmora/article-images/reflection-composition-tips.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To activate the lines simply go to **Settings > Camera and Photographs > Grid**
 
 #### 3\.  Keep it Simple
@@ -87,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
  Awful
 
 ![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 4\.  Reality and Reflection
 
@@ -107,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Post Production Reflective Effects
@@ -129,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![reflect-mirror-camera-app](https://images.wondershare.com/filmora/article-images/reflect-mirror-camera-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Really easy to use entry level app, you can simply add reflections to your photos and there's also an option to do this as you take the photograph. The user interface is really clean and easy to use. You also get access to a massive library of templates and effects to make photos truly unique.
 
 #### 2\. Reflection
@@ -142,7 +146,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
@@ -150,10 +154,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 #### 4\. Photo Mirror Effects
 
 ![photo-mirror-effects-reflection-editor](https://images.wondershare.com/filmora/article-images/photo-mirror-effects-reflection-editor.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Another great choice for getting started with reflective photography. It has some mid range editing features, but this is made up in it's easy of use. Perhaps one of the best free reflective photography apps and you can even share the images directly to your social media feeds.
 
@@ -176,19 +176,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-a-detailed-tutorial-on-how-to-use-green-screen-in-kinemaster/"><u>[New] 2024 Approved A Detailed Tutorial On How To Use Green Screen In Kinemaster</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-bridging-language-barriers-adding-subtitles-to-windows-media-player/"><u>[New] Bridging Language Barriers Adding Subtitles to Windows Media Player</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-exploring-the-tech-marvel-of-lg-ud88-w-monitors-for-2024/"><u>[New] Exploring the Tech Marvel of LG UD88-W Monitors for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-leveraging-secondary-footage-for-visual-impact/"><u>[New] Leveraging Secondary Footage for Visual Impact</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-easy-steps-how-to-master-the-best-of-9-free-youtube-logomakers/"><u>[Updated] In 2024, Easy Steps How to Master the Best of 9 Free YouTube Logomakers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-lightweight-travel-bags-with-camera-integration/"><u>[Updated] Lightweight Travel Bags with Camera Integration</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-meme-madness-the-iphone-edition/"><u>[Updated] Meme Madness The iPhone Edition</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-award-winners-in-writing-for-different-movie-types/"><u>2024 Approved Award Winners in Writing for Different Movie Types</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-your-edits-with-top-15-affordable-web-based-editors-2023/"><u>2024 Approved Master Your Edits with Top 15 Affordable Web-Based Editors, 2023</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-win11-a-detailed-look-at-zoom-functions/"><u>2024 Approved Navigating Win11 A Detailed Look at Zoom Functions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-internet-safety-for-less-discover-windscribes-secure-browsing-at-a-bargain-price-of-70-featured-on-zdnet/"><u>Enhance Internet Safety for Less! Discover Windscribe's Secure Browsing at a Bargain Price of $70, Featured on ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-xiaomi-redmi-note-12-4g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Xiaomi Redmi Note 12 4G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/podcasters-playlist-the-best-music-spots-to-open-your-ears-for-2024/"><u>Podcaster’s Playlist The Best Music Spots to Open Your Ears for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-features-apple-tv-4k-series-review/"><u>Unveiling the Features: Apple TV 4K Series Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-journey-to-blockchain-stardom-discover-the-top-7-generator-tools/"><u>[New] Journey to Blockchain Stardom - Discover the Top 7 Generator Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-pricing-framework-music-video-filming-costs/"><u>[Updated] 2024 Approved Pricing Framework Music Video Filming Costs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-streamlining-remote-recordings-a-producers-guide/"><u>[Updated] In 2024, Streamlining Remote Recordings A Producer’s Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-laugh-loom-imgur-memomaker/"><u>[Updated] Laugh Loom Imgur MemoMaker</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-meditative-playlist-top-10-free-tracks-for-serenity/"><u>[Updated] Meditative Playlist Top 10 Free Tracks for Serenity</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-nailing-instagram-aesthetics-tips-for-video-dimensions/"><u>[Updated] Nailing Instagram Aesthetics Tips for Video Dimensions</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728486856530-ssd/"><u>「瞬時にSSDドライブ内のデータ復元手順」</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-voice-to-text-programs/"><u>2024 Approved Leading Voice to Text Programs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-commercial-sky-data-haven/"><u>2024 Approved Premium Commercial Sky Data Haven</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revel-in-the-wonders-of-asmrs-positive-effects/"><u>2024 Approved Revel in the Wonders of ASMR's Positive Effects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-3d-printing-skills-by-utilizing-chatgpts-powerful-tools-and-insights/"><u>Boost Your 3D Printing Skills by Utilizing ChatGPT's Powerful Tools and Insights</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-your-favorite-songs-and-movies-for-free-directly-from-itunes-no-cost-at-all/"><u>Get Your Favorite Songs and Movies for Free Directly From iTunes – No Cost at All</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gratuita-conversora-de-memoria-ram-a-formato-mpeg-herramienta-en-linea-con-revision-profesional/"><u>Gratuita Conversora De Memoria RAM a Formato MPEG: Herramienta en Línea Con Revisión Profesional</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/immersive-education-the-role-of-virtual-reality/"><u>Immersive Education The Role of Virtual Reality</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-iphone-tricks-for-stunning-reflection-shots/"><u>In 2024, Pro iPhone Tricks for Stunning Reflection Shots</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/meditative-tunes-top-free-sounds-to-unwind-and-relax-for-2024/"><u>Meditative Tunes – Top Free Sounds to Unwind & Relax for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-resolving-constant-content-warning-app-crashes-on-your-computer/"><u>Troubleshooting Steps: Resolving Constant 'Content Warning' App Crashes on Your Computer</u></a></li>
 </ul></div>
 

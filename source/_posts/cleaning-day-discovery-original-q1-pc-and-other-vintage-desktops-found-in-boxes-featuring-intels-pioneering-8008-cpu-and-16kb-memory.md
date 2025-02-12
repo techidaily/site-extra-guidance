@@ -1,7 +1,7 @@
 ---
 title: "Cleaning Day Discovery: Original Q1 PC and Other Vintage Desktops Found in Boxes, Featuring Intel's Pioneering 8008 CPU and 16KB Memory"
-date: 2025-01-23T21:08:35.526Z
-updated: 2025-01-31T03:09:17.468Z
+date: 2025-02-11T20:35:33.570Z
+updated: 2025-02-12T16:59:52.577Z
 tags:
   - desktop
 categories:
@@ -54,7 +54,7 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -80,19 +80,18 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-seeking-freebies-learn-instagrams-secret-for-additional-filters/"><u>[New] 2024 Approved Seeking Freebies? Learn Instagram’s Secret for Additional Filters</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-leap-into-adventure-mastering-the-realm-of-virtual-reality/"><u>[New] Leap Into Adventure Mastering the Realm of Virtual Reality</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-perfected-pixelated-photos-follow-the-10-key-composition-guidelines/"><u>[New] Perfected Pixelated Photos Follow the 10 Key Composition Guidelines</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-elite-listings-easy-purchases-of-startup-youtube-revenue-streams-for-2024/"><u>[Updated] Elite Listings Easy Purchases of Startup YouTube Revenue Streams for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-visual-mastery-redefined-the-z32x-dreamcolor-edition-for-2024/"><u>[Updated] Visual Mastery Redefined The Z32X DreamColor Edition for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-ways-to-link-your-laptop-screen-to-your-tv-via-hdmi-cable/"><u>Easy Ways to Link Your Laptop Screen to Your TV via HDMI Cable</u></a></li>
-<li><a href="https://win-dash.techidaily.com/find-and-install-the-new-amd-radeon-r5-drivers-on-your-windows-system/"><u>Find and Install the New AMD Radeon R5 Drivers on Your Windows System</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-jumpstart-your-video-projects-access-free-stunning-banner-templates/"><u>In 2024, Jumpstart Your Video Projects Access Free, Stunning Banner Templates</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-music-management-made-simple-in-inshot/"><u>In 2024, Music Management Made Simple in InShot</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-podcast-vs-youtube-the-battle-of-audio-and-visual-media/"><u>In 2024, Podcast vs YouTube The Battle of Audio and Visual Media</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-start-making-movies-8-best-film-cameras-under-300/"><u>In 2024, Start Making Movies 8 Best Film Cameras Under $300</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-rough-trails-with-top-races-revolutionary-rc-rock-crawler/"><u>Navigating Rough Trails with Top Race's Revolutionary RC Rock Crawler</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/on-screen-image-enhancement-mastering-online-cropping-tactics-for-2024/"><u>On-Screen Image Enhancement Mastering Online Cropping Tactics for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-challenges-when-running-the-windows-computer-wellness-app/"><u>Overcoming Challenges When Running the Windows Computer Wellness App</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-strategic-mastery-pinpointing-top-7-total-war-battles/"><u>[New] 2024 Approved Strategic Mastery Pinpointing Top 7 Total War Battles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionizing-work-with-windows-10-innovations/"><u>[New] Revolutionizing Work with Windows 10 Innovations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-ringtone-riches-where-to-acquire-vintage-melodies-online/"><u>[New] Ringtone Riches Where to Acquire Vintage Melodies Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-must-have-top-8-wallpapers-and-themes-for-mbp-users/"><u>[Updated] Must-Have Top 8 Wallpapers & Themes for MBP Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-roi-with-targeted-market-research-strategies/"><u>2024 Approved Maximizing ROI with Targeted Market Research Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-most-immersive-dolby-atmos-films-to-watch-at-home-ranked-1-15/"><u>Discover the Most Immersive Dolby Atmos Films to Watch at Home, Ranked #1-#15</u></a></li>
+<li><a href="https://article-helps.techidaily.com/exploring-whatsapp-voice-chat-features-for-2024/"><u>Exploring WhatsApp Voice Chat Features for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-7-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 7 Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illuminate-canon-cameras-combining-freebies-and-paid-lut-sets/"><u>In 2024, Illuminate Canon Cameras Combining Freebies and Paid LUT Sets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/natural-landscapes-essential-templates-to-improve-your-film-craft-for-2024/"><u>Natural Landscapes Essential Templates to Improve Your Film Craft for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/speed-up-your-social-art-collage-creation-on-the-fly-for-2024/"><u>Speed-Up Your Social Art Collage Creation on the Fly for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/sweet-surveillance-guide-to-recording-summer-treats-for-2024/"><u>Sweet Surveillance Guide to Recording Summer Treats for 2024</u></a></li>
 </ul></div>
 

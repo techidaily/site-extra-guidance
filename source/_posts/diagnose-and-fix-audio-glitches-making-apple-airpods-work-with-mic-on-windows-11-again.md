@@ -1,7 +1,7 @@
 ---
 title: "Diagnose and Fix Audio Glitches: Making Apple AirPods Work with Mic on Windows 11 Again"
-date: 2025-01-25T07:48:26.068Z
-updated: 2025-01-30T17:14:00.109Z
+date: 2025-02-05T20:54:07.657Z
+updated: 2025-02-12T20:39:58.802Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ Are you facing no sound issues on Windows 11? Or maybe you’re suffering from t
 Before you start, make sure your headset is working properly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -33,10 +33,6 @@ Before you start, make sure your headset is working properly.
 4. [**Update your Windows system**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Enable Enhance audio
 
  If you have sound issues or can’t bear an awful sound that goes through your headset, this simple trick may help. We don’t know the mechanism behind the trick yet, but many users have proved it’s a working fix.
@@ -47,7 +43,7 @@ Before you start, make sure your headset is working properly.
 3. Scroll down to find**Enhance audio** . Turn Enhance audio on and then back off.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound2.jpg)
@@ -72,7 +68,7 @@ If this trick doesn’t work for you, please move to the next fix.
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -87,15 +83,11 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound3.jpg)
 2. Expand**Sound, video and game controllers** . Find**Realtek audio** and right-click on it. Choose**Update driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound4.jpg)
 3. Click**Browse my computer for drivers** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound5.jpg)
@@ -108,13 +100,17 @@ If this fix doesn’t help, move to the next fix.
 6. Click**Yes** in the pop-up window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound8.jpg)
 7. Restart your PC for the changes to take effect.
 
 8. Check the sound on your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your Windows system
 
@@ -138,6 +134,10 @@ If this fix doesn’t help, move to the next fix.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
@@ -164,20 +164,18 @@ If this fix doesn’t help, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-cutting-edge-techniques-for-exceptional-podcast-recordings-via-zoom/"><u>[New] In 2024, Cutting Edge Techniques for Exceptional Podcast Recordings via Zoom</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-leading-vector-image-creators-the-ultimate-10-tool-guide/"><u>[New] Leading Vector Image Creators The Ultimate 10-Tool Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-portrait-of-creativity-discover-the-bestiary-of-8-inspiring-ios-drawing-apps/"><u>[New] Portrait of Creativity Discover the Bestiary of 8 Inspiring iOS Drawing Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leading-5-underwater-filters-for-gopro-videos/"><u>[Updated] Leading 5 Underwater Filters for Gopro Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-review-spotlight-on-yuneecs-aerodrone-typhoon-h/"><u>[Updated] Review Spotlight on Yuneec’s AeroDrone Typhoon H</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-latest-overhaul-sonys-s6500-hd-and-bd-player-review/"><u>2024 Approved Latest Overhaul Sony's S6500 HD & BD Player Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-cut-screenplay-snippet/"><u>2024 Approved Quick-Cut Screenplay Snippet</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-80-pro-straight-screen-edition-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor 80 Pro Straight Screen Edition Devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-printer-software-for-windows-11-installation-steps/"><u>Get the Newest HP Printer Software for Windows 11 - Installation Steps</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-meizu-21-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Meizu 21 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-streaming-wars-recap-fb-live-yt-live-and-twitter-spaces/"><u>In 2024, Streaming Wars Recap FB LIVE, YT Live & Twitter Spaces</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-the-invisible-web-seo-secrets-for-podcasters/"><u>In 2024, The Invisible Web SEO Secrets for Podcasters</u></a></li>
-<li><a href="https://fox-place.techidaily.com/maximizing-your-machine-expert-tips-for-clearing-up-space-by-yl-computing/"><u>Maximizing Your Machine: Expert Tips for Clearing Up Space by YL Computing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/rise-above-the-noise-nine-strategies-for-instagram-prominence-for-2024/"><u>Rise Above the Noise Nine Strategies for Instagram Prominence for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-7-essential-programs-for-complete-file-and-folder-deletion/"><u>Top 7 Essential Programs for Complete File & Folder Deletion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-laugh-tracks-for-iphone-devices/"><u>2024 Approved Laugh Tracks for iPhone Devices</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/buzz-free-audio-expert-advice-on-eliminating-buzz-in-sound-cards-insights-from-yl-software/"><u>Buzz-Free Audio: Expert Advice on Eliminating Buzz in Sound Cards, Insights From YL Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-unplayable-dvd-issue-on-windows-computers/"><u>Fixing Your Unplayable DVD Issue on Windows Computers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-optimization-top-techniques-for-businesses-and-brands/"><u>In 2024, Instagram Optimization Top Techniques for Businesses and Brands</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-ipads-artistic-haven-top-8-sketch-innovators/"><u>In 2024, IPad's Artistic Haven Top 8 Sketch Innovators</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-redefining-visual-storytelling-with-vidas-advanced-tools/"><u>In 2024, Redefining Visual Storytelling with Vida's Advanced Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-simple-tale-creation-guide/"><u>In 2024, Simple Tale Creation Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-background-removal-in-figma-step-by-step-tutorial-for-2024/"><u>Mastering Background Removal in Figma Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/mastering-the-epgetmask-command-in-emeditor-for-efficient-text-editing/"><u>Mastering the EP_GET_MASK Command in EmEditor for Efficient Text Editing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reviving-the-experience-how-apples-intervention-could-benefit-disheartened-sonos-owners-insights/"><u>Reviving the Experience: How Apple's Intervention Could Benefit Disheartened Sonos Owners - Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-for-nonappearance-of-headphones-as-output-device-on-windows-10/"><u>Step-by-Step Fix for Nonappearance of Headphones as Output Device on Windows 10</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-realme-narzo-60x-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Realme Narzo 60x 5G FRP</u></a></li>
 </ul></div>
 

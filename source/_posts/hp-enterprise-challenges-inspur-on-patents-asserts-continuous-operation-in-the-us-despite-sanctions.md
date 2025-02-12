@@ -1,7 +1,7 @@
 ---
 title: HP Enterprise Challenges Inspur on Patents, Asserts Continuous Operation in the US Despite Sanctions
-date: 2025-01-28T08:46:07.263Z
-updated: 2025-01-31T05:54:55.084Z
+date: 2025-02-11T19:49:48.865Z
+updated: 2025-02-12T18:50:09.130Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,22 +78,21 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-quintessential-new-wave-of-facebook-updates/"><u>[New] 2024 Approved The Quintessential New Wave of Facebook Updates</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-gear-for-effective-remote-podcast-recording/"><u>[New] In 2024, Essential Gear for Effective Remote Podcast Recording</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-launching-into-the-spotlight-instagram-lives-for-2024/"><u>[New] Launching Into the Spotlight Instagram Lives for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-memetic-mastery-crafting-joy-via-adobe/"><u>[New] Memetic Mastery Crafting Joy via Adobe</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-overcoming-shaky-drone-video-quality/"><u>[New] Overcoming Shaky Drone Video Quality</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-perfecting-cinematography-using-luts-for-polished-colors/"><u>[New] Perfecting Cinematography Using Luts for Polished Colors</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-streaming-selection-saga-choose-between-engaging-podcasts-and-youtube-channels/"><u>[Updated] 2024 Approved Streaming Selection Saga Choose Between Engaging Podcasts and YouTube Channels</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-elevating-your-vlogs-a-list-of-the-top-12-professional-cameras-for-2024/"><u>[Updated] Elevating Your Vlogs A List of the Top 12 Professional Cameras for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-inshot-app-how-to-integrate-external-songs-easily/"><u>[Updated] InShot App How to Integrate External Songs Easily</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-image-editing-on-iphone-with-best-apps-for-object-elimination/"><u>2024 Approved Precision Image Editing on iPhone with Best Apps for Object Elimination</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-speedsters-top-windows-photos-viewer/"><u>2024 Approved Speedster's Top Windows Photos Viewer</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-blurry-photos-into-clarity-with-these-top-10-tools/"><u>2024 Approved Transform Blurry Photos Into Clarity with These Top 10 Tools</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-s17t-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from S17t</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/is-inshot-outshining-others-in-editing-features-for-2024/"><u>Is InShot Outshining Others in Editing Features for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leveraging-video-technology-in-teaching-practices-for-2024/"><u>Leveraging Video Technology in Teaching Practices for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-instructions-for-thoroughly-deleting-realplayer-from-your-computer-pcmac/"><u>Step-by-Step Instructions for Thoroughly Deleting RealPlayer From Your Computer (PC/Mac)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-inside-the-earnings-loop-how-you-benefit-from-your-channel/"><u>[New] 2024 Approved Inside the Earnings Loop How You Benefit From Your Channel</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-android-screen-recording-tutorial-essentials-for-2024/"><u>[New] Android Screen Recording Tutorial Essentials for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-live-image-processing-into-continuous-action-frames/"><u>[New] Live Image Processing Into Continuous Action Frames</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-artistry-selecting-from-6-best-nft-makers/"><u>[New] Navigating Artistry Selecting From 6 Best NFT Makers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-off-facebook-activity-expose-is-it-worth-the-scrutiny/"><u>[New] Off-Facebook Activity Exposé - Is It Worth The Scrutiny?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pioneering-scripts-reflecting-diverse-genre-themes/"><u>[New] Pioneering Scripts Reflecting Diverse Genre Themes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-snippets-from-cinema-to-skillful-editors-arsenal/"><u>[New] Snippets From Cinema to Skillful Editors' Arsenal</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elevating-your-filmmaking-skills-on-the-windows-10-platform-for-2024/"><u>[Updated] Elevating Your Filmmaking Skills on the Windows 10 Platform for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722920213289-2024s-most-accurate-activity-trackers-reviewed-and-ranked/"><u>2024'S Most Accurate Activity Trackers Reviewed and Ranked!</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/digitizing-costains-finances-with-abbyy-technology-insights-from-recent-developments-in-the-newsroom/"><u>Digitizing Costain's Finances with ABBYY Technology: Insights From Recent Developments in the Newsroom</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/exploring-advantages-how-cryptocurrency-use-transforms-your-financial-experience-with-yl-computing/"><u>Exploring Advantages: How Cryptocurrency Use Transforms Your Financial Experience with YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-chatgpt-enterprise-features-benefits-and-unique-advantages/"><u>Exploring ChatGPT Enterprise: Features, Benefits & Unique Advantages</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-thoughts-to-text-transform-ideas-into-a-personalized-poetry-anthology-with-the-help-of-chatgpt/"><u>From Thoughts to Text: Transform Ideas Into a Personalized Poetry Anthology with the Help of ChatGPT</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reimagine-photos-with-picshots-simple-techniques/"><u>In 2024, Reimagine Photos with Picshot’s Simple Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-staying-relevant-adapting-to-periscope-trends/"><u>In 2024, Staying Relevant Adapting to Periscope Trends</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-edit-avi-videos-like-a-pro-windows-8-compatible-video-editor-2023-version/"><u>Updated In 2024, Edit AVI Videos Like a Pro Windows 8 Compatible Video Editor - 2023 Version</u></a></li>
 </ul></div>
 

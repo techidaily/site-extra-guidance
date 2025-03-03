@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Premiere Pro’s Art of Audio Transitioning"
-date: 2025-02-06T20:15:50.604Z
-updated: 2025-02-12T21:47:54.592Z
+date: 2025-02-27T16:10:59.639Z
+updated: 2025-03-03T16:23:44.982Z
 tags: 
   - screen-recording
   - ai video
@@ -32,10 +32,6 @@ A scene or speech transition in which the audio gradually (or abruptly) lowers i
 ## Part 1\. Types of Audio Transitions in Premiere Pro
 
 Let's briefly take a look at the most popular audio transitions in Premiere Pro before going through the step-by-step tutorial on making an audio fade out. The audio fade is essentially a visual transition. Crossfading describes the audible transition between two audio samples on the same track. The terms "fade-in" and "fade-out" refer to the two different kinds of crossfade transitions, and Premiere Pro offers its customers three different crossfade effects: constant gain, constant power, and exponential fade. Following are some specifics:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Constant Gain
 
@@ -83,14 +79,6 @@ You may now shorten or lengthen the time that your audio fades in or out. You ma
 
 ![select duration and save effect](https://images.wondershare.com/filmora/article-images/2022/07/set-transition-duration-premiere.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Alternative way to add audio transitions in videos
 
 It is now abundantly evident from the aforementioned strategies how to use this user-friendly program to carry out the numerous audio editing procedures. Therefore, even if you have never used manual audio editing procedures, you may use the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) program without any problem since it is simple to learn. If you're a beginner, the ideal alternative for you is to use Filmora and the aforementioned approaches to create audio transitions.
@@ -111,10 +99,6 @@ This step requires you to launch the software since you have likely already down
 
 ![launch filmora and add files to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step2 Split the audio track for Transition
 
 You may now use the splitting audio approach to clip off the portions of your audio files where you wish to generate audio transitions, just as you did when you imported and moved your files about the timeline as described above. To accomplish it, choose the audio file, then click the Split icon at the timeline's top as seen below:
@@ -132,10 +116,6 @@ In this main step, you’ll get to know the transitioning technique with the Fil
 ##### Step4 Export and Share the File
 
 The exporting procedure may now be completed in the last step with just a few clicks from the program interface by selecting the Export button in the top-right corner of your software screen as shown below:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -187,10 +167,6 @@ To assign your audio file to the Audio track if you're starting from scratch, ju
 
 ![choose the fade type](https://images.wondershare.com/filmora/article-images/2022/07/add-audio-transitions-premiere.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step5 Select Duration and Save Effect
 
 You may now shorten or lengthen the time that your audio fades in or out. You may accomplish this by simply clicking the transition's start or finish and dragging it to lengthen or shorten it. In the pop-up box that displays, enter the duration for the fade, then click "OK."
@@ -217,10 +193,6 @@ This step requires you to launch the software since you have likely already down
 
 ![launch filmora and add files to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step2 Split the audio track for Transition
 
 You may now use the splitting audio approach to clip off the portions of your audio files where you wish to generate audio transitions, just as you did when you imported and moved your files about the timeline as described above. To accomplish it, choose the audio file, then click the Split icon at the timeline's top as seen below:
@@ -232,10 +204,6 @@ You may now use the splitting audio approach to clip off the portions of your au
 We focus on how you would use the editing feature on your audio that was divided for transitional reasons in this stage. So, to use this option, choose the relevant track, right-click on it to bring up the audio file's settings, and then choose Edit Audio.
 
 ![make the audio transitions](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In this main step, you’ll get to know the transitioning technique with the Filmora. To use, follow these instructions in the audio editor, which has just appeared on the right side of the program screen. You can simply create the audio transitions without any hassles by going to the Volume area of the audio editor from there and modifying the volume of the audio track that you had separated for this reason.
 
@@ -271,20 +239,20 @@ In a nutshell, it's important to use the right program to customize the fade in/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-inside-the-dji-phantom-3-pro-advantages/"><u>[Updated] Inside the DJI Phantom 3 Pro Advantages</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leading-edge-apps-the-ultimate-10-for-real-time-gymnastics-and-hockey-games/"><u>[Updated] Leading Edge Apps The Ultimate 10 for Real-Time Gymnastics and Hockey Games</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-copywriting-a-deep-dive-into-the-world-of-slug-lines/"><u>2024 Approved Precision Copywriting A Deep Dive Into the World of Slug Lines</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-revealed-secrets-top-15-stabilizers-and-holders-for-gopro/"><u>2024 Approved Revealed Secrets Top 15 Stabilizers & Holders for GoPro</u></a></li>
-<li><a href="https://network-issues.techidaily.com/accelerate-gaming-with-an-updated-intel-graphics-3000-driver-on-w10-platform/"><u>Accelerate Gaming with an Updated Intel Graphics 3000 Driver on W10 Platform</u></a></li>
-<li><a href="https://article-posts.techidaily.com/enhancing-memory-retention-organized-photo-albums-and-icloud-coordination/"><u>Enhancing Memory Retention Organized Photo Albums and iCloud Coordination</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-y100i-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Y100i</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-elevate-your-views-degrees-of-rotation-on-youtube-a-2023-guide/"><u>In 2024, Elevate Your Views Degrees of Rotation on YouTube - A 2023 Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-smooth-video-in-every-shot-prime-mobile-cameras-with-ois/"><u>In 2024, Smooth Video in Every Shot Prime Mobile Cameras With OIS</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-samsung-galaxy-z-flip-5-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Samsung Galaxy Z Flip 5 Location | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/kostenloos-omheen-nef-fotos-in-instantie-bmp-met-movavi-konvertor-online/"><u>Kostenloos Omheen: NEF-Foto's in Instantie BMP Met Movavi Konvertor Online</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/professional-video-shooting-on-the-go-the-10-leading-smartphone-titans-with-ois-for-2024/"><u>Professional Video Shooting on the Go The 10 Leading Smartphone Titans with OIS for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/shaping-imagery-the-most-innovative-vector-designers-ranked-for-2024/"><u>Shaping Imagery The Most Innovative Vector Designers Ranked for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/superior-strategies-converting-visual-content-on-pinterest-to-audio-for-2024/"><u>Superior Strategies Converting Visual Content on Pinterest To Audio for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-key-elements-of-constructive-job-interviews/"><u>[New] Key Elements of Constructive Job Interviews</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-iphone-xs-biometrics-addressing-face-id-glitches/"><u>[New] Navigating iPhone X's Biometrics Addressing Face ID Glitches</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionize-your-humor-learn-through-kinemaster/"><u>[Updated] Revolutionize Your Humor Learn Through KineMaster</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-detect-a-compromised-smartphone-uncovering-signs-of-hacking-and-protecting-with-malwarefox/"><u>How to Detect a Compromised Smartphone: Uncovering Signs of Hacking and Protecting with MalwareFox</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-inspirational-article-leaderboard-maker/"><u>In 2024, Inspirational Article Leaderboard Maker</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-non-copyrighted-meditation-sounds/"><u>In 2024, Non-Copyrighted Meditation Sounds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlining-media-transformation-from-xml-to-srt/"><u>In 2024, Streamlining Media Transformation From XML to SRT</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/kids-movie-magic-learn-to-create-your-own-film-for-2024/"><u>Kids Movie Magic Learn to Create Your Own Film for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098655562-overcome-itbm-not-available-driver-glitch-without-a-hitch/"><u>Overcome ITBM 'Not Available' Driver Glitch Without a Hitch!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/rapid-results-elevate-images-on-windows-11-for-2024/"><u>Rapid Results Elevate Images on Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionizing-podcast-branding-with-ai-naming-generators-for-2024/"><u>Revolutionizing Podcast Branding with AI Naming Generators for 2024</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/solving-the-scanner-not-detected-issue-expert-tips-from-yl-computing/"><u>Solving the 'Scanner Not Detected' Issue: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-casual-gopro-footage-to-a-pro-level-for-2024/"><u>Transform Your Casual Gopro Footage to a Pro Level for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-video-aspect-ratio-how-to-adjust-and-customize-for-2024/"><u>Updated Video Aspect Ratio How to Adjust and Customize for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/whats-wrong-with-gamers-paying-for-game-design-and-development/"><u>What's Wrong with Gamers Paying for Game Design and Development?</u></a></li>
 </ul></div>
 

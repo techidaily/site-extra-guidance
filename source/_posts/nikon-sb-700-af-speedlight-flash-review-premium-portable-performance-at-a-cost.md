@@ -1,7 +1,7 @@
 ---
 title: "Nikon SB-700 AF Speedlight Flash Review: Premium Portable Performance, at a Cost"
-date: 2025-02-09T17:35:51.418Z
-updated: 2025-02-12T17:56:04.213Z
+date: 2025-02-27T17:32:59.981Z
+updated: 2025-03-03T16:35:50.741Z
 categories:
   - BestProducts
 description: "This Article Describes Nikon SB-700 AF Speedlight Flash Review: Premium Portable Performance, at a Cost"
@@ -38,10 +38,6 @@ Lifewire / Jonno Hill
 [View On Amazon $999](https://www.amazon.com/dp/B082XQR86P?tag=lifewire-onsite-prod-20&ascsubtag=4775917%7Cna52a9cc7636d4bf692d62cac4423477a00%7CB082XQR86P)
 
 4.2
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## LG Gram 17
 
@@ -94,15 +90,7 @@ Lifewire / Jonno Hill
 
 ![LG Gram 17](https://www.lifewire.com/thmb/NZFtzU5S2IX_YcC_7X7i2oB0j1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-2-d528eacd17e849099026bd1df6142200.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Jonno Hill
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Setup** **Process** :**No help needed**
 
@@ -113,10 +101,6 @@ Lifewire / Jonno Hill
 ![LG Gram 17](https://www.lifewire.com/thmb/mt69Vhar3JM30uFdBWA58_wPdYg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-Gram-17-Inch-Thin-Laptop-5-f2352e95cadc4e2b99d738b0238fb7bf.jpg)
 
  Lifewire / Jonno Hill
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Display** :**A joy to use**
 
@@ -129,10 +113,6 @@ Lifewire / Jonno Hill
  Productivity is definitely where this laptop shines. The large, tall screen makes it really perfect for getting things done. It’s easy to throw a couple of applications side by side and have plenty of real estate to work with. Even if you don’t feel like you’re missing much on your current laptop, it’s definitely nice to be able to scroll less and see more at-a-glance.
 
  The IPS display also performs admirably by most other metrics that buyers will care about, such as a maximum brightness high enough to be usable outdoors. Additionally, the display looks great from off-angles, losing very little brightness when viewed from the sides, and showing no signs of color shift.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Performance** :**Ready to work (but not to game)**
 
@@ -147,10 +127,6 @@ Lifewire / Jonno Hill
 ## **Productivity** :**The Gram’s sweet spot**
 
  Having 16GB of Memory and a 512GB SSD makes the Gram a great choice for productivity purposes. We had no problem working with many browser windows open at the same time and switching back and forth between different applications. Shoppers looking to find a laptop with ample screen real estate and the specs necessary to deliver good performance now and into the future will be pleased with what the LG Gram 17 offers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Audio** :**Sorry, what was that?**
 
@@ -170,19 +146,11 @@ Lifewire / Jonno Hill
 
  Lifewire / Jonno Hill
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Battery** :**Beyond plentiful**
 
  The LG Gram 17 is equipped with a more than capable battery that offers up to 19.5 hrs of battery life, according to LG. In our tests, the laptop averaged around 14 hours during mixed daily use—still quite a great deal. This is likely due to a mixture of the larger than average battery, lack of a discrete graphics card, and an energy-efficient display. This is about as good as you can hope for in a laptop, to be honest, and a surprising achievement for such a light and thin one. If time between charges is a concern for you, take note.
 
  When running Battery Eater Pro to push the laptop to its limits, it kicked the bucket in just over 2 hours and 30 minutes. This may seem like a very short time, but it’s still considerably better than any of the[other 17-inch laptops](https://www.lifewire.com/best-17-inch-laptops-832683) we tested using this brutal benchmark.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Software: Standard Windows with some unique features**
 
@@ -248,16 +216,18 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-professional-streaming-the-premier-6-zoom-webcam-picks/"><u>[New] Professional Streaming The Premier #6 Zoom Webcam Picks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-seamless-3d-cinema-at-home-best-3d-blu-ray-systems/"><u>[New] Seamless 3D Cinema at Home Best 3D Blu-Ray Systems</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-select-8-dynamic-backgrounds-for-your-mbp/"><u>[New] Select 8 Dynamic Backgrounds for Your MBP</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-windows-movie-maker-for-animated-clips-creation/"><u>[Updated] Mastering Windows Movie Maker for Animated Clips Creation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-selecting-top-tech-for-aerial-and-visuals/"><u>[Updated] Selecting Top Tech for Aerial and Visuals</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-social-media-streamlining-connect-instagram-plus-facebook/"><u>2024 Approved Social Media Streamlining Connect Instagram + Facebook</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-note-12-pro-4g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Xiaomi Redmi Note 12 Pro 4G Phone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-tropico-6-gameplay-in-a-utopian-island-setting/"><u>In-Depth Analysis of Tropico 6 Gameplay in a Utopian Island Setting</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-playlist-composing-music-for-visuals-in-the-modern-era/"><u>New The Ultimate Playlist Composing Music for Visuals in the Modern Era</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/supreme-five-optimal-dvd-software-for-sierra-os/"><u>Supreme Five Optimal Dvd Software for Sierra OS</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/troubleshooting-a-malfunctioning-network-card-common-problems-and-solutions-from-yl-software-pros/"><u>Troubleshooting a Malfunctioning Network Card: Common Problems and Solutions From YL Software Pros</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-your-path-to-youtube-stardom-six-simple-steps-for-greater-visibility/"><u>[New] 2024 Approved Your Path to YouTube Stardom Six Simple Steps for Greater Visibility</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-on-set-questions-answered-quickly/"><u>[New] On-Set Questions Answered Quickly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimal-method-for-integrating-gopro-footage-into-360-degree-films/"><u>[New] Optimal Method for Integrating GoPro Footage Into 360-Degree Films</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pushing-the-boundaries-with-sony-discovering-4k-on-smartphones/"><u>[New] Pushing the Boundaries with Sony - Discovering 4K on Smartphones</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unlocking-the-potential-of-your-phone-and-dslr-for-igtv-videos/"><u>[Updated] In 2024, Unlocking the Potential of Your Phone & DSLR for IGTV Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-secrets-to-superior-streaming-of-soccer-matches/"><u>[Updated] Secrets to Superior Streaming of Soccer Matches</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-windows-11-video-creation-and-editing-techniques/"><u>2024 Approved Mastering Windows 11 Video Creation & Editing Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/5-ultimate-recording-devices-for-hunting/"><u>5 Ultimate Recording Devices for Hunting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/7-best-budget-mirrorless-4k-cameras-under-1000-for-2024/"><u>7 Best Budget Mirrorless 4K Cameras Under $1000 for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-seamless-multi-environment-broadcasting-mastery-of-color-key-techniques/"><u>In 2024, Seamless Multi-Environment Broadcasting Mastery of Color Key Techniques</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-user-choice-top-free-streaming-sites-for-sports/"><u>New User Choice Top Free Streaming Sites for Sports</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pro-phone-face-off-google-pixel-n-and-apple-iphone-13-pro-a-detailed-comparison-for-your-ultimate-choice/"><u>Pro Phone Face-Off: Google Pixel N and Apple iPhone 13 Pro – A Detailed Comparison for Your Ultimate Choice</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-guide-fortifying-your-password-vault-against-threats-zdnet/"><u>Ultimate Guide: Fortifying Your Password Vault Against Threats | ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: HP Enterprise Challenges Inspur on Patents, Asserts Continuous Operation in the US Despite Sanctions
-date: 2025-02-11T19:49:48.865Z
-updated: 2025-02-12T18:50:09.130Z
+date: 2025-03-02T17:25:43.266Z
+updated: 2025-03-03T17:43:17.507Z
 tags:
   - desktop
 categories:
@@ -35,10 +35,6 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,10 +48,6 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  There's also MSI AI Engine, which adjusts performance based on AI. Then there's AI Frozr, which does the same thing for cooling.
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -78,21 +70,20 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-inside-the-earnings-loop-how-you-benefit-from-your-channel/"><u>[New] 2024 Approved Inside the Earnings Loop How You Benefit From Your Channel</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-android-screen-recording-tutorial-essentials-for-2024/"><u>[New] Android Screen Recording Tutorial Essentials for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-live-image-processing-into-continuous-action-frames/"><u>[New] Live Image Processing Into Continuous Action Frames</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-artistry-selecting-from-6-best-nft-makers/"><u>[New] Navigating Artistry Selecting From 6 Best NFT Makers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-off-facebook-activity-expose-is-it-worth-the-scrutiny/"><u>[New] Off-Facebook Activity Exposé - Is It Worth The Scrutiny?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pioneering-scripts-reflecting-diverse-genre-themes/"><u>[New] Pioneering Scripts Reflecting Diverse Genre Themes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-snippets-from-cinema-to-skillful-editors-arsenal/"><u>[New] Snippets From Cinema to Skillful Editors' Arsenal</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-elevating-your-filmmaking-skills-on-the-windows-10-platform-for-2024/"><u>[Updated] Elevating Your Filmmaking Skills on the Windows 10 Platform for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1722920213289-2024s-most-accurate-activity-trackers-reviewed-and-ranked/"><u>2024'S Most Accurate Activity Trackers Reviewed and Ranked!</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/digitizing-costains-finances-with-abbyy-technology-insights-from-recent-developments-in-the-newsroom/"><u>Digitizing Costain's Finances with ABBYY Technology: Insights From Recent Developments in the Newsroom</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/exploring-advantages-how-cryptocurrency-use-transforms-your-financial-experience-with-yl-computing/"><u>Exploring Advantages: How Cryptocurrency Use Transforms Your Financial Experience with YL Computing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-chatgpt-enterprise-features-benefits-and-unique-advantages/"><u>Exploring ChatGPT Enterprise: Features, Benefits & Unique Advantages</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/from-thoughts-to-text-transform-ideas-into-a-personalized-poetry-anthology-with-the-help-of-chatgpt/"><u>From Thoughts to Text: Transform Ideas Into a Personalized Poetry Anthology with the Help of ChatGPT</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-reimagine-photos-with-picshots-simple-techniques/"><u>In 2024, Reimagine Photos with Picshot’s Simple Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-staying-relevant-adapting-to-periscope-trends/"><u>In 2024, Staying Relevant Adapting to Periscope Trends</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-edit-avi-videos-like-a-pro-windows-8-compatible-video-editor-2023-version/"><u>Updated In 2024, Edit AVI Videos Like a Pro Windows 8 Compatible Video Editor - 2023 Version</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mythos-makers-mecca-prime-pantheon-seven-for-2024/"><u>[New] Mythos Makers’ Mecca - Prime Pantheon Seven for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-innovations-in-video-sharing-top-5-beyond-tiktok-platforms/"><u>[Updated] Innovations in Video Sharing Top 5 Beyond TikTok Platforms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-luminous-leap-forward-three-hacks-to-shine-your-iphone-videography/"><u>[Updated] Luminous Leap Forward Three Hacks to Shine Your iPhone Videography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-the-art-of-pace-control-for-instas-live-videos/"><u>[Updated] Master the Art of Pace Control for Insta's Live Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-crafting-shareable-moments-a-guide-to-enhanced-viewership-in-15-second-videos/"><u>2024 Approved Crafting Shareable Moments A Guide to Enhanced Viewership in 15-Second Videos</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/diagnosing-and-repairing-dysfunctional-scanner-problems-with-yl-softwares-comprehensive-troubleshooting-steps/"><u>Diagnosing and Repairing Dysfunctional Scanner Problems with YL Software's Comprehensive Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/expected-video-gb-for-continuous-24-hour-viewing/"><u>Expected Video GB for Continuous 24-Hour Viewing</u></a></li>
+<li><a href="https://win11.techidaily.com/halt-windows-autolock-functionality-easily/"><u>Halt Windows Autolock Functionality Easily</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-steps-to-crafting-powerful-end-of-episode-notes/"><u>In 2024, Steps to Crafting Powerful End-of-Episode Notes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/keep-your-gaming-experience-fresh-with-the-latest-rtx-2060-super-drivers-for-windows-11-download-now/"><u>Keep Your Gaming Experience Fresh with the Latest RTX 2060 Super Drivers for Windows 11 - Download Now</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-mobile-shots-ios-11s-camera-innovations-for-2024/"><u>Mastering Mobile Shots IOS 11'S Camera Innovations for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/shades-of-success-color-grading-fundamentals-for-2024/"><u>Shades of Success Color Grading Fundamentals for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/shattering-screen-shimmer-on-win11/"><u>Shattering Screen Shimmer on Win11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spectrum-mastery-in-depth-color-techniques-for-2024/"><u>Spectrum Mastery In-Depth Color Techniques for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/stream-on-a-shoestring-how-little-it-really-costs-to-begin-your-twitch-journey/"><u>Stream on a Shoestring: How Little It Really Costs to Begin Your Twitch Journey</u></a></li>
 </ul></div>
 

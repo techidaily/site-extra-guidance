@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Lens Hacks  Capturing Perfect Reflections\""
-date: 2025-02-08T19:02:13.235Z
-updated: 2025-02-12T19:36:48.191Z
+date: 2025-03-01T16:14:31.956Z
+updated: 2025-03-03T17:06:36.940Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![reflection-photography-for-iPhone](https://images.wondershare.com/filmora/article-images/crystal-ball.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Water in a wine glass (turns everything upside down too!)
 
 ![water-reflection](https://images.wondershare.com/filmora/article-images/water-reflection.jpg)
@@ -84,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 4\.  Reality and Reflection
 
  Don't just focus on the reflection, these tend to distract from how good the reflection is. Of course if the reflective surface reflects too well and you just focus on that. The image might come out as looking the same as if you had just pointed and shot the subject.
@@ -105,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
  It is also just good photography practice to have your subjects bend and distort the light. The contrasts make for an aesthetically beautiful image, and makes post production optimization even easier.
 
 ![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Post Production Reflective Effects
 
@@ -129,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![reflect-mirror-camera-app](https://images.wondershare.com/filmora/article-images/reflect-mirror-camera-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Really easy to use entry level app, you can simply add reflections to your photos and there's also an option to do this as you take the photograph. The user interface is really clean and easy to use. You also get access to a massive library of templates and effects to make photos truly unique.
 
 #### 2\. Reflection
@@ -144,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 #### 3\. Photo Reflection
 
 ![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
 
@@ -176,22 +156,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-journey-to-blockchain-stardom-discover-the-top-7-generator-tools/"><u>[New] Journey to Blockchain Stardom - Discover the Top 7 Generator Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-pricing-framework-music-video-filming-costs/"><u>[Updated] 2024 Approved Pricing Framework Music Video Filming Costs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-streamlining-remote-recordings-a-producers-guide/"><u>[Updated] In 2024, Streamlining Remote Recordings A Producer’s Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-laugh-loom-imgur-memomaker/"><u>[Updated] Laugh Loom Imgur MemoMaker</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-meditative-playlist-top-10-free-tracks-for-serenity/"><u>[Updated] Meditative Playlist Top 10 Free Tracks for Serenity</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-nailing-instagram-aesthetics-tips-for-video-dimensions/"><u>[Updated] Nailing Instagram Aesthetics Tips for Video Dimensions</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/1728486856530-ssd/"><u>「瞬時にSSDドライブ内のデータ復元手順」</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-voice-to-text-programs/"><u>2024 Approved Leading Voice to Text Programs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-commercial-sky-data-haven/"><u>2024 Approved Premium Commercial Sky Data Haven</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-revel-in-the-wonders-of-asmrs-positive-effects/"><u>2024 Approved Revel in the Wonders of ASMR's Positive Effects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-3d-printing-skills-by-utilizing-chatgpts-powerful-tools-and-insights/"><u>Boost Your 3D Printing Skills by Utilizing ChatGPT's Powerful Tools and Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/get-your-favorite-songs-and-movies-for-free-directly-from-itunes-no-cost-at-all/"><u>Get Your Favorite Songs and Movies for Free Directly From iTunes – No Cost at All</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gratuita-conversora-de-memoria-ram-a-formato-mpeg-herramienta-en-linea-con-revision-profesional/"><u>Gratuita Conversora De Memoria RAM a Formato MPEG: Herramienta en Línea Con Revisión Profesional</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/immersive-education-the-role-of-virtual-reality/"><u>Immersive Education The Role of Virtual Reality</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pro-iphone-tricks-for-stunning-reflection-shots/"><u>In 2024, Pro iPhone Tricks for Stunning Reflection Shots</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/meditative-tunes-top-free-sounds-to-unwind-and-relax-for-2024/"><u>Meditative Tunes – Top Free Sounds to Unwind & Relax for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-resolving-constant-content-warning-app-crashes-on-your-computer/"><u>Troubleshooting Steps: Resolving Constant 'Content Warning' App Crashes on Your Computer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leveraging-pip-for-multitasking-in-edge-browser/"><u>[New] Leveraging PIP for Multitasking in Edge Browser</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-elevate-your-videography-mastering-the-dimensions/"><u>[Updated] 2024 Approved Elevate Your Videography Mastering the Dimensions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-7-top-budget-friendly-digital-camera-editing-tools/"><u>[Updated] In 2024, 7 Top Budget-Friendly Digital Camera Editing Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-luminous-leverage-5-key-videography-aids/"><u>[Updated] Luminous Leverage 5 Key Videography Aids</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-samsungs-gear-360-challenger-the-best-cameras-of-the-year/"><u>[Updated] Samsung’s Gear 360 Challenger The Best Cameras of the Year</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-iphoneandroids-leading-vr-experiences-ranked/"><u>In 2024, IPhone/Android's Leading VR Experiences Ranked</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-digital-image-cropping-techniques/"><u>In 2024, Mastering Digital Image Cropping Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-audio-on-your-astro-a10-headset-effective-solutions-inside/"><u>Revive the Audio on Your Astro A10 Headset: Effective Solutions Inside</u></a></li>
+<li><a href="https://fox-http.techidaily.com/step-by-step-audio-addition-for-impactful-instagram-visuals/"><u>Step-by-Step Audio Addition for Impactful Instagram Visuals</u></a></li>
 </ul></div>
 

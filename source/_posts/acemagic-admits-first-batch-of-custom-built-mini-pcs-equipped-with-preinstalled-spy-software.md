@@ -1,7 +1,7 @@
 ---
 title: AceMagic Admits First Batch of Custom-Built Mini PCs Equipped With Preinstalled Spy Software
-date: 2025-02-05T21:42:35.438Z
-updated: 2025-02-12T18:16:47.405Z
+date: 2025-02-27T17:09:41.404Z
+updated: 2025-03-03T16:21:21.421Z
 tags:
   - desktop
 categories:
@@ -35,10 +35,6 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -66,22 +62,22 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-picture-enhancer-resolution-rise/"><u>[New] Pinnacle Picture Enhancer Resolution Rise</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-sjcam-s6-legend-action-camera-complete-review/"><u>[New] SJCam S6 Legend Action Camera Complete Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-detailed-guide-to-advanced-human-interface-systems/"><u>[Updated] A Detailed Guide to Advanced Human Interface Systems</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-best-6-social-media-platforms-for-business/"><u>2024 Approved Best 6 Social Media Platforms for Business</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-palette-perfection-in-11-step-by-step-lessons/"><u>2024 Approved Palette Perfection in 11 Step-by-Step Lessons</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-popcorn-predictions-apples-no1-free-and-paid-film-watchers-guide/"><u>2024 Approved Popcorn Predictions Apple's No.1, Free & Paid Film Watchers Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-speedy-execution-tactics-for-fb-video-success/"><u>2024 Approved Speedy Execution Tactics for FB Video Success</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/correcting-audiovisual-malfunctions-in-recent-updates/"><u>Correcting Audiovisual Malfunctions in Recent Updates</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/direct-mp3-to-youtube-3-steps-for-seamless-video-posting-for-2024/"><u>Direct MP3 to YouTube 3 Steps for Seamless Video Posting for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-history-of-aim-understanding-aols-revolutionary-messaging-platform/"><u>Exploring the History of AIM: Understanding AOL's Revolutionary Messaging Platform</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-nokia-c12-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Nokia C12?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-metaverse-giggles-galore-ingenious-ways-to-craft-memes/"><u>In 2024, Metaverse Giggles Galore Ingenious Ways to Craft Memes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mirth-merger-image-composer/"><u>In 2024, Mirth Merger Image Composer</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-challenge-getting-msi-afterburner-to-detect-gpu-in-windows-1110-setup/"><u>Overcoming the Challenge: Getting MSI Afterburner to Detect GPU in Windows 11/10 Setup</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quieting-beats-step-by-step-for-2024/"><u>Quieting Beats Step-by-Step for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/singe-sounds-to-complement-ppt-slides-for-2024/"><u>Singe Sounds to Complement PPT Slides for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-evaluating-m1s-capabilities-for-heavy-duty-media-editing/"><u>[New] 2024 Approved Evaluating M1's Capabilities for Heavy-Duty Media Editing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-nocturnal-images-on-iphones/"><u>[New] Navigating Nocturnal Images on iPhones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-pro-game-documentation-capturing-roblox-experiences-with-a-mac-in-focus-for-2024/"><u>[New] Pro Game Documentation Capturing Roblox Experiences with a Mac in Focus for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-premium-list-the-finest-4k-monitors-with-recording-features/"><u>[Updated] 2024 Approved Premium List The Finest 4K Monitors with Recording Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mambo-measuring-macaws/"><u>[Updated] Mambo Measuring Macaws</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-screen-saviors-ranked-top-8-for-ios-filmmaking-apps/"><u>[Updated] Screen Saviors Ranked Top 8 for iOS Filmmaking Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-screen-spectaculor-the-premier-6-hdmi-21-models-reviewed/"><u>[Updated] Screen Spectaculor The Premier 6 HDMI 2.1 Models Reviewed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-10-apps-to-elevate-your-picture-grids/"><u>2024 Approved 10 Apps to Elevate Your Picture Grids</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-cross-functional-collaboration-for-comprehensive-market-research/"><u>2024 Approved Leveraging Cross-Functional Collaboration for Comprehensive Market Research</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-100-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor 100 Pro System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/enhanced-visual-fidelity-with-srgb/"><u>Enhanced Visual Fidelity with Srgb</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/how-to-handle-incompatible-pc-components-expert-tips-from-yl-computing/"><u>How to Handle Incompatible PC Components: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-the-perfect-resolution-for-immersive-vr/"><u>In 2024, The Perfect Resolution for Immersive VR</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-striving-for-top-of-steam-worth-it/"><u>Is Striving for Top of Steam Worth It?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leap-into-virtual-gatherings-xbox-zoom-mastery-for-2024/"><u>Leap Into Virtual Gatherings Xbox Zoom Mastery for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-video-extraction-from-linkedin-using-these-6-choices-for-2024/"><u>Master Video Extraction From LinkedIn Using These 6 Choices for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-iphone-12-and-pro-protective-covers-expert-picks/"><u>Top-Rated iPhone 12 & Pro Protective Covers: Expert Picks</u></a></li>
 </ul></div>
 

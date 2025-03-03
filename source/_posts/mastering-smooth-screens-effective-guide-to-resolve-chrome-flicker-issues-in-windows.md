@@ -1,7 +1,7 @@
 ---
 title: "Mastering Smooth Screens: Effective Guide to Resolve Chrome Flicker Issues in Windows"
-date: 2025-02-07T21:22:25.274Z
-updated: 2025-02-12T17:22:04.436Z
+date: 2025-02-26T16:11:11.384Z
+updated: 2025-03-03T16:53:28.660Z
 tags:
   - win11
   - win10
@@ -41,17 +41,9 @@ thumbnail: https://thmb.techidaily.com/6cb6ce252b0ad11ed755d646e5f628bce76854128
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
 
@@ -76,10 +68,6 @@ If the issue remains, move on to the next fix.
 
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -115,10 +103,6 @@ If this method doesn’t do the trick, continue to the next fix.
 2. One at a time, select the resource-hogging program and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 Relaunch Minecraft to see if your issue is resolved.
@@ -133,16 +117,8 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
@@ -150,10 +126,6 @@ If not, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
 
@@ -179,17 +151,19 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-interactive-solutions-with-vr/"><u>[New] 2024 Approved Interactive Solutions with VR</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-singing-alerts-crafting-and-configuring-customizable-sounds-and-ringtones-on-android/"><u>[New] Singing Alerts Crafting and Configuring Customizable Sounds & Ringtones on Android</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-top-ideas-to-spice-up-your-daily-snapchat-routine/"><u>[Updated] 2024 Approved Top Ideas to Spice Up Your Daily Snapchat Routine</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unleashing-the-power-of-screen-capture-with-hp-notebooks/"><u>[Updated] 2024 Approved Unleashing the Power of Screen Capture with HP Notebooks</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-beginners-walkthrough-setting-up-vrecord-software/"><u>[Updated] In 2024, Beginner’s Walkthrough Setting Up VRecord Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-audio-manipulation-in-canva-videos/"><u>[Updated] Mastering Audio Manipulation in Canva Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximize-engine-power-the-best-windows-and-mac-srt-mods-countdown/"><u>2024 Approved Maximize Engine Power The Best Windows & Mac SRT Mods Countdown</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-6s-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone 6s Plus Apple ID and Apple Pay</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-breakdown-of-popular-elements-in-youtube-shorts/"><u>In 2024, Breakdown of Popular Elements in YouTube Shorts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximize-your-iphone-film-shoots-mastering-8-key-skills/"><u>In 2024, Maximize Your iPhone Film Shoots Mastering 8 Key Skills</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/overcome-blurred-images-the-best-online-enhancers-listed-for-2024/"><u>Overcome Blurred Images The Best Online Enhancers Listed for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/k-50-exclusive-youtube-banner-free-gifts-in-2024/"><u>Unlock 50 Exclusive YouTube Banner Free Gifts, In 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mastering-the-art-of-social-media-convergence-tiktok-facebook-linking/"><u>[New] In 2024, Mastering the Art of Social Media Convergence TikTok-Facebook Linking</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/astering-youtube-stat-tracking-essentials/"><u>[New] Mastering YouTube Stat Tracking Essentials</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-level-video-edits-made-simple-in-windows-11/"><u>[New] Pro-Level Video Edits Made Simple in Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-stepwise-training-for-effective-transcription-with-gdoc/"><u>[New] Stepwise Training for Effective Transcription with GDoc</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-addressing-issue-non-appearing-facebook-video-previews-for-2024/"><u>[Updated] Addressing Issue Non-Appearing Facebook Video Previews for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-metaverse-vs-multiverse-a-comprehensive-breakdown/"><u>[Updated] Metaverse vs Multiverse A Comprehensive Breakdown</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-web-warriors-championing-screen-recording-tools/"><u>[Updated] Web Warriors Championing Screen Recording Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pros-choices-essential-uav-extras-unveiled/"><u>2024 Approved Pros' Choices Essential UAV Extras Unveiled</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-snipping-videophotographs-in-windows-11/"><u>2024 Approved Snipping Videophotographs in Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-infinix-note-30-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Infinix Note 30 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-insiders-selection-prime-vr-device-picks/"><u>In 2024, Insider's Selection Prime VR Device Picks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-splurging-less-with-low-cost-vr-technology-china/"><u>In 2024, Splurging Less with Low-Cost VR Technology (China)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/smartwatch-shopping-guide-the-key-factors-you-shouldnt-ignore/"><u>Smartwatch Shopping Guide: The Key Factors You Shouldn't Ignore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speed-up-your-pc-mastering-the-art-of-program-minimization/"><u>Speed Up Your PC: Mastering the Art of Program Minimization</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discovering New Power: Lenovo and Top 5 Other Companies Embrace Zhoaxin-Powered Systems"
-date: 2025-02-07T16:27:34.919Z
-updated: 2025-02-12T20:54:45.045Z
+date: 2025-03-02T17:33:59.477Z
+updated: 2025-03-03T17:27:11.568Z
 tags:
   - desktop
 categories:
@@ -35,10 +35,6 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,10 +48,6 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  There's also MSI AI Engine, which adjusts performance based on AI. Then there's AI Frozr, which does the same thing for cooling.
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -78,20 +70,18 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-navigating-twitters-video-content-aspect-ratios-included/"><u>[New] In 2024, Navigating Twitter’s Video Content Aspect Ratios Included</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-optimal-owing-uavs-heavy-load-drone-rankings/"><u>[New] Optimal Owing UAVs Heavy Load Drone Rankings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-final-flourishes-crafting-memorable-video-closures-for-2024/"><u>[Updated] Final Flourishes Crafting Memorable Video Closures for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-crafting-spectaculous-1080p-streams-on-fb-groups/"><u>[Updated] In 2024, Crafting Spectaculous 1080P Streams on FB Groups</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-jestjunction-tap-into-the-world-of-meme-magic/"><u>2024 Approved JestJunction Tap Into the World of Meme Magic</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722042424680-5-gpt-enhancers-that-just-dont-deliver-worthless-plugins-revealed/"><u>5 GPT Enhancers That Just Don't Deliver: Worthless Plugins Revealed!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-for-hp-laserjet-m452dn-drivers-update-and-compatibility-tips/"><u>Free Download for HP LaserJet M452dn Drivers - Update and Compatibility Tips</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-leveraging-slug-lines-for-content-engagement/"><u>In 2024, Leveraging Slug Lines for Content Engagement</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastery-in-free-graphics-top-online-resource-directory/"><u>In 2024, Mastery in FREE Graphics Top Online Resource Directory</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-morphvox-transformation-tactics-for-professionals/"><u>In 2024, MorphVOX Transformation Tactics for Professionals</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-through-luts-for-improved-photography-techniques/"><u>In 2024, Navigating Through LUTs for Improved Photography Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/pioneering-intuitive-cross-modal-transport-systems-exploring-innovations-at-abbyy/"><u>Pioneering Intuitive Cross-Modal Transport Systems: Exploring Innovations at ABBYY</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reinstating-broken-video-streams-in-apple-devices/"><u>Reinstating Broken Video Streams in Apple Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-6-budget-friendly-space-heaters-reviews-by-techradar/"><u>Top 6 Budget-Friendly Space Heaters - Reviews by TechRadar</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/velocity-ventures-discover-the-freshest-5-virtual-race-titles-for-2024/"><u>Velocity Ventures Discover the Freshest 5 Virtual Race Titles for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-concluding-your-channel-on-youtube-expert-guides-and-templates-for-2024/"><u>[New] Concluding Your Channel on YouTube - Expert Guides & Templates for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-go-live-in-style-a-detailed-guide-to-youtubes-full-sphere-videos-for-2024/"><u>[New] Go Live in Style A Detailed Guide to YouTube's Full-Sphere Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premiere-audio-to-text-converters/"><u>[New] Premiere Audio-To-Text Converters</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-locations-for-youtube-content-exposure/"><u>[New] Prime Locations for YouTube Content Exposure</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-a-dive-into-ar-sticker-technology-and-alternatives/"><u>[Updated] 2024 Approved A Dive Into AR Sticker Technology and Alternatives</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-batch-background-erasure-in-affinity-photo/"><u>2024 Approved Mastering Batch Background Erasure in Affinity Photo</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-honor-x50-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Honor X50</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-maze-of-zoom-broadcasting-tools/"><u>In 2024, Navigating the Maze of Zoom Broadcasting Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/monoprices-game-changer-a-price-wise-high-performance-144-hz-40-gaming-display-revealed-in-our-exclusive-review/"><u>Monoprice's Game Changer: A Price-Wise, High-Performance, 144 Hz 40 Gaming Display Revealed in Our Exclusive Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfect-proportions-for-professional-videos-for-2024/"><u>Perfect Proportions for Professional Videos for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/preventing-unauthorized-technology-transfer-south-koreas-new-chips-and-display-sector-protections-against-corporate-spying-threats/"><u>Preventing Unauthorized Technology Transfer: South Korea's New Chips and Display Sector Protections Against Corporate Spying Threats</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sensual-sequence-capturing-culinary-creativity-on-camera-for-2024/"><u>Sensual Sequence Capturing Culinary Creativity on Camera for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unveiling-instagram-insights-a-deep-dive-into-data-trends/"><u>Unveiling Instagram Insights A Deep Dive Into Data Trends</u></a></li>
 </ul></div>
 

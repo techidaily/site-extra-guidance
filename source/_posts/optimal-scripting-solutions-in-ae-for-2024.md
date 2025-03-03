@@ -1,7 +1,7 @@
 ---
 title: "Optimal Scripting Solutions in AE for 2024"
-date: 2025-02-06T20:12:23.552Z
-updated: 2025-02-12T20:48:23.033Z
+date: 2025-03-02T17:45:40.699Z
+updated: 2025-03-03T16:55:49.568Z
 tags: 
   - screen-recording
   - ai video
@@ -28,10 +28,6 @@ TextDelay is a native plugin, meaning that you will find it already installed on
 
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## TextExploder
 
 Link: <https://aescripts.com/textexploder/>
@@ -48,10 +44,6 @@ If you want to effectively use the After Effects expressions even if you are not
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
@@ -59,10 +51,6 @@ Link: <https://aescripts.com/textbox/>
 If you want to create the perfect shape behind your text, then TextBox is a good text plugin to consider. This is a native After Effects plugin, meaning that you will not need to install it and the shapes it creates can be very easily customized. It updates the shapes you create automatically and adds them to the text layer, making it the most ideal solution to create closed captions, lower thirds, and subtitles.
 
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Font Manager
 
@@ -72,10 +60,6 @@ Font Manager is an After Effects text plugin that is useful when creating and wo
 
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Cartoon Moblur
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
@@ -84,19 +68,11 @@ This is the most ideal plugin to choose when you want to add motion trail to the
 
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Shadow Studio
 
 If you are looking for shadow styles that will go very well with your project, Shadow Studio is a good plugin to get. It offers you a wide variety of shadow styles including radial, inner, soft, and long shadows. Most people find it an easier and more affordable way to add soft shadows as compared to traditional methods like raytracing. It is also quite easy to use, meaning that shadow effects that would take hours to complete can be done in a matter of minutes.
 
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Texts Animation Bundle
 
@@ -113,10 +89,6 @@ Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%
 The Artificial Intelligence Titles is an After Effects text plugin that is designed to be the ultimate typographical solution. Once you have it in After Effects, you can enter any text and the plugin will automatically adjust the entire layout of the text. You can choose to create awesome text boxes, change the color, add special effects and even change the duration, speed, size, and positioning of the text. It also allows users to customize the text animation’s direction without using a keyframe.
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Text Library
 
@@ -160,22 +132,24 @@ On its own After Effects comes with so many post-production effects and features
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-convenient-youtube-viewing-activate-picture-in-picture-on-iphone/"><u>[New] Convenient YouTube Viewing Activate Picture-in-Picture on iPhone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-professional-8-stream-enhancers-for-video-sharpening/"><u>[New] Professional 8 Stream Enhancers for Video Sharpening</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-softening-sonic-surge-gradual-volume-reduction-tutorial/"><u>[New] Softening Sonic Surge Gradual Volume Reduction Tutorial</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-top-10-best-4k-dslr-shoulder-rigs/"><u>[New] Top 10 Best 4K DSLR Shoulder Rigs</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-enabling-instant-access-to-youtube-videos-in-your-facebook-browsing-for-2024/"><u>[Updated] Enabling Instant Access to YouTube Videos in Your Facebook Browsing for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-transparency-in-tracking-youtube-viewers-for-2024/"><u>[Updated] Transparency in Tracking YouTube Viewers for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-laughmaker-begin-your-content-creation-journey/"><u>2024 Approved LaughMaker Begin Your Content Creation Journey</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-nighttime-novelties-with-vocalists-recommended-guide/"><u>2024 Approved Nighttime Novelties with Vocalists Recommended Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-play-every-game-at-home-nba-streaming-made-simple-top-15/"><u>2024 Approved Play Every Game at Home NBA Streaming Made Simple (Top 15)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-scripted-temporal-displacements-in-film-production/"><u>2024 Approved Scripted Temporal Displacements in Film Production</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/achieve-high-quality-streams-the-top-4k-youtube-tools-for-2024/"><u>Achieve High-Quality Streams The Top 4K YouTube Tools for 2024</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/free-guide-downloading-daily-motion-movies-without-internet-access/"><u>Free Guide: Downloading Daily Motion Movies Without Internet Access</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-blur-pictures-on-iphone-for-free/"><u>In 2024, How to Blur Pictures on iPhone for Free</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-is-aurora-hdr-setting-photography-trends/"><u>In 2024, Is Aurora HDR Setting Photography Trends?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionary-additions-to-windows-11/"><u>In 2024, Revolutionary Additions to Windows 11</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-unveiling-the-latest-in-non-fbx-gameplay-tracking/"><u>In 2024, Unveiling the Latest in Non-FBX Gameplay Tracking</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/solving-the-issue-of-windows-not-booting-expert-advice-from-yl-computing-and-software/"><u>Solving the Issue of Windows Not Booting: Expert Advice From YL Computing & Software</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-experience-the-pinnacle-of-free-fb-image-and-vfx-crafting/"><u>[New] 2024 Approved Experience the Pinnacle of Free FB Image and VFX Crafting</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/hoosing-free-video-editing-software-on-iphone-and-ipad/"><u>[New] Choosing Free Video Editing Software on iPhone & iPad</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-free-explore-youtubes-9-premium-full-length-christmas-flicks/"><u>[New] In 2024, Free Explore YouTube's 9 Premium Full-Length Christmas Flicks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-spotifys-ad-landscape-a-comprehensive-guide/"><u>[New] Mastering Spotify's Ad Landscape A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-peak-outcome-total-immersion-complete/"><u>[New] Peak Outcome Total Immersion Complete</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-hiring-game-with-the-best-vids-in-town-for-2024/"><u>[Updated] Elevate Your Hiring Game with the Best Vids in Town for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-inverted-screen-changing-video-ordering/"><u>[Updated] Inverted Screen Changing Video Ordering</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prime-picks-the-top-6-online-networks-for-corporate-success/"><u>[Updated] Prime Picks The Top 6 Online Networks for Corporate Success</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revive-faded-iphone-hdri-select-4-effective-methods-in-premiere-pro/"><u>[Updated] Revive Faded iPhone HDRI Select 4 Effective Methods in Premiere Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-social-splash-10-best-templates-for-online-shares/"><u>[Updated] Social Splash 10 Best Templates for Online Shares</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-you-confirm-psn-downtime-across-the-board-or-is-it-only-impacting-me/"><u>Can You Confirm PSN Downtime Across the Board, or Is It Only Impacting Me?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-selection-of-mobile-defense-apps-top-6-picks-for-iphones-safety/"><u>Elite Selection of Mobile Defense Apps: Top 6 Picks for iPhones' Safety</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-install-hp-laptop-driver-updates-compatible-with-windows-os/"><u>Find and Install HP Laptop Driver Updates Compatible with Windows OS</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-storyremix-for-windows-11-enhancing-videos-with-photos-for-2024/"><u>Mastering StoryRemix for Windows 11 Enhancing Videos with Photos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/no-more-queasiness-in-vr-worlds-for-2024/"><u>No More Queasiness in VR Worlds for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/no-1-choice-of-dvd-and-media-editors-sierra-edition-for-2024/"><u>No. 1 Choice of DVD and Media Editors, Sierra Edition for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/round-the-houses-full-rotation-photography-for-2024/"><u>Round the Houses Full Rotation Photography for 2024</u></a></li>
 </ul></div>
 

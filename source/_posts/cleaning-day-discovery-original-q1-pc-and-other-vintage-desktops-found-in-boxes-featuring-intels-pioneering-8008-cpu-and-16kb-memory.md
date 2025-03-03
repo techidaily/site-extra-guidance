@@ -1,7 +1,7 @@
 ---
 title: "Cleaning Day Discovery: Original Q1 PC and Other Vintage Desktops Found in Boxes, Featuring Intel's Pioneering 8008 CPU and 16KB Memory"
-date: 2025-02-11T20:35:33.570Z
-updated: 2025-02-12T16:59:52.577Z
+date: 2025-02-24T17:15:31.051Z
+updated: 2025-03-03T17:37:33.539Z
 tags:
   - desktop
 categories:
@@ -53,10 +53,6 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -80,18 +76,16 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-strategic-mastery-pinpointing-top-7-total-war-battles/"><u>[New] 2024 Approved Strategic Mastery Pinpointing Top 7 Total War Battles</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-revolutionizing-work-with-windows-10-innovations/"><u>[New] Revolutionizing Work with Windows 10 Innovations</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-ringtone-riches-where-to-acquire-vintage-melodies-online/"><u>[New] Ringtone Riches Where to Acquire Vintage Melodies Online</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-must-have-top-8-wallpapers-and-themes-for-mbp-users/"><u>[Updated] Must-Have Top 8 Wallpapers & Themes for MBP Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-roi-with-targeted-market-research-strategies/"><u>2024 Approved Maximizing ROI with Targeted Market Research Strategies</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-most-immersive-dolby-atmos-films-to-watch-at-home-ranked-1-15/"><u>Discover the Most Immersive Dolby Atmos Films to Watch at Home, Ranked #1-#15</u></a></li>
-<li><a href="https://article-helps.techidaily.com/exploring-whatsapp-voice-chat-features-for-2024/"><u>Exploring WhatsApp Voice Chat Features for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-7-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 7 Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-illuminate-canon-cameras-combining-freebies-and-paid-lut-sets/"><u>In 2024, Illuminate Canon Cameras Combining Freebies and Paid LUT Sets</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/natural-landscapes-essential-templates-to-improve-your-film-craft-for-2024/"><u>Natural Landscapes Essential Templates to Improve Your Film Craft for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/speed-up-your-social-art-collage-creation-on-the-fly-for-2024/"><u>Speed-Up Your Social Art Collage Creation on the Fly for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/sweet-surveillance-guide-to-recording-summer-treats-for-2024/"><u>Sweet Surveillance Guide to Recording Summer Treats for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-personalized-gift-boxes-unlocked-the-best-online-shopping-spots/"><u>[New] Personalized Gift Boxes Unlocked The Best Online Shopping Spots</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-straightforward-strategies-accessing-appreciated-comments-on-youtube/"><u>[New] Straightforward Strategies Accessing Appreciated Comments on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonizing-colors-tips-for-a-cohesive-gopro-scene/"><u>[Updated] Harmonizing Colors Tips for a Cohesive GoPro Scene</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionizing-slow-mo-top-8-video-speeders/"><u>[Updated] Revolutionizing Slow Mo Top 8 Video Speeders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-spectrumsewn-studio-photo-montage-expertise/"><u>[Updated] SpectrumSewn Studio Photo Montage Expertise</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/free-fix-swiftly-eradicate-unwanted-eyeshine-from-your-iphone-pics/"><u>Free Fix Swiftly Eradicate Unwanted Eyeshine From Your iPhone Pics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonizing-hues-3-swift-strategies-for-perfect-color-balance/"><u>In 2024, Harmonizing Hues 3 Swift Strategies for Perfect Color Balance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-secret-finds-exclusive-free-speech-transcribers-for-mac/"><u>In 2024, Secret Finds Exclusive Free Speech Transcribers for Mac</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-ultimate-checklist-before-choosing-youtube-tv/"><u>In 2024, The Ultimate Checklist Before Choosing YouTube TV</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-file-selection-activating-windows-11-checkboxes/"><u>Maximize File Selection: Activating Windows 11 Checkboxes</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-full-charge-indicators-for-modern-wins/"><u>Optimize Full Charge Indicators for Modern WINs</u></a></li>
 </ul></div>
 

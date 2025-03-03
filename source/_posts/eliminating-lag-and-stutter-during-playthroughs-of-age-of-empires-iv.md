@@ -1,7 +1,7 @@
 ---
 title: Eliminating Lag and Stutter During Playthroughs of Age of Empires IV
-date: 2025-02-06T20:03:37.832Z
-updated: 2025-02-12T21:42:14.839Z
+date: 2025-02-25T17:48:10.987Z
+updated: 2025-03-03T16:16:03.796Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Splitgate-how-to-boost-FPS-and-fix-stuttering-1200x675.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Close unnecessary programs
 
  Programs like browsers, game launchers, anti-virus software are CPU intensive. So if you have them running in the background when playing Splitgate, you’re most likely to suffer from game stutters. To fix that, you should end programs that you don’t need to be running when in-game. But be cautious that you should not end processes that are essential for running Windows, otherwise your computer may fail to work properly.
@@ -44,10 +40,6 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Splitgate and select **End task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
 
  Also, too many startup apps can be a drag on your computer’s performance. Therefore, you should prevent these apps from automatically starting when you sign into Windows:
@@ -55,10 +47,6 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 1. Select the **Startup**  tab. Right-click the apps that you want to stop from running automatically at startup and select **Disable** .  
 
 ![disable apps from running automatically at startup](https://images.drivereasy.com/wp-content/uploads/2021/04/startup-disable.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you’ve done these, play Splitgate. If your problems persist, proceed to the next fix.
 
@@ -81,15 +69,7 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you should be able to play your game smoothly. But if it doesn’t work for you, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Stop overclocking
 
@@ -127,10 +107,6 @@ Here’s how to update drivers with Driver Easy:
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down. Find **Graphics settings** and click on it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/grahics-settings-1.png)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
@@ -150,19 +126,11 @@ Here’s how to update drivers with Driver Easy:
 ![adjust in-game settings Splitgate](https://images.drivereasy.com/wp-content/uploads/2021/08/Settings-in-game.png)
 2. Under the**VIDEO** tab, adjust the following settings:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **DISPLAY MODE:** Fullscreen  
 **RESOLUTION:** your native resolution (If you have no idea what your screen resolution is, refer to [this post](https://tools.techidaily.com/drivereasy/download/) . )  
 **VSYNC:** turn it off  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/fullscreen-and-disable-vsync.png)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then apply the changes and test your gameplay.
 
@@ -185,17 +153,20 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-evolving-tactics-for-crafting-immersive-mukbang-sessions/"><u>[New] In 2024, Evolving Tactics for Crafting Immersive Mukbang Sessions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastery-in-simulating-chrono-displacement/"><u>[New] Mastery in Simulating Chrono-Displacement</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-screenstream-worldwide-live-including-exclusive-locals/"><u>[New] ScreenStream Worldwide Live, Including Exclusive Locals</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-stepwise-approach-for-professional-screen-recordings-in-adobe-captive/"><u>[Updated] 2024 Approved Stepwise Approach for Professional Screen Recordings in Adobe Captive</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-best-action-cams-gopros-max-and-hero-11-face-off/"><u>In 2024, Exploring the Best Action Cams GoPro's Max and Hero 11 Face-Off</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-iphone-hdr-a-professionals-secret-weapon/"><u>In 2024, IPhone HDR A Professional's Secret Weapon</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>In 2024, Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/quick-instructions-for-downloading-and-fun-with-ifunny-memes-for-2024/"><u>Quick Instructions for Downloading and Fun with iFunny Memes for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/sticker-perfection-ranking-the-top-10-apps-for-ios-and-android-photos-for-2024/"><u>Sticker Perfection Ranking the Top 10 Apps for iOS and Android Photos for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/t1-and-s1-redesign-tecnos-ifa-innovations-revealed/"><u>T1 and S1 Redesign: Tecno’s IFA Innovations Revealed</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-commerce-codex-for-instagram-creators-securing-profitable-alignments/"><u>[New] The Commerce Codex for Instagram Creators Securing Profitable Alignments</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-top-5-photo-background-changer-apps-for-iphone-x87/"><u>[New] Top 5 Photo Background Changer Apps for iPhone X/8/7</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-camstudios-2023-screen-record-features/"><u>[Updated] 2024 Approved The Ultimate Guide to CamStudio's 2023 Screen Record Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-kidstoons-pro-deep-dive-year-2024/"><u>[Updated] KidsToons Pro Deep Dive - Year 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-slow-motion-mobile-photography-and-video-apps-iosandroid/"><u>[Updated] Premium Slow Motion Mobile Photography & Video Apps iOS/Android</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-what-are-the-disadvantages-of-virtual-reality-in-2024/"><u>[Updated] What Are the Disadvantages of Virtual Reality, In 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-affiliate-allies-for-small-channels-an-easy-approach/"><u>2024 Approved Affiliate Allies for Small Channels An Easy Approach</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pennywise-pilots-best-value-drones-for-(500/"><u>2024 Approved Pennywise Pilots Best Value Drones for <$500</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/delving-deeper-with-toms-system-components-guide/"><u>Delving Deeper with Tom's System Components Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-inshot-adding-your-favorite-tunes/"><u>In 2024, Mastering InShot Adding Your Favorite Tunes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pixiz-techniques-to-fuse-images-and-movement-seamlessly/"><u>In 2024, Pixiz Techniques to Fuse Images and Movement Seamlessly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-stepwise-journey-becoming-a-pro-with-audacity-for-recording/"><u>In 2024, Stepwise Journey Becoming a Pro with Audacity for Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-comic-experience-with-windows-11-techniques/"><u>Maximizing Comic Experience with Windows 11 Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-winning-potential-navigate-fullscreen-challenges-sonic-frontiers-w11/"><u>Unleashing Winning Potential: Navigate Fullscreen Challenges, Sonic Frontiers (W11)</u></a></li>
 </ul></div>
 

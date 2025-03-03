@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Professional iPhone Cinematography  Nine Crucial Tips to Perfect Videos\""
-date: 2025-01-27T21:00:23.547Z
-updated: 2025-01-31T06:58:23.119Z
+date: 2025-03-01T17:51:33.706Z
+updated: 2025-03-03T16:50:40.055Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,6 @@ thumbnail: https://www.lifewire.com/thmb/QOOSrpWgtLR1SeeW9DQNHlTh5T0=/540x405/fi
 
  This same complaint is often used in iPhone videography – it is difficult to follow because the video is shaking. The shaking is what happens when the video lacks stability – remember that most professional camera work is done with cameras which are on some form of frame or tripod to keep the camera still. It isn’t that an iPhone is heavy – it is more to do with the video being hard to keep still, especially if our attention is distracted. For the best videos, people should invest in some form of tripod for their phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Light Properly
 
  Professional video shoots use a lot of light in order to create the proper effect – most people would be surprised to learn how much light goes into even a ‘night-time’ set. Phone videos often suffer a lot because they do not make adequate use of light. Part of this can be solved by taking a camera class which covers light issues, but it can also be solved by paying attention to light sources where you are, and changing them to better suit your video if possible.
@@ -52,23 +48,11 @@ thumbnail: https://www.lifewire.com/thmb/QOOSrpWgtLR1SeeW9DQNHlTh5T0=/540x405/fi
 
 ![zoom](https://images.wondershare.com/Zoom.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use the Grid
 
  Pictures and videos can be taken in either portrait or landscape format, as everybody who has tried to take a picture knows. When recording a video, you should use this to your advantage and try and find which grid would be the most effective for your video. Using the grids is very easy - simply tip the iPhone in the direction you want to film, and the film will automatically work in that format. Since it can be very easy for a phone to change grids while videoing, this is another opportunity for a stabiliser such as a tripod to be put into use.
 
 ![grid](https://images.wondershare.com/grid-iphone-camera.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use the Exposure Lock
 
@@ -82,10 +66,6 @@ thumbnail: https://www.lifewire.com/thmb/QOOSrpWgtLR1SeeW9DQNHlTh5T0=/540x405/fi
 
 ![time lapse](https://images.wondershare.com/time-lapse-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Put your iPhone in Airplane Mode
 
  There is nothing worse than being in the middle of recording a great video, and then being interrupted by a notification. Even worse, since phones vibrate when they receive a notification, and it will ruin the entire video if that happens, since the phone will move and throw off the exposure and the light enhancements which you have been using.
@@ -93,10 +73,6 @@ thumbnail: https://www.lifewire.com/thmb/QOOSrpWgtLR1SeeW9DQNHlTh5T0=/540x405/fi
  Putting your phone in airplane mode allows you to stop any notifications from coming in at all, and thus keeping them from ruining your video.
 
 ![airplane mode](https://images.wondershare.com/airplane-mode.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Edit your Video with Filmora
 
@@ -125,19 +101,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-choice-of-no-cost-video-calls-plus-shared-screens-selection/"><u>[New] In 2024, Top Choice of No-Cost Video Calls + Shared Screens Selection</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pixel-perfect-photography-excelling-in-the-best-6-4k-dslrs/"><u>[New] Pixel Perfect Photography Excelling in the Best 6 4K DSLRs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-worlds-beyond-borders-best-10-mmo-adventures-for-free/"><u>[New] Worlds Beyond Borders Best 10 MMO Adventures for Free</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-best-extensions-to-capture-firefox/"><u>[Updated] Best Extensions to Capture Firefox</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-joining-the-global-game-how-to-zoom-on-xbox-one/"><u>[Updated] Joining the Global Game How to Zoom on Xbox One</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leading-webcams-to-boost-your-zoom-experience/"><u>[Updated] Leading Webcams to Boost Your Zoom Experience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-laugh-out-loud-on-your-iphone/"><u>2024 Approved Laugh Out Loud on Your iPhone</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/boost-pc-performance-with-key-settings-and-services-you-can-turn-off-expert-tips-from-yl-software/"><u>Boost PC Performance with Key Settings and Services You Can Turn Off - Expert Tips From YL Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/capturing-every-moment-an-overview-of-apowersofts-screenshot-tool/"><u>Capturing Every Moment An Overview of Apowersoft's Screenshot Tool</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-subscriptions-upward-through-effective-youtube-branding-for-2024/"><u>Drive Subscriptions Upward Through Effective YouTube Branding for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-x8b-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor X8b Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/innovative-game-aids-vrs-top-picks-for-2024/"><u>Innovative Game Aids VR's Top Picks for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-picture-in-picture-features-in-firefox-for-2024/"><u>Navigating Picture-in-Picture Features in Firefox for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unlocking-the-secrets-to-effective-screen-capturing-with-apeaksoft-for-2024/"><u>Unlocking the Secrets to Effective Screen Capturing with Apeaksoft for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-sifting-through-social-media-archives-a-guide-for-laptopsphones/"><u>[New] 2024 Approved Sifting Through Social Media Archives A Guide for Laptops/Phones</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-troubleshooting-messengers-failure-send-videos-without-issues-androidiphone/"><u>[New] In 2024, Troubleshooting Messenger's Failure Send Videos without Issues (Android/iPhone)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-samsungs-new-edge-the-2023-bd-j5900-reviewed/"><u>[New] Samsung's New Edge The 2023 BD-J5900 Reviewed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-srt-decoding-for-windows-and-mac-users/"><u>[New] SRT Decoding for Windows & Mac Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-harmonizing-visuals-and-sound-in-instagram-videos/"><u>[Updated] 2024 Approved Harmonizing Visuals & Sound in Instagram Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-enlarged-pictures-maintaining-high-quality-standards/"><u>[Updated] Enlarged Pictures Maintaining High-Quality Standards</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-inside-microsofts-visionary-hololens-innovation/"><u>[Updated] Inside Microsoft's Visionary HoloLens Innovation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-jestjungle-your-gateway-to-universal-comedy/"><u>[Updated] JestJungle Your Gateway to Universal Comedy</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-quotable-moments-50plus-top-tiktok-inspirational-lyrics-for-2024/"><u>[Updated] Quotable Moments 50+ Top TikTok Inspirational Lyrics for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionizing-storytelling-free-onlineoffline-animations/"><u>[Updated] Revolutionizing Storytelling Free Online/Offline Animations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-video-impact-with-zoom-in-tiktok/"><u>2024 Approved Maximizing Video Impact with Zoom in TikTok</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-7-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 7? How to Fix it?</u></a></li>
+<li><a href="https://win11.techidaily.com/compreenas-a-solution-for-xbox-app-failure-error-0x80073d26/"><u>Compreenas a Solution for Xbox App Failure: Error 0X80073D26</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premiere-ready-text-configurations/"><u>In 2024, Premiere-Ready Text Configurations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-acer-predator-triton-300se-the-compact-powerhouse-with-remarkable-bargain/"><u>In-Depth Analysis of Acer Predator Triton 300SE - The Compact Powerhouse with Remarkable Bargain</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-success-with-tinder-profiles-check-out-these-hacks-now-for-2024/"><u>Quick Success with Tinder Profiles? Check Out These Hacks Now for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/revealing-the-hidden-making-bluetooth-appear-on-device-manager-guide/"><u>Revealing the Hidden: Making Bluetooth Appear on Device Manager [Guide]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spotlight-on-top-10-phone-videographers-for-2024/"><u>Spotlight on Top 10 Phone Videographers for 2024</u></a></li>
 </ul></div>
 
